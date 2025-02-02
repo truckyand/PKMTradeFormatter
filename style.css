@@ -158,6 +158,10 @@ button:active {
     height: 150px;  /* Set fixed height to make it square */
     position: relative;
     text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;  /* Vertically center content */
+    align-items: center;      /* Horizontally center content */
     overflow: hidden; /* Contain content */
 }
 
@@ -169,6 +173,7 @@ button:active {
     margin-bottom: 10px;
     border-radius: 5px;  /* Optional: add rounded corners for the image */
 }
+
 
 /* Pokemon name styling */
 #results li span {
