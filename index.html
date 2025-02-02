@@ -5,6 +5,52 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Pokémon List Viewer</title>
     <link rel="stylesheet" href="style.css">
+    <style>
+        /* Modal styles */
+        .modal {
+            display: none;
+            position: fixed;
+            z-index: 1;
+            left: 0;
+            top: 0;
+            width: 100%;
+            height: 100%;
+            overflow: auto;
+            background-color: rgb(0,0,0);
+            background-color: rgba(0,0,0,0.4);
+            padding-top: 60px;
+        }
+
+        .modal-content {
+            background-color: #fefefe;
+            margin: 5% auto;
+            padding: 20px;
+            border: 1px solid #888;
+            width: 80%;
+        }
+
+        .close {
+            color: #aaa;
+            float: right;
+            font-size: 28px;
+            font-weight: bold;
+        }
+
+        .close:hover,
+        .close:focus {
+            color: black;
+            text-decoration: none;
+            cursor: pointer;
+        }
+
+        #pokemonModal h2 {
+            margin-top: 0;
+        }
+
+        .pokemon-option {
+            margin-bottom: 10px;
+        }
+    </style>
 </head>
 <body>
     <h1>Pokémon List Viewer</h1>
@@ -27,6 +73,16 @@
     
     <ul id="results"></ul>
     
+    <!-- Modal for selecting Pokémon details -->
+    <div id="pokemonModal" class="modal">
+        <div class="modal-content">
+            <span class="close">&times;</span>
+            <h2 id="pokemonName"></h2>
+            <div id="pokemonOptions"></div>
+            <button id="saveOptions">Save</button>
+        </div>
+    </div>
+
     <script>
         document.getElementById('filterForm').addEventListener('submit', function(event) {
             event.preventDefault();
@@ -51,7 +107,6 @@
                         (!species || pokemon.name.toLowerCase().includes(species))
                     );
 
-                    // Sort Pokémon by their National Pokédex id
                     filteredPokemon.sort((a, b) => a.id - b.id);
 
                     displayResults(filteredPokemon);
@@ -71,29 +126,76 @@
             pokemonList.forEach(pokemon => {
                 const listItem = document.createElement('li');
                 
-                // Display only Pokémon name (no ID)
                 const nameText = document.createElement('span');
-                nameText.textContent = pokemon.name.charAt(0).toUpperCase() + pokemon.name.slice(1); // Capitalize first letter
-                
-                // Pokémon image
+                nameText.textContent = pokemon.name.charAt(0).toUpperCase() + pokemon.name.slice(1);
+
                 const img = document.createElement('img');
                 img.src = `https://img.pokemondb.net/sprites/home/shiny/${pokemon.name.toLowerCase()}.png`;
                 img.alt = `${pokemon.name} shiny sprite`;
-                img.style.width = '100px'; // Adjust size as needed
-                img.style.display = 'block'; // Ensure it appears below the name
-                
+                img.style.width = '100px';
+                img.style.display = 'block';
+
                 listItem.appendChild(nameText);
                 listItem.appendChild(img);
-                listItem.addEventListener('click', () => copyToClipboard(pokemon.name));
-                
+                listItem.addEventListener('click', () => showPokemonOptions(pokemon));
+
                 resultsContainer.appendChild(listItem);
             });
         }
-        
-        function copyToClipboard(text) {
-            navigator.clipboard.writeText(text).then(() => {
-                alert(`Copied: ${text}`);
-            }).catch(err => console.error('Error copying text:', err));
+
+        function showPokemonOptions(pokemon) {
+            const modal = document.getElementById('pokemonModal');
+            const pokemonName = document.getElementById('pokemonName');
+            const pokemonOptions = document.getElementById('pokemonOptions');
+            
+            pokemonName.textContent = pokemon.name.charAt(0).toUpperCase() + pokemon.name.slice(1);
+
+            // Example data for moves, stats, and held items (replace with actual Smogon data)
+            const moves = ['Thunderbolt', 'Iron Tail', 'Quick Attack'];
+            const stats = ['HP', 'Attack', 'Defense', 'Special Attack', 'Special Defense', 'Speed'];
+            const items = ['Light Ball', 'Choice Band', 'Focus Sash'];
+
+            pokemonOptions.innerHTML = '';
+
+            const moveSelect = createSelectOption('Moves', moves);
+            const statSelect = createSelectOption('Stats', stats);
+            const itemSelect = createSelectOption('Held Items', items);
+
+            pokemonOptions.appendChild(moveSelect);
+            pokemonOptions.appendChild(statSelect);
+            pokemonOptions.appendChild(itemSelect);
+
+            modal.style.display = 'block';
+
+            document.querySelector('.close').onclick = function() {
+                modal.style.display = 'none';
+            }
+
+            document.getElementById('saveOptions').onclick = function() {
+                alert('Options saved!');
+                modal.style.display = 'none';
+            };
+        }
+
+        function createSelectOption(label, options) {
+            const container = document.createElement('div');
+            container.classList.add('pokemon-option');
+
+            const selectLabel = document.createElement('label');
+            selectLabel.textContent = label;
+            const select = document.createElement('select');
+
+            options.forEach(option => {
+                const optionElement = document.createElement('option');
+                optionElement.value = option;
+                optionElement.textContent = option;
+                select.appendChild(optionElement);
+            });
+
+            container.appendChild(selectLabel);
+            container.appendChild(select);
+
+            return container;
         }
     </script>
 </body>
