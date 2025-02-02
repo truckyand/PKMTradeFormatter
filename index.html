@@ -45,7 +45,6 @@
             const selectedFiles = game ? [files[game]] : Object.values(files);
             
             Promise.all(selectedFiles.map(file => fetch(file).then(response => response.json())))
-
                 .then(dataArray => {
                     const allPokemon = dataArray.flat();
                     const filteredPokemon = allPokemon.filter(pokemon => 
@@ -72,9 +71,9 @@
             pokemonList.forEach(pokemon => {
                 const listItem = document.createElement('li');
                 
-                // Pokémon name and ID
+                // Display only Pokémon name (no ID)
                 const nameText = document.createElement('span');
-                nameText.textContent = `#${pokemon.id} ${pokemon.name}`;
+                nameText.textContent = pokemon.name.charAt(0).toUpperCase() + pokemon.name.slice(1); // Capitalize first letter
                 
                 // Pokémon image
                 const img = document.createElement('img');
