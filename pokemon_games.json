@@ -1,0 +1,5049 @@
+{
+  "bulbasaur": [
+    "swsh",
+    "bdsp",
+    "sv",
+    "lgpe"
+  ],
+  "ivysaur": [
+    "swsh",
+    "bdsp",
+    "sv",
+    "lgpe"
+  ],
+  "venusaur": [
+    "swsh",
+    "bdsp",
+    "sv",
+    "lgpe"
+  ],
+  "charmander": [
+    "swsh",
+    "lgpe",
+    "sv",
+    "bdsp"
+  ],
+  "charmeleon": [
+    "swsh",
+    "lgpe",
+    "sv",
+    "bdsp"
+  ],
+  "charizard": [
+    "swsh",
+    "lgpe",
+    "sv",
+    "bdsp"
+  ],
+  "squirtle": [
+    "swsh",
+    "lgpe",
+    "sv",
+    "bdsp"
+  ],
+  "wartortle": [
+    "swsh",
+    "lgpe",
+    "sv",
+    "bdsp"
+  ],
+  "blastoise": [
+    "swsh",
+    "lgpe",
+    "sv",
+    "bdsp"
+  ],
+  "caterpie": [
+    "lgpe",
+    "swsh",
+    "bdsp"
+  ],
+  "metapod": [
+    "lgpe",
+    "swsh",
+    "bdsp"
+  ],
+  "butterfree": [
+    "lgpe",
+    "swsh",
+    "bdsp"
+  ],
+  "weedle": [
+    "lgpe",
+    "bdsp"
+  ],
+  "kakuna": [
+    "lgpe",
+    "bdsp"
+  ],
+  "beedrill": [
+    "bdsp",
+    "lgpe"
+  ],
+  "pidgey": [
+    "lgpe",
+    "bdsp"
+  ],
+  "pidgeotto": [
+    "lgpe",
+    "bdsp"
+  ],
+  "pidgeot": [
+    "lgpe",
+    "bdsp"
+  ],
+  "rattata": [
+    "bdsp",
+    "lgpe"
+  ],
+  "raticate": [
+    "lgpe",
+    "bdsp"
+  ],
+  "spearow": [
+    "bdsp",
+    "lgpe"
+  ],
+  "fearow": [
+    "bdsp",
+    "lgpe"
+  ],
+  "ekans": [
+    "lgpe",
+    "bdsp",
+    "sv"
+  ],
+  "arbok": [
+    "lgpe",
+    "sv",
+    "bdsp"
+  ],
+  "pikachu": [
+    "swsh",
+    "lgpe",
+    "sv",
+    "bdsp",
+    "pla"
+  ],
+  "raichu": [
+    "swsh",
+    "lgpe",
+    "bdsp",
+    "sv",
+    "pla"
+  ],
+  "sandshrew": [
+    "lgpe",
+    "swsh",
+    "bdsp",
+    "sv"
+  ],
+  "sandslash": [
+    "lgpe",
+    "swsh",
+    "bdsp",
+    "sv"
+  ],
+  "nidoran-f": [
+    "lgpe",
+    "swsh",
+    "bdsp"
+  ],
+  "nidorina": [
+    "lgpe",
+    "swsh",
+    "bdsp"
+  ],
+  "nidoqueen": [
+    "swsh",
+    "lgpe",
+    "bdsp"
+  ],
+  "nidoran-m": [
+    "bdsp",
+    "lgpe",
+    "swsh"
+  ],
+  "nidorino": [
+    "bdsp",
+    "lgpe",
+    "swsh"
+  ],
+  "nidoking": [
+    "swsh",
+    "lgpe",
+    "bdsp"
+  ],
+  "clefairy": [
+    "lgpe",
+    "swsh",
+    "bdsp",
+    "sv",
+    "pla"
+  ],
+  "clefable": [
+    "lgpe",
+    "swsh",
+    "bdsp",
+    "sv",
+    "pla"
+  ],
+  "vulpix": [
+    "lgpe",
+    "swsh",
+    "sv",
+    "bdsp",
+    "pla"
+  ],
+  "ninetales": [
+    "lgpe",
+    "swsh",
+    "sv",
+    "bdsp",
+    "pla"
+  ],
+  "jigglypuff": [
+    "lgpe",
+    "swsh",
+    "bdsp",
+    "sv"
+  ],
+  "wigglytuff": [
+    "lgpe",
+    "swsh",
+    "bdsp",
+    "sv"
+  ],
+  "zubat": [
+    "swsh",
+    "bdsp",
+    "pla",
+    "lgpe"
+  ],
+  "golbat": [
+    "pla",
+    "lgpe",
+    "swsh",
+    "bdsp"
+  ],
+  "oddish": [
+    "swsh",
+    "bdsp",
+    "sv",
+    "lgpe"
+  ],
+  "gloom": [
+    "swsh",
+    "bdsp",
+    "sv",
+    "lgpe"
+  ],
+  "vileplume": [
+    "swsh",
+    "bdsp",
+    "sv",
+    "lgpe"
+  ],
+  "paras": [
+    "lgpe",
+    "bdsp",
+    "pla"
+  ],
+  "parasect": [
+    "lgpe",
+    "bdsp",
+    "pla"
+  ],
+  "venonat": [
+    "lgpe",
+    "bdsp",
+    "sv"
+  ],
+  "venomoth": [
+    "lgpe",
+    "bdsp",
+    "sv"
+  ],
+  "diglett": [
+    "lgpe",
+    "swsh",
+    "bdsp",
+    "sv"
+  ],
+  "dugtrio": [
+    "lgpe",
+    "swsh",
+    "bdsp",
+    "sv"
+  ],
+  "meowth": [
+    "lgpe",
+    "swsh",
+    "bdsp",
+    "sv"
+  ],
+  "persian": [
+    "lgpe",
+    "swsh",
+    "bdsp",
+    "sv"
+  ],
+  "psyduck": [
+    "swsh",
+    "lgpe",
+    "sv",
+    "bdsp",
+    "pla"
+  ],
+  "golduck": [
+    "swsh",
+    "lgpe",
+    "sv",
+    "bdsp",
+    "pla"
+  ],
+  "mankey": [
+    "lgpe",
+    "sv",
+    "bdsp"
+  ],
+  "primeape": [
+    "lgpe",
+    "sv",
+    "bdsp"
+  ],
+  "growlithe": [
+    "swsh",
+    "bdsp",
+    "sv",
+    "lgpe"
+  ],
+  "arcanine": [
+    "lgpe",
+    "swsh",
+    "sv",
+    "bdsp"
+  ],
+  "poliwag": [
+    "lgpe",
+    "swsh",
+    "bdsp",
+    "sv"
+  ],
+  "poliwhirl": [
+    "lgpe",
+    "swsh",
+    "bdsp",
+    "sv"
+  ],
+  "poliwrath": [
+    "lgpe",
+    "swsh",
+    "bdsp",
+    "sv"
+  ],
+  "abra": [
+    "swsh",
+    "lgpe",
+    "bdsp",
+    "pla"
+  ],
+  "kadabra": [
+    "swsh",
+    "lgpe",
+    "bdsp",
+    "pla"
+  ],
+  "alakazam": [
+    "swsh",
+    "lgpe",
+    "bdsp",
+    "pla"
+  ],
+  "machop": [
+    "lgpe",
+    "swsh",
+    "bdsp",
+    "pla"
+  ],
+  "machoke": [
+    "lgpe",
+    "swsh",
+    "pla",
+    "bdsp"
+  ],
+  "machamp": [
+    "lgpe",
+    "swsh",
+    "pla",
+    "bdsp"
+  ],
+  "bellsprout": [
+    "bdsp",
+    "sv",
+    "lgpe"
+  ],
+  "weepinbell": [
+    "bdsp",
+    "sv",
+    "lgpe"
+  ],
+  "victreebel": [
+    "lgpe",
+    "bdsp",
+    "sv"
+  ],
+  "tentacool": [
+    "swsh",
+    "bdsp",
+    "sv",
+    "lgpe",
+    "pla"
+  ],
+  "tentacruel": [
+    "swsh",
+    "bdsp",
+    "sv",
+    "lgpe",
+    "pla"
+  ],
+  "geodude": [
+    "bdsp",
+    "sv",
+    "lgpe",
+    "pla"
+  ],
+  "graveler": [
+    "sv",
+    "lgpe",
+    "bdsp",
+    "pla"
+  ],
+  "golem": [
+    "lgpe",
+    "sv",
+    "bdsp",
+    "pla"
+  ],
+  "ponyta": [
+    "lgpe",
+    "swsh",
+    "bdsp",
+    "pla"
+  ],
+  "rapidash": [
+    "swsh",
+    "bdsp",
+    "lgpe",
+    "pla"
+  ],
+  "slowpoke": [
+    "lgpe",
+    "swsh",
+    "bdsp",
+    "sv"
+  ],
+  "slowbro": [
+    "swsh",
+    "lgpe",
+    "sv",
+    "bdsp"
+  ],
+  "magnemite": [
+    "lgpe",
+    "swsh",
+    "bdsp",
+    "pla",
+    "sv"
+  ],
+  "magneton": [
+    "lgpe",
+    "swsh",
+    "bdsp",
+    "pla",
+    "sv"
+  ],
+  "farfetchd": [
+    "lgpe",
+    "swsh",
+    "bdsp"
+  ],
+  "doduo": [
+    "lgpe",
+    "bdsp",
+    "sv"
+  ],
+  "dodrio": [
+    "lgpe",
+    "bdsp",
+    "sv"
+  ],
+  "seel": [
+    "lgpe",
+    "bdsp",
+    "sv"
+  ],
+  "dewgong": [
+    "lgpe",
+    "bdsp",
+    "sv"
+  ],
+  "grimer": [
+    "lgpe",
+    "bdsp",
+    "sv"
+  ],
+  "muk": [
+    "lgpe",
+    "bdsp",
+    "sv"
+  ],
+  "shellder": [
+    "lgpe",
+    "swsh",
+    "bdsp",
+    "sv"
+  ],
+  "cloyster": [
+    "lgpe",
+    "swsh",
+    "bdsp",
+    "sv"
+  ],
+  "gastly": [
+    "lgpe",
+    "swsh",
+    "bdsp",
+    "sv",
+    "pla"
+  ],
+  "haunter": [
+    "lgpe",
+    "swsh",
+    "sv",
+    "bdsp",
+    "pla"
+  ],
+  "gengar": [
+    "swsh",
+    "lgpe",
+    "sv",
+    "bdsp",
+    "pla"
+  ],
+  "onix": [
+    "lgpe",
+    "swsh",
+    "bdsp",
+    "pla"
+  ],
+  "drowzee": [
+    "lgpe",
+    "bdsp",
+    "sv"
+  ],
+  "hypno": [
+    "lgpe",
+    "bdsp",
+    "sv"
+  ],
+  "krabby": [
+    "lgpe",
+    "swsh",
+    "bdsp"
+  ],
+  "kingler": [
+    "lgpe",
+    "swsh",
+    "bdsp"
+  ],
+  "voltorb": [
+    "lgpe",
+    "bdsp",
+    "sv"
+  ],
+  "electrode": [
+    "lgpe",
+    "bdsp",
+    "sv"
+  ],
+  "exeggcute": [
+    "swsh",
+    "bdsp",
+    "sv",
+    "lgpe"
+  ],
+  "exeggutor": [
+    "swsh",
+    "bdsp",
+    "sv",
+    "lgpe"
+  ],
+  "cubone": [
+    "swsh",
+    "lgpe",
+    "bdsp"
+  ],
+  "marowak": [
+    "swsh",
+    "lgpe",
+    "bdsp"
+  ],
+  "hitmonlee": [
+    "swsh",
+    "sv",
+    "lgpe",
+    "bdsp"
+  ],
+  "hitmonchan": [
+    "lgpe",
+    "swsh",
+    "bdsp",
+    "sv"
+  ],
+  "lickitung": [
+    "swsh",
+    "lgpe",
+    "bdsp",
+    "pla"
+  ],
+  "koffing": [
+    "lgpe",
+    "swsh",
+    "bdsp",
+    "sv"
+  ],
+  "weezing": [
+    "lgpe",
+    "swsh",
+    "bdsp",
+    "sv"
+  ],
+  "rhyhorn": [
+    "swsh",
+    "bdsp",
+    "sv",
+    "lgpe",
+    "pla"
+  ],
+  "rhydon": [
+    "swsh",
+    "lgpe",
+    "sv",
+    "bdsp",
+    "pla"
+  ],
+  "chansey": [
+    "lgpe",
+    "swsh",
+    "bdsp",
+    "sv",
+    "pla"
+  ],
+  "tangela": [
+    "swsh",
+    "bdsp",
+    "lgpe",
+    "pla"
+  ],
+  "kangaskhan": [
+    "swsh",
+    "bdsp",
+    "lgpe"
+  ],
+  "horsea": [
+    "lgpe",
+    "swsh",
+    "bdsp",
+    "sv"
+  ],
+  "seadra": [
+    "lgpe",
+    "swsh",
+    "bdsp",
+    "sv"
+  ],
+  "goldeen": [
+    "swsh",
+    "bdsp",
+    "lgpe"
+  ],
+  "seaking": [
+    "swsh",
+    "bdsp",
+    "lgpe"
+  ],
+  "staryu": [
+    "lgpe",
+    "swsh",
+    "bdsp"
+  ],
+  "starmie": [
+    "lgpe",
+    "swsh",
+    "bdsp"
+  ],
+  "mr-mime": [
+    "lgpe",
+    "swsh",
+    "bdsp",
+    "pla"
+  ],
+  "scyther": [
+    "lgpe",
+    "swsh",
+    "bdsp",
+    "pla",
+    "sv"
+  ],
+  "jynx": [
+    "lgpe",
+    "swsh",
+    "bdsp"
+  ],
+  "electabuzz": [
+    "swsh",
+    "lgpe",
+    "sv",
+    "bdsp",
+    "pla"
+  ],
+  "magmar": [
+    "swsh",
+    "lgpe",
+    "bdsp",
+    "pla",
+    "sv"
+  ],
+  "pinsir": [
+    "lgpe",
+    "swsh",
+    "bdsp"
+  ],
+  "tauros": [
+    "lgpe",
+    "swsh",
+    "bdsp",
+    "sv"
+  ],
+  "magikarp": [
+    "lgpe",
+    "swsh",
+    "bdsp",
+    "sv",
+    "pla"
+  ],
+  "gyarados": [
+    "lgpe",
+    "swsh",
+    "bdsp",
+    "sv",
+    "pla"
+  ],
+  "lapras": [
+    "lgpe",
+    "swsh",
+    "bdsp",
+    "sv"
+  ],
+  "ditto": [
+    "lgpe",
+    "swsh",
+    "bdsp",
+    "sv"
+  ],
+  "eevee": [
+    "lgpe",
+    "swsh",
+    "bdsp",
+    "sv",
+    "pla"
+  ],
+  "vaporeon": [
+    "lgpe",
+    "swsh",
+    "bdsp",
+    "sv",
+    "pla"
+  ],
+  "jolteon": [
+    "lgpe",
+    "swsh",
+    "bdsp",
+    "sv",
+    "pla"
+  ],
+  "flareon": [
+    "lgpe",
+    "swsh",
+    "bdsp",
+    "sv",
+    "pla"
+  ],
+  "porygon": [
+    "lgpe",
+    "swsh",
+    "bdsp",
+    "pla",
+    "sv"
+  ],
+  "omanyte": [
+    "swsh",
+    "bdsp",
+    "lgpe"
+  ],
+  "omastar": [
+    "swsh",
+    "bdsp",
+    "lgpe"
+  ],
+  "kabuto": [
+    "lgpe",
+    "swsh",
+    "bdsp"
+  ],
+  "kabutops": [
+    "lgpe",
+    "swsh",
+    "bdsp"
+  ],
+  "aerodactyl": [
+    "lgpe",
+    "swsh",
+    "bdsp"
+  ],
+  "snorlax": [
+    "swsh",
+    "lgpe",
+    "sv",
+    "bdsp",
+    "pla"
+  ],
+  "articuno": [
+    "lgpe",
+    "swsh",
+    "bdsp",
+    "sv"
+  ],
+  "zapdos": [
+    "lgpe",
+    "swsh",
+    "bdsp",
+    "sv"
+  ],
+  "moltres": [
+    "swsh",
+    "bdsp",
+    "sv",
+    "lgpe"
+  ],
+  "dratini": [
+    "lgpe",
+    "swsh",
+    "bdsp",
+    "sv"
+  ],
+  "dragonair": [
+    "lgpe",
+    "swsh",
+    "bdsp",
+    "sv"
+  ],
+  "dragonite": [
+    "swsh",
+    "lgpe",
+    "bdsp",
+    "sv"
+  ],
+  "mewtwo": [
+    "swsh",
+    "lgpe",
+    "sv",
+    "bdsp"
+  ],
+  "mew": [
+    "lgpe",
+    "swsh",
+    "bdsp",
+    "sv"
+  ],
+  "chikorita": [
+    "bdsp",
+    "sv"
+  ],
+  "bayleef": [
+    "bdsp",
+    "sv"
+  ],
+  "meganium": [
+    "bdsp",
+    "sv"
+  ],
+  "cyndaquil": [
+    "bdsp",
+    "sv",
+    "pla"
+  ],
+  "quilava": [
+    "bdsp",
+    "sv",
+    "pla"
+  ],
+  "typhlosion": [
+    "sv",
+    "bdsp"
+  ],
+  "totodile": [
+    "bdsp",
+    "sv"
+  ],
+  "croconaw": [
+    "sv",
+    "bdsp"
+  ],
+  "feraligatr": [
+    "sv",
+    "bdsp"
+  ],
+  "sentret": [
+    "sv",
+    "bdsp"
+  ],
+  "furret": [
+    "sv",
+    "bdsp"
+  ],
+  "hoothoot": [
+    "swsh",
+    "bdsp",
+    "sv"
+  ],
+  "noctowl": [
+    "sv",
+    "swsh",
+    "bdsp"
+  ],
+  "ledyba": [
+    "bdsp"
+  ],
+  "ledian": [
+    "bdsp"
+  ],
+  "spinarak": [
+    "bdsp",
+    "sv"
+  ],
+  "ariados": [
+    "bdsp",
+    "sv"
+  ],
+  "crobat": [
+    "pla",
+    "swsh",
+    "bdsp"
+  ],
+  "chinchou": [
+    "swsh",
+    "bdsp",
+    "sv"
+  ],
+  "lanturn": [
+    "swsh",
+    "bdsp",
+    "sv"
+  ],
+  "pichu": [
+    "swsh",
+    "bdsp",
+    "sv",
+    "pla"
+  ],
+  "cleffa": [
+    "swsh",
+    "bdsp",
+    "sv",
+    "pla"
+  ],
+  "igglybuff": [
+    "swsh",
+    "bdsp",
+    "sv"
+  ],
+  "togepi": [
+    "swsh",
+    "bdsp",
+    "pla"
+  ],
+  "togetic": [
+    "swsh",
+    "bdsp",
+    "pla"
+  ],
+  "natu": [
+    "swsh",
+    "bdsp"
+  ],
+  "xatu": [
+    "swsh",
+    "bdsp"
+  ],
+  "mareep": [
+    "bdsp",
+    "sv"
+  ],
+  "flaaffy": [
+    "sv",
+    "bdsp"
+  ],
+  "ampharos": [
+    "bdsp",
+    "sv"
+  ],
+  "bellossom": [
+    "swsh",
+    "bdsp",
+    "sv"
+  ],
+  "marill": [
+    "swsh",
+    "sv",
+    "bdsp"
+  ],
+  "azumarill": [
+    "swsh",
+    "sv",
+    "bdsp"
+  ],
+  "sudowoodo": [
+    "swsh",
+    "sv",
+    "bdsp",
+    "pla"
+  ],
+  "politoed": [
+    "swsh",
+    "bdsp",
+    "sv"
+  ],
+  "hoppip": [
+    "bdsp",
+    "sv"
+  ],
+  "skiploom": [
+    "bdsp",
+    "sv"
+  ],
+  "jumpluff": [
+    "bdsp",
+    "sv"
+  ],
+  "aipom": [
+    "sv",
+    "bdsp",
+    "pla"
+  ],
+  "sunkern": [
+    "bdsp",
+    "sv"
+  ],
+  "sunflora": [
+    "bdsp",
+    "sv"
+  ],
+  "yanma": [
+    "bdsp",
+    "sv",
+    "pla"
+  ],
+  "wooper": [
+    "swsh",
+    "bdsp",
+    "sv"
+  ],
+  "quagsire": [
+    "swsh",
+    "sv",
+    "bdsp"
+  ],
+  "espeon": [
+    "swsh",
+    "bdsp",
+    "sv",
+    "pla"
+  ],
+  "umbreon": [
+    "swsh",
+    "bdsp",
+    "sv",
+    "pla"
+  ],
+  "murkrow": [
+    "bdsp",
+    "pla",
+    "sv"
+  ],
+  "slowking": [
+    "swsh",
+    "sv",
+    "bdsp"
+  ],
+  "misdreavus": [
+    "bdsp",
+    "sv",
+    "pla"
+  ],
+  "unown": [
+    "bdsp",
+    "pla"
+  ],
+  "wobbuffet": [
+    "swsh",
+    "bdsp"
+  ],
+  "girafarig": [
+    "bdsp",
+    "sv"
+  ],
+  "pineco": [
+    "bdsp",
+    "sv"
+  ],
+  "forretress": [
+    "bdsp",
+    "sv"
+  ],
+  "dunsparce": [
+    "swsh",
+    "bdsp",
+    "sv"
+  ],
+  "gligar": [
+    "bdsp",
+    "sv",
+    "pla"
+  ],
+  "steelix": [
+    "bdsp",
+    "swsh",
+    "pla"
+  ],
+  "snubbull": [
+    "sv",
+    "bdsp"
+  ],
+  "granbull": [
+    "sv",
+    "bdsp"
+  ],
+  "qwilfish": [
+    "swsh",
+    "bdsp",
+    "sv"
+  ],
+  "scizor": [
+    "swsh",
+    "bdsp",
+    "pla",
+    "sv"
+  ],
+  "shuckle": [
+    "swsh",
+    "bdsp"
+  ],
+  "heracross": [
+    "swsh",
+    "bdsp",
+    "pla",
+    "sv"
+  ],
+  "sneasel": [
+    "swsh",
+    "bdsp",
+    "pla",
+    "sv"
+  ],
+  "teddiursa": [
+    "sv",
+    "bdsp",
+    "pla"
+  ],
+  "ursaring": [
+    "sv",
+    "bdsp",
+    "pla"
+  ],
+  "slugma": [
+    "bdsp",
+    "sv"
+  ],
+  "magcargo": [
+    "bdsp",
+    "sv"
+  ],
+  "swinub": [
+    "swsh",
+    "bdsp",
+    "pla",
+    "sv"
+  ],
+  "piloswine": [
+    "swsh",
+    "bdsp",
+    "pla",
+    "sv"
+  ],
+  "corsola": [
+    "swsh",
+    "bdsp"
+  ],
+  "remoraid": [
+    "swsh",
+    "bdsp",
+    "pla"
+  ],
+  "octillery": [
+    "swsh",
+    "bdsp",
+    "pla"
+  ],
+  "delibird": [
+    "swsh",
+    "bdsp",
+    "sv"
+  ],
+  "mantine": [
+    "swsh",
+    "bdsp",
+    "pla"
+  ],
+  "skarmory": [
+    "swsh",
+    "bdsp",
+    "sv"
+  ],
+  "houndour": [
+    "sv",
+    "bdsp"
+  ],
+  "houndoom": [
+    "sv",
+    "bdsp"
+  ],
+  "kingdra": [
+    "swsh",
+    "sv",
+    "bdsp"
+  ],
+  "phanpy": [
+    "bdsp",
+    "sv"
+  ],
+  "donphan": [
+    "bdsp",
+    "sv"
+  ],
+  "porygon2": [
+    "swsh",
+    "bdsp",
+    "sv"
+  ],
+  "stantler": [
+    "bdsp",
+    "sv",
+    "pla"
+  ],
+  "smeargle": [
+    "bdsp",
+    "sv"
+  ],
+  "tyrogue": [
+    "swsh",
+    "bdsp",
+    "sv"
+  ],
+  "hitmontop": [
+    "swsh",
+    "bdsp",
+    "sv"
+  ],
+  "smoochum": [
+    "swsh",
+    "bdsp"
+  ],
+  "elekid": [
+    "swsh",
+    "bdsp",
+    "sv",
+    "pla"
+  ],
+  "magby": [
+    "swsh",
+    "bdsp",
+    "pla",
+    "sv"
+  ],
+  "miltank": [
+    "swsh",
+    "bdsp"
+  ],
+  "blissey": [
+    "swsh",
+    "bdsp",
+    "sv",
+    "pla"
+  ],
+  "raikou": [
+    "bdsp",
+    "swsh",
+    "sv"
+  ],
+  "entei": [
+    "bdsp",
+    "swsh",
+    "sv"
+  ],
+  "suicune": [
+    "bdsp",
+    "swsh",
+    "sv"
+  ],
+  "larvitar": [
+    "swsh",
+    "bdsp",
+    "sv"
+  ],
+  "pupitar": [
+    "swsh",
+    "bdsp",
+    "sv"
+  ],
+  "tyranitar": [
+    "swsh",
+    "sv",
+    "bdsp"
+  ],
+  "lugia": [
+    "swsh",
+    "bdsp",
+    "sv"
+  ],
+  "ho-oh": [
+    "swsh",
+    "bdsp",
+    "sv"
+  ],
+  "celebi": [
+    "swsh",
+    "bdsp"
+  ],
+  "treecko": [
+    "swsh",
+    "bdsp",
+    "sv"
+  ],
+  "grovyle": [
+    "swsh",
+    "bdsp",
+    "sv"
+  ],
+  "sceptile": [
+    "swsh",
+    "bdsp",
+    "sv"
+  ],
+  "torchic": [
+    "swsh",
+    "bdsp",
+    "sv"
+  ],
+  "combusken": [
+    "swsh",
+    "sv",
+    "bdsp"
+  ],
+  "blaziken": [
+    "swsh",
+    "bdsp",
+    "sv"
+  ],
+  "mudkip": [
+    "swsh",
+    "bdsp",
+    "sv"
+  ],
+  "marshtomp": [
+    "swsh",
+    "sv",
+    "bdsp"
+  ],
+  "swampert": [
+    "swsh",
+    "sv",
+    "bdsp"
+  ],
+  "poochyena": [
+    "bdsp",
+    "sv"
+  ],
+  "mightyena": [
+    "bdsp",
+    "sv"
+  ],
+  "zigzagoon": [
+    "bdsp",
+    "swsh"
+  ],
+  "linoone": [
+    "bdsp",
+    "swsh"
+  ],
+  "wurmple": [
+    "bdsp",
+    "pla"
+  ],
+  "silcoon": [
+    "pla",
+    "bdsp"
+  ],
+  "beautifly": [
+    "bdsp",
+    "pla"
+  ],
+  "cascoon": [
+    "pla",
+    "bdsp"
+  ],
+  "dustox": [
+    "bdsp",
+    "pla"
+  ],
+  "lotad": [
+    "swsh",
+    "bdsp",
+    "sv"
+  ],
+  "lombre": [
+    "swsh",
+    "sv",
+    "bdsp"
+  ],
+  "ludicolo": [
+    "swsh",
+    "sv",
+    "bdsp"
+  ],
+  "seedot": [
+    "swsh",
+    "bdsp",
+    "sv"
+  ],
+  "nuzleaf": [
+    "swsh",
+    "bdsp",
+    "sv"
+  ],
+  "shiftry": [
+    "swsh",
+    "bdsp",
+    "sv"
+  ],
+  "taillow": [
+    "bdsp"
+  ],
+  "swellow": [
+    "bdsp"
+  ],
+  "wingull": [
+    "swsh",
+    "bdsp",
+    "sv"
+  ],
+  "pelipper": [
+    "swsh",
+    "bdsp",
+    "sv"
+  ],
+  "ralts": [
+    "swsh",
+    "sv",
+    "bdsp",
+    "pla"
+  ],
+  "kirlia": [
+    "swsh",
+    "sv",
+    "bdsp",
+    "pla"
+  ],
+  "gardevoir": [
+    "swsh",
+    "sv",
+    "bdsp",
+    "pla"
+  ],
+  "surskit": [
+    "sv",
+    "bdsp"
+  ],
+  "masquerain": [
+    "bdsp",
+    "sv"
+  ],
+  "shroomish": [
+    "bdsp",
+    "sv"
+  ],
+  "breloom": [
+    "sv",
+    "bdsp"
+  ],
+  "slakoth": [
+    "sv",
+    "bdsp"
+  ],
+  "vigoroth": [
+    "sv",
+    "bdsp"
+  ],
+  "slaking": [
+    "sv",
+    "bdsp"
+  ],
+  "nincada": [
+    "swsh",
+    "bdsp"
+  ],
+  "ninjask": [
+    "swsh",
+    "bdsp"
+  ],
+  "shedinja": [
+    "swsh",
+    "bdsp"
+  ],
+  "whismur": [
+    "swsh",
+    "bdsp"
+  ],
+  "loudred": [
+    "swsh",
+    "bdsp"
+  ],
+  "exploud": [
+    "swsh",
+    "bdsp"
+  ],
+  "makuhita": [
+    "sv",
+    "bdsp"
+  ],
+  "hariyama": [
+    "sv",
+    "bdsp"
+  ],
+  "azurill": [
+    "swsh",
+    "bdsp",
+    "sv"
+  ],
+  "nosepass": [
+    "sv",
+    "bdsp",
+    "pla"
+  ],
+  "skitty": [
+    "bdsp"
+  ],
+  "delcatty": [
+    "bdsp"
+  ],
+  "sableye": [
+    "swsh",
+    "sv",
+    "bdsp"
+  ],
+  "mawile": [
+    "swsh",
+    "bdsp"
+  ],
+  "aron": [
+    "bdsp",
+    "swsh"
+  ],
+  "lairon": [
+    "bdsp",
+    "swsh"
+  ],
+  "aggron": [
+    "swsh",
+    "bdsp"
+  ],
+  "meditite": [
+    "bdsp",
+    "sv"
+  ],
+  "medicham": [
+    "bdsp",
+    "sv"
+  ],
+  "electrike": [
+    "swsh",
+    "bdsp"
+  ],
+  "manectric": [
+    "swsh",
+    "bdsp"
+  ],
+  "plusle": [
+    "sv",
+    "bdsp"
+  ],
+  "minun": [
+    "sv",
+    "bdsp"
+  ],
+  "volbeat": [
+    "sv",
+    "bdsp"
+  ],
+  "illumise": [
+    "sv",
+    "bdsp"
+  ],
+  "roselia": [
+    "swsh",
+    "bdsp",
+    "pla"
+  ],
+  "gulpin": [
+    "bdsp",
+    "sv"
+  ],
+  "swalot": [
+    "bdsp",
+    "sv"
+  ],
+  "carvanha": [
+    "swsh",
+    "bdsp"
+  ],
+  "sharpedo": [
+    "swsh",
+    "bdsp"
+  ],
+  "wailmer": [
+    "swsh",
+    "bdsp"
+  ],
+  "wailord": [
+    "swsh",
+    "bdsp"
+  ],
+  "numel": [
+    "bdsp",
+    "sv"
+  ],
+  "camerupt": [
+    "bdsp",
+    "sv"
+  ],
+  "torkoal": [
+    "swsh",
+    "bdsp",
+    "sv"
+  ],
+  "spoink": [
+    "bdsp",
+    "sv"
+  ],
+  "grumpig": [
+    "sv",
+    "bdsp"
+  ],
+  "spinda": [
+    "bdsp"
+  ],
+  "trapinch": [
+    "swsh",
+    "bdsp",
+    "sv"
+  ],
+  "vibrava": [
+    "sv",
+    "swsh",
+    "bdsp"
+  ],
+  "flygon": [
+    "swsh",
+    "sv",
+    "bdsp"
+  ],
+  "cacnea": [
+    "sv",
+    "bdsp"
+  ],
+  "cacturne": [
+    "sv",
+    "bdsp"
+  ],
+  "swablu": [
+    "swsh",
+    "bdsp",
+    "sv"
+  ],
+  "altaria": [
+    "swsh",
+    "bdsp",
+    "sv"
+  ],
+  "zangoose": [
+    "sv",
+    "bdsp"
+  ],
+  "seviper": [
+    "bdsp",
+    "sv"
+  ],
+  "lunatone": [
+    "swsh",
+    "bdsp"
+  ],
+  "solrock": [
+    "swsh",
+    "bdsp"
+  ],
+  "barboach": [
+    "swsh",
+    "bdsp",
+    "sv",
+    "pla"
+  ],
+  "whiscash": [
+    "sv",
+    "swsh",
+    "bdsp",
+    "pla"
+  ],
+  "corphish": [
+    "swsh",
+    "bdsp",
+    "sv"
+  ],
+  "crawdaunt": [
+    "swsh",
+    "bdsp",
+    "sv"
+  ],
+  "baltoy": [
+    "swsh",
+    "bdsp"
+  ],
+  "claydol": [
+    "swsh",
+    "bdsp"
+  ],
+  "lileep": [
+    "swsh",
+    "bdsp"
+  ],
+  "cradily": [
+    "swsh",
+    "bdsp"
+  ],
+  "anorith": [
+    "swsh",
+    "bdsp"
+  ],
+  "armaldo": [
+    "swsh",
+    "bdsp"
+  ],
+  "feebas": [
+    "swsh",
+    "bdsp",
+    "sv"
+  ],
+  "milotic": [
+    "swsh",
+    "bdsp",
+    "sv"
+  ],
+  "castform": [
+    "bdsp"
+  ],
+  "kecleon": [
+    "bdsp"
+  ],
+  "shuppet": [
+    "bdsp",
+    "sv"
+  ],
+  "banette": [
+    "sv",
+    "bdsp"
+  ],
+  "duskull": [
+    "swsh",
+    "bdsp",
+    "sv",
+    "pla"
+  ],
+  "dusclops": [
+    "swsh",
+    "bdsp",
+    "sv",
+    "pla"
+  ],
+  "tropius": [
+    "bdsp",
+    "sv"
+  ],
+  "chimecho": [
+    "pla",
+    "bdsp",
+    "sv"
+  ],
+  "absol": [
+    "swsh",
+    "bdsp"
+  ],
+  "wynaut": [
+    "swsh",
+    "bdsp"
+  ],
+  "snorunt": [
+    "swsh",
+    "bdsp",
+    "sv",
+    "pla"
+  ],
+  "glalie": [
+    "swsh",
+    "bdsp",
+    "sv",
+    "pla"
+  ],
+  "spheal": [
+    "swsh",
+    "bdsp",
+    "pla"
+  ],
+  "sealeo": [
+    "swsh",
+    "bdsp",
+    "pla"
+  ],
+  "walrein": [
+    "swsh",
+    "bdsp",
+    "pla"
+  ],
+  "clamperl": [
+    "bdsp"
+  ],
+  "huntail": [
+    "bdsp"
+  ],
+  "gorebyss": [
+    "bdsp"
+  ],
+  "relicanth": [
+    "swsh",
+    "bdsp"
+  ],
+  "luvdisc": [
+    "bdsp",
+    "sv"
+  ],
+  "bagon": [
+    "bdsp",
+    "swsh",
+    "sv"
+  ],
+  "shelgon": [
+    "bdsp",
+    "swsh",
+    "sv"
+  ],
+  "salamence": [
+    "bdsp",
+    "swsh",
+    "sv"
+  ],
+  "beldum": [
+    "swsh",
+    "bdsp",
+    "sv"
+  ],
+  "metang": [
+    "swsh",
+    "sv",
+    "bdsp"
+  ],
+  "metagross": [
+    "swsh",
+    "sv",
+    "bdsp"
+  ],
+  "regirock": [
+    "swsh",
+    "sv",
+    "bdsp"
+  ],
+  "regice": [
+    "swsh",
+    "sv",
+    "bdsp"
+  ],
+  "registeel": [
+    "swsh",
+    "sv",
+    "bdsp"
+  ],
+  "latias": [
+    "bdsp",
+    "swsh",
+    "sv"
+  ],
+  "latios": [
+    "bdsp",
+    "swsh",
+    "sv"
+  ],
+  "kyogre": [
+    "swsh",
+    "bdsp",
+    "sv"
+  ],
+  "groudon": [
+    "swsh",
+    "sv",
+    "bdsp"
+  ],
+  "rayquaza": [
+    "swsh",
+    "bdsp",
+    "sv"
+  ],
+  "jirachi": [
+    "swsh",
+    "sv",
+    "bdsp"
+  ],
+  "deoxys-normal": [
+    "sv"
+  ],
+  "turtwig": [
+    "bdsp",
+    "sv",
+    "pla"
+  ],
+  "grotle": [
+    "bdsp",
+    "sv",
+    "pla"
+  ],
+  "torterra": [
+    "bdsp",
+    "sv",
+    "pla"
+  ],
+  "chimchar": [
+    "bdsp",
+    "sv",
+    "pla"
+  ],
+  "monferno": [
+    "sv",
+    "bdsp",
+    "pla"
+  ],
+  "infernape": [
+    "sv",
+    "bdsp",
+    "pla"
+  ],
+  "piplup": [
+    "bdsp",
+    "sv",
+    "pla"
+  ],
+  "prinplup": [
+    "bdsp",
+    "sv",
+    "pla"
+  ],
+  "empoleon": [
+    "bdsp",
+    "sv",
+    "pla"
+  ],
+  "starly": [
+    "pla",
+    "bdsp",
+    "sv"
+  ],
+  "staravia": [
+    "pla",
+    "bdsp",
+    "sv"
+  ],
+  "staraptor": [
+    "pla",
+    "bdsp",
+    "sv"
+  ],
+  "bidoof": [
+    "bdsp",
+    "pla"
+  ],
+  "bibarel": [
+    "bdsp",
+    "pla"
+  ],
+  "kricketot": [
+    "bdsp",
+    "pla",
+    "sv"
+  ],
+  "kricketune": [
+    "bdsp",
+    "pla",
+    "sv"
+  ],
+  "shinx": [
+    "swsh",
+    "bdsp",
+    "sv",
+    "pla"
+  ],
+  "luxio": [
+    "swsh",
+    "bdsp",
+    "sv",
+    "pla"
+  ],
+  "luxray": [
+    "swsh",
+    "bdsp",
+    "sv",
+    "pla"
+  ],
+  "budew": [
+    "swsh",
+    "bdsp",
+    "pla"
+  ],
+  "roserade": [
+    "swsh",
+    "bdsp",
+    "pla"
+  ],
+  "cranidos": [
+    "sv",
+    "bdsp",
+    "pla"
+  ],
+  "rampardos": [
+    "sv",
+    "bdsp",
+    "pla"
+  ],
+  "shieldon": [
+    "bdsp",
+    "sv",
+    "pla"
+  ],
+  "bastiodon": [
+    "sv",
+    "bdsp",
+    "pla"
+  ],
+  "burmy": [
+    "bdsp",
+    "pla"
+  ],
+  "wormadam-plant": [
+    "pla",
+    "bdsp"
+  ],
+  "mothim": [
+    "bdsp",
+    "pla"
+  ],
+  "combee": [
+    "swsh",
+    "bdsp",
+    "pla",
+    "sv"
+  ],
+  "vespiquen": [
+    "bdsp",
+    "swsh",
+    "pla",
+    "sv"
+  ],
+  "pachirisu": [
+    "sv",
+    "bdsp",
+    "pla"
+  ],
+  "buizel": [
+    "sv",
+    "bdsp",
+    "pla"
+  ],
+  "floatzel": [
+    "sv",
+    "bdsp",
+    "pla"
+  ],
+  "cherubi": [
+    "swsh",
+    "bdsp",
+    "pla"
+  ],
+  "cherrim": [
+    "swsh",
+    "bdsp",
+    "pla"
+  ],
+  "shellos": [
+    "pla",
+    "swsh",
+    "bdsp",
+    "sv"
+  ],
+  "gastrodon": [
+    "pla",
+    "swsh",
+    "bdsp",
+    "sv"
+  ],
+  "ambipom": [
+    "sv",
+    "bdsp",
+    "pla"
+  ],
+  "drifloon": [
+    "bdsp",
+    "swsh",
+    "sv",
+    "pla"
+  ],
+  "drifblim": [
+    "bdsp",
+    "swsh",
+    "sv",
+    "pla"
+  ],
+  "buneary": [
+    "swsh",
+    "bdsp",
+    "pla"
+  ],
+  "lopunny": [
+    "swsh",
+    "bdsp",
+    "pla"
+  ],
+  "mismagius": [
+    "bdsp",
+    "sv",
+    "pla"
+  ],
+  "honchkrow": [
+    "bdsp",
+    "pla",
+    "sv"
+  ],
+  "glameow": [
+    "bdsp",
+    "pla"
+  ],
+  "purugly": [
+    "bdsp",
+    "pla"
+  ],
+  "chingling": [
+    "pla",
+    "bdsp",
+    "sv"
+  ],
+  "stunky": [
+    "swsh",
+    "bdsp",
+    "sv",
+    "pla"
+  ],
+  "skuntank": [
+    "swsh",
+    "bdsp",
+    "sv",
+    "pla"
+  ],
+  "bronzor": [
+    "swsh",
+    "bdsp",
+    "pla",
+    "sv"
+  ],
+  "bronzong": [
+    "swsh",
+    "bdsp",
+    "pla",
+    "sv"
+  ],
+  "bonsly": [
+    "swsh",
+    "bdsp",
+    "sv",
+    "pla"
+  ],
+  "mime-jr": [
+    "swsh",
+    "bdsp",
+    "pla"
+  ],
+  "happiny": [
+    "swsh",
+    "bdsp",
+    "sv",
+    "pla"
+  ],
+  "chatot": [
+    "pla",
+    "bdsp"
+  ],
+  "spiritomb": [
+    "sv",
+    "swsh",
+    "bdsp",
+    "pla"
+  ],
+  "gible": [
+    "sv",
+    "bdsp",
+    "swsh",
+    "pla"
+  ],
+  "gabite": [
+    "sv",
+    "bdsp",
+    "swsh",
+    "pla"
+  ],
+  "garchomp": [
+    "swsh",
+    "bdsp",
+    "sv",
+    "pla"
+  ],
+  "munchlax": [
+    "swsh",
+    "sv",
+    "bdsp",
+    "pla"
+  ],
+  "riolu": [
+    "swsh",
+    "sv",
+    "bdsp",
+    "pla"
+  ],
+  "lucario": [
+    "swsh",
+    "sv",
+    "bdsp",
+    "pla"
+  ],
+  "hippopotas": [
+    "swsh",
+    "bdsp",
+    "sv",
+    "pla"
+  ],
+  "hippowdon": [
+    "swsh",
+    "bdsp",
+    "sv",
+    "pla"
+  ],
+  "skorupi": [
+    "swsh",
+    "bdsp",
+    "pla"
+  ],
+  "drapion": [
+    "swsh",
+    "bdsp",
+    "pla"
+  ],
+  "croagunk": [
+    "swsh",
+    "sv",
+    "bdsp",
+    "pla"
+  ],
+  "toxicroak": [
+    "swsh",
+    "sv",
+    "bdsp",
+    "pla"
+  ],
+  "carnivine": [
+    "bdsp",
+    "pla"
+  ],
+  "finneon": [
+    "bdsp",
+    "sv",
+    "pla"
+  ],
+  "lumineon": [
+    "bdsp",
+    "sv",
+    "pla"
+  ],
+  "mantyke": [
+    "swsh",
+    "bdsp",
+    "pla"
+  ],
+  "snover": [
+    "swsh",
+    "sv",
+    "bdsp",
+    "pla"
+  ],
+  "abomasnow": [
+    "swsh",
+    "bdsp",
+    "sv",
+    "pla"
+  ],
+  "weavile": [
+    "swsh",
+    "sv",
+    "bdsp",
+    "pla"
+  ],
+  "magnezone": [
+    "swsh",
+    "bdsp",
+    "pla",
+    "sv"
+  ],
+  "lickilicky": [
+    "swsh",
+    "bdsp",
+    "pla"
+  ],
+  "rhyperior": [
+    "swsh",
+    "sv",
+    "bdsp",
+    "pla"
+  ],
+  "tangrowth": [
+    "swsh",
+    "bdsp",
+    "pla"
+  ],
+  "electivire": [
+    "swsh",
+    "sv",
+    "bdsp",
+    "pla"
+  ],
+  "magmortar": [
+    "swsh",
+    "bdsp",
+    "pla",
+    "sv"
+  ],
+  "togekiss": [
+    "swsh",
+    "bdsp",
+    "pla"
+  ],
+  "yanmega": [
+    "bdsp",
+    "sv",
+    "pla"
+  ],
+  "leafeon": [
+    "swsh",
+    "bdsp",
+    "sv",
+    "pla"
+  ],
+  "glaceon": [
+    "swsh",
+    "bdsp",
+    "sv",
+    "pla"
+  ],
+  "gliscor": [
+    "bdsp",
+    "pla",
+    "sv"
+  ],
+  "mamoswine": [
+    "swsh",
+    "bdsp",
+    "pla",
+    "sv"
+  ],
+  "porygon-z": [
+    "swsh",
+    "bdsp",
+    "pla",
+    "sv"
+  ],
+  "gallade": [
+    "swsh",
+    "sv",
+    "bdsp",
+    "pla"
+  ],
+  "probopass": [
+    "sv",
+    "bdsp",
+    "pla"
+  ],
+  "dusknoir": [
+    "swsh",
+    "bdsp",
+    "sv",
+    "pla"
+  ],
+  "froslass": [
+    "swsh",
+    "sv",
+    "bdsp",
+    "pla"
+  ],
+  "rotom": [
+    "swsh",
+    "bdsp",
+    "pla",
+    "sv"
+  ],
+  "uxie": [
+    "swsh",
+    "sv",
+    "bdsp",
+    "pla"
+  ],
+  "mesprit": [
+    "swsh",
+    "sv",
+    "bdsp",
+    "pla"
+  ],
+  "azelf": [
+    "swsh",
+    "sv",
+    "bdsp",
+    "pla"
+  ],
+  "dialga": [
+    "bdsp",
+    "swsh",
+    "sv",
+    "pla"
+  ],
+  "palkia": [
+    "bdsp",
+    "swsh",
+    "sv",
+    "pla"
+  ],
+  "heatran": [
+    "swsh",
+    "sv",
+    "bdsp",
+    "pla"
+  ],
+  "regigigas": [
+    "swsh",
+    "bdsp",
+    "sv",
+    "pla"
+  ],
+  "giratina-altered": [
+    "bdsp",
+    "swsh",
+    "sv"
+  ],
+  "cresselia": [
+    "pla",
+    "swsh",
+    "sv",
+    "bdsp"
+  ],
+  "phione": [
+    "sv",
+    "pla"
+  ],
+  "manaphy": [
+    "bdsp",
+    "sv",
+    "pla"
+  ],
+  "darkrai": [
+    "sv",
+    "pla"
+  ],
+  "shaymin-land": [
+    "sv",
+    "pla"
+  ],
+  "arceus": [
+    "sv",
+    "pla"
+  ],
+  "victini": [
+    "swsh"
+  ],
+  "snivy": [
+    "sv"
+  ],
+  "servine": [
+    "sv"
+  ],
+  "serperior": [
+    "sv"
+  ],
+  "tepig": [
+    "sv"
+  ],
+  "pignite": [
+    "sv"
+  ],
+  "emboar": [
+    "sv"
+  ],
+  "oshawott": [
+    "pla",
+    "sv"
+  ],
+  "dewott": [
+    "pla",
+    "sv"
+  ],
+  "samurott": [
+    "sv"
+  ],
+  "patrat": [],
+  "watchog": [],
+  "lillipup": [
+    "swsh"
+  ],
+  "herdier": [
+    "swsh"
+  ],
+  "stoutland": [
+    "swsh"
+  ],
+  "purrloin": [
+    "swsh"
+  ],
+  "liepard": [
+    "swsh"
+  ],
+  "pansage": [],
+  "simisage": [],
+  "pansear": [],
+  "simisear": [],
+  "panpour": [],
+  "simipour": [],
+  "munna": [
+    "swsh"
+  ],
+  "musharna": [
+    "swsh"
+  ],
+  "pidove": [
+    "swsh"
+  ],
+  "tranquill": [
+    "swsh"
+  ],
+  "unfezant": [
+    "swsh"
+  ],
+  "blitzle": [
+    "sv"
+  ],
+  "zebstrika": [
+    "sv"
+  ],
+  "roggenrola": [
+    "swsh"
+  ],
+  "boldore": [
+    "swsh"
+  ],
+  "gigalith": [
+    "swsh"
+  ],
+  "woobat": [
+    "swsh"
+  ],
+  "swoobat": [
+    "swsh"
+  ],
+  "drilbur": [
+    "swsh",
+    "sv"
+  ],
+  "excadrill": [
+    "swsh",
+    "sv"
+  ],
+  "audino": [
+    "swsh"
+  ],
+  "timburr": [
+    "swsh",
+    "sv"
+  ],
+  "gurdurr": [
+    "swsh",
+    "sv"
+  ],
+  "conkeldurr": [
+    "swsh",
+    "sv"
+  ],
+  "tympole": [
+    "swsh"
+  ],
+  "palpitoad": [
+    "swsh"
+  ],
+  "seismitoad": [
+    "swsh"
+  ],
+  "throh": [
+    "swsh"
+  ],
+  "sawk": [
+    "swsh"
+  ],
+  "sewaddle": [
+    "sv"
+  ],
+  "swadloon": [
+    "sv"
+  ],
+  "leavanny": [
+    "sv"
+  ],
+  "venipede": [
+    "swsh"
+  ],
+  "whirlipede": [
+    "swsh"
+  ],
+  "scolipede": [
+    "swsh"
+  ],
+  "cottonee": [
+    "swsh",
+    "sv"
+  ],
+  "whimsicott": [
+    "swsh",
+    "sv"
+  ],
+  "petilil": [
+    "swsh",
+    "pla",
+    "sv"
+  ],
+  "lilligant": [
+    "swsh",
+    "sv"
+  ],
+  "basculin-red-striped": [
+    "swsh",
+    "sv"
+  ],
+  "sandile": [
+    "swsh",
+    "sv"
+  ],
+  "krokorok": [
+    "swsh",
+    "sv"
+  ],
+  "krookodile": [
+    "swsh",
+    "sv"
+  ],
+  "darumaka": [
+    "swsh"
+  ],
+  "darmanitan-standard": [
+    "swsh"
+  ],
+  "maractus": [
+    "swsh"
+  ],
+  "dwebble": [
+    "swsh"
+  ],
+  "crustle": [
+    "swsh"
+  ],
+  "scraggy": [
+    "swsh",
+    "sv"
+  ],
+  "scrafty": [
+    "swsh",
+    "sv"
+  ],
+  "sigilyph": [
+    "swsh"
+  ],
+  "yamask": [
+    "swsh"
+  ],
+  "cofagrigus": [
+    "swsh"
+  ],
+  "tirtouga": [
+    "swsh"
+  ],
+  "carracosta": [
+    "swsh"
+  ],
+  "archen": [
+    "swsh"
+  ],
+  "archeops": [
+    "swsh"
+  ],
+  "trubbish": [
+    "swsh"
+  ],
+  "garbodor": [
+    "swsh"
+  ],
+  "zorua": [
+    "swsh",
+    "sv"
+  ],
+  "zoroark": [
+    "swsh",
+    "sv"
+  ],
+  "minccino": [
+    "swsh",
+    "sv"
+  ],
+  "cinccino": [
+    "swsh",
+    "sv"
+  ],
+  "gothita": [
+    "swsh",
+    "sv"
+  ],
+  "gothorita": [
+    "swsh",
+    "sv"
+  ],
+  "gothitelle": [
+    "swsh",
+    "sv"
+  ],
+  "solosis": [
+    "swsh",
+    "sv"
+  ],
+  "duosion": [
+    "swsh",
+    "sv"
+  ],
+  "reuniclus": [
+    "swsh",
+    "sv"
+  ],
+  "ducklett": [
+    "sv"
+  ],
+  "swanna": [
+    "sv"
+  ],
+  "vanillite": [
+    "swsh"
+  ],
+  "vanillish": [
+    "swsh"
+  ],
+  "vanilluxe": [
+    "swsh"
+  ],
+  "deerling": [
+    "sv"
+  ],
+  "sawsbuck": [
+    "sv"
+  ],
+  "emolga": [
+    "swsh"
+  ],
+  "karrablast": [
+    "swsh"
+  ],
+  "escavalier": [
+    "swsh"
+  ],
+  "foongus": [
+    "swsh",
+    "sv"
+  ],
+  "amoonguss": [
+    "swsh",
+    "sv"
+  ],
+  "frillish": [
+    "swsh"
+  ],
+  "jellicent": [
+    "swsh"
+  ],
+  "alomomola": [
+    "sv"
+  ],
+  "joltik": [
+    "swsh",
+    "sv"
+  ],
+  "galvantula": [
+    "sv",
+    "swsh"
+  ],
+  "ferroseed": [
+    "swsh"
+  ],
+  "ferrothorn": [
+    "swsh"
+  ],
+  "klink": [
+    "swsh"
+  ],
+  "klang": [
+    "swsh"
+  ],
+  "klinklang": [
+    "swsh"
+  ],
+  "tynamo": [
+    "sv"
+  ],
+  "eelektrik": [
+    "sv"
+  ],
+  "eelektross": [
+    "sv"
+  ],
+  "elgyem": [
+    "swsh"
+  ],
+  "beheeyem": [
+    "swsh"
+  ],
+  "litwick": [
+    "swsh",
+    "sv"
+  ],
+  "lampent": [
+    "swsh",
+    "sv"
+  ],
+  "chandelure": [
+    "swsh",
+    "sv"
+  ],
+  "axew": [
+    "swsh",
+    "sv"
+  ],
+  "fraxure": [
+    "swsh",
+    "sv"
+  ],
+  "haxorus": [
+    "swsh",
+    "sv"
+  ],
+  "cubchoo": [
+    "swsh",
+    "sv"
+  ],
+  "beartic": [
+    "swsh",
+    "sv"
+  ],
+  "cryogonal": [
+    "swsh",
+    "sv"
+  ],
+  "shelmet": [
+    "swsh"
+  ],
+  "accelgor": [
+    "swsh"
+  ],
+  "stunfisk": [
+    "swsh"
+  ],
+  "mienfoo": [
+    "swsh",
+    "sv"
+  ],
+  "mienshao": [
+    "swsh",
+    "sv"
+  ],
+  "druddigon": [
+    "swsh"
+  ],
+  "golett": [
+    "swsh",
+    "sv"
+  ],
+  "golurk": [
+    "swsh",
+    "sv"
+  ],
+  "pawniard": [
+    "swsh",
+    "sv"
+  ],
+  "bisharp": [
+    "swsh",
+    "sv"
+  ],
+  "bouffalant": [
+    "swsh"
+  ],
+  "rufflet": [
+    "swsh",
+    "sv",
+    "pla"
+  ],
+  "braviary": [
+    "swsh",
+    "sv"
+  ],
+  "vullaby": [
+    "swsh",
+    "sv"
+  ],
+  "mandibuzz": [
+    "swsh",
+    "sv"
+  ],
+  "heatmor": [
+    "swsh"
+  ],
+  "durant": [
+    "swsh"
+  ],
+  "deino": [
+    "swsh",
+    "sv"
+  ],
+  "zweilous": [
+    "swsh",
+    "sv"
+  ],
+  "hydreigon": [
+    "swsh",
+    "sv"
+  ],
+  "larvesta": [
+    "sv",
+    "swsh"
+  ],
+  "volcarona": [
+    "swsh",
+    "sv"
+  ],
+  "cobalion": [
+    "swsh",
+    "sv"
+  ],
+  "terrakion": [
+    "swsh",
+    "sv"
+  ],
+  "virizion": [
+    "swsh",
+    "sv"
+  ],
+  "tornadus-incarnate": [
+    "swsh",
+    "sv",
+    "pla"
+  ],
+  "thundurus-incarnate": [
+    "swsh",
+    "sv",
+    "pla"
+  ],
+  "reshiram": [
+    "swsh",
+    "sv"
+  ],
+  "zekrom": [
+    "swsh",
+    "sv"
+  ],
+  "landorus-incarnate": [
+    "swsh",
+    "sv",
+    "pla"
+  ],
+  "kyurem": [
+    "swsh",
+    "sv"
+  ],
+  "keldeo-ordinary": [
+    "swsh",
+    "sv"
+  ],
+  "meloetta-aria": [
+    "sv"
+  ],
+  "genesect": [
+    "swsh"
+  ],
+  "chespin": [
+    "sv"
+  ],
+  "quilladin": [
+    "sv"
+  ],
+  "chesnaught": [
+    "sv"
+  ],
+  "fennekin": [
+    "sv"
+  ],
+  "braixen": [
+    "sv"
+  ],
+  "delphox": [
+    "sv"
+  ],
+  "froakie": [
+    "sv"
+  ],
+  "frogadier": [
+    "sv"
+  ],
+  "greninja": [
+    "sv"
+  ],
+  "bunnelby": [
+    "swsh"
+  ],
+  "diggersby": [
+    "swsh"
+  ],
+  "fletchling": [
+    "swsh",
+    "sv"
+  ],
+  "fletchinder": [
+    "swsh",
+    "sv"
+  ],
+  "talonflame": [
+    "swsh",
+    "sv"
+  ],
+  "scatterbug": [
+    "sv"
+  ],
+  "spewpa": [
+    "sv"
+  ],
+  "vivillon": [
+    "sv"
+  ],
+  "litleo": [
+    "sv"
+  ],
+  "pyroar": [
+    "sv"
+  ],
+  "flabebe": [
+    "sv"
+  ],
+  "floette": [
+    "sv"
+  ],
+  "florges": [
+    "sv"
+  ],
+  "skiddo": [
+    "sv"
+  ],
+  "gogoat": [
+    "sv"
+  ],
+  "pancham": [
+    "swsh"
+  ],
+  "pangoro": [
+    "swsh"
+  ],
+  "furfrou": [],
+  "espurr": [
+    "swsh",
+    "sv"
+  ],
+  "meowstic-male": [
+    "swsh",
+    "sv"
+  ],
+  "honedge": [
+    "swsh"
+  ],
+  "doublade": [
+    "swsh"
+  ],
+  "aegislash-shield": [
+    "swsh"
+  ],
+  "spritzee": [
+    "swsh"
+  ],
+  "aromatisse": [
+    "swsh"
+  ],
+  "swirlix": [
+    "swsh"
+  ],
+  "slurpuff": [
+    "swsh"
+  ],
+  "inkay": [
+    "swsh",
+    "sv"
+  ],
+  "malamar": [
+    "swsh",
+    "sv"
+  ],
+  "binacle": [
+    "swsh"
+  ],
+  "barbaracle": [
+    "swsh"
+  ],
+  "skrelp": [
+    "swsh",
+    "sv"
+  ],
+  "dragalge": [
+    "swsh",
+    "sv"
+  ],
+  "clauncher": [
+    "swsh",
+    "sv"
+  ],
+  "clawitzer": [
+    "swsh",
+    "sv"
+  ],
+  "helioptile": [
+    "swsh"
+  ],
+  "heliolisk": [
+    "swsh"
+  ],
+  "tyrunt": [
+    "swsh"
+  ],
+  "tyrantrum": [
+    "swsh"
+  ],
+  "amaura": [
+    "swsh"
+  ],
+  "aurorus": [
+    "swsh"
+  ],
+  "sylveon": [
+    "swsh",
+    "sv",
+    "pla"
+  ],
+  "hawlucha": [
+    "swsh",
+    "sv"
+  ],
+  "dedenne": [
+    "swsh",
+    "sv"
+  ],
+  "carbink": [
+    "swsh",
+    "sv"
+  ],
+  "goomy": [
+    "swsh",
+    "sv",
+    "pla"
+  ],
+  "sliggoo": [
+    "swsh",
+    "sv"
+  ],
+  "goodra": [
+    "swsh",
+    "sv"
+  ],
+  "klefki": [
+    "swsh",
+    "sv"
+  ],
+  "phantump": [
+    "swsh",
+    "sv"
+  ],
+  "trevenant": [
+    "swsh",
+    "sv"
+  ],
+  "pumpkaboo-average": [
+    "swsh"
+  ],
+  "gourgeist-average": [
+    "swsh"
+  ],
+  "bergmite": [
+    "swsh",
+    "pla",
+    "sv"
+  ],
+  "avalugg": [
+    "swsh",
+    "sv"
+  ],
+  "noibat": [
+    "swsh",
+    "sv"
+  ],
+  "noivern": [
+    "swsh",
+    "sv"
+  ],
+  "xerneas": [
+    "swsh"
+  ],
+  "yveltal": [
+    "swsh"
+  ],
+  "zygarde-50": [
+    "swsh"
+  ],
+  "diancie": [
+    "swsh",
+    "sv"
+  ],
+  "hoopa": [
+    "sv"
+  ],
+  "volcanion": [
+    "swsh",
+    "sv"
+  ],
+  "rowlet": [
+    "swsh",
+    "sv",
+    "pla"
+  ],
+  "dartrix": [
+    "swsh",
+    "sv",
+    "pla"
+  ],
+  "decidueye": [
+    "swsh",
+    "sv"
+  ],
+  "litten": [
+    "swsh",
+    "sv"
+  ],
+  "torracat": [
+    "swsh",
+    "sv"
+  ],
+  "incineroar": [
+    "swsh",
+    "sv"
+  ],
+  "popplio": [
+    "swsh",
+    "sv"
+  ],
+  "brionne": [
+    "swsh",
+    "sv"
+  ],
+  "primarina": [
+    "swsh",
+    "sv"
+  ],
+  "pikipek": [
+    "sv"
+  ],
+  "trumbeak": [
+    "sv"
+  ],
+  "toucannon": [
+    "sv"
+  ],
+  "yungoos": [
+    "sv"
+  ],
+  "gumshoos": [
+    "sv"
+  ],
+  "grubbin": [
+    "swsh",
+    "sv"
+  ],
+  "charjabug": [
+    "swsh",
+    "sv"
+  ],
+  "vikavolt": [
+    "swsh",
+    "sv"
+  ],
+  "crabrawler": [
+    "sv"
+  ],
+  "crabominable": [
+    "sv"
+  ],
+  "oricorio-baile": [
+    "sv"
+  ],
+  "cutiefly": [
+    "swsh",
+    "sv"
+  ],
+  "ribombee": [
+    "sv",
+    "swsh"
+  ],
+  "rockruff": [
+    "swsh",
+    "sv"
+  ],
+  "lycanroc-midday": [
+    "swsh",
+    "sv"
+  ],
+  "wishiwashi-solo": [
+    "swsh"
+  ],
+  "mareanie": [
+    "swsh",
+    "sv"
+  ],
+  "toxapex": [
+    "sv",
+    "swsh"
+  ],
+  "mudbray": [
+    "swsh",
+    "sv"
+  ],
+  "mudsdale": [
+    "swsh",
+    "sv"
+  ],
+  "dewpider": [
+    "swsh",
+    "sv"
+  ],
+  "araquanid": [
+    "swsh",
+    "sv"
+  ],
+  "fomantis": [
+    "swsh",
+    "sv"
+  ],
+  "lurantis": [
+    "swsh",
+    "sv"
+  ],
+  "morelull": [
+    "swsh"
+  ],
+  "shiinotic": [
+    "swsh"
+  ],
+  "salandit": [
+    "swsh",
+    "sv"
+  ],
+  "salazzle": [
+    "swsh",
+    "sv"
+  ],
+  "stufful": [
+    "swsh"
+  ],
+  "bewear": [
+    "swsh"
+  ],
+  "bounsweet": [
+    "sv",
+    "swsh"
+  ],
+  "steenee": [
+    "swsh",
+    "sv"
+  ],
+  "tsareena": [
+    "swsh",
+    "sv"
+  ],
+  "comfey": [
+    "sv",
+    "swsh"
+  ],
+  "oranguru": [
+    "swsh",
+    "sv"
+  ],
+  "passimian": [
+    "swsh",
+    "sv"
+  ],
+  "wimpod": [
+    "swsh"
+  ],
+  "golisopod": [
+    "swsh"
+  ],
+  "sandygast": [
+    "swsh",
+    "sv"
+  ],
+  "palossand": [
+    "swsh",
+    "sv"
+  ],
+  "pyukumuku": [
+    "swsh"
+  ],
+  "type-null": [
+    "swsh"
+  ],
+  "silvally": [
+    "swsh"
+  ],
+  "minior-red-meteor": [
+    "sv"
+  ],
+  "komala": [
+    "sv"
+  ],
+  "turtonator": [
+    "swsh"
+  ],
+  "togedemaru": [
+    "swsh"
+  ],
+  "mimikyu-disguised": [
+    "swsh",
+    "sv"
+  ],
+  "bruxish": [
+    "sv"
+  ],
+  "drampa": [
+    "swsh"
+  ],
+  "dhelmise": [
+    "swsh"
+  ],
+  "jangmo-o": [
+    "swsh",
+    "sv"
+  ],
+  "hakamo-o": [
+    "swsh",
+    "sv"
+  ],
+  "kommo-o": [
+    "swsh",
+    "sv"
+  ],
+  "tapu-koko": [
+    "swsh"
+  ],
+  "tapu-lele": [
+    "swsh"
+  ],
+  "tapu-bulu": [
+    "swsh"
+  ],
+  "tapu-fini": [
+    "swsh"
+  ],
+  "cosmog": [
+    "swsh",
+    "sv"
+  ],
+  "cosmoem": [
+    "swsh",
+    "sv"
+  ],
+  "solgaleo": [
+    "sv",
+    "swsh"
+  ],
+  "lunala": [
+    "swsh",
+    "sv"
+  ],
+  "nihilego": [
+    "swsh"
+  ],
+  "buzzwole": [
+    "swsh"
+  ],
+  "pheromosa": [
+    "swsh"
+  ],
+  "xurkitree": [
+    "swsh"
+  ],
+  "celesteela": [
+    "swsh"
+  ],
+  "kartana": [
+    "swsh"
+  ],
+  "guzzlord": [
+    "swsh"
+  ],
+  "necrozma": [
+    "swsh",
+    "sv"
+  ],
+  "magearna": [
+    "sv",
+    "swsh"
+  ],
+  "marshadow": [
+    "swsh"
+  ],
+  "poipole": [
+    "swsh"
+  ],
+  "naganadel": [
+    "swsh"
+  ],
+  "stakataka": [
+    "swsh"
+  ],
+  "blacephalon": [
+    "swsh"
+  ],
+  "zeraora": [
+    "swsh"
+  ],
+  "meltan": [
+    "lgpe",
+    "swsh"
+  ],
+  "melmetal": [
+    "lgpe",
+    "swsh"
+  ],
+  "grookey": [
+    "swsh",
+    "sv"
+  ],
+  "thwackey": [
+    "swsh",
+    "sv"
+  ],
+  "rillaboom": [
+    "swsh",
+    "sv"
+  ],
+  "scorbunny": [
+    "swsh",
+    "sv"
+  ],
+  "raboot": [
+    "sv",
+    "swsh"
+  ],
+  "cinderace": [
+    "swsh",
+    "sv"
+  ],
+  "sobble": [
+    "swsh",
+    "sv"
+  ],
+  "drizzile": [
+    "swsh",
+    "sv"
+  ],
+  "inteleon": [
+    "swsh",
+    "sv"
+  ],
+  "skwovet": [
+    "swsh",
+    "sv"
+  ],
+  "greedent": [
+    "swsh",
+    "sv"
+  ],
+  "rookidee": [
+    "swsh",
+    "sv"
+  ],
+  "corvisquire": [
+    "swsh",
+    "sv"
+  ],
+  "corviknight": [
+    "swsh",
+    "sv"
+  ],
+  "blipbug": [
+    "swsh"
+  ],
+  "dottler": [
+    "swsh"
+  ],
+  "orbeetle": [
+    "swsh"
+  ],
+  "nickit": [
+    "swsh"
+  ],
+  "thievul": [
+    "swsh"
+  ],
+  "gossifleur": [
+    "swsh"
+  ],
+  "eldegoss": [
+    "swsh"
+  ],
+  "wooloo": [
+    "swsh"
+  ],
+  "dubwool": [
+    "swsh"
+  ],
+  "chewtle": [
+    "swsh",
+    "sv"
+  ],
+  "drednaw": [
+    "swsh",
+    "sv"
+  ],
+  "yamper": [
+    "swsh"
+  ],
+  "boltund": [
+    "swsh"
+  ],
+  "rolycoly": [
+    "swsh",
+    "sv"
+  ],
+  "carkol": [
+    "swsh",
+    "sv"
+  ],
+  "coalossal": [
+    "swsh",
+    "sv"
+  ],
+  "applin": [
+    "swsh",
+    "sv"
+  ],
+  "flapple": [
+    "swsh",
+    "sv"
+  ],
+  "appletun": [
+    "swsh",
+    "sv"
+  ],
+  "silicobra": [
+    "swsh",
+    "sv"
+  ],
+  "sandaconda": [
+    "swsh",
+    "sv"
+  ],
+  "cramorant": [
+    "swsh",
+    "sv"
+  ],
+  "arrokuda": [
+    "swsh",
+    "sv"
+  ],
+  "barraskewda": [
+    "swsh",
+    "sv"
+  ],
+  "toxel": [
+    "swsh",
+    "sv"
+  ],
+  "toxtricity-amped": [
+    "swsh",
+    "sv"
+  ],
+  "sizzlipede": [
+    "swsh"
+  ],
+  "centiskorch": [
+    "swsh"
+  ],
+  "clobbopus": [
+    "swsh"
+  ],
+  "grapploct": [
+    "swsh"
+  ],
+  "sinistea": [
+    "sv",
+    "swsh"
+  ],
+  "polteageist": [
+    "sv",
+    "swsh"
+  ],
+  "hatenna": [
+    "swsh",
+    "sv"
+  ],
+  "hattrem": [
+    "swsh",
+    "sv"
+  ],
+  "hatterene": [
+    "swsh",
+    "sv"
+  ],
+  "impidimp": [
+    "swsh",
+    "sv"
+  ],
+  "morgrem": [
+    "swsh",
+    "sv"
+  ],
+  "grimmsnarl": [
+    "swsh",
+    "sv"
+  ],
+  "obstagoon": [
+    "swsh"
+  ],
+  "perrserker": [
+    "swsh",
+    "sv"
+  ],
+  "cursola": [
+    "swsh"
+  ],
+  "sirfetchd": [
+    "swsh"
+  ],
+  "mr-rime": [
+    "swsh"
+  ],
+  "runerigus": [
+    "swsh"
+  ],
+  "milcery": [
+    "swsh",
+    "sv"
+  ],
+  "alcremie": [
+    "swsh",
+    "sv"
+  ],
+  "falinks": [
+    "swsh",
+    "sv"
+  ],
+  "pincurchin": [
+    "swsh",
+    "sv"
+  ],
+  "snom": [
+    "swsh",
+    "sv"
+  ],
+  "frosmoth": [
+    "sv",
+    "swsh"
+  ],
+  "stonjourner": [
+    "swsh",
+    "sv"
+  ],
+  "eiscue-ice": [
+    "swsh",
+    "sv"
+  ],
+  "indeedee-male": [
+    "swsh",
+    "sv"
+  ],
+  "morpeko-full-belly": [
+    "swsh",
+    "sv"
+  ],
+  "cufant": [
+    "swsh",
+    "sv"
+  ],
+  "copperajah": [
+    "swsh",
+    "sv"
+  ],
+  "dracozolt": [
+    "swsh"
+  ],
+  "arctozolt": [
+    "swsh"
+  ],
+  "dracovish": [
+    "swsh"
+  ],
+  "arctovish": [
+    "swsh"
+  ],
+  "duraludon": [
+    "swsh",
+    "sv"
+  ],
+  "dreepy": [
+    "swsh",
+    "sv"
+  ],
+  "drakloak": [
+    "swsh",
+    "sv"
+  ],
+  "dragapult": [
+    "swsh",
+    "sv"
+  ],
+  "zacian": [
+    "swsh",
+    "sv"
+  ],
+  "zamazenta": [
+    "sv",
+    "swsh"
+  ],
+  "eternatus": [
+    "swsh",
+    "sv"
+  ],
+  "kubfu": [
+    "swsh",
+    "sv"
+  ],
+  "urshifu-single-strike": [
+    "swsh",
+    "sv"
+  ],
+  "zarude": [
+    "swsh",
+    "sv"
+  ],
+  "regieleki": [
+    "swsh",
+    "sv"
+  ],
+  "regidrago": [
+    "swsh",
+    "sv"
+  ],
+  "glastrier": [
+    "swsh",
+    "sv"
+  ],
+  "spectrier": [
+    "swsh",
+    "sv"
+  ],
+  "calyrex": [
+    "swsh",
+    "sv"
+  ],
+  "wyrdeer": [
+    "sv",
+    "pla"
+  ],
+  "kleavor": [
+    "pla",
+    "sv"
+  ],
+  "ursaluna": [
+    "sv",
+    "pla"
+  ],
+  "basculegion-male": [
+    "sv",
+    "pla"
+  ],
+  "sneasler": [
+    "sv",
+    "pla"
+  ],
+  "overqwil": [
+    "sv",
+    "pla"
+  ],
+  "enamorus-incarnate": [
+    "sv",
+    "pla"
+  ],
+  "sprigatito": [
+    "sv"
+  ],
+  "floragato": [
+    "sv"
+  ],
+  "meowscarada": [
+    "sv"
+  ],
+  "fuecoco": [
+    "sv"
+  ],
+  "crocalor": [
+    "sv"
+  ],
+  "skeledirge": [
+    "sv"
+  ],
+  "quaxly": [
+    "sv"
+  ],
+  "quaxwell": [
+    "sv"
+  ],
+  "quaquaval": [
+    "sv"
+  ],
+  "lechonk": [
+    "sv"
+  ],
+  "oinkologne-male": [
+    "sv"
+  ],
+  "tarountula": [
+    "sv"
+  ],
+  "spidops": [
+    "sv"
+  ],
+  "nymble": [
+    "sv"
+  ],
+  "lokix": [
+    "sv"
+  ],
+  "pawmi": [
+    "sv"
+  ],
+  "pawmo": [
+    "sv"
+  ],
+  "pawmot": [
+    "sv"
+  ],
+  "tandemaus": [
+    "sv"
+  ],
+  "maushold-family-of-four": [
+    "sv"
+  ],
+  "fidough": [
+    "sv"
+  ],
+  "dachsbun": [
+    "sv"
+  ],
+  "smoliv": [
+    "sv"
+  ],
+  "dolliv": [
+    "sv"
+  ],
+  "arboliva": [
+    "sv"
+  ],
+  "squawkabilly-green-plumage": [
+    "sv"
+  ],
+  "nacli": [
+    "sv"
+  ],
+  "naclstack": [
+    "sv"
+  ],
+  "garganacl": [
+    "sv"
+  ],
+  "charcadet": [
+    "sv"
+  ],
+  "armarouge": [
+    "sv"
+  ],
+  "ceruledge": [
+    "sv"
+  ],
+  "tadbulb": [
+    "sv"
+  ],
+  "bellibolt": [
+    "sv"
+  ],
+  "wattrel": [
+    "sv"
+  ],
+  "kilowattrel": [
+    "sv"
+  ],
+  "maschiff": [
+    "sv"
+  ],
+  "mabosstiff": [
+    "sv"
+  ],
+  "shroodle": [
+    "sv"
+  ],
+  "grafaiai": [
+    "sv"
+  ],
+  "bramblin": [
+    "sv"
+  ],
+  "brambleghast": [
+    "sv"
+  ],
+  "toedscool": [
+    "sv"
+  ],
+  "toedscruel": [
+    "sv"
+  ],
+  "klawf": [
+    "sv"
+  ],
+  "capsakid": [
+    "sv"
+  ],
+  "scovillain": [
+    "sv"
+  ],
+  "rellor": [
+    "sv"
+  ],
+  "rabsca": [
+    "sv"
+  ],
+  "flittle": [
+    "sv"
+  ],
+  "espathra": [
+    "sv"
+  ],
+  "tinkatink": [
+    "sv"
+  ],
+  "tinkatuff": [
+    "sv"
+  ],
+  "tinkaton": [
+    "sv"
+  ],
+  "wiglett": [
+    "sv"
+  ],
+  "wugtrio": [
+    "sv"
+  ],
+  "bombirdier": [
+    "sv"
+  ],
+  "finizen": [
+    "sv"
+  ],
+  "palafin-zero": [
+    "sv"
+  ],
+  "varoom": [
+    "sv"
+  ],
+  "revavroom": [
+    "sv"
+  ],
+  "cyclizar": [
+    "sv"
+  ],
+  "orthworm": [
+    "sv"
+  ],
+  "glimmet": [
+    "sv"
+  ],
+  "glimmora": [
+    "sv"
+  ],
+  "greavard": [
+    "sv"
+  ],
+  "houndstone": [
+    "sv"
+  ],
+  "flamigo": [
+    "sv"
+  ],
+  "cetoddle": [
+    "sv"
+  ],
+  "cetitan": [
+    "sv"
+  ],
+  "veluza": [
+    "sv"
+  ],
+  "dondozo": [
+    "sv"
+  ],
+  "tatsugiri-curly": [
+    "sv"
+  ],
+  "annihilape": [
+    "sv"
+  ],
+  "clodsire": [
+    "sv"
+  ],
+  "farigiraf": [
+    "sv"
+  ],
+  "dudunsparce-two-segment": [
+    "sv"
+  ],
+  "kingambit": [
+    "sv"
+  ],
+  "great-tusk": [
+    "sv"
+  ],
+  "scream-tail": [
+    "sv"
+  ],
+  "brute-bonnet": [
+    "sv"
+  ],
+  "flutter-mane": [
+    "sv"
+  ],
+  "slither-wing": [
+    "sv"
+  ],
+  "sandy-shocks": [
+    "sv"
+  ],
+  "iron-treads": [
+    "sv"
+  ],
+  "iron-bundle": [
+    "sv"
+  ],
+  "iron-hands": [
+    "sv"
+  ],
+  "iron-jugulis": [
+    "sv"
+  ],
+  "iron-moth": [
+    "sv"
+  ],
+  "iron-thorns": [
+    "sv"
+  ],
+  "frigibax": [
+    "sv"
+  ],
+  "arctibax": [
+    "sv"
+  ],
+  "baxcalibur": [
+    "sv"
+  ],
+  "gimmighoul": [
+    "sv"
+  ],
+  "gholdengo": [
+    "sv"
+  ],
+  "wo-chien": [
+    "sv"
+  ],
+  "chien-pao": [
+    "sv"
+  ],
+  "ting-lu": [
+    "sv"
+  ],
+  "chi-yu": [
+    "sv"
+  ],
+  "roaring-moon": [
+    "sv"
+  ],
+  "iron-valiant": [
+    "sv"
+  ],
+  "koraidon": [
+    "sv"
+  ],
+  "miraidon": [
+    "sv"
+  ],
+  "walking-wake": [
+    "sv"
+  ],
+  "iron-leaves": [
+    "sv"
+  ],
+  "dipplin": [
+    "sv"
+  ],
+  "poltchageist": [
+    "sv"
+  ],
+  "sinistcha": [
+    "sv"
+  ],
+  "okidogi": [
+    "sv"
+  ],
+  "munkidori": [
+    "sv"
+  ],
+  "fezandipiti": [
+    "sv"
+  ],
+  "ogerpon": [
+    "sv"
+  ],
+  "archaludon": [
+    "sv"
+  ],
+  "hydrapple": [
+    "sv"
+  ],
+  "gouging-fire": [
+    "sv"
+  ],
+  "raging-bolt": [
+    "sv"
+  ],
+  "iron-boulder": [
+    "sv"
+  ],
+  "iron-crown": [
+    "sv"
+  ],
+  "terapagos": [
+    "sv"
+  ],
+  "pecharunt": [
+    "sv"
+  ],
+  "deoxys-attack": [
+    "sv"
+  ],
+  "deoxys-defense": [
+    "sv"
+  ],
+  "deoxys-speed": [
+    "sv"
+  ],
+  "wormadam-sandy": [
+    "pla",
+    "bdsp"
+  ],
+  "wormadam-trash": [
+    "pla",
+    "bdsp"
+  ],
+  "shaymin-sky": [
+    "sv",
+    "pla"
+  ],
+  "giratina-origin": [
+    "bdsp",
+    "swsh",
+    "sv",
+    "pla"
+  ],
+  "rotom-heat": [
+    "swsh",
+    "sv"
+  ],
+  "rotom-wash": [
+    "swsh",
+    "sv"
+  ],
+  "rotom-frost": [
+    "swsh",
+    "sv"
+  ],
+  "rotom-fan": [
+    "swsh",
+    "sv"
+  ],
+  "rotom-mow": [
+    "swsh",
+    "sv"
+  ],
+  "castform-sunny": [],
+  "castform-rainy": [],
+  "castform-snowy": [],
+  "basculin-blue-striped": [
+    "swsh",
+    "sv"
+  ],
+  "darmanitan-zen": [
+    "swsh"
+  ],
+  "meloetta-pirouette": [
+    "sv"
+  ],
+  "tornadus-therian": [
+    "swsh",
+    "sv"
+  ],
+  "thundurus-therian": [
+    "swsh",
+    "sv"
+  ],
+  "landorus-therian": [
+    "swsh",
+    "sv"
+  ],
+  "kyurem-black": [
+    "swsh",
+    "sv"
+  ],
+  "kyurem-white": [
+    "swsh",
+    "sv"
+  ],
+  "keldeo-resolute": [
+    "swsh",
+    "sv"
+  ],
+  "meowstic-female": [
+    "swsh",
+    "sv"
+  ],
+  "aegislash-blade": [
+    "swsh"
+  ],
+  "pumpkaboo-small": [
+    "swsh"
+  ],
+  "pumpkaboo-large": [
+    "swsh"
+  ],
+  "pumpkaboo-super": [
+    "swsh"
+  ],
+  "gourgeist-small": [
+    "swsh"
+  ],
+  "gourgeist-large": [
+    "swsh"
+  ],
+  "gourgeist-super": [
+    "swsh"
+  ],
+  "venusaur-mega": [
+    "lgpe"
+  ],
+  "charizard-mega-x": [
+    "lgpe"
+  ],
+  "charizard-mega-y": [
+    "lgpe"
+  ],
+  "blastoise-mega": [
+    "lgpe"
+  ],
+  "alakazam-mega": [
+    "lgpe"
+  ],
+  "gengar-mega": [
+    "lgpe"
+  ],
+  "kangaskhan-mega": [
+    "lgpe"
+  ],
+  "pinsir-mega": [
+    "lgpe"
+  ],
+  "gyarados-mega": [
+    "lgpe"
+  ],
+  "aerodactyl-mega": [
+    "lgpe"
+  ],
+  "mewtwo-mega-x": [
+    "lgpe"
+  ],
+  "mewtwo-mega-y": [
+    "lgpe"
+  ],
+  "ampharos-mega": [],
+  "scizor-mega": [],
+  "heracross-mega": [],
+  "houndoom-mega": [],
+  "tyranitar-mega": [],
+  "blaziken-mega": [],
+  "gardevoir-mega": [],
+  "mawile-mega": [],
+  "aggron-mega": [],
+  "medicham-mega": [],
+  "manectric-mega": [],
+  "banette-mega": [],
+  "absol-mega": [],
+  "garchomp-mega": [],
+  "lucario-mega": [],
+  "abomasnow-mega": [],
+  "floette-eternal": [],
+  "latias-mega": [],
+  "latios-mega": [],
+  "swampert-mega": [],
+  "sceptile-mega": [],
+  "sableye-mega": [],
+  "altaria-mega": [],
+  "gallade-mega": [],
+  "audino-mega": [],
+  "sharpedo-mega": [],
+  "slowbro-mega": [
+    "lgpe"
+  ],
+  "steelix-mega": [],
+  "pidgeot-mega": [
+    "lgpe"
+  ],
+  "glalie-mega": [],
+  "diancie-mega": [],
+  "metagross-mega": [],
+  "kyogre-primal": [],
+  "groudon-primal": [],
+  "rayquaza-mega": [],
+  "pikachu-rock-star": [],
+  "pikachu-belle": [],
+  "pikachu-pop-star": [],
+  "pikachu-phd": [],
+  "pikachu-libre": [],
+  "pikachu-cosplay": [],
+  "hoopa-unbound": [
+    "sv"
+  ],
+  "camerupt-mega": [],
+  "lopunny-mega": [],
+  "salamence-mega": [],
+  "beedrill-mega": [
+    "lgpe"
+  ],
+  "rattata-alola": [
+    "lgpe"
+  ],
+  "raticate-alola": [
+    "lgpe"
+  ],
+  "raticate-totem-alola": [],
+  "pikachu-original-cap": [
+    "swsh",
+    "sv"
+  ],
+  "pikachu-hoenn-cap": [
+    "swsh",
+    "sv"
+  ],
+  "pikachu-sinnoh-cap": [
+    "swsh",
+    "sv"
+  ],
+  "pikachu-unova-cap": [
+    "swsh",
+    "sv"
+  ],
+  "pikachu-kalos-cap": [
+    "swsh",
+    "sv"
+  ],
+  "pikachu-alola-cap": [
+    "swsh",
+    "sv"
+  ],
+  "raichu-alola": [
+    "swsh",
+    "lgpe",
+    "sv"
+  ],
+  "sandshrew-alola": [
+    "lgpe",
+    "swsh",
+    "sv"
+  ],
+  "sandslash-alola": [
+    "lgpe",
+    "swsh",
+    "sv"
+  ],
+  "vulpix-alola": [
+    "lgpe",
+    "swsh",
+    "sv",
+    "pla"
+  ],
+  "ninetales-alola": [
+    "lgpe",
+    "swsh",
+    "sv",
+    "pla"
+  ],
+  "diglett-alola": [
+    "lgpe",
+    "sv",
+    "swsh"
+  ],
+  "dugtrio-alola": [
+    "lgpe",
+    "sv",
+    "swsh"
+  ],
+  "meowth-alola": [
+    "lgpe",
+    "swsh",
+    "sv"
+  ],
+  "persian-alola": [
+    "lgpe",
+    "swsh",
+    "sv"
+  ],
+  "geodude-alola": [
+    "lgpe",
+    "sv"
+  ],
+  "graveler-alola": [
+    "lgpe",
+    "sv"
+  ],
+  "golem-alola": [
+    "lgpe",
+    "sv"
+  ],
+  "grimer-alola": [
+    "lgpe",
+    "sv"
+  ],
+  "muk-alola": [
+    "lgpe",
+    "sv"
+  ],
+  "exeggutor-alola": [
+    "swsh",
+    "sv",
+    "lgpe"
+  ],
+  "marowak-alola": [
+    "swsh",
+    "lgpe"
+  ],
+  "greninja-battle-bond": [],
+  "greninja-ash": [
+    "sv"
+  ],
+  "zygarde-10-power-construct": [
+    "swsh"
+  ],
+  "zygarde-50-power-construct": [
+    "swsh"
+  ],
+  "zygarde-complete": [
+    "swsh"
+  ],
+  "gumshoos-totem": [],
+  "vikavolt-totem": [],
+  "oricorio-pom-pom": [
+    "sv"
+  ],
+  "oricorio-pau": [
+    "sv"
+  ],
+  "oricorio-sensu": [
+    "sv"
+  ],
+  "lycanroc-midnight": [
+    "swsh",
+    "sv"
+  ],
+  "wishiwashi-school": [
+    "swsh"
+  ],
+  "lurantis-totem": [],
+  "salazzle-totem": [],
+  "minior-orange-meteor": [
+    "sv"
+  ],
+  "minior-yellow-meteor": [
+    "sv"
+  ],
+  "minior-green-meteor": [
+    "sv"
+  ],
+  "minior-blue-meteor": [
+    "sv"
+  ],
+  "minior-indigo-meteor": [
+    "sv"
+  ],
+  "minior-violet-meteor": [
+    "sv"
+  ],
+  "minior-red": [
+    "sv"
+  ],
+  "minior-orange": [
+    "sv"
+  ],
+  "minior-yellow": [
+    "sv"
+  ],
+  "minior-green": [
+    "sv"
+  ],
+  "minior-blue": [
+    "sv"
+  ],
+  "minior-indigo": [
+    "sv"
+  ],
+  "minior-violet": [
+    "sv"
+  ],
+  "mimikyu-busted": [
+    "swsh",
+    "sv"
+  ],
+  "mimikyu-totem-disguised": [],
+  "mimikyu-totem-busted": [],
+  "kommo-o-totem": [],
+  "magearna-original": [
+    "sv",
+    "swsh"
+  ],
+  "pikachu-partner-cap": [
+    "swsh",
+    "sv"
+  ],
+  "marowak-totem": [],
+  "ribombee-totem": [],
+  "rockruff-own-tempo": [
+    "swsh",
+    "sv"
+  ],
+  "lycanroc-dusk": [
+    "swsh",
+    "sv"
+  ],
+  "araquanid-totem": [],
+  "togedemaru-totem": [],
+  "necrozma-dusk": [
+    "swsh",
+    "sv"
+  ],
+  "necrozma-dawn": [
+    "swsh",
+    "sv"
+  ],
+  "necrozma-ultra": [],
+  "pikachu-starter": [
+    "lgpe"
+  ],
+  "eevee-starter": [
+    "lgpe"
+  ],
+  "pikachu-world-cap": [
+    "swsh",
+    "sv"
+  ],
+  "meowth-galar": [
+    "swsh",
+    "sv"
+  ],
+  "ponyta-galar": [
+    "swsh"
+  ],
+  "rapidash-galar": [
+    "swsh"
+  ],
+  "slowpoke-galar": [
+    "swsh",
+    "sv"
+  ],
+  "slowbro-galar": [
+    "swsh",
+    "sv"
+  ],
+  "farfetchd-galar": [
+    "swsh"
+  ],
+  "weezing-galar": [
+    "swsh",
+    "sv"
+  ],
+  "mr-mime-galar": [
+    "swsh"
+  ],
+  "articuno-galar": [
+    "swsh",
+    "sv"
+  ],
+  "zapdos-galar": [
+    "swsh",
+    "sv"
+  ],
+  "moltres-galar": [
+    "swsh",
+    "sv"
+  ],
+  "slowking-galar": [
+    "swsh",
+    "sv"
+  ],
+  "corsola-galar": [
+    "swsh"
+  ],
+  "zigzagoon-galar": [
+    "swsh"
+  ],
+  "linoone-galar": [
+    "swsh"
+  ],
+  "darumaka-galar": [
+    "swsh"
+  ],
+  "darmanitan-galar-standard": [
+    "swsh"
+  ],
+  "darmanitan-galar-zen": [
+    "swsh"
+  ],
+  "yamask-galar": [
+    "swsh"
+  ],
+  "stunfisk-galar": [
+    "swsh"
+  ],
+  "zygarde-10": [
+    "swsh"
+  ],
+  "cramorant-gulping": [
+    "swsh"
+  ],
+  "cramorant-gorging": [
+    "swsh"
+  ],
+  "toxtricity-low-key": [
+    "swsh",
+    "sv"
+  ],
+  "eiscue-noice": [
+    "swsh",
+    "sv"
+  ],
+  "indeedee-female": [
+    "swsh",
+    "sv"
+  ],
+  "morpeko-hangry": [
+    "swsh",
+    "sv"
+  ],
+  "zacian-crowned": [
+    "swsh",
+    "sv"
+  ],
+  "zamazenta-crowned": [
+    "sv",
+    "swsh"
+  ],
+  "eternatus-eternamax": [
+    "swsh"
+  ],
+  "urshifu-rapid-strike": [
+    "swsh",
+    "sv"
+  ],
+  "zarude-dada": [
+    "swsh",
+    "sv"
+  ],
+  "calyrex-ice": [
+    "swsh",
+    "sv"
+  ],
+  "calyrex-shadow": [
+    "swsh",
+    "sv"
+  ],
+  "venusaur-gmax": [],
+  "charizard-gmax": [],
+  "blastoise-gmax": [],
+  "butterfree-gmax": [],
+  "pikachu-gmax": [],
+  "meowth-gmax": [],
+  "machamp-gmax": [],
+  "gengar-gmax": [],
+  "kingler-gmax": [],
+  "lapras-gmax": [],
+  "eevee-gmax": [],
+  "snorlax-gmax": [],
+  "garbodor-gmax": [],
+  "melmetal-gmax": [],
+  "rillaboom-gmax": [],
+  "cinderace-gmax": [],
+  "inteleon-gmax": [],
+  "corviknight-gmax": [],
+  "orbeetle-gmax": [],
+  "drednaw-gmax": [],
+  "coalossal-gmax": [],
+  "flapple-gmax": [],
+  "appletun-gmax": [],
+  "sandaconda-gmax": [],
+  "toxtricity-amped-gmax": [],
+  "centiskorch-gmax": [],
+  "hatterene-gmax": [],
+  "grimmsnarl-gmax": [],
+  "alcremie-gmax": [],
+  "copperajah-gmax": [],
+  "duraludon-gmax": [],
+  "urshifu-single-strike-gmax": [],
+  "urshifu-rapid-strike-gmax": [],
+  "toxtricity-low-key-gmax": [],
+  "growlithe-hisui": [
+    "sv",
+    "pla"
+  ],
+  "arcanine-hisui": [
+    "pla",
+    "sv"
+  ],
+  "voltorb-hisui": [
+    "pla",
+    "sv"
+  ],
+  "electrode-hisui": [
+    "pla",
+    "sv"
+  ],
+  "typhlosion-hisui": [
+    "pla",
+    "sv"
+  ],
+  "qwilfish-hisui": [
+    "sv",
+    "pla"
+  ],
+  "sneasel-hisui": [
+    "sv",
+    "pla"
+  ],
+  "samurott-hisui": [
+    "pla",
+    "sv"
+  ],
+  "lilligant-hisui": [
+    "sv",
+    "pla"
+  ],
+  "zorua-hisui": [
+    "sv",
+    "pla"
+  ],
+  "zoroark-hisui": [
+    "sv",
+    "pla"
+  ],
+  "braviary-hisui": [
+    "sv",
+    "pla"
+  ],
+  "sliggoo-hisui": [
+    "sv",
+    "pla"
+  ],
+  "goodra-hisui": [
+    "pla",
+    "sv"
+  ],
+  "avalugg-hisui": [
+    "pla",
+    "sv"
+  ],
+  "decidueye-hisui": [
+    "sv",
+    "pla"
+  ],
+  "dialga-origin": [
+    "sv"
+  ],
+  "palkia-origin": [
+    "sv"
+  ],
+  "basculin-white-striped": [
+    "sv",
+    "pla"
+  ],
+  "basculegion-female": [
+    "sv"
+  ],
+  "enamorus-therian": [
+    "sv"
+  ],
+  "tauros-paldea-combat-breed": [
+    "sv"
+  ],
+  "tauros-paldea-blaze-breed": [
+    "sv"
+  ],
+  "tauros-paldea-aqua-breed": [
+    "sv"
+  ],
+  "wooper-paldea": [
+    "sv"
+  ],
+  "oinkologne-female": [
+    "sv"
+  ],
+  "dudunsparce-three-segment": [
+    "sv"
+  ],
+  "palafin-hero": [
+    "sv"
+  ],
+  "maushold-family-of-three": [
+    "sv"
+  ],
+  "tatsugiri-droopy": [
+    "sv"
+  ],
+  "tatsugiri-stretchy": [
+    "sv"
+  ],
+  "squawkabilly-blue-plumage": [
+    "sv"
+  ],
+  "squawkabilly-yellow-plumage": [
+    "sv"
+  ],
+  "squawkabilly-white-plumage": [
+    "sv"
+  ],
+  "gimmighoul-roaming": [
+    "sv"
+  ],
+  "koraidon-limited-build": [
+    "sv"
+  ],
+  "koraidon-sprinting-build": [
+    "sv"
+  ],
+  "koraidon-swimming-build": [
+    "sv"
+  ],
+  "koraidon-gliding-build": [
+    "sv"
+  ],
+  "miraidon-low-power-mode": [
+    "sv"
+  ],
+  "miraidon-drive-mode": [
+    "sv"
+  ],
+  "miraidon-aquatic-mode": [
+    "sv"
+  ],
+  "miraidon-glide-mode": [
+    "sv"
+  ],
+  "ursaluna-bloodmoon": [
+    "sv"
+  ],
+  "ogerpon-wellspring-mask": [
+    "sv"
+  ],
+  "ogerpon-hearthflame-mask": [
+    "sv"
+  ],
+  "ogerpon-cornerstone-mask": [
+    "sv"
+  ],
+  "terapagos-terastal": [
+    "sv"
+  ],
+  "terapagos-stellar": [
+    "sv"
+  ],
+  "frillish-female": [],
+  "jellicent-female": []
+}
