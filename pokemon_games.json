@@ -1931,7 +1931,8 @@
     "bdsp"
   ],
   "deoxys-normal": [
-    "sv"
+    "sv",
+    "bdsp"
   ],
   "turtwig": [
     "bdsp",
@@ -4303,13 +4304,20 @@
     "sv"
   ],
   "deoxys-attack": [
-    "sv"
+    "sv",
+    "bdsp"
+  ],
+    "deoxys": [
+    "sv",
+    "bdsp"
   ],
   "deoxys-defense": [
-    "sv"
+    "sv",
+    "bdsp"
   ],
   "deoxys-speed": [
-    "sv"
+    "sv",
+    "bdsp"
   ],
   "wormadam-sandy": [
     "pla",
