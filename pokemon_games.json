@@ -4176,40 +4176,40 @@
   "kingambit": [
     "sv"
   ],
-  "great-tusk": [
+  "great tusk": [
     "sv"
   ],
-  "scream-tail": [
+  "scream tail": [
     "sv"
   ],
-  "brute-bonnet": [
+  "brute bonnet": [
     "sv"
   ],
-  "flutter-mane": [
+  "flutter mane": [
     "sv"
   ],
-  "slither-wing": [
+  "slither wing": [
     "sv"
   ],
-  "sandy-shocks": [
+  "sandy shocks": [
     "sv"
   ],
-  "iron-treads": [
+  "iron treads": [
     "sv"
   ],
-  "iron-bundle": [
+  "iron bundle": [
     "sv"
   ],
-  "iron-hands": [
+  "iron hands": [
     "sv"
   ],
-  "iron-jugulis": [
+  "iron jugulis": [
     "sv"
   ],
-  "iron-moth": [
+  "iron moth": [
     "sv"
   ],
-  "iron-thorns": [
+  "iron thorns": [
     "sv"
   ],
   "frigibax": [
@@ -4239,10 +4239,10 @@
   "chi-yu": [
     "sv"
   ],
-  "roaring-moon": [
+  "roaring moon": [
     "sv"
   ],
-  "iron-valiant": [
+  "iron valiant": [
     "sv"
   ],
   "koraidon": [
@@ -4251,10 +4251,10 @@
   "miraidon": [
     "sv"
   ],
-  "walking-wake": [
+  "walking wake": [
     "sv"
   ],
-  "iron-leaves": [
+  "iron leaves": [
     "sv"
   ],
   "dipplin": [
@@ -4284,16 +4284,16 @@
   "hydrapple": [
     "sv"
   ],
-  "gouging-fire": [
+  "gouging fire": [
     "sv"
   ],
-  "raging-bolt": [
+  "raging bolt": [
     "sv"
   ],
-  "iron-boulder": [
+  "iron boulder": [
     "sv"
   ],
-  "iron-crown": [
+  "iron crown": [
     "sv"
   ],
   "terapagos": [
@@ -4846,40 +4846,108 @@
     "swsh",
     "sv"
   ],
-  "venusaur-gmax": [],
-  "charizard-gmax": [],
-  "blastoise-gmax": [],
-  "butterfree-gmax": [],
-  "pikachu-gmax": [],
-  "meowth-gmax": [],
-  "machamp-gmax": [],
-  "gengar-gmax": [],
-  "kingler-gmax": [],
-  "lapras-gmax": [],
-  "eevee-gmax": [],
-  "snorlax-gmax": [],
-  "garbodor-gmax": [],
-  "melmetal-gmax": [],
-  "rillaboom-gmax": [],
-  "cinderace-gmax": [],
-  "inteleon-gmax": [],
-  "corviknight-gmax": [],
-  "orbeetle-gmax": [],
-  "drednaw-gmax": [],
-  "coalossal-gmax": [],
-  "flapple-gmax": [],
-  "appletun-gmax": [],
-  "sandaconda-gmax": [],
-  "toxtricity-amped-gmax": [],
-  "centiskorch-gmax": [],
-  "hatterene-gmax": [],
-  "grimmsnarl-gmax": [],
-  "alcremie-gmax": [],
-  "copperajah-gmax": [],
-  "duraludon-gmax": [],
-  "urshifu-single-strike-gmax": [],
-  "urshifu-rapid-strike-gmax": [],
-  "toxtricity-low-key-gmax": [],
+  "venusaur-gmax": [
+    "swsh"
+  ],
+  "charizard-gmax": [
+    "swsh"
+  ],
+  "blastoise-gmax": [
+    "swsh"
+  ],
+  "butterfree-gmax": [
+    "swsh"
+  ],
+  "pikachu-gmax": [
+    "swsh"
+  ],
+  "meowth-gmax": [
+    "swsh"
+  ],
+  "machamp-gmax": [
+    "swsh"
+  ],
+  "gengar-gmax": [
+    "swsh"
+  ],
+  "kingler-gmax": [
+    "swsh"
+  ],
+  "lapras-gmax": [
+    "swsh"
+  ],
+  "eevee-gmax": [
+    "swsh"
+  ],
+  "snorlax-gmax": [
+    "swsh"
+  ],
+  "garbodor-gmax": [
+    "swsh"
+  ],
+  "melmetal-gmax": [
+    "swsh"
+  ],
+  "rillaboom-gmax": [
+    "swsh"
+  ],
+  "cinderace-gmax": [
+    "swsh"
+  ],
+  "inteleon-gmax": [
+    "swsh"
+  ],
+  "corviknight-gmax": [
+    "swsh"
+  ],
+  "orbeetle-gmax": [
+    "swsh"
+  ],
+  "drednaw-gmax": [
+    "swsh"
+  ],
+  "coalossal-gmax": [
+    "swsh"
+  ],
+  "flapple-gmax": [
+    "swsh"
+  ],
+  "appletun-gmax": [
+    "swsh"
+  ],
+  "sandaconda-gmax": [
+    "swsh"
+  ],
+  "toxtricity-amped-gmax": [
+    "swsh"
+  ],
+  "centiskorch-gmax": [
+    "swsh"
+  ],
+  "hatterene-gmax": [
+    "swsh"
+  ],
+  "grimmsnarl-gmax": [
+    "swsh"
+  ],
+  "alcremie-gmax": [
+    "swsh"
+  ],
+  "copperajah-gmax": [
+    "swsh"
+  ],
+  "duraludon-gmax": [
+    "swsh"
+  ],
+  "urshifu-single-strike-gmax": [
+    "swsh"
+  ],
+  "urshifu-rapid-strike-gmax": [
+    "swsh"
+  ],
+  "toxtricity-low-key-gmax": [
+    "swsh"
+  ],
   "growlithe-hisui": [
     "sv",
     "pla"
