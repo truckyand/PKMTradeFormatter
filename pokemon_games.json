@@ -3962,6 +3962,10 @@
     "sv",
     "pla"
   ],
+    "enamorus": [
+    "sv",
+    "pla"
+  ],
   "sprigatito": [
     "sv"
   ],
@@ -5053,7 +5057,8 @@
     "sv"
   ],
   "enamorus-therian": [
-    "sv"
+     "sv",
+    "pla"
   ],
   "tauros-paldea-combat-breed": [
     "sv"
