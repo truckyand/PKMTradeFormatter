@@ -695,6 +695,12 @@
     "bdsp",
     "pla"
   ],
+  "Mr.Mime": [
+    "lgpe",
+    "swsh",
+    "bdsp",
+    "pla"
+  ],
   "scyther": [
     "lgpe",
     "swsh",
@@ -2208,6 +2214,16 @@
     "pla"
   ],
   "mime-jr": [
+    "swsh",
+    "bdsp",
+    "pla"
+  ],
+  "mime jr": [
+    "swsh",
+    "bdsp",
+    "pla"
+  ],
+  "mime jr.": [
     "swsh",
     "bdsp",
     "pla"
