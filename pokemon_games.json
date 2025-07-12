@@ -1259,6 +1259,16 @@
     "bdsp",
     "sv"
   ],
+  "porygon-2": [
+    "swsh",
+    "bdsp",
+    "sv"
+  ],
+  "porygon 2": [
+    "swsh",
+    "bdsp",
+    "sv"
+  ],
   "stantler": [
     "bdsp",
     "sv",
@@ -4170,7 +4180,7 @@
   "finizen": [
     "sv"
   ],
-  "palafin-zero": [
+  "palafin": [
     "sv"
   ],
   "varoom": [
@@ -4731,6 +4741,9 @@
     "sv"
   ],
   "minior-red": [
+    "sv"
+  ],
+  "minior": [
     "sv"
   ],
   "minior-orange": [
