@@ -5,6 +5,7 @@ const path = require('path');
 
 // Serve static files (HTML, CSS, JS)
 app.use(express.static(path.join(__dirname, 'public')));
+app.use("/list", express.static(path.join(__dirname, '.')));
 
 // API endpoint to serve seeds data
 app.get('/api/seeds', (req, res) => {

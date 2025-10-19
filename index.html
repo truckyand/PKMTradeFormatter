@@ -27,7 +27,9 @@
     
     <ul id="results"></ul>
     
-    <script>
+    <script type="module">
+        import { faker } from 'https://esm.sh/@faker-js/faker';
+    
         document.getElementById('filterForm').addEventListener('submit', function(event) {
             event.preventDefault();
 
@@ -73,7 +75,8 @@
                 
                 // Display only Pokémon name (no ID)
                 const nameText = document.createElement('span');
-                nameText.textContent = pokemon.name.charAt(0).toUpperCase() + pokemon.name.slice(1); // Capitalize first letter
+                var nameCapitalize = pokemon.name.charAt(0).toUpperCase() + pokemon.name.slice(1); // Capitalize first letter
+                nameText.textContent = `#${pokemon.id} ${nameCapitalize}`;
                 
                 // Pokémon image
                 const img = document.createElement('img');
@@ -84,17 +87,42 @@
                 
                 listItem.appendChild(nameText);
                 listItem.appendChild(img);
-                listItem.addEventListener('click', () => copyToClipboard(pokemon.name));
+                listItem.addEventListener('click', () => copyToClipboard(nameCapitalize));
                 
                 resultsContainer.appendChild(listItem);
             });
         }
         
         function copyToClipboard(text) {
+            var dt = randomDate();
+            // Inject
+            text = text + `            
+Shiny: Yes
+OT: trucky
+OTGender: Male
+TID: 391666
+SID: 2164
+Ball: Poke Ball
+Language: English
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+.MetDate=` + dt;
+            //
             navigator.clipboard.writeText(text).then(() => {
-                alert(`Copied: ${text}`);
+                alert(`${text}`);
             }).catch(err => console.error('Error copying text:', err));
         }
+
+        function randomDate(){
+            const randomDt = faker.date.between({ from: '2022-01-01T00:00:00.000Z', to: Date.now() });
+            var dt = new Date(randomDt);
+
+            const day = String(dt.getDate()).padStart(2, '0');
+            const month = String(dt.getMonth() + 1).padStart(2, '0'); // Months are 0-indexed
+            const year = dt.getFullYear();
+            console.log(`${year}${month}${day}`); 
+            return `${year}${month}${day}`;
+        }
+
     </script>
 </body>
 </html>

@@ -1,0 +1,113 @@
+.bt Mewtwo
+Shiny: No
+OT: trucky
+OTGender: Female
+TID: 391666
+SID: 2164
+Ball: Poke Ball
+Language: English
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+.MetDate=20250424
+EVs: 4 HP / 252 SpA / 252 Spe
+Ability: Unnerve
+Tera Type: Psychic
+Timid Nature
+- Mist
+- Psystrike
+- Recover
+- Future Sight
+
+Mew
+Shiny: No
+OT: trucky
+OTGender: Female
+TID: 391666
+SID: 2164
+Ball: Poke Ball
+Language: English
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+.MetDate=20231203
+EVs: 4 HP / 252 Atk / 252 Spe
+Ability: Synchronize
+Tera Type: Psychic
+Adamant Nature
+- Imprison
+- Transform
+- Aura Sphere
+- Psychic
+
+Raikou
+Shiny: No
+OT: trucky
+OTGender: Female
+TID: 391666
+SID: 2164
+Ball: Poke Ball
+Language: English
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+.MetDate=20231226
+EVs: 252 SpA / 4 SpD / 252 Spe
+Ability: Inner Focus
+Tera Type: Electric
+Timid Nature
+- Reflect
+- Rain Dance
+- Thunder
+- Zap Cannon
+
+Entei
+Shiny: No
+OT: trucky
+OTGender: Female
+TID: 391666
+SID: 2164
+Ball: Poke Ball
+Language: English
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+.MetDate=20251021
+EVs: 252 Atk / 4 SpD / 252 Spe
+Ability: Inner Focus
+Tera Type: Fire
+Jolly Nature
+- Swagger
+- Sunny Day
+- Fire Blast
+- Eruption
+
+Suicune
+Shiny: No
+OT: trucky
+OTGender: Female
+TID: 391666
+SID: 2164
+Ball: Poke Ball
+Language: English
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+.MetDate=20231104
+EVs: 252 HP / 96 Def / 104 SpD / 56 Spe
+Ability: Inner Focus
+Tera Type: Water
+Bold Nature
+- Mirror Coat
+- Rain Dance
+- Hydro Pump
+- Blizzard
+
+Lugia
+Shiny: No
+OT: trucky
+OTGender: Female
+TID: 391666
+SID: 2164
+Ball: Poke Ball
+Language: English
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+.MetDate=20240510
+EVs: 252 HP / 160 Def / 96 Spe
+Ability: Multiscale
+Tera Type: Psychic
+Bold Nature
+- Rain Dance
+- Hydro Pump
+- Future Sight
+- Sky Attack
