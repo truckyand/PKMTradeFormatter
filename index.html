@@ -29,8 +29,20 @@
     
     <script type="module">
         import { faker } from 'https://esm.sh/@faker-js/faker';
+        
+        var pkmgg_sorted_pkm = [];
+        document.addEventListener("DOMContentLoaded", async() => {
+            console.log("Document ready!");
+
+            var pkmgg_sorted_pokemon_json = await(await fetch('pkmgg_sorted_pokemon.json')).json();
+            pkmgg_sorted_pkm = Object.entries(pkmgg_sorted_pokemon_json).map(([id, pkm]) => ({
+                id,
+                ...pkm
+            }));
+            console.log(`pkmgg_sorted_pokemon loaded. ${pkmgg_sorted_pkm.length}`);
+        });
     
-        document.getElementById('filterForm').addEventListener('submit', function(event) {
+        document.getElementById('filterForm').addEventListener('submit', async(event) => {
             event.preventDefault();
 
             const species = document.getElementById('species').value.toLowerCase();
@@ -45,7 +57,6 @@
             };
             
             const selectedFiles = game ? [files[game]] : Object.values(files);
-            
             Promise.all(selectedFiles.map(file => fetch(file).then(response => response.json())))
                 .then(dataArray => {
                     const allPokemon = dataArray.flat();
@@ -87,16 +98,17 @@
                 
                 listItem.appendChild(nameText);
                 listItem.appendChild(img);
-                listItem.addEventListener('click', () => copyToClipboard(nameCapitalize));
+                listItem.addEventListener('click', () => copyToClipboard(pokemon.id, nameCapitalize));
                 
                 resultsContainer.appendChild(listItem);
             });
         }
         
-        function copyToClipboard(text) {
+        function copyToClipboard(id, content) {
             var dt = randomDate();
+
             // Inject
-            text = text + `            
+            content = content + `            
 Shiny: Yes
 OT: trucky
 OTGender: Male
@@ -106,9 +118,37 @@ Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 .MetDate=` + dt;
-            //
-            navigator.clipboard.writeText(text).then(() => {
-                alert(`${text}`);
+
+            // meta_set
+            var idStr = id.toString().padStart(4, '0');
+            var pkmgg_pkm = pkmgg_sorted_pkm.find(x => x.id === idStr);
+            if (pkmgg_pkm && pkmgg_pkm.meta_set) {
+                var meta_set = pkmgg_pkm.meta_set;
+                meta_set = meta_set.split('\n'); 
+                meta_set.splice(0, 1); // remove Name   
+
+                // remove Shiny
+                var idx = meta_set.findIndex(x => x.startsWith("Shiny"));
+                if (idx != -1) {
+                    meta_set.splice(meta_set.findIndex(x => x.startsWith("Shiny")), 1); 
+                }
+
+                // remove Level
+                idx = meta_set.findIndex(x => x.startsWith("Level"));
+                if (idx != -1) {
+                    meta_set.splice(meta_set.findIndex(x => x.startsWith("Level")), 1); 
+                }
+                meta_set = meta_set.join('\n')
+            }
+            else {
+                console.log(`Cannot find meta_set for ${idStr} ${name}`);
+            }
+            content += `${meta_set}\n`;
+            
+            // Set to clipboard
+            console.log(content);
+            navigator.clipboard.writeText(content).then(() => {
+                alert(`${content}`);
             }).catch(err => console.error('Error copying text:', err));
         }
 
