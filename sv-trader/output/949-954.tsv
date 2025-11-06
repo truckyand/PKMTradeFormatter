@@ -7,7 +7,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250402
+.MetDate=20241221
+EVs: 252 HP / 252 Def / 4 SpD
+Ability: Mycelium Might
+Tera Type: Rock
+Bold Nature
+- Toxic
+- Spore
+- Knock Off
 
 Klawf
 Shiny: Yes
@@ -18,7 +25,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20241210
+.MetDate=20230612
+EVs: 4 HP / 252 Atk / 252 Spe
+Ability: Shell Armor
+Tera Type: Rock
+Jolly Nature
+- Swords Dance
+- Stone Edge
+- Trailblaze
 
 Capsakid
 Shiny: Yes
@@ -29,7 +43,15 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230709
+.MetDate=20240610
+EVs: 252 HP / 4 Def / 252 SpA
+Ability: Chlorophyll
+Tera Type: Fire
+Modest Nature
+- Ingrain
+- Giga Drain
+- Leech Seed
+- Protect
 
 Scovillain
 Shiny: Yes
@@ -40,7 +62,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20251022
+.MetDate=20240714
+EVs: 252 HP / 4 Def / 252 SpA
+Ability: Chlorophyll
+Tera Type: Fire
+Modest Nature
+- Flamethrower
+- Giga Drain
+- Leech Seed
 
 Rellor
 Shiny: Yes
@@ -51,7 +80,15 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240912
+.MetDate=20230226
+EVs: 248 HP / 144 Def / 116 SpD
+Ability: Compound Eyes
+Tera Type: Water
+Relaxed Nature
+- Bug Buzz
+- Iron Defense
+- Recover
+- Sludge Bomb
 
 Rabsca
 Shiny: Yes
@@ -62,4 +99,11 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230425
+.MetDate=20230219
+EVs: 248 HP / 144 Def / 116 SpD
+Ability: Synchronize
+Tera Type: Water
+Relaxed Nature
+- Revival Blessing
+- Trick Room
+- Bug Buzz

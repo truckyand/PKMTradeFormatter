@@ -7,7 +7,15 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230712
+.MetDate=20251005
+EVs: 252 Atk / 4 SpD / 252 Spe
+Ability: Damp
+Tera Type: Water
+Jolly Nature
+- Surf
+- Waterfall
+- Sludge
+- Roar
 
 Marshtomp
 Shiny: Yes
@@ -18,7 +26,15 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20251022
+.MetDate=20230618
+EVs: 252 Atk / 4 SpD / 252 Spe
+Ability: Damp
+Tera Type: Water
+Jolly Nature
+- Waterfall
+- Earthquake
+- Ice Punch
+- Surf
 
 Swampert
 Shiny: Yes
@@ -29,7 +45,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240805
+.MetDate=20250614
+EVs: 252 Atk / 4 SpD / 252 Spe
+Ability: Damp
+Tera Type: Water
+Jolly Nature
+- Waterfall
+- Earthquake
+- Ice Punch
 
 Poochyena
 Shiny: Yes
@@ -40,7 +63,15 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20231114
+.MetDate=20230422
+EVs: 252 Atk / 4 SpD / 252 Spe
+Ability: Run Away
+Tera Type: Dark
+Jolly Nature
+- Crunch
+- Sucker Punch
+- Play Rough
+- Trailblaze
 
 Mightyena
 Shiny: Yes
@@ -51,7 +82,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230810
+.MetDate=20251113
+EVs: 252 Atk / 4 SpD / 252 Spe
+Ability: Moxie
+Tera Type: Dark
+Jolly Nature
+- Crunch
+- Sucker Punch
+- Play Rough
 
 Lotad
 Shiny: Yes
@@ -62,4 +100,12 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20231226
+.MetDate=20240509
+EVs: 252 SpA / 4 SpD / 252 Spe
+Ability: Rain Dish
+Tera Type: Water
+Modest Nature
+- Leech Seed
+- Giga Drain
+- Surf
+- Rain Dance

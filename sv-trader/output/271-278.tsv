@@ -7,7 +7,15 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20231204
+.MetDate=20240412
+EVs: 252 SpA / 4 SpD / 252 Spe
+Ability: Swift Swim
+Tera Type: Water
+Modest Nature
+- Leech Seed
+- Giga Drain
+- Surf
+- Rain Dance
 
 Ludicolo
 Shiny: Yes
@@ -18,7 +26,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230123
+.MetDate=20230709
+EVs: 252 SpA / 4 SpD / 252 Spe
+Ability: Rain Dish
+Tera Type: Water
+Modest Nature
+- Leech Seed
+- Giga Drain
+- Surf
 
 Seedot
 Shiny: Yes
@@ -29,7 +44,15 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230910
+.MetDate=20231106
+EVs: 252 Atk / 4 SpD / 252 Spe
+Ability: Chlorophyll
+Tera Type: Grass
+Adamant Nature
+- Bullet Seed
+- Night Slash
+- Explosion
+- Trailblaze
 
 Nuzleaf
 Shiny: Yes
@@ -40,7 +63,15 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230612
+.MetDate=20240902
+EVs: 252 Atk / 4 SpD / 252 Spe
+Ability: Early Bird
+Tera Type: Grass
+Adamant Nature
+- Growth
+- Solar Blade
+- Knock Off
+- Low Kick
 
 Shiftry
 Shiny: Yes
@@ -51,7 +82,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20241128
+.MetDate=20251209
+EVs: 252 Atk / 4 SpD / 252 Spe
+Ability: Chlorophyll
+Tera Type: Grass
+Adamant Nature
+- Growth
+- Solar Blade
+- Knock Off
 
 Wingull
 Shiny: Yes
@@ -62,4 +100,12 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250712
+.MetDate=20251108
+EVs: 4 HP / 252 SpA / 252 Spe
+Ability: Keen Eye
+Tera Type: Water
+Modest Nature
+- Hurricane
+- Hydro Pump
+- Knock Off
+- Protect

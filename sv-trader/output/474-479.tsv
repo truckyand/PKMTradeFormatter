@@ -7,7 +7,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230819
+.MetDate=20230706
+EVs: 4 Def / 252 SpA / 252 Spe
+Ability: Adaptability
+Tera Type: Normal
+Timid Nature
+- Tri Attack
+- Shadow Ball
+- Trick
 
 Gallade
 Shiny: Yes
@@ -18,7 +25,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230624
+.MetDate=20231207
+EVs: 252 Atk / 4 SpD / 252 Spe
+Ability: Sharpness
+Tera Type: Dark
+Jolly Nature
+- Swords Dance
+- Close Combat
+- Knock Off
 
 Probopass
 Shiny: Yes
@@ -29,7 +43,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240515
+.MetDate=20230421
+EVs: 252 HP / 252 SpA / 4 SpD
+Ability: Sturdy
+Tera Type: Fire
+Modest Nature
+- Stealth Rock
+- Flash Cannon
+- Tera Blast
 
 Dusknoir
 Shiny: Yes
@@ -40,7 +61,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20251205
+.MetDate=20240817
+EVs: 252 HP / 252 Atk / 4 Spe
+Ability: Pressure
+Tera Type: Ghost
+Adamant Nature
+- Shadow Sneak
+- Poltergeist
+- Pain Split
 
 Froslass
 Shiny: Yes
@@ -51,7 +79,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20241123
+.MetDate=20231001
+EVs: 4 Def / 252 SpA / 252 Spe
+Ability: Snow Cloak
+Tera Type: Ice
+Timid Nature
+- Taunt
+- Spikes
+- Icy Wind
 
 Rotom
 Shiny: Yes
@@ -62,4 +97,11 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230707
+.MetDate=20251109
+EVs: 252 SpA / 4 SpD / 252 Spe
+Ability: Levitate
+Tera Type: Electric
+Timid Nature
+- Thunderbolt
+- Shadow Ball
+- Volt Switch

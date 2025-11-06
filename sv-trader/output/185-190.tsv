@@ -7,7 +7,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20251220
+.MetDate=20241125
+EVs: 252 Atk / 4 Def / 252 Spe
+Ability: Rock Head
+Tera Type: Flying
+Adamant Nature
+- Head Smash
+- Tera Blast
+- Sucker Punch
 
 Politoed
 Shiny: Yes
@@ -18,7 +25,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250406
+.MetDate=20240503
+EVs: 252 HP / 252 Def / 4 SpD
+Ability: Water Absorb
+Tera Type: Water
+Bold Nature
+- Muddy Water
+- Encore
+- Ice Beam
 
 Hoppip
 Shiny: Yes
@@ -29,7 +43,15 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240725
+.MetDate=20250122
+EVs: 252 Atk / 4 Def / 252 Spe
+Ability: Leaf Guard
+Tera Type: Flying
+Jolly Nature
+- Swords Dance
+- Strength Sap
+- Sleep Powder
+- Acrobatics
 
 Skiploom
 Shiny: Yes
@@ -40,7 +62,15 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230222
+.MetDate=20241217
+EVs: 252 Atk / 4 Def / 252 Spe
+Ability: Chlorophyll
+Tera Type: Flying
+Jolly Nature
+- Swords Dance
+- Strength Sap
+- Sleep Powder
+- Acrobatics
 
 Jumpluff
 Shiny: Yes
@@ -51,7 +81,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250606
+.MetDate=20230816
+EVs: 252 Atk / 4 Def / 252 Spe
+Ability: Chlorophyll
+Tera Type: Flying
+Jolly Nature
+- Swords Dance
+- Strength Sap
+- Sleep Powder
 
 Aipom
 Shiny: Yes
@@ -62,4 +99,12 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250228
+.MetDate=20250420
+EVs: 252 Atk / 4 Def / 252 Spe
+Ability: Run Away
+Tera Type: Normal
+Jolly Nature
+- Fake Out
+- Facade
+- Low Kick
+- U-turn

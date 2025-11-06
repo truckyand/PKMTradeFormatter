@@ -1,0 +1,121 @@
+Current special form names for ZA:
+
+Scatterbug-Meadow
+Vivillon-Meadow
+Slowpoke-Galar
+Slowking-Galar
+Spewpa-Meadow
+Zygarde-10%-C
+Slowpoke-Event 
+
+
+=@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@=
+
+.t Scatterbug-Meadow
+Shiny: Yes
+Alpha: Yes
+OT: trucky
+OTGender: Female
+TID: 75897
+SID: 4118
+Ball: Ultra Ball
+Language: English
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+
+
+
+.t Vivillon-Meadow
+Shiny: Yes
+Alpha: Yes
+OT: trucky
+OTGender: Female
+TID: 75897
+SID: 4118
+Ball: Ultra Ball
+Language: English
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+
+
+
+.t Slowpoke-Galar
+Shiny: Yes
+Alpha: Yes
+OT: trucky
+OTGender: Female
+TID: 75897
+SID: 4118
+Ball: Ultra Ball
+Language: English
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+
+
+
+.t Slowking-Galar
+Shiny: Yes
+Alpha: Yes
+OT: trucky
+OTGender: Female
+TID: 75897
+SID: 4118
+Ball: Ultra Ball
+Language: English
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+
+
+
+.t Spewpa-Meadow
+Shiny: Yes
+Alpha: Yes
+OT: trucky
+OTGender: Female
+TID: 75897
+SID: 4118
+Ball: Ultra Ball
+Language: English
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+
+
+
+
+.t Slowpoke-Event 
+Shiny: Yes
+Alpha: Yes
+OT: trucky
+OTGender: Female
+TID: 75897
+SID: 4118
+Ball: Ultra Ball
+Language: English
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+
+
+
+
+======================
+.t Slowking (F)
+Shiny: Yes
+Alpha: Yes
+OT: trucky
+OTGender: Female
+TID: 75897
+SID: 4118
+Ball: Ultra Ball
+Language: English
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+
+
+.t Slowbro (F)
+Shiny: Yes
+Alpha: Yes
+OT: trucky
+OTGender: Female
+TID: 75897
+SID: 4118
+Ball: Ultra Ball
+Language: English
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+
+
+
+
+

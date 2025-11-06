@@ -7,7 +7,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250224
+.MetDate=20251209
+EVs: 252 Atk / 4 SpD / 252 Spe
+Ability: Intimidate
+Tera Type: Ground
+Jolly Nature
+- Facade
+- Brave Bird
+- Tera Blast
 
 Nacli
 Shiny: Yes
@@ -18,7 +25,15 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250625
+.MetDate=20231212
+EVs: 252 HP / 4 Def / 252 SpD
+Ability: Sturdy
+Tera Type: Flying
+Careful Nature
+- Rock Slide
+- Recover
+- Curse
+- Earthquake
 
 Naclstack
 Shiny: Yes
@@ -29,7 +44,15 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20251221
+.MetDate=20250504
+EVs: 252 HP / 252 Def / 4 SpD
+Ability: Purifying Salt
+Tera Type: Flying
+Impish Nature
+- Stealth Rock
+- Recover
+- Body Press
+- Salt Cure
 
 Garganacl
 Shiny: Yes
@@ -40,7 +63,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240102
+.MetDate=20250105
+EVs: 252 HP / 4 Def / 252 SpD
+Ability: Sturdy
+Tera Type: Water
+Careful Nature
+- Iron Defense
+- Recover
+- Body Press
 
 Charcadet
 Shiny: Yes
@@ -51,7 +81,15 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230228
+.MetDate=20231217
+EVs: 4 Def / 252 SpA / 252 Spe
+Ability: Flash Fire
+Tera Type: Fighting
+Timid Nature
+- Flamethrower
+- Night Shade
+- Tera Blast
+- Will-O-Wisp
 
 Armarouge
 Shiny: Yes
@@ -62,4 +100,11 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240117
+.MetDate=20240516
+EVs: 4 Def / 252 SpA / 252 Spe
+Ability: Flash Fire
+Tera Type: Fighting
+Timid Nature
+- Armor Cannon
+- Psyshock
+- Focus Blast

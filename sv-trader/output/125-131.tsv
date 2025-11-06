@@ -7,7 +7,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230523
+.MetDate=20240703
+EVs: 252 SpA / 4 SpD / 252 Spe
+Ability: Static
+Tera Type: Electric
+Timid Nature
+- Thunderbolt
+- Volt Switch
+- Psychic
 
 Magmar
 Shiny: Yes
@@ -18,7 +25,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230713
+.MetDate=20241013
+EVs: 4 Atk / 252 SpA / 252 Spe
+Ability: Vital Spirit
+Tera Type: Fire
+Timid Nature
+- Fire Blast
+- Focus Blast
+- Mach Punch
 
 Tauros
 Shiny: Yes
@@ -29,7 +43,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250801
+.MetDate=20250710
+EVs: 252 Atk / 4 Def / 252 Spe
+Ability: Anger Point
+Tera Type: Normal
+Jolly Nature
+- Body Slam
+- Close Combat
+- Bulldoze
 
 Magikarp
 Shiny: Yes
@@ -40,7 +61,12 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240806
+.MetDate=20250205
+EVs: 4 HP / 252 Atk / 252 Spe
+Ability: Swift Swim
+Tera Type: Ground
+Jolly Nature
+- Splash
 
 Gyarados
 Shiny: Yes
@@ -51,7 +77,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20241026
+.MetDate=20231109
+EVs: 4 HP / 252 Atk / 252 Spe
+Ability: Intimidate
+Tera Type: Ground
+Jolly Nature
+- Dragon Dance
+- Waterfall
+- Earthquake
 
 Lapras
 Shiny: Yes
@@ -62,4 +95,11 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20251209
+.MetDate=20240709
+EVs: 248 HP / 8 Def / 252 SpD
+Ability: Water Absorb
+Tera Type: Ice
+Calm Nature
+- Sheer Cold
+- Horn Drill
+- Rest

@@ -7,7 +7,15 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20231022
+.MetDate=20230810
+EVs: 252 HP / 252 Def / 4 SpA
+Ability: Healer
+Tera Type: Fire
+Bold Nature
+- Calm Mind
+- Psychic
+- Dazzling Gleam
+- Mystical Fire
 
 Hatterene
 Shiny: Yes
@@ -18,7 +26,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20251008
+.MetDate=20231215
+EVs: 252 HP / 4 Def / 252 SpA
+Ability: Anticipation
+Tera Type: Fire
+Quiet Nature
+- Trick Room
+- Psyshock
+- Dazzling Gleam
 
 Impidimp
 Shiny: Yes
@@ -29,7 +44,15 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230426
+.MetDate=20230823
+EVs: 252 HP / 252 Atk / 4 SpD
+Ability: Frisk
+Tera Type: Fairy
+Adamant Nature
+- Fake Out
+- Reflect
+- Light Screen
+- Play Rough
 
 Morgrem
 Shiny: Yes
@@ -40,7 +63,15 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230418
+.MetDate=20250517
+EVs: 252 HP / 252 Atk / 4 SpD
+Ability: Prankster
+Tera Type: Fairy
+Adamant Nature
+- Fake Out
+- Reflect
+- Light Screen
+- Play Rough
 
 Grimmsnarl
 Shiny: Yes
@@ -51,7 +82,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240301
+.MetDate=20240109
+EVs: 252 HP / 252 Atk / 4 SpD
+Ability: Frisk
+Tera Type: Fairy
+Adamant Nature
+- Fake Out
+- Reflect
+- Light Screen
 
 Milcery
 Shiny: Yes
@@ -62,4 +100,12 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20241120
+.MetDate=20231208
+EVs: 252 HP / 252 Def / 4 SpA
+Ability: Aroma Veil
+Tera Type: Fairy
+Bold Nature
+- Charm
+- Tera Blast
+- Protect
+- Rest

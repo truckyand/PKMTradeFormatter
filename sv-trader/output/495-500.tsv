@@ -7,7 +7,15 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230817
+.MetDate=20230507
+EVs: 248 HP / 24 Def / 4 SpD / 232 Spe
+Ability: Contrary
+Tera Type: Grass
+Timid Nature
+- Giga Drain
+- Leaf Storm
+- Substitute
+- Protect
 
 Servine
 Shiny: Yes
@@ -18,7 +26,15 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250909
+.MetDate=20240909
+EVs: 248 HP / 24 Def / 4 SpD / 232 Spe
+Ability: Contrary
+Tera Type: Grass
+Timid Nature
+- Giga Drain
+- Leaf Storm
+- Substitute
+- Protect
 
 Serperior
 Shiny: Yes
@@ -29,7 +45,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230618
+.MetDate=20250601
+EVs: 248 HP / 24 Def / 4 SpD / 232 Spe
+Ability: Contrary
+Tera Type: Grass
+Timid Nature
+- Leech Seed
+- Leaf Storm
+- Substitute
 
 Tepig
 Shiny: Yes
@@ -40,7 +63,15 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240507
+.MetDate=20230711
+EVs: 252 Atk / 4 Def / 252 Spe
+Ability: Thick Fat
+Tera Type: Fire
+Jolly Nature
+- Flare Blitz
+- Superpower
+- Wild Charge
+- Flamethrower
 
 Pignite
 Shiny: Yes
@@ -51,7 +82,15 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20231008
+.MetDate=20230425
+EVs: 252 Atk / 4 Def / 252 Spe
+Ability: Thick Fat
+Tera Type: Fire
+Jolly Nature
+- Flare Blitz
+- Superpower
+- Wild Charge
+- Flamethrower
 
 Emboar
 Shiny: Yes
@@ -62,4 +101,11 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250513
+.MetDate=20230414
+EVs: 252 Atk / 4 Def / 252 Spe
+Ability: Reckless
+Tera Type: Fire
+Jolly Nature
+- Flare Blitz
+- Superpower
+- Wild Charge

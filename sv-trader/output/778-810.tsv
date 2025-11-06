@@ -7,7 +7,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240318
+.MetDate=20251212
+EVs: 252 Atk / 4 SpD / 252 Spe
+Ability: Disguise
+Tera Type: Ghost
+Jolly Nature
+- Shadow Claw
+- Swords Dance
+- Play Rough
 
 Bruxish
 Shiny: Yes
@@ -18,7 +25,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240910
+.MetDate=20241104
+EVs: 252 Atk / 4 Def / 252 Spe
+Ability: Dazzling
+Tera Type: Psychic
+Jolly Nature
+- Psychic Fangs
+- Aqua Jet
+- Wave Crash
 
 Jangmo-o
 Shiny: Yes
@@ -29,7 +43,15 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250210
+.MetDate=20240813
+EVs: 252 SpA / 4 SpD / 252 Spe
+Ability: Bulletproof
+Tera Type: Normal
+Timid Nature
+- Focus Blast
+- Substitute
+- Dragon Pulse
+- Tera Blast
 
 Hakamo-o
 Shiny: Yes
@@ -40,7 +62,15 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240118
+.MetDate=20240802
+EVs: 252 SpA / 4 SpD / 252 Spe
+Ability: Soundproof
+Tera Type: Normal
+Timid Nature
+- Focus Blast
+- Vacuum Wave
+- Dragon Pulse
+- Tera Blast
 
 Kommo-o
 Shiny: Yes
@@ -51,7 +81,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240615
+.MetDate=20250418
+EVs: 252 SpA / 4 SpD / 252 Spe
+Ability: Bulletproof
+Tera Type: Normal
+Timid Nature
+- Clangorous Soul
+- Clanging Scales
+- Boomburst
 
 Grookey
 Shiny: Yes
@@ -62,4 +99,12 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250411
+.MetDate=20241015
+EVs: 252 Atk / 4 SpD / 252 Spe
+Ability: Overgrow
+Tera Type: Grass
+Jolly Nature
+- Bullet Seed
+- Drain Punch
+- U-turn
+- Fake Out

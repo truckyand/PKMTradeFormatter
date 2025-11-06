@@ -1,0 +1,55 @@
+plm-za-alpha
+
+
+ 
+999999
+Master Ball
+Dusk Ball
+
+4118
+758975
+trucky
+
+
+Tarvitar
+Korodie
+Avalug
+Raichu Alolan
+
+
+.t 24267675
+Tyrunt (F) @ Eviolite
+Shiny: Yes
+Alpha: Yes
+OT: trucky
+OTGender: Female
+TID: 75897
+SID: 4118
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+EVs: 212 Spe / 76 SpD / 204 Atk
+
+
+.t 24267675
+Aerodactyl (F) @ Eviolite
+Shiny: Yes
+Alpha: Yes
+OT: trucky
+OTGender: Female
+TID: 75897
+SID: 4118
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+EVs: 4 HP / 252 Spe / 252 Atk
+
+
+
+.t 24267675
+Amaura @ Eviolite
+Shiny: Yes
+Alpha: Yes
+OT: trucky
+OTGender: Female
+TID: 75897
+SID: 4118
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+EVs: 4 HP / 252 Spe / 252 Atk
+

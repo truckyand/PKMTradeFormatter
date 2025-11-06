@@ -7,7 +7,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230402
+.MetDate=20230404
+EVs: 4 HP / 252 SpA / 252 Spe
+Ability: Drizzle
+Tera Type: Water
+Modest Nature
+- Hurricane
+- Hydro Pump
+- Tailwind
 
 Ralts
 Shiny: Yes
@@ -18,7 +25,15 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20251112
+.MetDate=20230411
+EVs: 252 SpA / 4 SpD / 252 Spe
+Ability: Synchronize
+Tera Type: Dark
+Timid Nature
+- Dazzling Gleam
+- Calm Mind
+- Thunderbolt
+- Psychic
 
 Kirlia
 Shiny: Yes
@@ -29,7 +44,15 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240421
+.MetDate=20240606
+EVs: 252 SpA / 4 SpD / 252 Spe
+Ability: Synchronize
+Tera Type: Dark
+Timid Nature
+- Dazzling Gleam
+- Calm Mind
+- Thunderbolt
+- Psychic
 
 Gardevoir
 Shiny: Yes
@@ -40,7 +63,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230101
+.MetDate=20230417
+EVs: 252 SpA / 4 SpD / 252 Spe
+Ability: Trace
+Tera Type: Dark
+Timid Nature
+- Moonblast
+- Calm Mind
+- Tera Blast
 
 Surskit
 Shiny: Yes
@@ -51,7 +81,15 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20251020
+.MetDate=20231012
+EVs: 252 SpA / 4 SpD / 252 Spe
+Ability: Swift Swim
+Tera Type: Water
+Timid Nature
+- Bug Buzz
+- Surf
+- Rain Dance
+- Giga Drain
 
 Masquerain
 Shiny: Yes
@@ -62,4 +100,11 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20231225
+.MetDate=20241116
+EVs: 252 SpA / 4 SpD / 252 Spe
+Ability: Intimidate
+Tera Type: Water
+Timid Nature
+- Sticky Web
+- Bug Buzz
+- Air Slash

@@ -7,7 +7,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250611
+.MetDate=20231115
+EVs: 252 HP / 252 Def / 4 SpD
+Ability: Run Away
+Tera Type: Electric
+Impish Nature
+- Nuzzle
+- Protect
+- U-turn
 
 Buizel
 Shiny: Yes
@@ -18,7 +25,15 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250905
+.MetDate=20250309
+EVs: 252 SpA / 4 SpD / 252 Spe
+Ability: Swift Swim
+Tera Type: Water
+Timid Nature
+- Hydro Pump
+- Ice Beam
+- Aqua Jet
+- Substitute
 
 Floatzel
 Shiny: Yes
@@ -29,7 +44,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250616
+.MetDate=20230424
+EVs: 252 SpA / 4 SpD / 252 Spe
+Ability: Swift Swim
+Tera Type: Water
+Timid Nature
+- Hydro Pump
+- Ice Beam
+- Focus Blast
 
 Shellos
 Shiny: Yes
@@ -40,7 +62,15 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230315
+.MetDate=20250422
+EVs: 244 HP / 252 Def / 12 SpA
+Ability: Storm Drain
+Tera Type: Water
+Modest Nature
+- Chilling Water
+- Recover
+- Clear Smog
+- Earth Power
 
 Gastrodon
 Shiny: Yes
@@ -51,7 +81,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240211
+.MetDate=20241006
+EVs: 252 HP / 252 Def / 4 SpA
+Ability: Storm Drain
+Tera Type: Ground
+Modest Nature
+- Chilling Water
+- Recover
+- Earth Power
 
 Ambipom
 Shiny: Yes
@@ -62,4 +99,11 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230405
+.MetDate=20230303
+EVs: 252 Atk / 4 Def / 252 Spe
+Ability: Technician
+Tera Type: Normal
+Jolly Nature
+- Fake Out
+- Fury Swipes
+- Low Kick

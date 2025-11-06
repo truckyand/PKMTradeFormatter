@@ -7,7 +7,15 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240721
+.MetDate=20240415
+EVs: 4 Def / 252 SpA / 252 Spe
+Ability: Chlorophyll
+Tera Type: Psychic
+Modest Nature
+- Leaf Storm
+- Psychic
+- Psyshock
+- Giga Drain
 
 Exeggutor
 Shiny: Yes
@@ -18,7 +26,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20231206
+.MetDate=20240522
+EVs: 4 Def / 252 SpA / 252 Spe
+Ability: Chlorophyll
+Tera Type: Psychic
+Modest Nature
+- Leaf Storm
+- Psychic
+- Psyshock
 
 Hitmonlee
 Shiny: Yes
@@ -29,7 +44,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20251208
+.MetDate=20230820
+EVs: 48 HP / 252 Atk / 208 Spe
+Ability: Unburden
+Tera Type: Fighting
+Adamant Nature
+- Bulk Up
+- Close Combat
+- Knock Off
 
 Hitmonchan
 Shiny: Yes
@@ -40,7 +62,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20231018
+.MetDate=20231106
+EVs: 160 HP / 252 Atk / 96 Spe
+Ability: Iron Fist
+Tera Type: Fighting
+Adamant Nature
+- Rapid Spin
+- Drain Punch
+- Mach Punch
 
 Koffing
 Shiny: Yes
@@ -51,7 +80,15 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240610
+.MetDate=20230724
+EVs: 252 HP / 252 SpD / 4 Spe
+Ability: Levitate
+Tera Type: Electric
+Calm Nature
+- Sludge Bomb
+- Flamethrower
+- Will-O-Wisp
+- Pain Split
 
 Weezing
 Shiny: Yes
@@ -62,4 +99,11 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250311
+.MetDate=20230720
+EVs: 252 HP / 252 SpD / 4 Spe
+Ability: Neutralizing Gas
+Tera Type: Electric
+Calm Nature
+- Sludge Bomb
+- Flamethrower
+- Will-O-Wisp

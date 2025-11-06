@@ -7,7 +7,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20231011
+.MetDate=20240724
+EVs: 252 Atk / 4 SpD / 252 Spe
+Ability: Regenerator
+Tera Type: Fighting
+Jolly Nature
+- Swords Dance
+- Knock Off
+- U-turn
 
 Golett
 Shiny: Yes
@@ -18,7 +25,15 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20251013
+.MetDate=20230310
+EVs: 252 Atk / 4 SpD / 252 Spe
+Ability: No Guard
+Tera Type: Ghost
+Adamant Nature
+- Fling
+- Body Slam
+- Poltergeist
+- Earth Power
 
 Golurk
 Shiny: Yes
@@ -29,7 +44,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20251221
+.MetDate=20251101
+EVs: 252 Atk / 4 SpD / 252 Spe
+Ability: No Guard
+Tera Type: Ghost
+Adamant Nature
+- Poltergeist
+- Earthquake
+- Close Combat
 
 Pawniard
 Shiny: Yes
@@ -40,7 +62,15 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230910
+.MetDate=20230722
+EVs: 252 HP / 252 Atk / 4 SpD
+Ability: Defiant
+Tera Type: Flying
+Adamant Nature
+- Poison Jab
+- Iron Head
+- Tera Blast
+- Swords Dance
 
 Bisharp
 Shiny: Yes
@@ -51,7 +81,15 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230724
+.MetDate=20240312
+EVs: 252 HP / 252 Atk / 4 SpD
+Ability: Defiant
+Tera Type: Flying
+Adamant Nature
+- Night Slash
+- Iron Head
+- Tera Blast
+- Swords Dance
 
 Rufflet
 Shiny: Yes
@@ -62,4 +100,12 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240111
+.MetDate=20250405
+EVs: 252 Atk / 4 SpD / 252 Spe
+Ability: Keen Eye
+Tera Type: Flying
+Jolly Nature
+- Brave Bird
+- Close Combat
+- Protect
+- U-turn

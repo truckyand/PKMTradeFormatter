@@ -7,7 +7,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20251020
+.MetDate=20251024
+EVs: 4 Def / 252 SpA / 252 Spe
+Ability: Aftermath
+Tera Type: Dark
+Modest Nature
+- Nasty Plot
+- Sludge Bomb
+- Dark Pulse
 
 Bronzor
 Shiny: Yes
@@ -18,7 +25,15 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230518
+.MetDate=20240102
+EVs: 252 HP / 252 Def / 4 SpD
+Ability: Heatproof
+Tera Type: Normal
+Relaxed Nature
+- Stealth Rock
+- Protect
+- Earthquake
+- Iron Head
 
 Bronzong
 Shiny: Yes
@@ -29,7 +44,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20251101
+.MetDate=20250807
+EVs: 252 HP / 252 Def / 4 SpD
+Ability: Heatproof
+Tera Type: Psychic
+Relaxed Nature
+- Stealth Rock
+- Protect
+- Body Press
 
 Bonsly
 Shiny: Yes
@@ -40,7 +62,15 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240603
+.MetDate=20230501
+EVs: 252 Atk / 4 Def / 252 Spe
+Ability: Sturdy
+Tera Type: Flying
+Adamant Nature
+- Stomping Tantrum
+- Sucker Punch
+- Rock Slide
+- Double-Edge
 
 Happiny
 Shiny: Yes
@@ -51,7 +81,15 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240725
+.MetDate=20250124
+EVs: 252 HP / 252 Def / 4 SpD
+Ability: Serene Grace
+Tera Type: Ghost
+Bold Nature
+- Seismic Toss
+- Thunder Wave
+- Protect
+- Helping Hand
 
 Spiritomb
 Shiny: Yes
@@ -62,4 +100,11 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20231109
+.MetDate=20230905
+EVs: 248 HP / 252 Atk / 8 Def
+Ability: Pressure
+Tera Type: Dark
+Adamant Nature
+- Shadow Sneak
+- Sucker Punch
+- Foul Play

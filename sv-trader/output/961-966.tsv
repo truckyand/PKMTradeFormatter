@@ -7,7 +7,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240122
+.MetDate=20240228
+EVs: 4 HP / 252 Atk / 252 Spe
+Ability: Rattled
+Tera Type: Water
+Jolly Nature
+- Triple Dive
+- Memento
+- Aqua Jet
 
 Bombirdier
 Shiny: Yes
@@ -18,7 +25,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20251126
+.MetDate=20240520
+EVs: 252 Atk / 4 Def / 252 Spe
+Ability: Big Pecks
+Tera Type: Flying
+Adamant Nature
+- Roost
+- Knock Off
+- Brave Bird
 
 Finizen
 Shiny: Yes
@@ -29,7 +43,15 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20251107
+.MetDate=20251002
+EVs: 252 Atk / 4 SpD / 252 Spe
+Ability: Water Veil
+Tera Type: Ice
+Jolly Nature
+- Acrobatics
+- Zen Headbutt
+- Liquidation
+- Tera Blast
 
 Palafin
 Shiny: Yes
@@ -40,7 +62,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20251115
+.MetDate=20240827
+EVs: 252 Atk / 4 SpD / 252 Spe
+Ability: Zero to Hero
+Tera Type: Ice
+Jolly Nature
+- Jet Punch
+- Flip Turn
+- Wave Crash
 
 Varoom
 Shiny: Yes
@@ -51,7 +80,15 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230108
+.MetDate=20240105
+EVs: 252 Atk / 4 SpD / 252 Spe
+Ability: Overcoat
+Tera Type: Poison
+Jolly Nature
+- Iron Head
+- Parting Shot
+- Toxic
+- Gunk Shot
 
 Revavroom
 Shiny: Yes
@@ -62,4 +99,11 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20241211
+.MetDate=20250613
+EVs: 252 Atk / 4 SpD / 252 Spe
+Ability: Overcoat
+Tera Type: Poison
+Jolly Nature
+- Shift Gear
+- Parting Shot
+- Spin Out

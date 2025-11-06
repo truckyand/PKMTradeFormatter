@@ -7,7 +7,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230505
+.MetDate=20250611
+EVs: 252 SpA / 4 SpD / 252 Spe
+Ability: Hustle
+Tera Type: Flying
+Timid Nature
+- Spikes
+- Rapid Spin
+- Icy Wind
 
 Skarmory
 Shiny: Yes
@@ -18,7 +25,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250802
+.MetDate=20250619
+EVs: 252 HP / 252 Def / 4 Spe
+Ability: Sturdy
+Tera Type: Flying
+Impish Nature
+- Roost
+- Stealth Rock
+- Drill Peck
 
 Houndour
 Shiny: Yes
@@ -29,7 +43,15 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20241224
+.MetDate=20231006
+EVs: 4 Def / 252 SpA / 252 Spe
+Ability: Flash Fire
+Tera Type: Dark
+Timid Nature
+- Nasty Plot
+- Fire Blast
+- Dark Pulse
+- Destiny Bond
 
 Houndoom
 Shiny: Yes
@@ -40,7 +62,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250814
+.MetDate=20250417
+EVs: 4 Def / 252 SpA / 252 Spe
+Ability: Flash Fire
+Tera Type: Dark
+Timid Nature
+- Nasty Plot
+- Fire Blast
+- Dark Pulse
 
 Kingdra
 Shiny: Yes
@@ -51,7 +80,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250711
+.MetDate=20230411
+EVs: 252 SpA / 4 SpD / 252 Spe
+Ability: Swift Swim
+Tera Type: Water
+Modest Nature
+- Hydro Pump
+- Draco Meteor
+- Surf
 
 Phanpy
 Shiny: Yes
@@ -62,4 +98,12 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240515
+.MetDate=20231124
+EVs: 252 HP / 252 Atk / 4 Spe
+Ability: Pickup
+Tera Type: Ground
+Adamant Nature
+- Rock Slide
+- Earthquake
+- Protect
+- Stealth Rock

@@ -7,7 +7,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250218
+.MetDate=20250305
+EVs: 252 Atk / 4 SpD / 252 Spe
+Ability: Sheer Force
+Tera Type: Water
+Jolly Nature
+- Dragon Dance
+- Liquidation
+- Ice Punch
 
 Sentret
 Shiny: Yes
@@ -18,7 +25,15 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240910
+.MetDate=20251105
+EVs: 252 Atk / 4 SpD / 252 Spe
+Ability: Keen Eye
+Tera Type: Normal
+Jolly Nature
+- Trick
+- Double-Edge
+- U-turn
+- Knock Off
 
 Furret
 Shiny: Yes
@@ -29,7 +44,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240804
+.MetDate=20230426
+EVs: 252 Atk / 4 SpD / 252 Spe
+Ability: Keen Eye
+Tera Type: Normal
+Jolly Nature
+- Trick
+- Double-Edge
+- U-turn
 
 Hoothoot
 Shiny: Yes
@@ -40,7 +62,15 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250105
+.MetDate=20231210
+EVs: 4 Def / 252 SpA / 252 Spe
+Ability: Insomnia
+Tera Type: Normal
+Modest Nature
+- Nasty Plot
+- Hyper Voice
+- Hurricane
+- Roost
 
 Noctowl
 Shiny: Yes
@@ -51,7 +81,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240511
+.MetDate=20250920
+EVs: 4 Def / 252 SpA / 252 Spe
+Ability: Tinted Lens
+Tera Type: Normal
+Modest Nature
+- Nasty Plot
+- Hypnosis
+- Hurricane
 
 Spinarak
 Shiny: Yes
@@ -62,4 +99,12 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240317
+.MetDate=20241123
+EVs: 252 Atk / 4 Def / 252 Spe
+Ability: Insomnia
+Tera Type: Bug
+Jolly Nature
+- Knock Off
+- Toxic Spikes
+- Megahorn
+- Poison Jab

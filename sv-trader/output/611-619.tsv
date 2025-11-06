@@ -7,7 +7,15 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230617
+.MetDate=20250504
+EVs: 252 Atk / 4 SpD / 252 Spe
+Ability: Mold Breaker
+Tera Type: Steel
+Jolly Nature
+- Outrage
+- Dragon Dance
+- Bulldoze
+- Brick Break
 
 Haxorus
 Shiny: Yes
@@ -18,7 +26,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250921
+.MetDate=20240125
+EVs: 252 Atk / 4 SpD / 252 Spe
+Ability: Rivalry
+Tera Type: Steel
+Jolly Nature
+- Outrage
+- Dragon Dance
+- Close Combat
 
 Cubchoo
 Shiny: Yes
@@ -29,7 +44,15 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230616
+.MetDate=20250109
+EVs: 252 HP / 252 Atk / 4 SpD
+Ability: Slush Rush
+Tera Type: Ice
+Adamant Nature
+- Ice Punch
+- Play Rough
+- Bulldoze
+- Crunch
 
 Beartic
 Shiny: Yes
@@ -40,7 +63,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240318
+.MetDate=20250826
+EVs: 252 HP / 252 Atk / 4 SpD
+Ability: Snow Cloak
+Tera Type: Ice
+Adamant Nature
+- Icicle Crash
+- Close Combat
+- Earthquake
 
 Cryogonal
 Shiny: Yes
@@ -51,7 +81,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230509
+.MetDate=20231226
+EVs: 248 HP / 8 SpA / 52 SpD / 200 Spe
+Ability: Levitate
+Tera Type: Ice
+Timid Nature
+- Rapid Spin
+- Recover
+- Ice Beam
 
 Mienfoo
 Shiny: Yes
@@ -62,4 +99,12 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240906
+.MetDate=20241019
+EVs: 252 Atk / 4 SpD / 252 Spe
+Ability: Regenerator
+Tera Type: Fighting
+Jolly Nature
+- Close Combat
+- Knock Off
+- U-turn
+- Swords Dance

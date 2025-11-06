@@ -7,7 +7,15 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230709
+.MetDate=20250215
+EVs: 252 HP / 252 Def / 4 SpD
+Ability: Own Tempo
+Tera Type: Psychic
+Bold Nature
+- Reflect
+- Light Screen
+- Psychic
+- Thunder Wave
 
 Meowstic
 Shiny: Yes
@@ -18,7 +26,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20231204
+.MetDate=20231114
+EVs: 252 HP / 252 Def / 4 SpD
+Ability: Prankster
+Tera Type: Psychic
+Bold Nature
+- Reflect
+- Light Screen
+- Psychic
 
 Inkay
 Shiny: Yes
@@ -29,7 +44,15 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240815
+.MetDate=20250511
+EVs: 252 HP / 4 Def / 252 SpD
+Ability: Contrary
+Tera Type: Psychic
+Careful Nature
+- Knock Off
+- Superpower
+- Rest
+- Sleep Talk
 
 Malamar
 Shiny: Yes
@@ -40,7 +63,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230414
+.MetDate=20230625
+EVs: 252 HP / 4 Def / 252 SpD
+Ability: Contrary
+Tera Type: Psychic
+Careful Nature
+- Knock Off
+- Superpower
+- Rest
 
 Skrelp
 Shiny: Yes
@@ -51,7 +81,15 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230409
+.MetDate=20240307
+EVs: 228 HP / 252 SpA / 28 Spe
+Ability: Poison Touch
+Tera Type: Normal
+Modest Nature
+- Dragon Pulse
+- Sludge Bomb
+- Thunderbolt
+- Toxic Spikes
 
 Dragalge
 Shiny: Yes
@@ -62,4 +100,11 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240716
+.MetDate=20240901
+EVs: 228 HP / 252 SpA / 28 Spe
+Ability: Poison Touch
+Tera Type: Dragon
+Modest Nature
+- Draco Meteor
+- Venoshock
+- Focus Blast

@@ -7,7 +7,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240509
+.MetDate=20240102
+EVs: 252 HP / 252 Def / 4 SpD
+Ability: Water Absorb
+Tera Type: Water
+Relaxed Nature
+- Muddy Water
+- Earthquake
+- Recover
 
 Espeon
 Shiny: Yes
@@ -18,7 +25,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230622
+.MetDate=20240626
+EVs: 4 HP / 252 SpA / 252 Spe
+Ability: Synchronize
+Tera Type: Dark
+Timid Nature
+- Calm Mind
+- Morning Sun
+- Dazzling Gleam
 
 Umbreon
 Shiny: Yes
@@ -29,7 +43,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230403
+.MetDate=20230918
+EVs: 252 HP / 4 Def / 252 SpD
+Ability: Synchronize
+Tera Type: Ghost
+Calm Nature
+- Foul Play
+- Wish
+- Protect
 
 Murkrow
 Shiny: Yes
@@ -40,7 +61,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240320
+.MetDate=20230706
+EVs: 252 HP / 4 SpD / 252 Spe
+Ability: Insomnia
+Tera Type: Ghost
+Jolly Nature
+- Tailwind
+- Taunt
+- Foul Play
 
 Toxtricity
 Shiny: Yes
@@ -51,7 +79,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240209
+.MetDate=20240520
+EVs: 248 HP / 252 Def / 8 SpD
+Ability: Oblivious
+Tera Type: Psychic
+Bold Nature
+- Scald
+- Psyshock
+- Calm Mind
 
 Slowking
 Shiny: Yes
@@ -62,4 +97,11 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250419
+.MetDate=20231226
+EVs: 248 HP / 252 Def / 8 SpD
+Ability: Oblivious
+Tera Type: Psychic
+Bold Nature
+- Scald
+- Psyshock
+- Calm Mind

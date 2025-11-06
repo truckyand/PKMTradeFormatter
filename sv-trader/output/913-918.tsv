@@ -7,7 +7,15 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230709
+.MetDate=20251102
+EVs: 4 HP / 252 Atk / 252 Spe
+Ability: Torrent
+Tera Type: Flying
+Hardy Nature
+- Roost
+- Liquidation
+- Brave Bird
+- Protect
 
 Quaquaval
 Shiny: Yes
@@ -18,7 +26,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250702
+.MetDate=20250104
+EVs: 4 HP / 252 Atk / 252 Spe
+Ability: Torrent
+Tera Type: Flying
+Jolly Nature
+- Aqua Step
+- Close Combat
+- Brave Bird
 
 Lechonk
 Shiny: Yes
@@ -29,7 +44,15 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240606
+.MetDate=20251228
+EVs: 252 HP / 252 Atk / 4 Def
+Ability: Gluttony
+Tera Type: Ground
+Adamant Nature
+- Body Slam
+- Play Rough
+- Tera Blast
+- Seed Bomb
 
 Oinkologne
 Shiny: Yes
@@ -40,7 +63,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20231018
+.MetDate=20250701
+EVs: 252 HP / 252 Atk / 4 Def
+Ability: Gluttony
+Tera Type: Ground
+Adamant Nature
+- Double-Edge
+- Play Rough
+- Tera Blast
 
 Tarountula
 Shiny: Yes
@@ -51,7 +81,15 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250605
+.MetDate=20240719
+EVs: 252 HP / 4 Def / 252 Spe
+Ability: Insomnia
+Tera Type: Dark
+Jolly Nature
+- First Impression
+- Spikes
+- Tackle
+- Toxic Spikes
 
 Spidops
 Shiny: Yes
@@ -62,4 +100,11 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240406
+.MetDate=20250626
+EVs: 252 HP / 4 Def / 252 Spe
+Ability: Insomnia
+Tera Type: Dark
+Jolly Nature
+- Taunt
+- Spikes
+- Sticky Web

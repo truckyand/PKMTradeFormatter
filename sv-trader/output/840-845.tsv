@@ -7,7 +7,15 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230224
+.MetDate=20241020
+EVs: 252 Atk / 4 Def / 252 Spe
+Ability: Ripen
+Tera Type: Dragon
+Adamant Nature
+- Astonish
+- Tera Blast
+- Sucker Punch
+- Recycle
 
 Flapple
 Shiny: Yes
@@ -18,7 +26,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240921
+.MetDate=20230322
+EVs: 252 Atk / 4 Def / 252 Spe
+Ability: Gluttony
+Tera Type: Steel
+Adamant Nature
+- Grav Apple
+- Outrage
+- Dragon Dance
 
 Appletun
 Shiny: Yes
@@ -29,7 +44,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230509
+.MetDate=20230222
+EVs: 248 HP / 8 SpA / 252 SpD
+Ability: Gluttony
+Tera Type: Steel
+Calm Nature
+- Apple Acid
+- Recover
+- Leech Seed
 
 Silicobra
 Shiny: Yes
@@ -40,7 +62,15 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230224
+.MetDate=20230704
+EVs: 4 HP / 252 Atk / 252 Spe
+Ability: Shed Skin
+Tera Type: Ground
+Adamant Nature
+- Glare
+- Facade
+- Earthquake
+- Coil
 
 Sandaconda
 Shiny: Yes
@@ -51,7 +81,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20231117
+.MetDate=20230801
+EVs: 4 HP / 252 Atk / 252 Spe
+Ability: Sand Spit
+Tera Type: Ground
+Adamant Nature
+- Glare
+- Stealth Rock
+- Earthquake
 
 Cramorant
 Shiny: Yes
@@ -62,4 +99,11 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20231114
+.MetDate=20230508
+EVs: 252 HP / 4 Def / 252 SpA
+Ability: Gulp Missile
+Tera Type: Ground
+Modest Nature
+- Substitute
+- Roost
+- Surf

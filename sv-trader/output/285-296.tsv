@@ -7,7 +7,15 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250720
+.MetDate=20241027
+EVs: 252 Atk / 4 Def / 252 Spe
+Ability: Poison Heal
+Tera Type: Rock
+Jolly Nature
+- Spore
+- Bullet Seed
+- Leech Seed
+- Drain Punch
 
 Breloom
 Shiny: Yes
@@ -18,7 +26,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230909
+.MetDate=20230213
+EVs: 252 Atk / 4 Def / 252 Spe
+Ability: Effect Spore
+Tera Type: Rock
+Jolly Nature
+- Spore
+- Bullet Seed
+- Mach Punch
 
 Slakoth
 Shiny: Yes
@@ -29,7 +44,15 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240126
+.MetDate=20241021
+EVs: 252 Atk / 4 SpA / 252 Spe
+Ability: Truant
+Tera Type: Normal
+Jolly Nature
+- Protect
+- Body Slam
+- Play Rough
+- Shadow Claw
 
 Vigoroth
 Shiny: Yes
@@ -40,7 +63,15 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250805
+.MetDate=20231125
+EVs: 252 Atk / 4 SpA / 252 Spe
+Ability: Vital Spirit
+Tera Type: Normal
+Jolly Nature
+- Body Slam
+- Slack Off
+- Earthquake
+- Drain Punch
 
 Slaking
 Shiny: Yes
@@ -51,7 +82,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20231015
+.MetDate=20250602
+EVs: 252 Atk / 4 SpA / 252 Spe
+Ability: Truant
+Tera Type: Normal
+Jolly Nature
+- Giga Impact
+- Sucker Punch
+- Earthquake
 
 Makuhita
 Shiny: Yes
@@ -62,4 +100,12 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230515
+.MetDate=20230111
+EVs: 252 HP / 252 Atk / 4 Spe
+Ability: Guts
+Tera Type: Steel
+Adamant Nature
+- Facade
+- Close Combat
+- Rock Slide
+- Bullet Punch

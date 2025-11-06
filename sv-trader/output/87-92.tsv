@@ -7,7 +7,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20241105
+.MetDate=20250614
+EVs: 252 HP / 4 Def / 252 SpD
+Ability: Hydration
+Tera Type: Water
+Calm Nature
+- Aqua Tail
+- Ice Beam
+- Safeguard
 
 Grimer
 Shiny: Yes
@@ -18,7 +25,15 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230811
+.MetDate=20240520
+EVs: 252 HP / 252 Atk / 4 Spe
+Ability: Stench
+Tera Type: Ghost
+Adamant Nature
+- Poison Jab
+- Shadow Sneak
+- Thunder Punch
+- Ice Punch
 
 Muk
 Shiny: Yes
@@ -29,7 +44,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20251009
+.MetDate=20230824
+EVs: 252 HP / 252 Atk / 4 Spe
+Ability: Sticky Hold
+Tera Type: Ghost
+Adamant Nature
+- Poison Jab
+- Shadow Sneak
+- Thunder Punch
 
 Shellder
 Shiny: Yes
@@ -40,7 +62,15 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240226
+.MetDate=20251209
+EVs: 252 Atk / 4 SpD / 252 Spe
+Ability: Shell Armor
+Tera Type: Water
+Adamant Nature
+- Ice Spinner
+- Liquidation
+- Rock Blast
+- Toxic Spikes
 
 Cloyster
 Shiny: Yes
@@ -51,7 +81,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250718
+.MetDate=20230107
+EVs: 252 Atk / 4 SpD / 252 Spe
+Ability: Skill Link
+Tera Type: Water
+Adamant Nature
+- Shell Smash
+- Icicle Spear
+- Rock Blast
 
 Gastly
 Shiny: Yes
@@ -62,4 +99,12 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240612
+.MetDate=20240303
+EVs: 4 HP / 252 SpA / 252 Spe
+Ability: Levitate
+Tera Type: Poison
+Timid Nature
+- Shadow Ball
+- Sludge Bomb
+- Psychic
+- Destiny Bond

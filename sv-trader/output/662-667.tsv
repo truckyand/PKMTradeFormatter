@@ -7,7 +7,15 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240821
+.MetDate=20241117
+EVs: 252 Atk / 4 Def / 252 Spe
+Ability: Flame Body
+Tera Type: Ground
+Jolly Nature
+- Acrobatics
+- Flame Charge
+- U-turn
+- Tera Blast
 
 Talonflame
 Shiny: Yes
@@ -18,7 +26,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250101
+.MetDate=20250507
+EVs: 252 Atk / 4 Def / 252 Spe
+Ability: Flame Body
+Tera Type: Ground
+Adamant Nature
+- Brave Bird
+- Flare Blitz
+- U-turn
 
 Scatterbug
 Shiny: Yes
@@ -29,7 +44,8 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250515
+.MetDate=20250625
+
 
 Spewpa
 Shiny: Yes
@@ -40,7 +56,8 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20231118
+.MetDate=20230121
+
 
 Vivillon
 Shiny: Yes
@@ -51,7 +68,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250122
+.MetDate=20240914
+EVs: 252 SpA / 4 SpD / 252 Spe
+Ability: Compound Eyes
+Tera Type: Bug
+Timid Nature
+- Quiver Dance
+- Hurricane
+- Energy Ball
 
 Litleo
 Shiny: Yes
@@ -62,4 +86,12 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230203
+.MetDate=20230622
+EVs: 252 SpA / 4 SpD / 252 Spe
+Ability: Rivalry
+Tera Type: Grass
+Timid Nature
+- Fire Blast
+- Will-O-Wisp
+- Solar Beam
+- Yawn

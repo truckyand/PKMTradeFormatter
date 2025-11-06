@@ -7,7 +7,13 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20241018
+.MetDate=20250803
+EVs: 252 Atk / 4 SpD / 252 Spe
+Ability: Quark Drive
+Tera Type: Rock
+Jolly Nature
+- Swords Dance
+- Mighty Cleave
 
 Iron-crown
 Shiny: Yes
@@ -18,7 +24,13 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230807
+.MetDate=20251015
+EVs: 252 SpA / 4 SpD / 252 Spe
+Ability: Quark Drive
+Tera Type: Flying
+Modest Nature
+- Psychic
+- Tachyon Cutter
 
 Terapagos
 Shiny: Yes
@@ -29,7 +41,13 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240209
+.MetDate=20250905
+EVs: 252 SpA / 4 SpD / 252 Spe
+Ability: Tera Shift
+Tera Type: Stellar
+Modest Nature
+- Calm Mind
+- Rock Polish
 
 Pecharunt
 Shiny: Yes
@@ -40,4 +58,10 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250513
+.MetDate=20231107
+EVs: 252 HP / 252 Def / 4 SpD
+Ability: Poison Puppeteer
+Tera Type: Flying
+Timid Nature
+- Malignant Chain
+- Hex

@@ -7,7 +7,15 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240421
+.MetDate=20241016
+EVs: 252 SpA / 4 SpD / 252 Spe
+Ability: Torrent
+Tera Type: Water
+Timid Nature
+- Surf
+- Protect
+- Ice Shard
+- U-turn
 
 Inteleon
 Shiny: Yes
@@ -18,7 +26,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240417
+.MetDate=20230902
+EVs: 252 SpA / 4 SpD / 252 Spe
+Ability: Torrent
+Tera Type: Water
+Timid Nature
+- Snipe Shot
+- Ice Beam
+- Air Slash
 
 Skwovet
 Shiny: Yes
@@ -29,7 +44,15 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230318
+.MetDate=20230601
+EVs: 4 HP / 156 Atk / 84 Def / 140 SpD / 124 Spe
+Ability: Cheek Pouch
+Tera Type: Ghost
+Adamant Nature
+- Belly Drum
+- Body Slam
+- Thief
+- Bullet Seed
 
 Greedent
 Shiny: Yes
@@ -40,7 +63,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240922
+.MetDate=20230518
+EVs: 4 HP / 156 Atk / 84 Def / 140 SpD / 124 Spe
+Ability: Cheek Pouch
+Tera Type: Ghost
+Adamant Nature
+- Belly Drum
+- Body Slam
+- Fire Fang
 
 Rookidee
 Shiny: Yes
@@ -51,7 +81,15 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20231126
+.MetDate=20250808
+EVs: 252 HP / 32 Def / 136 SpD / 88 Spe
+Ability: Keen Eye
+Tera Type: Ground
+Careful Nature
+- Brave Bird
+- Roost
+- U-turn
+- Protect
 
 Corvisquire
 Shiny: Yes
@@ -62,4 +100,12 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250520
+.MetDate=20250706
+EVs: 252 HP / 32 Def / 136 SpD / 88 Spe
+Ability: Unnerve
+Tera Type: Ground
+Careful Nature
+- Brave Bird
+- Roost
+- U-turn
+- Protect

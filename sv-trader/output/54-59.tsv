@@ -7,7 +7,15 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20241207
+.MetDate=20240416
+EVs: 252 SpA / 4 SpD / 252 Spe
+Ability: Damp
+Tera Type: Grass
+Modest Nature
+- Psychic
+- Hydro Pump
+- Ice Beam
+- Calm Mind
 
 Golduck
 Shiny: Yes
@@ -18,7 +26,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250323
+.MetDate=20230622
+EVs: 252 SpA / 4 SpD / 252 Spe
+Ability: Cloud Nine
+Tera Type: Grass
+Modest Nature
+- Psychic
+- Hydro Pump
+- Ice Beam
 
 Mankey
 Shiny: Yes
@@ -29,7 +44,15 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230115
+.MetDate=20240825
+EVs: 252 Atk / 4 SpD / 252 Spe
+Ability: Vital Spirit
+Tera Type: Fighting
+Jolly Nature
+- Earthquake
+- Close Combat
+- U-turn
+- Poison Jab
 
 Primeape
 Shiny: Yes
@@ -40,7 +63,15 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250110
+.MetDate=20251125
+EVs: 252 Atk / 4 SpD / 252 Spe
+Ability: Anger Point
+Tera Type: Fighting
+Jolly Nature
+- Rage Fist
+- Close Combat
+- U-turn
+- Final Gambit
 
 Growlithe
 Shiny: Yes
@@ -51,7 +82,15 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250827
+.MetDate=20250927
+EVs: 252 Atk / 4 SpD / 252 Spe
+Ability: Flash Fire
+Tera Type: Normal
+Adamant Nature
+- Flare Blitz
+- Wild Charge
+- Crunch
+- Close Combat
 
 Arcanine
 Shiny: Yes
@@ -62,4 +101,11 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20251208
+.MetDate=20230420
+EVs: 4 HP / 252 Atk / 252 Spe
+Ability: Flash Fire
+Tera Type: Normal
+Adamant Nature
+- Flare Blitz
+- Wild Charge
+- Extreme Speed

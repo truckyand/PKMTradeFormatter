@@ -7,7 +7,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240115
+.MetDate=20250507
+EVs: 4 HP / 252 Def / 252 SpD
+Ability: Protosynthesis
+Tera Type: Dark
+Impish Nature
+- Spore
+- Protect
+- Rage Powder
 
 Flutter-mane
 Shiny: Yes
@@ -18,7 +25,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20231004
+.MetDate=20250201
+EVs: 252 SpA / 4 SpD / 252 Spe
+Ability: Protosynthesis
+Tera Type: Fairy
+Timid Nature
+- Shadow Ball
+- Moonblast
+- Calm Mind
 
 Slither-wing
 Shiny: Yes
@@ -29,7 +43,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230320
+.MetDate=20230513
+EVs: 4 HP / 252 Atk / 252 Spe
+Ability: Protosynthesis
+Tera Type: Bug
+Adamant Nature
+- First Impression
+- U-turn
+- Close Combat
 
 Sandy-shocks
 Shiny: Yes
@@ -40,7 +61,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250209
+.MetDate=20250827
+EVs: 4 Def / 252 SpA / 252 Spe
+Ability: Protosynthesis
+Tera Type: Grass
+Timid Nature
+- Spikes
+- Volt Switch
+- Thunderbolt
 
 Iron-treads
 Shiny: Yes
@@ -51,7 +79,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250909
+.MetDate=20231011
+EVs: 252 HP / 252 Atk / 4 Spe
+Ability: Quark Drive
+Tera Type: Ground
+Adamant Nature
+- Rapid Spin
+- Earthquake
+- Knock Off
 
 Iron-bundle
 Shiny: Yes
@@ -62,4 +97,11 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250919
+.MetDate=20250323
+EVs: 252 SpA / 4 SpD / 252 Spe
+Ability: Quark Drive
+Tera Type: Ice
+Timid Nature
+- Hydro Pump
+- Freeze-Dry
+- Taunt

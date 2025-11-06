@@ -7,7 +7,15 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20241219
+.MetDate=20250715
+EVs: 252 SpA / 4 SpD / 252 Spe
+Ability: Torrent
+Tera Type: Water
+Modest Nature
+- Flip Turn
+- Take Down
+- Tail Whip
+- Protect
 
 Wartortle
 Shiny: Yes
@@ -18,7 +26,15 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250410
+.MetDate=20240809
+EVs: 252 SpA / 4 SpD / 252 Spe
+Ability: Torrent
+Tera Type: Water
+Modest Nature
+- Aqua Ring
+- Water Gun
+- Ice Beam
+- Flail
 
 Blastoise
 Shiny: Yes
@@ -29,7 +45,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250905
+.MetDate=20240106
+EVs: 252 SpA / 4 SpD / 252 Spe
+Ability: Torrent
+Tera Type: Water
+Modest Nature
+- Hydro Pump
+- Ice Beam
+- Dark Pulse
 
 Ekans
 Shiny: Yes
@@ -40,7 +63,15 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240815
+.MetDate=20250111
+EVs: 252 Atk / 4 SpD / 252 Spe
+Ability: Intimidate
+Tera Type: Poison
+Adamant Nature
+- Trailblaze
+- Gunk Shot
+- Crunch
+- Sucker Punch
 
 Arbok
 Shiny: Yes
@@ -51,7 +82,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20231119
+.MetDate=20230726
+EVs: 252 Atk / 4 SpD / 252 Spe
+Ability: Shed Skin
+Tera Type: Poison
+Adamant Nature
+- Coil
+- Gunk Shot
+- Dragon Tail
 
 Pikachu
 Shiny: Yes
@@ -62,4 +100,11 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250802
+.MetDate=20241228
+EVs: 4 HP / 252 SpA / 252 Spe
+Ability: Static
+Tera Type: Grass
+Timid Nature
+- Thunderbolt
+- Grass Knot
+- Surf

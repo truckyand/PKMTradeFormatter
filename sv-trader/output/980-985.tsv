@@ -7,7 +7,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230821
+.MetDate=20230725
+EVs: 252 HP / 4 Def / 252 SpD
+Ability: Poison Point
+Tera Type: Grass
+Careful Nature
+- Earthquake
+- Toxic
+- Recover
 
 Farigiraf
 Shiny: Yes
@@ -18,7 +25,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230414
+.MetDate=20251015
+EVs: 4 HP / 252 SpA / 252 Spe
+Ability: Cud Chew
+Tera Type: Ghost
+Timid Nature
+- Nasty Plot
+- Psyshock
+- Dazzling Gleam
 
 Dudunsparce
 Shiny: Yes
@@ -29,7 +43,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20231212
+.MetDate=20241213
+EVs: 252 HP / 4 SpA / 252 Spe
+Ability: Serene Grace
+Tera Type: Flying
+Timid Nature
+- Glare
+- Dragon Tail
+- Roost
 
 Kingambit
 Shiny: Yes
@@ -40,7 +61,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20251001
+.MetDate=20251211
+EVs: 252 HP / 252 Atk / 4 SpD
+Ability: Supreme Overlord
+Tera Type: Dark
+Adamant Nature
+- Kowtow Cleave
+- Iron Head
+- Iron Defense
 
 Great-tusk
 Shiny: Yes
@@ -51,7 +79,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230905
+.MetDate=20241113
+EVs: 252 Atk / 4 SpD / 252 Spe
+Ability: Protosynthesis
+Tera Type: Ground
+Adamant Nature
+- Earthquake
+- Close Combat
+- Knock Off
 
 Scream-tail
 Shiny: Yes
@@ -62,4 +97,11 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250909
+.MetDate=20241010
+EVs: 252 HP / 4 Def / 252 SpA
+Ability: Protosynthesis
+Tera Type: Psychic
+Modest Nature
+- Stored Power
+- Dazzling Gleam
+- Calm Mind

@@ -7,7 +7,15 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20231025
+.MetDate=20251003
+EVs: 252 SpA / 4 SpD / 252 Spe
+Ability: Snow Warning
+Tera Type: Ice
+Mild Nature
+- Blizzard
+- Giga Drain
+- Protect
+- Substitute
 
 Abomasnow
 Shiny: Yes
@@ -18,7 +26,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230424
+.MetDate=20240219
+EVs: 252 SpA / 4 SpD / 252 Spe
+Ability: Snow Warning
+Tera Type: Ice
+Mild Nature
+- Blizzard
+- Giga Drain
+- Focus Blast
 
 Weavile
 Shiny: Yes
@@ -29,7 +44,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230426
+.MetDate=20240103
+EVs: 252 Atk / 4 SpD / 252 Spe
+Ability: Pressure
+Tera Type: Ice
+Jolly Nature
+- Icicle Crash
+- Ice Shard
+- Night Slash
 
 Magnezone
 Shiny: Yes
@@ -40,7 +62,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240812
+.MetDate=20250906
+EVs: 252 SpA / 4 SpD / 252 Spe
+Ability: Magnet Pull
+Tera Type: Grass
+Timid Nature
+- Thunderbolt
+- Flash Cannon
+- Volt Switch
 
 Rhyperior
 Shiny: Yes
@@ -51,7 +80,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20241203
+.MetDate=20240223
+EVs: 216 Atk / 128 Def / 164 Spe
+Ability: Solid Rock
+Tera Type: Rock
+Adamant Nature
+- Earthquake
+- Rock Wrecker
+- Rock Blast
 
 Electivire
 Shiny: Yes
@@ -62,4 +98,11 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240223
+.MetDate=20240212
+EVs: 4 Atk / 252 SpA / 252 Spe
+Ability: Motor Drive
+Tera Type: Electric
+Hasty Nature
+- Thunderbolt
+- Flamethrower
+- Focus Blast

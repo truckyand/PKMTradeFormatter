@@ -7,7 +7,15 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240325
+.MetDate=20250313
+EVs: 252 HP / 252 Def / 4 SpD
+Ability: Own Tempo
+Tera Type: Ground
+Relaxed Nature
+- Stealth Rock
+- Earthquake
+- Close Combat
+- Protect
 
 Mudsdale
 Shiny: Yes
@@ -18,7 +26,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20231121
+.MetDate=20230323
+EVs: 252 HP / 252 Def / 4 SpD
+Ability: Own Tempo
+Tera Type: Ground
+Relaxed Nature
+- Stealth Rock
+- Earthquake
+- Body Press
 
 Dewpider
 Shiny: Yes
@@ -29,7 +44,15 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240919
+.MetDate=20230318
+EVs: 252 HP / 100 Atk / 156 Spe
+Ability: Water Bubble
+Tera Type: Water
+Adamant Nature
+- Rain Dance
+- Water Gun
+- Stockpile
+- Poison Jab
 
 Araquanid
 Shiny: Yes
@@ -40,7 +63,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250204
+.MetDate=20251002
+EVs: 252 HP / 100 Atk / 156 Spe
+Ability: Water Bubble
+Tera Type: Water
+Adamant Nature
+- Mirror Coat
+- Sticky Web
+- Liquidation
 
 Fomantis
 Shiny: Yes
@@ -51,7 +81,15 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230217
+.MetDate=20250427
+EVs: 252 HP / 252 Def / 4 SpD
+Ability: Leaf Guard
+Tera Type: Fire
+Bold Nature
+- Defog
+- Protect
+- Leaf Storm
+- Tera Blast
 
 Lurantis
 Shiny: Yes
@@ -62,4 +100,11 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240702
+.MetDate=20230601
+EVs: 252 HP / 252 Def / 4 SpD
+Ability: Leaf Guard
+Tera Type: Fire
+Bold Nature
+- Defog
+- Synthesis
+- Leaf Storm

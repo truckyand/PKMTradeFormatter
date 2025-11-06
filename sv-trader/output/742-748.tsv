@@ -7,7 +7,15 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20241225
+.MetDate=20250202
+EVs: 4 Def / 252 SpA / 252 Spe
+Ability: Honey Gather
+Tera Type: Water
+Modest Nature
+- Calm Mind
+- Moonblast
+- Bug Buzz
+- Tera Blast
 
 Ribombee
 Shiny: Yes
@@ -18,7 +26,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250422
+.MetDate=20230302
+EVs: 4 Def / 252 SpA / 252 Spe
+Ability: Shield Dust
+Tera Type: Water
+Modest Nature
+- Quiver Dance
+- Moonblast
+- Bug Buzz
 
 Rockruff
 Shiny: Yes
@@ -29,7 +44,15 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250806
+.MetDate=20240501
+EVs: 252 Atk / 4 Def / 252 Spe
+Ability: Own Tempo
+Tera Type: Flying
+Jolly Nature
+- Swords Dance
+- Stone Edge
+- Fire Fang
+- Thunder Fang
 
 Lycanroc
 Shiny: Yes
@@ -40,7 +63,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20251004
+.MetDate=20241125
+EVs: 252 Atk / 4 Def / 252 Spe
+Ability: Keen Eye
+Tera Type: Flying
+Jolly Nature
+- Swords Dance
+- Stone Edge
+- Brick Break
 
 Mareanie
 Shiny: Yes
@@ -51,7 +81,15 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20241026
+.MetDate=20250317
+EVs: 252 HP / 252 Def / 4 SpD
+Ability: Merciless
+Tera Type: Grass
+Bold Nature
+- Chilling Water
+- Venoshock
+- Toxic Spikes
+- Protect
 
 Toxapex
 Shiny: Yes
@@ -62,4 +100,11 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20251023
+.MetDate=20240203
+EVs: 252 HP / 252 Def / 4 SpD
+Ability: Limber
+Tera Type: Grass
+Bold Nature
+- Recover
+- Toxic
+- Baneful Bunker

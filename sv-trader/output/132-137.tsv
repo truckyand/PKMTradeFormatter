@@ -7,7 +7,11 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250914
+.MetDate=20250626
+EVs: 252 HP / 4 Atk / 252 Spe
+Ability: Limber
+Tera Type: Ghost
+Adamant Nature
 
 Eevee
 Shiny: Yes
@@ -18,7 +22,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20241214
+.MetDate=20250510
+Ability: Run Away
+Tera Type: Normal
+Serious Nature
+- Helping Hand
+- Covet
+- Sand Attack
+- Quick Attack
 
 Vaporeon
 Shiny: Yes
@@ -29,7 +40,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20241014
+.MetDate=20230425
+EVs: 252 HP / 252 Def / 4 Spe
+Ability: Water Absorb
+Tera Type: Grass
+Bold Nature
+- Scald
+- Wish
+- Protect
 
 Jolteon
 Shiny: Yes
@@ -40,7 +58,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240725
+.MetDate=20240122
+EVs: 4 HP / 252 SpA / 252 Spe
+Ability: Volt Absorb
+Tera Type: Grass
+Timid Nature
+- Yawn
+- Volt Switch
+- Thunderbolt
 
 Flareon
 Shiny: Yes
@@ -51,7 +76,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240602
+.MetDate=20241206
+EVs: 252 HP / 252 Atk / 4 Def
+Ability: Flash Fire
+Tera Type: Grass
+Adamant Nature
+- Flare Blitz
+- Tera Blast
+- Double-Edge
 
 Porygon
 Shiny: Yes
@@ -62,4 +94,11 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20231125
+.MetDate=20240104
+EVs: 156 HP / 196 Def / 156 SpD
+Ability: Trace
+Tera Type: Normal
+Calm Nature
+- Tri Attack
+- Thunder Wave
+- Recover

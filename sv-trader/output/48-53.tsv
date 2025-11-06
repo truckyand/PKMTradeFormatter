@@ -7,7 +7,15 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230226
+.MetDate=20230915
+EVs: 252 SpA / 4 SpD / 252 Spe
+Ability: Tinted Lens
+Tera Type: Poison
+Timid Nature
+- Toxic Spikes
+- Morning Sun
+- Bug Buzz
+- Sludge Bomb
 
 Venomoth
 Shiny: Yes
@@ -18,7 +26,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20231002
+.MetDate=20250123
+EVs: 252 SpA / 4 SpD / 252 Spe
+Ability: Tinted Lens
+Tera Type: Poison
+Timid Nature
+- Quiver Dance
+- Sleep Powder
+- Bug Buzz
 
 Diglett
 Shiny: Yes
@@ -29,7 +44,15 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250604
+.MetDate=20240904
+EVs: 4 HP / 252 Atk / 252 Spe
+Ability: Arena Trap
+Tera Type: Ground
+Jolly Nature
+- Earthquake
+- Sucker Punch
+- Stealth Rock
+- Rock Slide
 
 Dugtrio
 Shiny: Yes
@@ -40,7 +63,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20231214
+.MetDate=20230725
+EVs: 4 HP / 252 Atk / 252 Spe
+Ability: Arena Trap
+Tera Type: Ground
+Jolly Nature
+- Earthquake
+- Sucker Punch
+- Stealth Rock
 
 Meowth
 Shiny: Yes
@@ -51,7 +81,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250306
+.MetDate=20251115
+EVs: 4 HP / 252 Atk / 252 Spe
+Ability: Pickup
+Tera Type: Normal
+Jolly Nature
+- Fake Out
+- Pay Day
+- U-turn
 
 Persian
 Shiny: Yes
@@ -62,4 +99,11 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230819
+.MetDate=20250720
+EVs: 4 Def / 252 SpA / 252 Spe
+Ability: Technician
+Tera Type: Normal
+Timid Nature
+- Nasty Plot
+- Hyper Voice
+- Icy Wind

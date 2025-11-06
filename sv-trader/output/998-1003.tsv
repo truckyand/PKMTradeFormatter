@@ -7,7 +7,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240628
+.MetDate=20250318
+EVs: 252 Atk / 4 SpD / 252 Spe
+Ability: Thermal Exchange
+Tera Type: Ground
+Jolly Nature
+- Glaive Rush
+- Icicle Crash
+- Earthquake
 
 Gimmighoul
 Shiny: Yes
@@ -18,7 +25,15 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240619
+.MetDate=20230326
+EVs: 252 HP / 4 Def / 252 SpA
+Ability: Rattled
+Tera Type: Steel
+Modest Nature
+- Shadow Ball
+- Nasty Plot
+- Power Gem
+- Protect
 
 Gholdengo
 Shiny: Yes
@@ -29,7 +44,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240302
+.MetDate=20240726
+EVs: 4 HP / 252 SpA / 252 Spe
+Ability: Good as Gold
+Tera Type: Steel
+Modest Nature
+- Hex
+- Make It Rain
+- Thunder Wave
 
 Wo-chien
 Shiny: Yes
@@ -40,7 +62,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20251215
+.MetDate=20230109
+EVs: 252 HP / 252 Def / 4 SpD
+Ability: Tablets of Ruin
+Tera Type: Grass
+Impish Nature
+- Leech Seed
+- Ruination
+- Protect
 
 Chien-pao
 Shiny: Yes
@@ -51,7 +80,13 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250318
+.MetDate=20251005
+EVs: 252 Atk / 4 SpD / 252 Spe
+Ability: Sword of Ruin
+Tera Type: Dark
+Jolly Nature
+- Icicle Crash
+- Sucker Punch
 
 Ting-lu
 Shiny: Yes
@@ -62,4 +97,11 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230210
+.MetDate=20230519
+EVs: 252 HP / 4 Atk / 252 SpD
+Ability: Vessel of Ruin
+Tera Type: Ground
+Careful Nature
+- Sand Tomb
+- Throat Chop
+- Ruination

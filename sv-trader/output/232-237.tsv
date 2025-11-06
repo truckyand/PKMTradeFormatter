@@ -7,7 +7,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240313
+.MetDate=20240121
+EVs: 252 HP / 252 Atk / 4 Spe
+Ability: Sturdy
+Tera Type: Normal
+Adamant Nature
+- Rapid Spin
+- Earthquake
+- Knock Off
 
 Porygon2
 Shiny: Yes
@@ -18,7 +25,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20231017
+.MetDate=20251127
+EVs: 252 HP / 252 Def / 4 SpD
+Ability: Trace
+Tera Type: Normal
+Bold Nature
+- Recover
+- Ice Beam
+- Foul Play
 
 Stantler
 Shiny: Yes
@@ -29,7 +43,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20241105
+.MetDate=20240513
+EVs: 252 HP / 252 Atk / 4 SpD
+Ability: Frisk
+Tera Type: Normal
+Adamant Nature
+- Double-Edge
+- Earthquake
+- Wild Charge
 
 Smeargle
 Shiny: Yes
@@ -40,7 +61,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230811
+.MetDate=20230114
+EVs: 252 HP / 4 Def / 252 Spe
+Ability: Own Tempo
+Tera Type: Normal
+Jolly Nature
+- Sticky Web
+- Nuzzle
+- Taunt
 
 Tyrogue
 Shiny: Yes
@@ -51,7 +79,15 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230411
+.MetDate=20250603
+EVs: 48 HP / 252 Atk / 208 Spe
+Ability: Vital Spirit
+Tera Type: Fighting
+Adamant Nature
+- Focus Energy
+- Rest
+- Bulk Up
+- Sunny Day
 
 Hitmontop
 Shiny: Yes
@@ -62,4 +98,11 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230310
+.MetDate=20250514
+EVs: 248 HP / 252 Atk / 8 SpD
+Ability: Technician
+Tera Type: Fighting
+Adamant Nature
+- Rapid Spin
+- Low Kick
+- Mach Punch

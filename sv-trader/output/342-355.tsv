@@ -7,7 +7,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240720
+.MetDate=20230703
+EVs: 252 Atk / 4 SpD / 252 Spe
+Ability: Hyper Cutter
+Tera Type: Water
+Adamant Nature
+- Crabhammer
+- Knock Off
+- Aqua Jet
 
 Feebas
 Shiny: Yes
@@ -18,7 +25,15 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250917
+.MetDate=20231115
+EVs: 4 HP / 252 SpA / 252 Spe
+Ability: Oblivious
+Tera Type: Water
+Modest Nature
+- Surf
+- Ice Beam
+- Dragon Pulse
+- Protect
 
 Milotic
 Shiny: Yes
@@ -29,7 +44,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230128
+.MetDate=20250722
+EVs: 4 HP / 252 SpA / 252 Spe
+Ability: Competitive
+Tera Type: Water
+Modest Nature
+- Scald
+- Ice Beam
+- Recover
 
 Shuppet
 Shiny: Yes
@@ -40,7 +62,15 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240801
+.MetDate=20231016
+EVs: 40 HP / 252 Atk / 216 Spe
+Ability: Insomnia
+Tera Type: Ghost
+Adamant Nature
+- Destiny Bond
+- Foul Play
+- Gunk Shot
+- Phantom Force
 
 Banette
 Shiny: Yes
@@ -51,7 +81,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230725
+.MetDate=20231105
+EVs: 40 HP / 252 Atk / 216 Spe
+Ability: Insomnia
+Tera Type: Ghost
+Adamant Nature
+- Destiny Bond
+- Shadow Claw
+- Gunk Shot
 
 Duskull
 Shiny: Yes
@@ -62,4 +99,12 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230617
+.MetDate=20240727
+EVs: 4 HP / 252 Def / 252 SpD
+Ability: Levitate
+Tera Type: Normal
+Bold Nature
+- Will-O-Wisp
+- Protect
+- Night Shade
+- Pain Split

@@ -7,7 +7,15 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20251026
+.MetDate=20240517
+EVs: 252 Atk / 4 SpD / 252 Spe
+Ability: Sand Veil
+Tera Type: Fire
+Jolly Nature
+- Outrage
+- Earthquake
+- Stone Edge
+- Stealth Rock
 
 Gabite
 Shiny: Yes
@@ -18,7 +26,15 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230728
+.MetDate=20240403
+EVs: 4 HP / 252 Atk / 252 Spe
+Ability: Sand Veil
+Tera Type: Fire
+Jolly Nature
+- Swords Dance
+- Outrage
+- Earthquake
+- Tera Blast
 
 Garchomp
 Shiny: Yes
@@ -29,7 +45,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250219
+.MetDate=20230109
+EVs: 4 HP / 252 Atk / 252 Spe
+Ability: Sand Veil
+Tera Type: Steel
+Jolly Nature
+- Swords Dance
+- Outrage
+- Earthquake
 
 Munchlax
 Shiny: Yes
@@ -40,7 +63,15 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240303
+.MetDate=20230609
+EVs: 252 HP / 4 Def / 252 SpD
+Ability: Thick Fat
+Tera Type: Normal
+Careful Nature
+- Curse
+- Body Slam
+- Earthquake
+- Rest
 
 Riolu
 Shiny: Yes
@@ -51,7 +82,15 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250520
+.MetDate=20230425
+EVs: 252 Atk / 4 SpD / 252 Spe
+Ability: Inner Focus
+Tera Type: Normal
+Adamant Nature
+- Swords Dance
+- Bullet Punch
+- Close Combat
+- Earthquake
 
 Lucario
 Shiny: Yes
@@ -62,4 +101,11 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230821
+.MetDate=20231102
+EVs: 252 Atk / 4 SpD / 252 Spe
+Ability: Steadfast
+Tera Type: Normal
+Adamant Nature
+- Swords Dance
+- Bullet Punch
+- Close Combat

@@ -7,7 +7,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250405
+.MetDate=20250218
+EVs: 248 HP / 252 Atk / 8 Def
+Ability: Unburden
+Tera Type: Grass
+Adamant Nature
+- Swords Dance
+- Low Kick
+- Acrobatics
 
 Grovyle
 Shiny: Yes
@@ -18,7 +25,15 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240201
+.MetDate=20250714
+EVs: 248 HP / 252 Atk / 8 Def
+Ability: Unburden
+Tera Type: Grass
+Adamant Nature
+- Swords Dance
+- Leaf Blade
+- Acrobatics
+- Low Kick
 
 Sceptile
 Shiny: Yes
@@ -29,7 +44,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250816
+.MetDate=20241104
+EVs: 248 HP / 252 Atk / 8 Def
+Ability: Unburden
+Tera Type: Grass
+Adamant Nature
+- Swords Dance
+- Leaf Blade
+- Acrobatics
 
 Torchic
 Shiny: Yes
@@ -40,7 +62,15 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230305
+.MetDate=20231128
+EVs: 252 Atk / 4 SpD / 252 Spe
+Ability: Speed Boost
+Tera Type: Fire
+Jolly Nature
+- Heat Wave
+- Rock Slide
+- Will-O-Wisp
+- Swords Dance
 
 Combusken
 Shiny: Yes
@@ -51,7 +81,15 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240521
+.MetDate=20230825
+EVs: 252 Atk / 4 SpD / 252 Spe
+Ability: Speed Boost
+Tera Type: Fire
+Jolly Nature
+- Swords Dance
+- Flare Blitz
+- Close Combat
+- Thunder Punch
 
 Blaziken
 Shiny: Yes
@@ -62,4 +100,11 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240811
+.MetDate=20231211
+EVs: 252 Atk / 4 SpD / 252 Spe
+Ability: Speed Boost
+Tera Type: Fire
+Jolly Nature
+- Swords Dance
+- Flare Blitz
+- Close Combat

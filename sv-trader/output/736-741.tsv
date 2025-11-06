@@ -7,7 +7,15 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230710
+.MetDate=20240906
+EVs: 252 HP / 252 SpA
+Ability: Swarm
+Tera Type: Bug
+Modest Nature
+- Struggle Bug
+- Volt Switch
+- Thunder Wave
+- Thunderbolt
 
 Charjabug
 Shiny: Yes
@@ -18,7 +26,15 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250810
+.MetDate=20240402
+EVs: 252 HP / 252 SpA
+Ability: Battery
+Tera Type: Bug
+Modest Nature
+- Sticky Web
+- Volt Switch
+- Thunder Wave
+- Thunderbolt
 
 Vikavolt
 Shiny: Yes
@@ -29,7 +45,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20231121
+.MetDate=20250403
+EVs: 252 HP / 252 SpA
+Ability: Levitate
+Tera Type: Bug
+Modest Nature
+- Sticky Web
+- Volt Switch
+- Bug Buzz
 
 Crabrawler
 Shiny: Yes
@@ -40,7 +63,15 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250917
+.MetDate=20250216
+EVs: 252 HP / 4 Atk / 252 SpD
+Ability: Iron Fist
+Tera Type: Fighting
+Adamant Nature
+- Drain Punch
+- Ice Punch
+- Earthquake
+- Thunder Punch
 
 Crabominable
 Shiny: Yes
@@ -51,7 +82,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230517
+.MetDate=20241023
+EVs: 252 HP / 4 Atk / 252 SpD
+Ability: Iron Fist
+Tera Type: Fighting
+Adamant Nature
+- Drain Punch
+- Ice Hammer
+- Earthquake
 
 Oricorio
 Shiny: Yes
@@ -62,4 +100,11 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240804
+.MetDate=20250818
+EVs: 252 HP / 4 SpA / 252 Spe
+Ability: Dancer
+Tera Type: Dark
+Timid Nature
+- Calm Mind
+- Hurricane
+- Revelation Dance

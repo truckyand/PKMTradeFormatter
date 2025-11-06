@@ -7,7 +7,15 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240812
+.MetDate=20250628
+EVs: 248 HP / 168 Def / 92 SpD
+Ability: Effect Spore
+Tera Type: Poison
+Bold Nature
+- Toxic
+- Giga Drain
+- Clear Smog
+- Sludge Bomb
 
 Amoonguss
 Shiny: Yes
@@ -18,7 +26,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20251225
+.MetDate=20230928
+EVs: 252 HP / 180 Def / 76 SpD
+Ability: Effect Spore
+Tera Type: Poison
+Calm Nature
+- Spore
+- Rage Powder
+- Giga Drain
 
 Alomomola
 Shiny: Yes
@@ -29,7 +44,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250105
+.MetDate=20230920
+EVs: 252 HP / 252 Def / 4 SpD
+Ability: Healer
+Tera Type: Water
+Bold Nature
+- Wish
+- Pain Split
+- Chilling Water
 
 Joltik
 Shiny: Yes
@@ -40,7 +62,15 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20241013
+.MetDate=20241115
+EVs: 4 Def / 252 SpA / 252 Spe
+Ability: Compound Eyes
+Tera Type: Electric
+Timid Nature
+- Thunder Wave
+- Volt Switch
+- Bug Buzz
+- Thunder
 
 Galvantula
 Shiny: Yes
@@ -51,7 +81,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230516
+.MetDate=20241125
+EVs: 4 Def / 252 SpA / 252 Spe
+Ability: Compound Eyes
+Tera Type: Electric
+Timid Nature
+- Sticky Web
+- Volt Switch
+- Bug Buzz
 
 Tynamo
 Shiny: Yes
@@ -62,4 +99,12 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20251007
+.MetDate=20230528
+EVs: 252 HP / 4 Atk / 252 SpA
+Ability: Levitate
+Tera Type: Electric
+Modest Nature
+- Thunder Wave
+- Tera Blast
+- Spark
+- Charge Beam

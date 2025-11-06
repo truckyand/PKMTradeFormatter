@@ -7,7 +7,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240625
+.MetDate=20230116
+EVs: 252 SpA / 4 SpD / 252 Spe
+Ability: Flame Body
+Tera Type: Normal
+Modest Nature
+- Fire Blast
+- Thunderbolt
+- Focus Blast
 
 Yanmega
 Shiny: Yes
@@ -18,7 +25,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230107
+.MetDate=20240718
+EVs: 252 SpA / 4 SpD / 252 Spe
+Ability: Speed Boost
+Tera Type: Bug
+Timid Nature
+- Bug Buzz
+- Air Slash
+- U-turn
 
 Leafeon
 Shiny: Yes
@@ -29,7 +43,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230512
+.MetDate=20231208
+EVs: 252 Atk / 4 Def / 252 Spe
+Ability: Leaf Guard
+Tera Type: Steel
+Jolly Nature
+- Swords Dance
+- Leaf Blade
+- Double-Edge
 
 Glaceon
 Shiny: Yes
@@ -40,7 +61,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20251204
+.MetDate=20250720
+EVs: 4 Def / 252 SpA / 252 Spe
+Ability: Snow Cloak
+Tera Type: Water
+Modest Nature
+- Freeze-Dry
+- Ice Beam
+- Shadow Ball
 
 Gliscor
 Shiny: Yes
@@ -51,7 +79,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230707
+.MetDate=20230102
+EVs: 252 HP / 252 SpD / 4 Spe
+Ability: Hyper Cutter
+Tera Type: Steel
+Careful Nature
+- Stealth Rock
+- Earthquake
+- Protect
 
 Mamoswine
 Shiny: Yes
@@ -62,4 +97,11 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240624
+.MetDate=20230701
+EVs: 252 Atk / 4 SpD / 252 Spe
+Ability: Snow Cloak
+Tera Type: Ice
+Adamant Nature
+- Icicle Crash
+- Earthquake
+- Ice Shard

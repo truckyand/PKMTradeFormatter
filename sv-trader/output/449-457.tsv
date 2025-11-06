@@ -7,7 +7,15 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230109
+.MetDate=20250424
+EVs: 252 HP / 8 Atk / 72 Def / 176 SpD
+Ability: Sand Stream
+Tera Type: Ground
+Impish Nature
+- Earthquake
+- Slack Off
+- Stealth Rock
+- Whirlwind
 
 Hippowdon
 Shiny: Yes
@@ -18,7 +26,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230408
+.MetDate=20250805
+EVs: 252 HP / 8 Atk / 72 Def / 176 SpD
+Ability: Sand Stream
+Tera Type: Ground
+Impish Nature
+- Earthquake
+- Slack Off
+- Stealth Rock
 
 Croagunk
 Shiny: Yes
@@ -29,7 +44,15 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230325
+.MetDate=20251123
+EVs: 252 Atk / 4 SpD / 252 Spe
+Ability: Anticipation
+Tera Type: Fighting
+Jolly Nature
+- Nasty Plot
+- Sludge Bomb
+- Focus Blast
+- Vacuum Wave
 
 Toxicroak
 Shiny: Yes
@@ -40,7 +63,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230809
+.MetDate=20240225
+EVs: 252 Atk / 4 SpD / 252 Spe
+Ability: Anticipation
+Tera Type: Fighting
+Jolly Nature
+- Swords Dance
+- Gunk Shot
+- Drain Punch
 
 Finneon
 Shiny: Yes
@@ -51,7 +81,15 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250702
+.MetDate=20230113
+EVs: 252 HP / 248 Def / 8 Spe
+Ability: Swift Swim
+Tera Type: Water
+Bold Nature
+- Chilling Water
+- U-turn
+- Tailwind
+- Protect
 
 Lumineon
 Shiny: Yes
@@ -62,4 +100,11 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20241010
+.MetDate=20230120
+EVs: 252 HP / 248 Def / 8 Spe
+Ability: Swift Swim
+Tera Type: Water
+Bold Nature
+- Chilling Water
+- U-turn
+- Tailwind

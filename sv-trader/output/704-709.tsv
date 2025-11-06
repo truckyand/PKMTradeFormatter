@@ -7,7 +7,15 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240409
+.MetDate=20240716
+EVs: 252 SpA / 4 SpD / 252 Spe
+Ability: Hydration
+Tera Type: Dragon
+Timid Nature
+- Draco Meteor
+- Protect
+- Thunderbolt
+- Sludge Bomb
 
 Sliggoo
 Shiny: Yes
@@ -18,7 +26,15 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230126
+.MetDate=20230711
+EVs: 252 SpA / 4 SpD / 252 Spe
+Ability: Hydration
+Tera Type: Dragon
+Timid Nature
+- Draco Meteor
+- Muddy Water
+- Thunderbolt
+- Sludge Bomb
 
 Goodra
 Shiny: Yes
@@ -29,7 +45,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240107
+.MetDate=20241011
+EVs: 252 SpA / 4 SpD / 252 Spe
+Ability: Hydration
+Tera Type: Dragon
+Timid Nature
+- Draco Meteor
+- Fire Blast
+- Thunderbolt
 
 Klefki
 Shiny: Yes
@@ -40,7 +63,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230303
+.MetDate=20240622
+EVs: 248 HP / 252 SpD / 8 Spe
+Ability: Prankster
+Tera Type: Fairy
+Careful Nature
+- Spikes
+- Thunder Wave
+- Magnet Rise
 
 Phantump
 Shiny: Yes
@@ -51,7 +81,15 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250511
+.MetDate=20231001
+EVs: 252 Atk / 4 Def / 252 Spe
+Ability: Natural Cure
+Tera Type: Ghost
+Adamant Nature
+- Poltergeist
+- Bulldoze
+- Sucker Punch
+- Grassy Glide
 
 Trevenant
 Shiny: Yes
@@ -62,4 +100,11 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230904
+.MetDate=20250309
+EVs: 252 Atk / 4 Def / 252 Spe
+Ability: Frisk
+Tera Type: Ghost
+Adamant Nature
+- Poltergeist
+- Drain Punch
+- Horn Leech

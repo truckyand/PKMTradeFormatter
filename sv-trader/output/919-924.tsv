@@ -7,7 +7,15 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20231002
+.MetDate=20240804
+EVs: 252 Atk / 4 SpD / 252 Spe
+Ability: Swarm
+Tera Type: Bug
+Adamant Nature
+- Leech Life
+- U-turn
+- Protect
+- Substitute
 
 Lokix
 Shiny: Yes
@@ -18,7 +26,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230622
+.MetDate=20250406
+EVs: 252 Atk / 4 SpD / 252 Spe
+Ability: Swarm
+Tera Type: Bug
+Adamant Nature
+- First Impression
+- Sucker Punch
+- Leech Life
 
 Pawmi
 Shiny: Yes
@@ -29,7 +44,15 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20241225
+.MetDate=20240706
+EVs: 252 HP / 4 Atk / 252 Spe
+Ability: Natural Cure
+Tera Type: Grass
+Jolly Nature
+- Volt Switch
+- Encore
+- Wild Charge
+- Mach Punch
 
 Pawmo
 Shiny: Yes
@@ -40,7 +63,15 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20231028
+.MetDate=20230403
+EVs: 252 HP / 4 Atk / 252 Spe
+Ability: Natural Cure
+Tera Type: Grass
+Jolly Nature
+- Volt Switch
+- Encore
+- Nuzzle
+- Wish
 
 Pawmot
 Shiny: Yes
@@ -51,7 +82,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230626
+.MetDate=20230212
+EVs: 252 HP / 4 Atk / 252 Spe
+Ability: Volt Absorb
+Tera Type: Grass
+Jolly Nature
+- Volt Switch
+- Encore
+- Nuzzle
 
 Tandemaus
 Shiny: Yes
@@ -62,4 +100,12 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230911
+.MetDate=20250316
+EVs: 4 HP / 252 Atk / 252 Spe
+Ability: Run Away
+Tera Type: Normal
+Adamant Nature
+- Substitute
+- Shadow Claw
+- U-turn
+- Tera Blast

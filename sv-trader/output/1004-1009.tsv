@@ -7,7 +7,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240402
+.MetDate=20231012
+EVs: 252 SpA / 4 SpD / 252 Spe
+Ability: Beads of Ruin
+Tera Type: Grass
+Timid Nature
+- Flamethrower
+- Dark Pulse
+- Tera Blast
 
 Roaring-moon
 Shiny: Yes
@@ -18,7 +25,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230609
+.MetDate=20230310
+EVs: 252 Atk / 4 SpD / 252 Spe
+Ability: Protosynthesis
+Tera Type: Steel
+Jolly Nature
+- Jaw Lock
+- Outrage
+- Iron Head
 
 Iron-valiant
 Shiny: Yes
@@ -29,7 +43,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250227
+.MetDate=20231228
+EVs: 252 Atk / 4 SpD / 252 Spe
+Ability: Quark Drive
+Tera Type: Electric
+Jolly Nature
+- Close Combat
+- Spirit Break
+- Thunder Punch
 
 Koraidon
 Shiny: Yes
@@ -40,7 +61,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20231213
+.MetDate=20241224
+EVs: 6 HP / 252 Atk / 252 Spe
+Ability: Orichalcum Pulse
+Tera Type: Fighting
+Jolly Nature
+- Outrage
+- Swords Dance
+- Collision Course
 
 Miraidon
 Shiny: Yes
@@ -51,7 +79,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230623
+.MetDate=20231104
+EVs: 4 HP / 252 SpA / 252 Spe
+Ability: Hadron Engine
+Tera Type: Electric
+Timid Nature
+- Draco Meteor
+- Volt Switch
+- Electro Drift
 
 Walking-wake
 Shiny: Yes
@@ -62,4 +97,10 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250810
+.MetDate=20240810
+EVs: 4 HP / 252 SpA / 252 Spe
+Ability: Protosynthesis
+Tera Type: Water
+Timid Nature
+- Hydro Steam
+- Dragon Pulse

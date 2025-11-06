@@ -7,7 +7,15 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240309
+.MetDate=20240720
+EVs: 252 HP / 4 Atk / 252 SpA
+Ability: Levitate
+Tera Type: Electric
+Modest Nature
+- Volt Switch
+- Giga Drain
+- Flash Cannon
+- Thunderbolt
 
 Eelektross
 Shiny: Yes
@@ -18,7 +26,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20251001
+.MetDate=20240612
+EVs: 252 HP / 4 Atk / 252 SpA
+Ability: Levitate
+Tera Type: Electric
+Modest Nature
+- Volt Switch
+- Giga Drain
+- Flamethrower
 
 Litwick
 Shiny: Yes
@@ -29,7 +44,15 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230919
+.MetDate=20241025
+EVs: 4 HP / 252 SpA / 252 Spe
+Ability: Flame Body
+Tera Type: Ghost
+Timid Nature
+- Substitute
+- Calm Mind
+- Shadow Ball
+- Flamethrower
 
 Lampent
 Shiny: Yes
@@ -40,7 +63,15 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230917
+.MetDate=20230407
+EVs: 4 HP / 252 SpA / 252 Spe
+Ability: Flame Body
+Tera Type: Ghost
+Timid Nature
+- Substitute
+- Calm Mind
+- Shadow Ball
+- Flamethrower
 
 Chandelure
 Shiny: Yes
@@ -51,7 +82,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250512
+.MetDate=20230107
+EVs: 4 HP / 252 SpA / 252 Spe
+Ability: Flame Body
+Tera Type: Ghost
+Timid Nature
+- Substitute
+- Calm Mind
+- Shadow Ball
 
 Axew
 Shiny: Yes
@@ -62,4 +100,12 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250124
+.MetDate=20250226
+EVs: 252 Atk / 4 SpD / 252 Spe
+Ability: Mold Breaker
+Tera Type: Steel
+Jolly Nature
+- Outrage
+- Dragon Dance
+- Iron Head
+- Poison Jab

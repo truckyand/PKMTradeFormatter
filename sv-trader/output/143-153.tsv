@@ -7,7 +7,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20251108
+.MetDate=20250815
+EVs: 252 HP / 4 Def / 252 SpD
+Ability: Immunity
+Tera Type: Normal
+Careful Nature
+- Curse
+- Body Slam
+- Earthquake
 
 Dratini
 Shiny: Yes
@@ -18,7 +25,15 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20251020
+.MetDate=20231023
+EVs: 252 Atk / 4 SpD / 252 Spe
+Ability: Shed Skin
+Tera Type: Normal
+Jolly Nature
+- Dragon Dance
+- Outrage
+- Aqua Jet
+- Extreme Speed
 
 Dragonair
 Shiny: Yes
@@ -29,7 +44,15 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230606
+.MetDate=20250114
+EVs: 252 Atk / 4 SpD / 252 Spe
+Ability: Shed Skin
+Tera Type: Normal
+Jolly Nature
+- Dragon Dance
+- Outrage
+- Aqua Jet
+- Extreme Speed
 
 Dragonite
 Shiny: Yes
@@ -40,7 +63,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20241228
+.MetDate=20230407
+EVs: 252 Atk / 4 SpD / 252 Spe
+Ability: Inner Focus
+Tera Type: Normal
+Adamant Nature
+- Dragon Dance
+- Dragon Claw
+- Aerial Ace
 
 Chikorita
 Shiny: Yes
@@ -51,7 +81,15 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250528
+.MetDate=20251219
+EVs: 252 Atk / 4 Def / 252 Spe
+Ability: Overgrow
+Tera Type: Grass
+Jolly Nature
+- Tera Blast
+- Solar Blade
+- Sleep Talk
+- Giga Drain
 
 Bayleef
 Shiny: Yes
@@ -62,4 +100,12 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240223
+.MetDate=20250321
+EVs: 252 Atk / 4 Def / 252 Spe
+Ability: Overgrow
+Tera Type: Grass
+Jolly Nature
+- Tera Blast
+- Solar Blade
+- Sleep Talk
+- Giga Drain

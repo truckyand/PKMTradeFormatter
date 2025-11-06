@@ -7,7 +7,15 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20241220
+.MetDate=20230225
+EVs: 252 HP / 252 Atk / 4 SpD
+Ability: Pickup
+Tera Type: Normal
+Brave Nature
+- Swords Dance
+- Facade
+- Crunch
+- Close Combat
 
 Ursaring
 Shiny: Yes
@@ -18,7 +26,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20241013
+.MetDate=20241128
+EVs: 252 HP / 252 Atk / 4 SpD
+Ability: Quick Feet
+Tera Type: Normal
+Brave Nature
+- Swords Dance
+- Facade
+- Crunch
 
 Slugma
 Shiny: Yes
@@ -29,7 +44,15 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240319
+.MetDate=20241111
+EVs: 252 HP / 4 Def / 252 SpA
+Ability: Flame Body
+Tera Type: Grass
+Modest Nature
+- Stealth Rock
+- Flamethrower
+- Power Gem
+- Protect
 
 Magcargo
 Shiny: Yes
@@ -40,7 +63,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230623
+.MetDate=20240215
+EVs: 252 HP / 4 Def / 252 SpA
+Ability: Magma Armor
+Tera Type: Grass
+Modest Nature
+- Stealth Rock
+- Lava Plume
+- Ancient Power
 
 Swinub
 Shiny: Yes
@@ -51,7 +81,15 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20241110
+.MetDate=20230526
+EVs: 252 Atk / 4 SpD / 252 Spe
+Ability: Oblivious
+Tera Type: Ice
+Adamant Nature
+- Icicle Crash
+- Earthquake
+- Stealth Rock
+- Rock Slide
 
 Piloswine
 Shiny: Yes
@@ -62,4 +100,12 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230422
+.MetDate=20240118
+EVs: 252 Atk / 4 SpD / 252 Spe
+Ability: Oblivious
+Tera Type: Ice
+Adamant Nature
+- Icicle Crash
+- Earthquake
+- Ice Shard
+- Rock Slide

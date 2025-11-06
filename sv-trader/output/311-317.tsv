@@ -7,7 +7,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240317
+.MetDate=20250228
+EVs: 252 SpA / 4 SpD / 252 Spe
+Ability: Lightning Rod
+Tera Type: Electric
+Timid Nature
+- Nasty Plot
+- Thunderbolt
+- Substitute
 
 Minun
 Shiny: Yes
@@ -18,7 +25,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230502
+.MetDate=20240415
+EVs: 252 SpA / 4 SpD / 252 Spe
+Ability: Volt Absorb
+Tera Type: Electric
+Timid Nature
+- Nasty Plot
+- Thunderbolt
+- Grass Knot
 
 Volbeat
 Shiny: Yes
@@ -29,7 +43,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20231008
+.MetDate=20240528
+EVs: 252 HP / 4 Atk / 252 Def
+Ability: Illuminate
+Tera Type: Bug
+Relaxed Nature
+- Sunny Day
+- U-turn
+- Thunder Wave
 
 Illumise
 Shiny: Yes
@@ -40,7 +61,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240420
+.MetDate=20241223
+EVs: 252 HP / 4 Atk / 252 Def
+Ability: Tinted Lens
+Tera Type: Bug
+Relaxed Nature
+- Sunny Day
+- U-turn
+- Thunder Wave
 
 Gulpin
 Shiny: Yes
@@ -51,7 +79,15 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20251025
+.MetDate=20240304
+EVs: 252 HP / 6 Def / 252 SpD
+Ability: Sticky Hold
+Tera Type: Poison
+Careful Nature
+- Ice Punch
+- Toxic Spikes
+- Gunk Shot
+- Fire Punch
 
 Swalot
 Shiny: Yes
@@ -62,4 +98,11 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20241204
+.MetDate=20240304
+EVs: 252 HP / 6 Def / 252 SpD
+Ability: Sticky Hold
+Tera Type: Poison
+Quiet Nature
+- Ice Beam
+- Sludge Bomb
+- Giga Drain

@@ -7,7 +7,15 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250408
+.MetDate=20251205
+EVs: 252 Atk / 4 SpD / 252 Spe
+Ability: Arena Trap
+Tera Type: Ground
+Jolly Nature
+- Quick Attack
+- Mud-Slap
+- Struggle Bug
+- Earthquake
 
 Vibrava
 Shiny: Yes
@@ -18,7 +26,15 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230602
+.MetDate=20250801
+EVs: 252 Atk / 4 SpD / 252 Spe
+Ability: Levitate
+Tera Type: Ground
+Jolly Nature
+- Aerial Ace
+- Earthquake
+- Outrage
+- Stone Edge
 
 Flygon
 Shiny: Yes
@@ -29,7 +45,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250907
+.MetDate=20241124
+EVs: 252 Atk / 4 SpD / 252 Spe
+Ability: Levitate
+Tera Type: Ground
+Jolly Nature
+- Dragon Dance
+- Earthquake
+- Outrage
 
 Cacnea
 Shiny: Yes
@@ -40,7 +63,15 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240718
+.MetDate=20240219
+EVs: 4 Atk / 252 SpA / 252 Spe
+Ability: Sand Veil
+Tera Type: Grass
+Modest Nature
+- Spikes
+- Dark Pulse
+- Toxic Spikes
+- Energy Ball
 
 Cacturne
 Shiny: Yes
@@ -51,7 +82,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20251112
+.MetDate=20240828
+EVs: 4 Atk / 252 SpA / 252 Spe
+Ability: Sand Veil
+Tera Type: Grass
+Modest Nature
+- Spikes
+- Dark Pulse
+- Toxic Spikes
 
 Swablu
 Shiny: Yes
@@ -62,4 +100,12 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250721
+.MetDate=20240320
+EVs: 4 HP / 252 Atk / 252 Spe
+Ability: Natural Cure
+Tera Type: Flying
+Jolly Nature
+- Dragon Rush
+- Play Rough
+- Aerial Ace
+- Roost

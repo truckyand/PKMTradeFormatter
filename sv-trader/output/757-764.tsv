@@ -7,7 +7,15 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230406
+.MetDate=20241215
+EVs: 4 Def / 252 SpA / 252 Spe
+Ability: Corrosion
+Tera Type: Poison
+Timid Nature
+- Fire Blast
+- Sludge Bomb
+- Nasty Plot
+- Dragon Pulse
 
 Salazzle
 Shiny: Yes
@@ -18,7 +26,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240304
+.MetDate=20250810
+EVs: 4 Def / 252 SpA / 252 Spe
+Ability: Corrosion
+Tera Type: Normal
+Timid Nature
+- Fire Blast
+- Sludge Bomb
+- Nasty Plot
 
 Bounsweet
 Shiny: Yes
@@ -29,7 +44,15 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20241026
+.MetDate=20250608
+EVs: 252 Atk / 4 SpD / 252 Spe
+Ability: Oblivious
+Tera Type: Rock
+Jolly Nature
+- Seed Bomb
+- Tera Blast
+- Synthesis
+- Play Rough
 
 Steenee
 Shiny: Yes
@@ -40,7 +63,15 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240725
+.MetDate=20251216
+EVs: 252 Atk / 4 SpD / 252 Spe
+Ability: Leaf Guard
+Tera Type: Rock
+Jolly Nature
+- Seed Bomb
+- Tera Blast
+- Synthesis
+- Play Rough
 
 Tsareena
 Shiny: Yes
@@ -51,7 +82,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20251213
+.MetDate=20231128
+EVs: 252 Atk / 4 SpD / 252 Spe
+Ability: Queenly Majesty
+Tera Type: Rock
+Jolly Nature
+- Power Whip
+- Tera Blast
+- High Jump Kick
 
 Comfey
 Shiny: Yes
@@ -62,4 +100,11 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20241203
+.MetDate=20240503
+EVs: 252 HP / 192 SpA / 64 Spe
+Ability: Triage
+Tera Type: Fairy
+Modest Nature
+- Calm Mind
+- Stored Power
+- Draining Kiss

@@ -7,7 +7,15 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230204
+.MetDate=20240215
+EVs: 6 HP / 252 Atk / 252 Spe
+Ability: Rock Head
+Tera Type: Steel
+Jolly Nature
+- Dragon Dance
+- Outrage
+- Zen Headbutt
+- Fire Fang
 
 Shelgon
 Shiny: Yes
@@ -18,7 +26,15 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230425
+.MetDate=20240410
+EVs: 4 HP / 252 Atk / 252 Spe
+Ability: Rock Head
+Tera Type: Steel
+Jolly Nature
+- Dragon Dance
+- Outrage
+- Rest
+- Sleep Talk
 
 Salamence
 Shiny: Yes
@@ -29,7 +45,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250808
+.MetDate=20230203
+EVs: 252 Atk / 4 Def / 252 Spe
+Ability: Intimidate
+Tera Type: Steel
+Jolly Nature
+- Dragon Dance
+- Dual Wingbeat
+- Tera Blast
 
 Beldum
 Shiny: Yes
@@ -40,7 +63,15 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230201
+.MetDate=20240228
+EVs: 224 HP / 52 Atk / 232 SpD
+Ability: Clear Body
+Tera Type: Psychic
+Adamant Nature
+- Iron Defense
+- Steel Beam
+- Tackle
+- Iron Head
 
 Tatsugiri
 Shiny: Yes
@@ -51,7 +82,10 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240228
+.MetDate=20250805
+EVs: 224 HP / 52 Atk / 232 SpD
+Tera Type: Psychic
+Adamant Nature
 
 Metang
 Shiny: Yes
@@ -62,4 +96,12 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250515
+.MetDate=20241124
+EVs: 224 HP / 52 Atk / 232 SpD
+Ability: Clear Body
+Tera Type: Psychic
+Adamant Nature
+- Flash Cannon
+- Bullet Punch
+- Earthquake
+- Ice Punch

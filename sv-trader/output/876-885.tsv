@@ -7,7 +7,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250605
+.MetDate=20240514
+EVs: 252 SpA / 4 SpD / 252 Spe
+Ability: Synchronize
+Tera Type: Dark
+Timid Nature
+- Psyshock
+- Dazzling Gleam
+- Trick
 
 Morpeko
 Shiny: Yes
@@ -18,7 +25,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20251208
+.MetDate=20230912
+EVs: 252 Atk / 4 Def / 252 Spe
+Ability: Hunger Switch
+Tera Type: Electric
+Jolly Nature
+- Aura Wheel
+- Parting Shot
+- Super Fang
 
 Cufant
 Shiny: Yes
@@ -29,7 +43,15 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250319
+.MetDate=20240810
+EVs: 252 HP / 252 Atk / 4 SpD
+Ability: Sheer Force
+Tera Type: Flying
+Adamant Nature
+- Heavy Slam
+- Brick Break
+- Stone Edge
+- Earthquake
 
 Copperajah
 Shiny: Yes
@@ -40,7 +62,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240625
+.MetDate=20240316
+EVs: 252 HP / 252 Atk / 4 SpD
+Ability: Sheer Force
+Tera Type: Flying
+Adamant Nature
+- Heavy Slam
+- Superpower
+- Stone Edge
 
 Duraludon
 Shiny: Yes
@@ -51,7 +80,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20231001
+.MetDate=20240401
+EVs: 4 Def / 252 SpA / 252 Spe
+Ability: Light Metal
+Tera Type: Dragon
+Modest Nature
+- Draco Meteor
+- Flash Cannon
+- Body Press
 
 Dreepy
 Shiny: Yes
@@ -62,4 +98,12 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230601
+.MetDate=20250907
+EVs: 4 HP / 252 SpA / 252 Spe
+Ability: Clear Body
+Tera Type: Ghost
+Timid Nature
+- Draco Meteor
+- Astonish
+- Sucker Punch
+- Protect

@@ -7,7 +7,8 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240226
+.MetDate=20251228
+undefined
 
 Numel
 Shiny: Yes
@@ -18,7 +19,15 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20241217
+.MetDate=20231027
+EVs: 252 SpA / 4 SpD / 252 Spe
+Ability: Simple
+Tera Type: Grass
+Modest Nature
+- Overheat
+- Tera Blast
+- Flamethrower
+- Earth Power
 
 Camerupt
 Shiny: Yes
@@ -29,7 +38,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250912
+.MetDate=20250714
+EVs: 252 SpA / 4 SpD / 252 Spe
+Ability: Magma Armor
+Tera Type: Grass
+Modest Nature
+- Overheat
+- Tera Blast
+- Flamethrower
 
 Torkoal
 Shiny: Yes
@@ -40,7 +56,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250516
+.MetDate=20241002
+EVs: 252 HP / 4 Def / 252 SpA
+Ability: Drought
+Tera Type: Fire
+Quiet Nature
+- Eruption
+- Solar Beam
+- Heat Wave
 
 Spoink
 Shiny: Yes
@@ -51,7 +74,15 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240527
+.MetDate=20231025
+EVs: 4 HP / 252 SpA / 252 Spe
+Ability: Thick Fat
+Tera Type: Dark
+Timid Nature
+- Psychic
+- Thunder Wave
+- Shadow Ball
+- Calm Mind
 
 Grumpig
 Shiny: Yes
@@ -62,4 +93,11 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230323
+.MetDate=20240408
+EVs: 4 HP / 252 SpA / 252 Spe
+Ability: Thick Fat
+Tera Type: Dark
+Timid Nature
+- Psychic
+- Focus Blast
+- Shadow Ball

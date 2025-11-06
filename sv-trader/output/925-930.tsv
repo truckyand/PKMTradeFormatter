@@ -7,7 +7,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230901
+.MetDate=20251010
+EVs: 4 HP / 252 Atk / 252 Spe
+Ability: Friend Guard
+Tera Type: Normal
+Adamant Nature
+- Substitute
+- Beat Up
+- Population Bomb
 
 Fidough
 Shiny: Yes
@@ -18,7 +25,15 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240226
+.MetDate=20231122
+EVs: 252 HP / 4 Atk / 252 SpD
+Ability: Own Tempo
+Tera Type: Ground
+Careful Nature
+- Play Rough
+- Stomping Tantrum
+- Protect
+- Wish
 
 Dachsbun
 Shiny: Yes
@@ -29,7 +44,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230519
+.MetDate=20231102
+EVs: 252 HP / 4 Atk / 252 SpD
+Ability: Well-Baked Body
+Tera Type: Ground
+Careful Nature
+- Play Rough
+- Stomping Tantrum
+- Protect
 
 Smoliv
 Shiny: Yes
@@ -40,7 +62,15 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230605
+.MetDate=20230320
+EVs: 252 HP / 252 SpA / 4 SpD
+Ability: Early Bird
+Tera Type: Rock
+Modest Nature
+- Strength Sap
+- Protect
+- Giga Drain
+- Tera Blast
 
 Dolliv
 Shiny: Yes
@@ -51,7 +81,15 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20241024
+.MetDate=20251207
+EVs: 252 HP / 252 SpA / 4 SpD
+Ability: Early Bird
+Tera Type: Rock
+Modest Nature
+- Energy Ball
+- Strength Sap
+- Giga Drain
+- Tera Blast
 
 Arboliva
 Shiny: Yes
@@ -62,4 +100,11 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230823
+.MetDate=20250317
+EVs: 252 HP / 4 Def / 252 SpA
+Ability: Seed Sower
+Tera Type: Rock
+Modest Nature
+- Leech Seed
+- Strength Sap
+- Giga Drain

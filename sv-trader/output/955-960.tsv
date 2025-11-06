@@ -7,7 +7,15 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20231204
+.MetDate=20241220
+EVs: 252 HP / 210 Def / 48 SpA
+Ability: Frisk
+Tera Type: Fighting
+Bold Nature
+- Calm Mind
+- Roost
+- Stored Power
+- Tera Blast
 
 Espathra
 Shiny: Yes
@@ -18,7 +26,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250415
+.MetDate=20240112
+EVs: 252 HP / 210 Def / 48 SpA
+Ability: Frisk
+Tera Type: Fighting
+Bold Nature
+- Calm Mind
+- Roost
+- Lumina Crash
 
 Tinkatink
 Shiny: Yes
@@ -29,7 +44,15 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230618
+.MetDate=20230318
+EVs: 4 HP / 252 Atk / 252 Spe
+Ability: Own Tempo
+Tera Type: Electric
+Adamant Nature
+- Metal Claw
+- Tera Blast
+- Swords Dance
+- Play Rough
 
 Tinkatuff
 Shiny: Yes
@@ -40,7 +63,15 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20251211
+.MetDate=20241101
+EVs: 4 HP / 252 Atk / 252 Spe
+Ability: Own Tempo
+Tera Type: Electric
+Adamant Nature
+- Metal Claw
+- Tera Blast
+- Swords Dance
+- Play Rough
 
 Tinkaton
 Shiny: Yes
@@ -51,7 +82,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250519
+.MetDate=20250410
+EVs: 4 HP / 252 Atk / 252 Spe
+Ability: Mold Breaker
+Tera Type: Steel
+Adamant Nature
+- Knock Off
+- Play Rough
+- Swords Dance
 
 Wiglett
 Shiny: Yes
@@ -62,4 +100,12 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230624
+.MetDate=20230317
+EVs: 4 HP / 252 Atk / 252 Spe
+Ability: Rattled
+Tera Type: Water
+Jolly Nature
+- Liquidation
+- Memento
+- Foul Play
+- Mud-Slap

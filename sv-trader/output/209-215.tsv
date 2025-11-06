@@ -7,7 +7,15 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20241008
+.MetDate=20250617
+EVs: 252 Atk / 4 Def / 252 Spe
+Ability: Intimidate
+Tera Type: Fairy
+Adamant Nature
+- Play Rough
+- Earthquake
+- Fire Punch
+- Close Combat
 
 Granbull
 Shiny: Yes
@@ -18,7 +26,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250408
+.MetDate=20240721
+EVs: 252 Atk / 4 Def / 252 Spe
+Ability: Intimidate
+Tera Type: Fairy
+Adamant Nature
+- Play Rough
+- Earthquake
+- Fire Punch
 
 Qwilfish
 Shiny: Yes
@@ -29,7 +44,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20231107
+.MetDate=20241205
+EVs: 252 Atk / 4 Def / 252 Spe
+Ability: Poison Point
+Tera Type: Poison
+Adamant Nature
+- Swords Dance
+- Waterfall
+- Poison Jab
 
 Scizor
 Shiny: Yes
@@ -40,7 +62,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240426
+.MetDate=20250704
+EVs: 252 HP / 252 Atk / 4 SpD
+Ability: Technician
+Tera Type: Water
+Adamant Nature
+- Tera Blast
+- Swords Dance
+- Bullet Punch
 
 Heracross
 Shiny: Yes
@@ -51,7 +80,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250918
+.MetDate=20240713
+EVs: 252 Atk / 4 Def / 252 Spe
+Ability: Guts
+Tera Type: Fighting
+Jolly Nature
+- Swords Dance
+- Close Combat
+- Rock Blast
 
 Sneasel
 Shiny: Yes
@@ -62,4 +98,12 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240615
+.MetDate=20231016
+EVs: 252 Atk / 4 SpD / 252 Spe
+Ability: Keen Eye
+Tera Type: Ice
+Jolly Nature
+- Icicle Crash
+- Ice Shard
+- Poison Jab
+- Low Kick

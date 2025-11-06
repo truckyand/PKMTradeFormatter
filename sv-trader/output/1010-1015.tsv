@@ -7,7 +7,13 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240502
+.MetDate=20250228
+EVs: 4 HP / 252 Atk / 252 Spe
+Ability: Quark Drive
+Tera Type: Psychic
+Jolly Nature
+- Psyblade
+- Leaf Blade
 
 Dipplin
 Shiny: Yes
@@ -18,7 +24,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230910
+.MetDate=20250415
+EVs: 4 HP / 252 Def / 252 SpD
+Ability: Sticky Hold
+Tera Type: Steel
+Bold Nature
+- Recover
+- Dragon Pulse
+- Syrup Bomb
 
 Poltchageist
 Shiny: Yes
@@ -29,7 +42,15 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250624
+.MetDate=20250913
+EVs: 252 HP / 252 Def / 4 SpA
+Ability: Hospitality
+Tera Type: Steel
+Bold Nature
+- Giga Drain
+- Calm Mind
+- Protect
+- Iron Defense
 
 Sinistcha
 Shiny: Yes
@@ -40,7 +61,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20241208
+.MetDate=20230304
+EVs: 252 HP / 252 Def / 4 SpA
+Ability: Hospitality
+Tera Type: Steel
+Bold Nature
+- Matcha Gotcha
+- Calm Mind
+- Strength Sap
 
 Okidogi
 Shiny: Yes
@@ -51,7 +79,13 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20241115
+.MetDate=20250927
+EVs: 252 HP / 252 Atk / 4 SpD
+Ability: Toxic Chain
+Tera Type: Water
+Adamant Nature
+- Poison Jab
+- Drain Punch
 
 Munkidori
 Shiny: Yes
@@ -62,4 +96,10 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240218
+.MetDate=20240503
+EVs: 252 SpA / 4 SpD / 252 Spe
+Ability: Toxic Chain
+Tera Type: Poison
+Timid Nature
+- Sludge Bomb
+- Psyshock

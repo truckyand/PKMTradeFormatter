@@ -7,7 +7,15 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230317
+.MetDate=20250204
+EVs: 252 Atk / 4 SpD / 252 Spe
+Ability: Mold Breaker
+Tera Type: Rock
+Jolly Nature
+- Rock Slide
+- Earthquake
+- Fire Punch
+- Zen Headbutt
 
 Rampardos
 Shiny: Yes
@@ -18,7 +26,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250502
+.MetDate=20251218
+EVs: 252 Atk / 4 SpD / 252 Spe
+Ability: Mold Breaker
+Tera Type: Rock
+Jolly Nature
+- Head Smash
+- Earthquake
+- Fire Punch
 
 Shieldon
 Shiny: Yes
@@ -29,7 +44,15 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20251014
+.MetDate=20250704
+EVs: 252 HP / 4 Def / 252 SpD
+Ability: Sturdy
+Tera Type: Steel
+Careful Nature
+- Stealth Rock
+- Rock Slide
+- Roar
+- Earthquake
 
 Bastiodon
 Shiny: Yes
@@ -40,7 +63,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240706
+.MetDate=20250319
+EVs: 252 HP / 4 Def / 252 SpD
+Ability: Sturdy
+Tera Type: Steel
+Careful Nature
+- Stealth Rock
+- Rock Slide
+- Metal Burst
 
 Combee
 Shiny: Yes
@@ -51,7 +81,15 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250910
+.MetDate=20250116
+EVs: 252 HP / 252 Def / 4 Spe
+Ability: Honey Gather
+Tera Type: Ghost
+Bold Nature
+- Tera Blast
+- Struggle Bug
+- Bug Buzz
+- Sweet Scent
 
 Vespiquen
 Shiny: Yes
@@ -62,4 +100,11 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250426
+.MetDate=20240816
+EVs: 252 HP / 252 Def / 4 Spe
+Ability: Pressure
+Tera Type: Ghost
+Bold Nature
+- Protect
+- Toxic
+- Roost

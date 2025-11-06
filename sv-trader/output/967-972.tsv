@@ -7,7 +7,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230909
+.MetDate=20250904
+EVs: 252 HP / 4 Atk / 252 Spe
+Ability: Shed Skin
+Tera Type: Normal
+Jolly Nature
+- Shed Tail
+- Knock Off
+- U-turn
 
 Orthworm
 Shiny: Yes
@@ -18,7 +25,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20241114
+.MetDate=20250212
+EVs: 252 HP / 252 Def / 4 SpD
+Ability: Earth Eater
+Tera Type: Steel
+Impish Nature
+- Stealth Rock
+- Spikes
+- Shed Tail
 
 Glimmet
 Shiny: Yes
@@ -29,7 +43,15 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250222
+.MetDate=20240828
+EVs: 252 HP / 4 SpD / 252 Spe
+Ability: Toxic Debris
+Tera Type: Flying
+Jolly Nature
+- Toxic
+- Stealth Rock
+- Memento
+- Toxic Spikes
 
 Glimmora
 Shiny: Yes
@@ -40,7 +62,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20241208
+.MetDate=20250808
+EVs: 252 HP / 4 SpD / 252 Spe
+Ability: Toxic Debris
+Tera Type: Flying
+Jolly Nature
+- Mortal Spin
+- Stealth Rock
+- Memento
 
 Greavard
 Shiny: Yes
@@ -51,7 +80,15 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240711
+.MetDate=20251124
+EVs: 252 Atk / 4 SpD / 252 Spe
+Ability: Pickup
+Tera Type: Ghost
+Jolly Nature
+- Shadow Sneak
+- Play Rough
+- Trick
+- Yawn
 
 Houndstone
 Shiny: Yes
@@ -62,4 +99,11 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240216
+.MetDate=20241201
+EVs: 252 Atk / 4 SpD / 252 Spe
+Ability: Sand Rush
+Tera Type: Ghost
+Jolly Nature
+- Last Respects
+- Play Rough
+- Trick

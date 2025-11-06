@@ -7,7 +7,15 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230321
+.MetDate=20250414
+EVs: 6 HP / 252 SpA / 252 Spe
+Ability: Levitate
+Tera Type: Dark
+Timid Nature
+- Shadow Ball
+- Dark Pulse
+- Destiny Bond
+- Thunderbolt
 
 Girafarig
 Shiny: Yes
@@ -18,7 +26,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250216
+.MetDate=20230108
+EVs: 252 HP / 252 Def / 4 SpD
+Ability: Early Bird
+Tera Type: Ghost
+Bold Nature
+- Calm Mind
+- Tera Blast
+- Wish
 
 Pineco
 Shiny: Yes
@@ -29,7 +44,15 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20241004
+.MetDate=20240308
+EVs: 252 HP / 252 Def / 4 SpD
+Ability: Sturdy
+Tera Type: Bug
+Relaxed Nature
+- Struggle Bug
+- Toxic Spikes
+- Spikes
+- Protect
 
 Forretress
 Shiny: Yes
@@ -40,7 +63,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230417
+.MetDate=20230412
+EVs: 252 HP / 252 Def / 4 SpD
+Ability: Sturdy
+Tera Type: Bug
+Relaxed Nature
+- Gyro Ball
+- Toxic Spikes
+- Volt Switch
 
 Dunsparce
 Shiny: Yes
@@ -51,7 +81,15 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250704
+.MetDate=20240311
+EVs: 252 HP / 4 Def / 252 Spe
+Ability: Serene Grace
+Tera Type: Normal
+Serious Nature
+- Body Slam
+- Air Slash
+- Protect
+- Stealth Rock
 
 Gligar
 Shiny: Yes
@@ -62,4 +100,12 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230717
+.MetDate=20250222
+EVs: 252 HP / 252 SpD / 4 Spe
+Ability: Hyper Cutter
+Tera Type: Steel
+Careful Nature
+- Stealth Rock
+- Earthquake
+- Protect
+- Toxic

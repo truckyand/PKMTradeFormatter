@@ -7,7 +7,15 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240221
+.MetDate=20250904
+EVs: 92 HP / 252 SpA / 164 Spe
+Ability: Solar Power
+Tera Type: Rock
+Modest Nature
+- Solar Beam
+- Synthesis
+- Tera Blast
+- Giga Drain
 
 Sunflora
 Shiny: Yes
@@ -18,7 +26,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250206
+.MetDate=20240626
+EVs: 92 HP / 252 SpA / 164 Spe
+Ability: Chlorophyll
+Tera Type: Rock
+Modest Nature
+- Solar Beam
+- Synthesis
+- Sludge Bomb
 
 Yanma
 Shiny: Yes
@@ -29,7 +44,15 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230419
+.MetDate=20230321
+EVs: 252 SpA / 4 SpD / 252 Spe
+Ability: Compound Eyes
+Tera Type: Bug
+Timid Nature
+- Bug Buzz
+- Air Slash
+- U-turn
+- Giga Drain
 
 Wooper
 Shiny: Yes
@@ -40,7 +63,15 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240304
+.MetDate=20240508
+EVs: 252 HP / 252 Def / 4 SpD
+Ability: Water Absorb
+Tera Type: Ground
+Relaxed Nature
+- Liquidation
+- Earthquake
+- Recover
+- Toxic
 
 Basculin
 Shiny: Yes
@@ -51,7 +82,15 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240707
+.MetDate=20250824
+EVs: 252 HP / 252 Def / 4 SpD
+Ability: Water Absorb
+Tera Type: Ground
+Relaxed Nature
+- Liquidation
+- Earthquake
+- Recover
+- Toxic
 
 Quagsire
 Shiny: Yes
@@ -62,4 +101,11 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20241217
+.MetDate=20250405
+EVs: 252 HP / 252 Def / 4 SpD
+Ability: Water Absorb
+Tera Type: Water
+Relaxed Nature
+- Muddy Water
+- Earthquake
+- Recover

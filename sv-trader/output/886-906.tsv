@@ -7,7 +7,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240704
+.MetDate=20230126
+EVs: 4 HP / 252 SpA / 252 Spe
+Ability: Clear Body
+Tera Type: Ghost
+Timid Nature
+- Draco Meteor
+- Shadow Ball
+- Thunderbolt
 
 Dragapult
 Shiny: Yes
@@ -18,7 +25,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20231107
+.MetDate=20250509
+EVs: 4 HP / 252 SpA / 252 Spe
+Ability: Infiltrator
+Tera Type: Ghost
+Timid Nature
+- Draco Meteor
+- Shadow Ball
+- Thunderbolt
 
 Kleavor
 Shiny: Yes
@@ -29,7 +43,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230726
+.MetDate=20240404
+EVs: 4 HP / 252 Atk / 252 Spe
+Ability: Swarm
+Tera Type: Bug
+Jolly Nature
+- Stone Axe
+- Trailblaze
+- X-Scissor
 
 Ursaluna
 Shiny: Yes
@@ -40,7 +61,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240517
+.MetDate=20230112
+EVs: 252 HP / 252 Atk / 4 SpD
+Ability: Bulletproof
+Tera Type: Normal
+Adamant Nature
+- Facade
+- Headlong Rush
+- Fire Punch
 
 Overqwil
 Shiny: Yes
@@ -51,7 +79,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240202
+.MetDate=20230412
+EVs: 4 HP / 252 Atk / 252 Spe
+Ability: Swift Swim
+Tera Type: Dark
+Jolly Nature
+- Barb Barrage
+- Liquidation
+- Crunch
 
 Sprigatito
 Shiny: Yes
@@ -62,4 +97,12 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240216
+.MetDate=20230824
+EVs: 4 HP / 252 Atk / 252 Spe
+Ability: Overgrow
+Tera Type: Grass
+Jolly Nature
+- Shadow Claw
+- Sucker Punch
+- Bullet Seed
+- U-turn

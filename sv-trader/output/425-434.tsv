@@ -7,7 +7,15 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20241012
+.MetDate=20230711
+EVs: 252 Def / 4 SpA / 252 Spe
+Ability: Unburden
+Tera Type: Normal
+Bold Nature
+- Defog
+- Protect
+- Will-O-Wisp
+- Hex
 
 Drifblim
 Shiny: Yes
@@ -18,7 +26,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250315
+.MetDate=20230823
+EVs: 252 Def / 4 SpA / 252 Spe
+Ability: Unburden
+Tera Type: Normal
+Bold Nature
+- Defog
+- Strength Sap
+- Will-O-Wisp
 
 Mismagius
 Shiny: Yes
@@ -29,7 +44,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20251207
+.MetDate=20250223
+EVs: 6 HP / 252 SpA / 252 Spe
+Ability: Levitate
+Tera Type: Dark
+Timid Nature
+- Shadow Ball
+- Dark Pulse
+- Destiny Bond
 
 Honchkrow
 Shiny: Yes
@@ -40,7 +62,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20241123
+.MetDate=20250302
+EVs: 252 Atk / 4 SpD / 252 Spe
+Ability: Super Luck
+Tera Type: Flying
+Jolly Nature
+- Brave Bird
+- Sucker Punch
+- Taunt
 
 Chingling
 Shiny: Yes
@@ -51,7 +80,15 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230319
+.MetDate=20240204
+EVs: 252 HP / 4 Def / 252 SpD
+Ability: Levitate
+Tera Type: Psychic
+Calm Nature
+- Protect
+- Recover
+- Psychic
+- Thunder Wave
 
 Stunky
 Shiny: Yes
@@ -62,4 +99,12 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20241227
+.MetDate=20240902
+EVs: 4 Def / 252 SpA / 252 Spe
+Ability: Stench
+Tera Type: Dark
+Modest Nature
+- Nasty Plot
+- Sludge Bomb
+- Dark Pulse
+- Fire Blast

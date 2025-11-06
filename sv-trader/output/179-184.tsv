@@ -7,7 +7,15 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250310
+.MetDate=20231218
+EVs: 4 HP / 252 SpA / 252 Spe
+Ability: Static
+Tera Type: Dragon
+Bold Nature
+- Reflect
+- Light Screen
+- Volt Switch
+- Thunderbolt
 
 Flaaffy
 Shiny: Yes
@@ -18,7 +26,15 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250828
+.MetDate=20240205
+EVs: 4 HP / 252 SpA / 252 Spe
+Ability: Static
+Tera Type: Dragon
+Bold Nature
+- Reflect
+- Light Screen
+- Volt Switch
+- Thunderbolt
 
 Ampharos
 Shiny: Yes
@@ -29,7 +45,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20231120
+.MetDate=20240710
+EVs: 4 HP / 252 SpA / 252 Spe
+Ability: Static
+Tera Type: Dragon
+Modest Nature
+- Volt Switch
+- Dragon Pulse
+- Focus Blast
 
 Bellossom
 Shiny: Yes
@@ -40,7 +63,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230106
+.MetDate=20241011
+EVs: 252 HP / 4 Def / 252 Spe
+Ability: Chlorophyll
+Tera Type: Grass
+Timid Nature
+- Giga Drain
+- Quiver Dance
+- Strength Sap
 
 Marill
 Shiny: Yes
@@ -51,7 +81,15 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240503
+.MetDate=20250122
+EVs: 252 HP / 252 Atk / 4 SpD
+Ability: Huge Power
+Tera Type: Fairy
+Adamant Nature
+- Belly Drum
+- Aqua Jet
+- Play Rough
+- Protect
 
 Azumarill
 Shiny: Yes
@@ -62,4 +100,11 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240416
+.MetDate=20240913
+EVs: 252 HP / 252 Atk / 4 SpD
+Ability: Thick Fat
+Tera Type: Water
+Adamant Nature
+- Belly Drum
+- Aqua Jet
+- Play Rough

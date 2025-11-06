@@ -7,7 +7,15 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230419
+.MetDate=20240522
+EVs: 252 SpA / 4 SpD / 252 Spe
+Ability: Blaze
+Tera Type: Fire
+Timid Nature
+- Calm Mind
+- Fire Blast
+- Psyshock
+- Grass Knot
 
 Delphox
 Shiny: Yes
@@ -18,7 +26,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20231106
+.MetDate=20250818
+EVs: 252 SpA / 4 SpD / 252 Spe
+Ability: Blaze
+Tera Type: Fire
+Timid Nature
+- Calm Mind
+- Fire Blast
+- Psyshock
 
 Froakie
 Shiny: Yes
@@ -29,7 +44,15 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20241001
+.MetDate=20241215
+EVs: 4 Def / 252 SpA / 252 Spe
+Ability: Torrent
+Tera Type: Water
+Timid Nature
+- Ice Beam
+- Hydro Pump
+- U-turn
+- Toxic Spikes
 
 Frogadier
 Shiny: Yes
@@ -40,7 +63,15 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230606
+.MetDate=20240226
+EVs: 4 Def / 252 SpA / 252 Spe
+Ability: Torrent
+Tera Type: Water
+Timid Nature
+- Ice Beam
+- Hydro Pump
+- U-turn
+- Gunk Shot
 
 Greninja
 Shiny: Yes
@@ -51,7 +82,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250920
+.MetDate=20241121
+EVs: 4 Def / 252 SpA / 252 Spe
+Ability: Torrent
+Tera Type: Water
+Timid Nature
+- Dark Pulse
+- Water Shuriken
+- Extrasensory
 
 Fletchling
 Shiny: Yes
@@ -62,4 +100,12 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230610
+.MetDate=20250521
+EVs: 252 Atk / 4 Def / 252 Spe
+Ability: Big Pecks
+Tera Type: Ground
+Jolly Nature
+- Acrobatics
+- Flame Charge
+- U-turn
+- Tera Blast

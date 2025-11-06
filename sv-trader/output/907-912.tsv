@@ -7,7 +7,15 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240112
+.MetDate=20231112
+EVs: 4 HP / 252 Atk / 252 Spe
+Ability: Overgrow
+Tera Type: Grass
+Jolly Nature
+- Shadow Claw
+- Sucker Punch
+- Bullet Seed
+- U-turn
 
 Meowscarada
 Shiny: Yes
@@ -18,7 +26,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250404
+.MetDate=20240101
+EVs: 4 HP / 252 Atk / 252 Spe
+Ability: Overgrow
+Tera Type: Grass
+Jolly Nature
+- Flower Trick
+- Knock Off
+- U-turn
 
 Fuecoco
 Shiny: Yes
@@ -29,7 +44,15 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20251201
+.MetDate=20230118
+EVs: 252 HP / 4 Def / 252 SpA
+Ability: Blaze
+Tera Type: Ghost
+Modest Nature
+- Thunder Fang
+- Flamethrower
+- Slack Off
+- Will-O-Wisp
 
 Crocalor
 Shiny: Yes
@@ -40,7 +63,15 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230420
+.MetDate=20230505
+EVs: 252 HP / 4 Def / 252 SpA
+Ability: Blaze
+Tera Type: Ghost
+Modest Nature
+- Flamethrower
+- Slack Off
+- Thunder Fang
+- Will-O-Wisp
 
 Skeledirge
 Shiny: Yes
@@ -51,7 +82,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20251227
+.MetDate=20241103
+EVs: 252 HP / 4 Def / 252 SpA
+Ability: Blaze
+Tera Type: Ghost
+Modest Nature
+- Torch Song
+- Hex
+- Yawn
 
 Quaxly
 Shiny: Yes
@@ -62,4 +100,12 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240302
+.MetDate=20251001
+EVs: 4 HP / 252 Atk / 252 Spe
+Ability: Torrent
+Tera Type: Flying
+Hardy Nature
+- Roost
+- Liquidation
+- Brave Bird
+- Protect

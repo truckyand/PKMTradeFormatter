@@ -7,7 +7,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230901
+.MetDate=20251103
+EVs: 248 HP / 252 Def / 8 SpD
+Ability: Own Tempo
+Tera Type: Psychic
+Bold Nature
+- Scald
+- Psyshock
+- Calm Mind
 
 Magnemite
 Shiny: Yes
@@ -18,7 +25,15 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20251203
+.MetDate=20230215
+EVs: 252 SpA / 4 SpD / 252 Spe
+Ability: Magnet Pull
+Tera Type: Grass
+Timid Nature
+- Thunderbolt
+- Flash Cannon
+- Volt Switch
+- Tera Blast
 
 Magneton
 Shiny: Yes
@@ -29,7 +44,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240528
+.MetDate=20230609
+EVs: 252 SpA / 4 SpD / 252 Spe
+Ability: Magnet Pull
+Tera Type: Grass
+Timid Nature
+- Thunderbolt
+- Flash Cannon
+- Volt Switch
 
 Doduo
 Shiny: Yes
@@ -40,7 +62,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240422
+.MetDate=20240921
+EVs: 252 Atk / 4 SpD / 252 Spe
+Ability: Early Bird
+Tera Type: Flying
+Jolly Nature
+- Brave Bird
+- Knock Off
+- Quick Attack
 
 Dodrio
 Shiny: Yes
@@ -51,7 +80,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250503
+.MetDate=20241209
+EVs: 252 Atk / 4 SpD / 252 Spe
+Ability: Early Bird
+Tera Type: Flying
+Jolly Nature
+- Brave Bird
+- Knock Off
+- Quick Attack
 
 Seel
 Shiny: Yes
@@ -62,4 +98,12 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230217
+.MetDate=20230919
+EVs: 252 HP / 4 Def / 252 SpD
+Ability: Hydration
+Tera Type: Water
+Calm Nature
+- Icicle Spear
+- Thief
+- Avalanche
+- Water Pulse

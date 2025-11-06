@@ -9,18 +9,58 @@
 <body>
     <h1>Pokémon List Viewer</h1>
     <form id="filterForm">
-        <label for="species">Species:</label>
-        <input type="text" id="species" name="species" placeholder="Enter Pokémon name">
+        <div style="width: 100%;">
+            <label for="species" style="text-align: left;">Species:</label>
+            <input type="text" id="species" name="species" placeholder="Enter Pokémon name">
+        </div>
         
-        <label for="game">Game:</label>
-        <select id="game" name="game">
-            <option value="">Any</option>
-            <option value="lgpe">Let's Go, Pikachu & Eevee</option>
-            <option value="swsh">Sword & Shield</option>
-            <option value="bdsp">Brilliant Diamond & Shining Pearl</option>
-            <option value="pla">Legends: Arceus</option>
-            <option value="sv">Scarlet & Violet</option>
-        </select>
+        <div style="width: 100%;">
+            <label for="game">Game:</label>
+            <select id="game" name="game">
+                <option value="">Any</option>
+                <option value="lgpe">Let's Go, Pikachu & Eevee</option>
+                <option value="swsh">Sword & Shield</option>
+                <option value="bdsp">Brilliant Diamond & Shining Pearl</option>
+                <option value="pla">Legends: Arceus</option>
+                <option value="sv">Scarlet & Violet</option>
+            </select>
+        </div>
+        
+        <div style="width: 100%;">
+            <label style="vertical-align: top">Generation:</label>
+            <div style="width: 525px; display: inline-block">
+                <input type="checkbox" value="1" id="legend" name="legend" style="min-width: 10px; padding: 0px; width: 15px;" />
+                <label for="legend" style="width: 200px; color: red; font-weight: bold;">Legendary & Mythical</label>
+
+                <br />
+                <input type="checkbox" value="1" id="gen1" name="gen" style="min-width: 10px; padding: 0px; width: 15px;" />
+                <label for="gen1">Gen 1</label>
+
+                <input type="checkbox" value="2" id="gen2" name="gen" style="min-width: 10px; padding: 0px; width: 15px;" />
+                <label for="gen2">Gen 2</label>
+
+                <input type="checkbox" value="3" id="gen3" name="gen" style="min-width: 10px; padding: 0px; width: 15px;" />
+                <label for="gen3">Gen 3</label>
+
+                <input type="checkbox" value="4" id="gen4" name="gen" style="min-width: 10px; padding: 0px; width: 15px;" />
+                <label for="gen4">Gen 4</label>
+
+                <input type="checkbox" value="5" id="gen5" name="gen" style="min-width: 10px; padding: 0px; width: 15px;" />
+                <label for="gen5">Gen 5</label>
+
+                <input type="checkbox" value="6" id="gen6" name="gen" style="min-width: 10px; padding: 0px; width: 15px;" />
+                <label for="gen6">Gen 6</label>
+
+                <input type="checkbox" value="7" id="gen7" name="gen" style="min-width: 10px; padding: 0px; width: 15px;" />
+                <label for="gen7">Gen 7</label>
+
+                <input type="checkbox" value="8" id="gen8" name="gen" style="min-width: 10px; padding: 0px; width: 15px;" />
+                <label for="gen8" style="color: gold; font-weight: bold;">Gen 8</label>
+
+                <input type="checkbox" value="9" id="gen9" name="gen" style="min-width: 10px; padding: 0px; width: 15px;" />
+                <label for="gen9" style="color: gold; font-weight: bold;">Gen 9</label>
+            </div>
+        </div>
         
         <button type="submit">Search</button>
     </form>

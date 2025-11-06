@@ -7,7 +7,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230227
+.MetDate=20230713
+EVs: 252 Atk / 4 SpD / 252 Spe
+Ability: Keen Eye
+Tera Type: Normal
+Jolly Nature
+- Brave Bird
+- Close Combat
+- Tailwind
 
 Vullaby
 Shiny: Yes
@@ -18,7 +25,15 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250415
+.MetDate=20250412
+EVs: 252 HP / 252 Def / 4 SpD
+Ability: Big Pecks
+Tera Type: Dark
+Impish Nature
+- Knock Off
+- Toxic
+- U-turn
+- Roost
 
 Mandibuzz
 Shiny: Yes
@@ -29,7 +44,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230622
+.MetDate=20231223
+EVs: 252 HP / 252 Def / 4 SpD
+Ability: Overcoat
+Tera Type: Dark
+Impish Nature
+- Knock Off
+- Toxic
+- Defog
 
 Deino
 Shiny: Yes
@@ -40,7 +62,15 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230226
+.MetDate=20250102
+EVs: 252 SpA / 4 SpD / 252 Spe
+Ability: Hustle
+Tera Type: Steel
+Timid Nature
+- Dragon Pulse
+- Dark Pulse
+- Substitute
+- Nasty Plot
 
 Zweilous
 Shiny: Yes
@@ -51,7 +81,15 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230601
+.MetDate=20240806
+EVs: 252 SpA / 4 SpD / 252 Spe
+Ability: Hustle
+Tera Type: Steel
+Timid Nature
+- Dragon Pulse
+- Dark Pulse
+- Substitute
+- Nasty Plot
 
 Hydreigon
 Shiny: Yes
@@ -62,4 +100,11 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20231207
+.MetDate=20250116
+EVs: 4 HP / 252 SpA / 252 Spe
+Ability: Levitate
+Tera Type: Steel
+Timid Nature
+- Nasty Plot
+- Dark Pulse
+- Flash Cannon

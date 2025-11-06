@@ -7,7 +7,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250601
+.MetDate=20250722
+EVs: 252 Atk / 4 Def / 252 Spe
+Ability: Swarm
+Tera Type: Bug
+Jolly Nature
+- Sticky Web
+- Toxic Spikes
+- Megahorn
 
 Chinchou
 Shiny: Yes
@@ -18,7 +25,15 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250111
+.MetDate=20241015
+EVs: 88 HP / 172 Def / 248 SpD
+Ability: Volt Absorb
+Tera Type: Electric
+Calm Nature
+- Scald
+- Volt Switch
+- Protect
+- Surf
 
 Lanturn
 Shiny: Yes
@@ -29,7 +44,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230716
+.MetDate=20240421
+EVs: 88 HP / 172 Def / 248 SpD
+Ability: Volt Absorb
+Tera Type: Electric
+Calm Nature
+- Scald
+- Volt Switch
+- Protect
 
 Pichu
 Shiny: Yes
@@ -40,7 +62,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20231227
+.MetDate=20231017
+EVs: 4 HP / 252 SpA / 252 Spe
+Ability: Static
+Tera Type: Grass
+Timid Nature
+- Thunderbolt
+- Nasty Plot
+- Grass Knot
 
 Cleffa
 Shiny: Yes
@@ -51,7 +80,15 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20231217
+.MetDate=20250810
+EVs: 252 HP / 252 Def / 4 SpD
+Ability: Magic Guard
+Tera Type: Normal
+Bold Nature
+- Dazzling Gleam
+- Flamethrower
+- Psyshock
+- Calm Mind
 
 Igglybuff
 Shiny: Yes
@@ -62,4 +99,12 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240418
+.MetDate=20230703
+EVs: 4 HP / 252 SpA / 252 Spe
+Ability: Competitive
+Tera Type: Fire
+Timid Nature
+- Protect
+- Hyper Voice
+- Draining Kiss
+- Fire Blast

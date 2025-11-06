@@ -7,7 +7,15 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240624
+.MetDate=20230406
+EVs: 252 Atk / 4 SpD / 252 Spe
+Ability: Water Absorb
+Tera Type: Water
+Adamant Nature
+- Liquidation
+- Low Kick
+- Body Slam
+- Bulldoze
 
 Poliwhirl
 Shiny: Yes
@@ -18,7 +26,15 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240514
+.MetDate=20250913
+EVs: 252 Atk / 4 SpD / 252 Spe
+Ability: Damp
+Tera Type: Water
+Adamant Nature
+- Liquidation
+- Low Kick
+- Ice Punch
+- Earthquake
 
 Poliwrath
 Shiny: Yes
@@ -29,7 +45,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230115
+.MetDate=20230326
+EVs: 252 Atk / 4 SpD / 252 Spe
+Ability: Damp
+Tera Type: Water
+Adamant Nature
+- Liquidation
+- Close Combat
+- Knock Off
 
 Bellsprout
 Shiny: Yes
@@ -40,7 +63,15 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240224
+.MetDate=20250106
+EVs: 4 Def / 252 SpA / 252 Spe
+Ability: Chlorophyll
+Tera Type: Fire
+Modest Nature
+- Strength Sap
+- Leaf Storm
+- Sludge Bomb
+- Tera Blast
 
 Weepinbell
 Shiny: Yes
@@ -51,7 +82,15 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240913
+.MetDate=20241115
+EVs: 4 Def / 252 SpA / 252 Spe
+Ability: Chlorophyll
+Tera Type: Fire
+Modest Nature
+- Strength Sap
+- Leaf Storm
+- Sludge Bomb
+- Tera Blast
 
 Victreebel
 Shiny: Yes
@@ -62,4 +101,11 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240316
+.MetDate=20230312
+EVs: 4 Def / 252 SpA / 252 Spe
+Ability: Chlorophyll
+Tera Type: Fire
+Modest Nature
+- Razor Leaf
+- Sleep Powder
+- Sweet Scent

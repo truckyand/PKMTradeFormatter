@@ -7,7 +7,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20231017
+.MetDate=20240113
+EVs: 252 Atk / 4 Def / 252 Spe
+Ability: Intimidate
+Tera Type: Normal
+Jolly Nature
+- Brave Bird
+- Double-Edge
+- U-turn
 
 Kricketot
 Shiny: Yes
@@ -18,7 +25,15 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20241025
+.MetDate=20230513
+EVs: 252 Atk / 4 SpD / 252 Spe
+Ability: Shed Skin
+Tera Type: Bug
+Jolly Nature
+- Tackle
+- Growl
+- Struggle Bug
+- Tera Blast
 
 Kricketune
 Shiny: Yes
@@ -29,7 +44,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240419
+.MetDate=20250524
+EVs: 252 Atk / 4 SpD / 252 Spe
+Ability: Swarm
+Tera Type: Bug
+Jolly Nature
+- Sticky Web
+- Sing
+- Taunt
 
 Shinx
 Shiny: Yes
@@ -40,7 +62,15 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250415
+.MetDate=20240319
+EVs: 252 Atk / 4 SpD / 252 Spe
+Ability: Rivalry
+Tera Type: Flying
+Jolly Nature
+- Wild Charge
+- Facade
+- Ice Fang
+- Volt Switch
 
 Luxio
 Shiny: Yes
@@ -51,7 +81,15 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230901
+.MetDate=20251101
+EVs: 252 Atk / 4 SpD / 252 Spe
+Ability: Rivalry
+Tera Type: Flying
+Jolly Nature
+- Wild Charge
+- Facade
+- Ice Fang
+- Volt Switch
 
 Luxray
 Shiny: Yes
@@ -62,4 +100,11 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230423
+.MetDate=20251223
+EVs: 252 Atk / 4 SpD / 252 Spe
+Ability: Intimidate
+Tera Type: Flying
+Jolly Nature
+- Wild Charge
+- Facade
+- Fire Fang

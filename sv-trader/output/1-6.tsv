@@ -7,7 +7,15 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230506
+.MetDate=20230723
+EVs: 252 SpA / 4 SpD / 252 Spe
+Ability: Chlorophyll
+Tera Type: Poison
+Timid Nature
+- Protect
+- Sunny Day
+- Growl
+- Helping Hand
 
 Ivysaur
 Shiny: Yes
@@ -18,7 +26,15 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240410
+.MetDate=20230912
+EVs: 252 SpA / 4 SpD / 252 Spe
+Ability: Chlorophyll
+Tera Type: Poison
+Timid Nature
+- Leech Seed
+- Razor Leaf
+- Poison Powder
+- Sleep Powder
 
 Venusaur
 Shiny: Yes
@@ -29,7 +45,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240527
+.MetDate=20240108
+EVs: 252 SpA / 4 SpD / 252 Spe
+Ability: Chlorophyll
+Tera Type: Poison
+Timid Nature
+- Growth
+- Giga Drain
+- Earth Power
 
 Charmander
 Shiny: Yes
@@ -40,7 +63,15 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20231203
+.MetDate=20231215
+EVs: 4 HP / 252 SpA / 252 Spe
+Ability: Blaze
+Tera Type: Grass
+Timid Nature
+- Flamethrower
+- Ancient Power
+- Focus Blast
+- Dragon Pulse
 
 Charmeleon
 Shiny: Yes
@@ -51,7 +82,15 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250508
+.MetDate=20230128
+EVs: 4 HP / 252 SpA / 252 Spe
+Ability: Blaze
+Tera Type: Grass
+Timid Nature
+- Flamethrower
+- Ancient Power
+- Tera Blast
+- Dragon Pulse
 
 Charizard
 Shiny: Yes
@@ -62,4 +101,11 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230208
+.MetDate=20230909
+EVs: 4 HP / 252 SpA / 252 Spe
+Ability: Blaze
+Tera Type: Grass
+Timid Nature
+- Fire Blast
+- Solar Beam
+- Sunny Day

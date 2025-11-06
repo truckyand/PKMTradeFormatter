@@ -7,7 +7,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250408
+.MetDate=20241023
+EVs: 252 SpA / 4 SpD / 252 Spe
+Ability: Rivalry
+Tera Type: Grass
+Timid Nature
+- Fire Blast
+- Solar Beam
+- Yawn
 
 Flabebe
 Shiny: Yes
@@ -18,7 +25,15 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20241003
+.MetDate=20240713
+EVs: 252 HP / 252 Def / 4 SpA
+Ability: Flower Veil
+Tera Type: Fire
+Bold Nature
+- Draining Kiss
+- Protect
+- Grassy Terrain
+- Tera Blast
 
 Floette
 Shiny: Yes
@@ -29,7 +44,15 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20231225
+.MetDate=20241001
+EVs: 252 HP / 252 Def / 4 SpA
+Ability: Flower Veil
+Tera Type: Fire
+Bold Nature
+- Moonblast
+- Protect
+- Wish
+- Tera Blast
 
 Florges
 Shiny: Yes
@@ -40,7 +63,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250116
+.MetDate=20240203
+EVs: 252 HP / 252 Def / 4 SpA
+Ability: Flower Veil
+Tera Type: Fire
+Bold Nature
+- Moonblast
+- Protect
+- Wish
 
 Skiddo
 Shiny: Yes
@@ -51,7 +81,15 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230618
+.MetDate=20230927
+EVs: 252 HP / 4 Atk / 252 SpD
+Ability: Sap Sipper
+Tera Type: Grass
+Careful Nature
+- Bulk Up
+- Bullet Seed
+- Bulldoze
+- Milk Drink
 
 Gogoat
 Shiny: Yes
@@ -62,4 +100,11 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20241211
+.MetDate=20240615
+EVs: 252 HP / 4 Atk / 252 SpD
+Ability: Sap Sipper
+Tera Type: Grass
+Careful Nature
+- Bulk Up
+- Horn Leech
+- Earthquake

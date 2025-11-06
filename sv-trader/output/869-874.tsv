@@ -7,7 +7,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230822
+.MetDate=20251028
+EVs: 252 HP / 252 Def / 4 SpA
+Ability: Aroma Veil
+Tera Type: Fairy
+Bold Nature
+- Calm Mind
+- Recover
+- Draining Kiss
 
 Falinks
 Shiny: Yes
@@ -18,7 +25,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250822
+.MetDate=20250408
+EVs: 252 Atk / 4 Def / 252 Spe
+Ability: Battle Armor
+Tera Type: Fighting
+Adamant Nature
+- Close Combat
+- First Impression
+- Rock Slide
 
 Pincurchin
 Shiny: Yes
@@ -29,7 +43,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230120
+.MetDate=20250619
+EVs: 252 HP / 252 Def / 4 SpD
+Ability: Lightning Rod
+Tera Type: Grass
+Bold Nature
+- Thunderbolt
+- Toxic Spikes
+- Recover
 
 Snom
 Shiny: Yes
@@ -40,7 +61,15 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240104
+.MetDate=20250823
+EVs: 252 SpA / 4 SpD / 252 Spe
+Ability: Shield Dust
+Tera Type: Water
+Timid Nature
+- Icy Wind
+- Protect
+- Bug Buzz
+- Fairy Wind
 
 Frosmoth
 Shiny: Yes
@@ -51,7 +80,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230414
+.MetDate=20250604
+EVs: 252 SpA / 4 SpD / 252 Spe
+Ability: Shield Dust
+Tera Type: Water
+Timid Nature
+- Quiver Dance
+- Ice Beam
+- Bug Buzz
 
 Stonjourner
 Shiny: Yes
@@ -62,4 +98,11 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230915
+.MetDate=20251006
+EVs: 4 HP / 252 Atk / 252 Def
+Ability: Power Spot
+Tera Type: Rock
+Adamant Nature
+- Stone Edge
+- Earthquake
+- Body Press

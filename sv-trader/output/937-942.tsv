@@ -7,7 +7,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20241026
+.MetDate=20241203
+EVs: 252 Atk / 4 SpD / 252 Spe
+Ability: Flash Fire
+Tera Type: Fighting
+Jolly Nature
+- Swords Dance
+- Shadow Claw
+- Bitter Blade
 
 Tadbulb
 Shiny: Yes
@@ -18,7 +25,15 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240124
+.MetDate=20240321
+EVs: 252 HP / 4 Def / 252 SpA
+Ability: Static
+Tera Type: Grass
+Modest Nature
+- Volt Switch
+- Thunderbolt
+- Chilling Water
+- Tera Blast
 
 Bellibolt
 Shiny: Yes
@@ -29,7 +44,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240619
+.MetDate=20251023
+EVs: 252 HP / 4 Def / 252 SpA
+Ability: Static
+Tera Type: Grass
+Modest Nature
+- Volt Switch
+- Thunderbolt
+- Slack Off
 
 Wattrel
 Shiny: Yes
@@ -40,7 +62,15 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230916
+.MetDate=20250426
+EVs: 4 HP / 252 SpA / 252 Spe
+Ability: Wind Power
+Tera Type: Water
+Timid Nature
+- Volt Switch
+- Hurricane
+- Thunderbolt
+- Tera Blast
 
 Kilowattrel
 Shiny: Yes
@@ -51,7 +81,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20241028
+.MetDate=20230915
+EVs: 4 HP / 252 SpA / 252 Spe
+Ability: Wind Power
+Tera Type: Water
+Timid Nature
+- Roost
+- Hurricane
+- Thunderbolt
 
 Maschiff
 Shiny: Yes
@@ -62,4 +99,12 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250812
+.MetDate=20230907
+EVs: 4 HP / 252 Atk / 252 Spe
+Ability: Intimidate
+Tera Type: Fairy
+Adamant Nature
+- Play Rough
+- Crunch
+- Fire Fang
+- Psychic Fangs

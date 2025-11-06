@@ -7,7 +7,15 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250703
+.MetDate=20250411
+EVs: 252 Atk / 4 Def / 252 Spe
+Ability: Intimidate
+Tera Type: Dark
+Jolly Nature
+- Earthquake
+- Crunch
+- Stone Edge
+- Brick Break
 
 Krookodile
 Shiny: Yes
@@ -18,7 +26,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250608
+.MetDate=20240420
+EVs: 252 Atk / 4 Def / 252 Spe
+Ability: Intimidate
+Tera Type: Dark
+Jolly Nature
+- Earthquake
+- Crunch
+- Stone Edge
 
 Scraggy
 Shiny: Yes
@@ -29,7 +44,15 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20241106
+.MetDate=20240907
+EVs: 252 HP / 252 Atk / 4 SpD
+Ability: Intimidate
+Tera Type: Fighting
+Brave Nature
+- Fake Out
+- Close Combat
+- Knock Off
+- Ice Punch
 
 Scrafty
 Shiny: Yes
@@ -40,7 +63,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230327
+.MetDate=20240502
+EVs: 252 HP / 252 Atk / 4 SpD
+Ability: Intimidate
+Tera Type: Fighting
+Brave Nature
+- Fake Out
+- Close Combat
+- Knock Off
 
 Zorua
 Shiny: Yes
@@ -51,7 +81,15 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230623
+.MetDate=20230122
+EVs: 252 SpA / 4 SpD / 252 Spe
+Ability: Illusion
+Tera Type: Dark
+Timid Nature
+- Nasty Plot
+- Dark Pulse
+- Substitute
+- Sludge Bomb
 
 Zoroark
 Shiny: Yes
@@ -62,4 +100,11 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20251108
+.MetDate=20230313
+EVs: 252 SpA / 4 SpD / 252 Spe
+Ability: Illusion
+Tera Type: Dark
+Timid Nature
+- Nasty Plot
+- Dark Pulse
+- Focus Blast

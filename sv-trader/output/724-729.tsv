@@ -7,7 +7,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240622
+.MetDate=20251107
+EVs: 252 HP / 252 Atk / 4 Spe
+Ability: Overgrow
+Tera Type: Ghost
+Adamant Nature
+- Leaf Blade
+- Spirit Shackle
+- U-turn
 
 Litten
 Shiny: Yes
@@ -18,7 +25,15 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240225
+.MetDate=20250818
+EVs: 252 Atk / 4 SpD / 252 Spe
+Ability: Intimidate
+Tera Type: Fire
+Adamant Nature
+- Helping Hand
+- Overheat
+- Will-O-Wisp
+- Power Trip
 
 Torracat
 Shiny: Yes
@@ -29,7 +44,15 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250717
+.MetDate=20251107
+EVs: 252 Atk / 4 SpD / 252 Spe
+Ability: Intimidate
+Tera Type: Fire
+Adamant Nature
+- Swords Dance
+- Ember
+- Flare Blitz
+- U-turn
 
 Incineroar
 Shiny: Yes
@@ -40,7 +63,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230823
+.MetDate=20230709
+EVs: 252 Atk / 4 SpD / 252 Spe
+Ability: Intimidate
+Tera Type: Fire
+Adamant Nature
+- Swords Dance
+- Knock Off
+- Flare Blitz
 
 Popplio
 Shiny: Yes
@@ -51,7 +81,15 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20241221
+.MetDate=20240511
+EVs: 252 HP / 252 Def / 4 SpD
+Ability: Torrent
+Tera Type: Water
+Bold Nature
+- Rest
+- Icy Wind
+- Substitute
+- Facade
 
 Brionne
 Shiny: Yes
@@ -62,4 +100,12 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20241026
+.MetDate=20231110
+EVs: 252 HP / 252 Def / 4 SpD
+Ability: Torrent
+Tera Type: Water
+Bold Nature
+- Disarming Voice
+- Aqua Jet
+- Baby-Doll Eyes
+- Icy Wind

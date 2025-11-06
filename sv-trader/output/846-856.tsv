@@ -7,7 +7,15 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20251106
+.MetDate=20230118
+EVs: 252 Atk / 4 SpD / 252 Spe
+Ability: Swift Swim
+Tera Type: Water
+Jolly Nature
+- Liquidation
+- Close Combat
+- Psychic Fangs
+- Crunch
 
 Barraskewda
 Shiny: Yes
@@ -18,7 +26,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230504
+.MetDate=20250903
+EVs: 252 Atk / 4 SpD / 252 Spe
+Ability: Swift Swim
+Tera Type: Water
+Jolly Nature
+- Liquidation
+- Close Combat
+- Psychic Fangs
 
 Toxel
 Shiny: Yes
@@ -29,7 +44,15 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250114
+.MetDate=20250522
+EVs: 4 HP / 252 SpA / 252 Spe
+Ability: Rattled
+Tera Type: Poison
+Timid Nature
+- Acid
+- Nuzzle
+- Protect
+- Tearful Look
 
 Sinistea
 Shiny: Yes
@@ -40,7 +63,15 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230226
+.MetDate=20231227
+EVs: 252 SpA / 4 SpD / 252 Spe
+Ability: Weak Armor
+Tera Type: Ghost
+Modest Nature
+- Hex
+- Stored Power
+- Metronome
+- Nasty Plot
 
 Polteageist
 Shiny: Yes
@@ -51,7 +82,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240412
+.MetDate=20240209
+EVs: 252 SpA / 4 SpD / 252 Spe
+Ability: Weak Armor
+Tera Type: Ghost
+Modest Nature
+- Shell Smash
+- Shadow Ball
+- Stored Power
 
 Hatenna
 Shiny: Yes
@@ -62,4 +100,12 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20251118
+.MetDate=20251028
+EVs: 252 HP / 252 Def / 4 SpA
+Ability: Anticipation
+Tera Type: Fire
+Bold Nature
+- Calm Mind
+- Psychic
+- Dazzling Gleam
+- Mystical Fire

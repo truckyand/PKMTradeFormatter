@@ -7,7 +7,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230916
+.MetDate=20250721
+EVs: 252 Atk / 4 Def / 252 Spe
+Ability: Tangled Feet
+Tera Type: Fighting
+Jolly Nature
+- Swords Dance
+- Close Combat
+- Brave Bird
 
 Cetoddle
 Shiny: Yes
@@ -18,7 +25,15 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20241224
+.MetDate=20250703
+EVs: 4 HP / 252 Atk / 252 Spe
+Ability: Thick Fat
+Tera Type: Ice
+Jolly Nature
+- Liquidation
+- Ice Spinner
+- Earthquake
+- Body Press
 
 Cetitan
 Shiny: Yes
@@ -29,7 +44,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240920
+.MetDate=20250113
+EVs: 4 HP / 252 Atk / 252 Spe
+Ability: Slush Rush
+Tera Type: Ice
+Jolly Nature
+- Belly Drum
+- Ice Spinner
+- Earthquake
 
 Veluza
 Shiny: Yes
@@ -40,7 +62,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20231220
+.MetDate=20230819
+EVs: 252 Atk / 4 SpD / 252 Spe
+Ability: Mold Breaker
+Tera Type: Water
+Adamant Nature
+- Fillet Away
+- Aqua Cutter
+- Psycho Cut
 
 Dondozo
 Shiny: Yes
@@ -51,7 +80,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230227
+.MetDate=20240827
+EVs: 4 HP / 252 Atk / 252 SpD
+Ability: Unaware
+Tera Type: Grass
+Adamant Nature
+- Yawn
+- Wave Crash
+- Tera Blast
 
 Annihilape
 Shiny: Yes
@@ -62,4 +98,11 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240304
+.MetDate=20230716
+EVs: 252 Atk / 4 SpD / 252 Spe
+Ability: Vital Spirit
+Tera Type: Fighting
+Jolly Nature
+- Rage Fist
+- Close Combat
+- U-turn

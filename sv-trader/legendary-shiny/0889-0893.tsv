@@ -1,14 +1,11 @@
 .bt Zamazenta
 Shiny: Yes
-OT: trucky
-OTGender: Female
-TID: 391666
-SID: 2164
+OT: Crown
+TID: 211023
+Ball: Cherish Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230511
-EVs: 252 Atk / 4 Def / 252 Spe
+EVs: 4 HP / 252 Def / 252 Spe
 Ability: Dauntless Shield
-Tera Type: Fighting
 Jolly Nature
 - Crunch
 - Moonblast

@@ -7,7 +7,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240110
+.MetDate=20230310
+EVs: 252 Atk / 4 Def / 252 Spe
+Ability: Blaze
+Tera Type: Fire
+Jolly Nature
+- Fire Punch
+- Swords Dance
+- Close Combat
 
 Piplup
 Shiny: Yes
@@ -18,7 +25,15 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20231128
+.MetDate=20230419
+EVs: 252 HP / 252 SpA / 4 SpD
+Ability: Torrent
+Tera Type: Water
+Modest Nature
+- Ice Beam
+- Surf
+- Grass Knot
+- Roost
 
 Prinplup
 Shiny: Yes
@@ -29,7 +44,15 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230205
+.MetDate=20230827
+EVs: 252 HP / 252 SpA / 4 SpD
+Ability: Torrent
+Tera Type: Water
+Modest Nature
+- Ice Beam
+- Surf
+- Grass Knot
+- Roost
 
 Empoleon
 Shiny: Yes
@@ -40,7 +63,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250106
+.MetDate=20240816
+EVs: 252 HP / 252 SpA / 4 SpD
+Ability: Torrent
+Tera Type: Water
+Modest Nature
+- Flash Cannon
+- Surf
+- Roost
 
 Starly
 Shiny: Yes
@@ -51,7 +81,15 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240915
+.MetDate=20231102
+EVs: 252 Atk / 4 Def / 252 Spe
+Ability: Keen Eye
+Tera Type: Normal
+Jolly Nature
+- Aerial Ace
+- Double-Edge
+- U-turn
+- Protect
 
 Staravia
 Shiny: Yes
@@ -62,4 +100,12 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20251208
+.MetDate=20251110
+EVs: 252 Atk / 4 Def / 252 Spe
+Ability: Intimidate
+Tera Type: Normal
+Jolly Nature
+- Aerial Ace
+- Double-Edge
+- U-turn
+- Protect

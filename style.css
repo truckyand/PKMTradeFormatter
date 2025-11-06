@@ -68,7 +68,7 @@ form {
     padding: 20px;
     border-radius: 8px;
     width: 100%;
-    max-width: 600px;
+    max-width: 750px;
     margin: 0 auto 20px;
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
     display: flex;
@@ -81,8 +81,9 @@ form {
 label {
     font-size: 1.1rem;
     color: #ddd;
-    margin-bottom: 5px; /* Reduced gap between label and input */
-    width: 100%;
+    /*margin-bottom: 5px;*/ /* Reduced gap between label and input */
+    width: 150px;
+    display: inline-block;
     text-align: left; /* Align labels to the left for better readability */
 }
 

@@ -7,7 +7,15 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250212
+.MetDate=20251003
+EVs: 4 HP / 252 SpA / 252 Spe
+Ability: Levitate
+Tera Type: Poison
+Timid Nature
+- Shadow Ball
+- Sludge Bomb
+- Psychic
+- Destiny Bond
 
 Gengar
 Shiny: Yes
@@ -18,7 +26,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20251010
+.MetDate=20240206
+EVs: 4 HP / 252 SpA / 252 Spe
+Ability: Cursed Body
+Tera Type: Poison
+Timid Nature
+- Nasty Plot
+- Shadow Ball
+- Focus Blast
 
 Drowzee
 Shiny: Yes
@@ -29,7 +44,15 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240211
+.MetDate=20250721
+EVs: 252 HP / 252 SpA / 4 SpD
+Ability: Forewarn
+Tera Type: Dark
+Modest Nature
+- Nasty Plot
+- Protect
+- Psychic
+- Focus Blast
 
 Hypno
 Shiny: Yes
@@ -40,7 +63,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250314
+.MetDate=20250418
+EVs: 252 HP / 252 SpA / 4 SpD
+Ability: Forewarn
+Tera Type: Dark
+Modest Nature
+- Nasty Plot
+- Protect
+- Psyshock
 
 Voltorb
 Shiny: Yes
@@ -51,7 +81,15 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250624
+.MetDate=20231106
+EVs: 252 HP / 4 Def / 252 Spe
+Ability: Soundproof
+Tera Type: Electric
+Jolly Nature
+- Thunder Wave
+- Light Screen
+- Taunt
+- Volt Switch
 
 Electrode
 Shiny: Yes
@@ -62,4 +100,11 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230806
+.MetDate=20230422
+EVs: 252 HP / 4 Def / 252 Spe
+Ability: Soundproof
+Tera Type: Electric
+Jolly Nature
+- Thunder Wave
+- Light Screen
+- Taunt

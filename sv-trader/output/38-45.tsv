@@ -7,7 +7,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20231202
+.MetDate=20230804
+EVs: 252 SpA / 4 SpD / 252 Spe
+Ability: Flash Fire
+Tera Type: Grass
+Timid Nature
+- Fire Blast
+- Solar Beam
+- Nasty Plot
 
 Jigglypuff
 Shiny: Yes
@@ -18,7 +25,15 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250709
+.MetDate=20250820
+EVs: 4 HP / 252 SpA / 252 Spe
+Ability: Cute Charm
+Tera Type: Fire
+Timid Nature
+- Stealth Rock
+- Hyper Voice
+- Dazzling Gleam
+- Fire Blast
 
 Wigglytuff
 Shiny: Yes
@@ -29,7 +44,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250922
+.MetDate=20250504
+EVs: 4 HP / 252 SpA / 252 Spe
+Ability: Competitive
+Tera Type: Fire
+Timid Nature
+- Stealth Rock
+- Hyper Voice
+- Dazzling Gleam
 
 Oddish
 Shiny: Yes
@@ -40,7 +62,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230813
+.MetDate=20230504
+EVs: 252 HP / 252 Def / 4 SpD
+Ability: Run Away
+Tera Type: Poison
+Bold Nature
+- Giga Drain
+- Sludge Bomb
+- Strength Sap
 
 Gloom
 Shiny: Yes
@@ -51,7 +80,15 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250520
+.MetDate=20240217
+EVs: 252 HP / 252 Def / 4 SpD
+Ability: Stench
+Tera Type: Poison
+Bold Nature
+- Giga Drain
+- Sludge Bomb
+- Strength Sap
+- Sleep Powder
 
 Vileplume
 Shiny: Yes
@@ -62,4 +99,11 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20241220
+.MetDate=20250209
+EVs: 252 HP / 252 Def / 4 SpD
+Ability: Effect Spore
+Tera Type: Poison
+Bold Nature
+- Giga Drain
+- Sludge Bomb
+- Strength Sap

@@ -7,7 +7,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230810
+.MetDate=20230403
+EVs: 252 HP / 4 Def / 252 SpD
+Ability: Pressure
+Tera Type: Ground
+Careful Nature
+- Drill Peck
+- Roost
+- Iron Head
 
 Chewtle
 Shiny: Yes
@@ -18,7 +25,15 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20251002
+.MetDate=20240209
+EVs: 252 Atk / 4 Def / 252 Spe
+Ability: Shell Armor
+Tera Type: Water
+Adamant Nature
+- Ice Fang
+- Dragon Tail
+- Body Slam
+- Protect
 
 Drednaw
 Shiny: Yes
@@ -29,7 +44,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240310
+.MetDate=20230411
+EVs: 252 Atk / 4 Def / 252 Spe
+Ability: Shell Armor
+Tera Type: Water
+Adamant Nature
+- Liquidation
+- Stone Edge
+- Earthquake
 
 Rolycoly
 Shiny: Yes
@@ -40,7 +62,15 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240908
+.MetDate=20230519
+EVs: 248 HP / 8 Def / 252 SpD
+Ability: Steam Engine
+Tera Type: Grass
+Sassy Nature
+- Stone Edge
+- Stealth Rock
+- Spikes
+- Will-O-Wisp
 
 Carkol
 Shiny: Yes
@@ -51,7 +81,15 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250710
+.MetDate=20251207
+EVs: 248 HP / 8 Def / 252 SpD
+Ability: Steam Engine
+Tera Type: Grass
+Sassy Nature
+- Stone Edge
+- Stealth Rock
+- Flamethrower
+- Tera Blast
 
 Coalossal
 Shiny: Yes
@@ -62,4 +100,11 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230908
+.MetDate=20241113
+EVs: 248 HP / 8 Def / 252 SpD
+Ability: Steam Engine
+Tera Type: Grass
+Sassy Nature
+- Stone Edge
+- Stealth Rock
+- Flamethrower

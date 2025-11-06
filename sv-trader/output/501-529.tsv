@@ -7,7 +7,15 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240308
+.MetDate=20231101
+EVs: 252 SpA / 4 SpD / 252 Spe
+Ability: Torrent
+Tera Type: Water
+Timid Nature
+- Hydro Pump
+- Grass Knot
+- Ice Beam
+- Taunt
 
 Dewott
 Shiny: Yes
@@ -18,7 +26,15 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250610
+.MetDate=20240522
+EVs: 252 SpA / 4 SpD / 252 Spe
+Ability: Torrent
+Tera Type: Water
+Timid Nature
+- Hydro Pump
+- Grass Knot
+- Ice Beam
+- Taunt
 
 Samurott
 Shiny: Yes
@@ -29,7 +45,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230701
+.MetDate=20230502
+EVs: 252 HP / 252 SpA / 4 Spe
+Ability: Torrent
+Tera Type: Grass
+Modest Nature
+- Hydro Pump
+- Grass Knot
+- Ice Beam
 
 Blitzle
 Shiny: Yes
@@ -40,7 +63,15 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240616
+.MetDate=20231120
+EVs: 252 SpA / 4 SpD / 252 Spe
+Ability: Sap Sipper
+Tera Type: Electric
+Timid Nature
+- Volt Switch
+- Thunderbolt
+- Flame Charge
+- Smart Strike
 
 Zebstrika
 Shiny: Yes
@@ -51,7 +82,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20231103
+.MetDate=20230509
+EVs: 252 SpA / 4 SpD / 252 Spe
+Ability: Sap Sipper
+Tera Type: Electric
+Timid Nature
+- Volt Switch
+- Thunderbolt
+- Overheat
 
 Drilbur
 Shiny: Yes
@@ -62,4 +100,12 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20231009
+.MetDate=20230501
+EVs: 252 Atk / 4 SpD / 252 Spe
+Ability: Mold Breaker
+Tera Type: Ground
+Jolly Nature
+- Earthquake
+- Rock Tomb
+- Rapid Spin
+- Stealth Rock

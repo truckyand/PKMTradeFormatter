@@ -7,7 +7,15 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20231206
+.MetDate=20231201
+EVs: 252 Atk / 4 Def / 252 Spe
+Ability: Skill Link
+Tera Type: Normal
+Jolly Nature
+- Tail Slap
+- Bullet Seed
+- Knock Off
+- U-turn
 
 Cinccino
 Shiny: Yes
@@ -18,7 +26,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230801
+.MetDate=20250622
+EVs: 252 Atk / 4 Def / 252 Spe
+Ability: Skill Link
+Tera Type: Normal
+Jolly Nature
+- Tail Slap
+- Bullet Seed
+- Knock Off
 
 Gothita
 Shiny: Yes
@@ -29,7 +44,15 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240724
+.MetDate=20230518
+EVs: 252 HP / 252 Def / 4 Spe
+Ability: Frisk
+Tera Type: Psychic
+Bold Nature
+- Trick
+- Calm Mind
+- Stored Power
+- Rest
 
 Gothorita
 Shiny: Yes
@@ -40,7 +63,15 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20241206
+.MetDate=20240226
+EVs: 252 HP / 252 Def / 4 Spe
+Ability: Competitive
+Tera Type: Psychic
+Bold Nature
+- Trick
+- Calm Mind
+- Stored Power
+- Rest
 
 Gothitelle
 Shiny: Yes
@@ -51,7 +82,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250414
+.MetDate=20250316
+EVs: 252 HP / 252 Def / 4 SpA
+Ability: Frisk
+Tera Type: Psychic
+Bold Nature
+- Trick
+- Calm Mind
+- Stored Power
 
 Solosis
 Shiny: Yes
@@ -62,4 +100,12 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230918
+.MetDate=20241011
+EVs: 252 HP / 212 Def / 44 Spe
+Ability: Magic Guard
+Tera Type: Psychic
+Bold Nature
+- Calm Mind
+- Psyshock
+- Confuse Ray
+- Thunder

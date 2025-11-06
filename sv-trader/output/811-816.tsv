@@ -7,7 +7,15 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250113
+.MetDate=20240505
+EVs: 252 Atk / 4 SpD / 252 Spe
+Ability: Overgrow
+Tera Type: Grass
+Jolly Nature
+- Bullet Seed
+- Drain Punch
+- U-turn
+- Fake Out
 
 Rillaboom
 Shiny: Yes
@@ -18,7 +26,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250803
+.MetDate=20230909
+EVs: 252 Atk / 4 SpD / 252 Spe
+Ability: Overgrow
+Tera Type: Grass
+Jolly Nature
+- Drum Beating
+- Knock Off
+- U-turn
 
 Scorbunny
 Shiny: Yes
@@ -29,7 +44,15 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20231125
+.MetDate=20241121
+EVs: 4 HP / 252 Atk / 252 Spe
+Ability: Blaze
+Tera Type: Fire
+Jolly Nature
+- Sucker Punch
+- Flame Charge
+- High Jump Kick
+- U-turn
 
 Raboot
 Shiny: Yes
@@ -40,7 +63,15 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20251219
+.MetDate=20241219
+EVs: 4 HP / 252 Atk / 252 Spe
+Ability: Blaze
+Tera Type: Fire
+Jolly Nature
+- Sucker Punch
+- Flame Charge
+- High Jump Kick
+- U-turn
 
 Cinderace
 Shiny: Yes
@@ -51,7 +82,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20241124
+.MetDate=20240528
+EVs: 4 HP / 252 Atk / 252 Spe
+Ability: Blaze
+Tera Type: Fire
+Jolly Nature
+- Sucker Punch
+- Pyro Ball
+- High Jump Kick
 
 Sobble
 Shiny: Yes
@@ -62,4 +100,12 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240610
+.MetDate=20250416
+EVs: 252 SpA / 4 SpD / 252 Spe
+Ability: Torrent
+Tera Type: Water
+Timid Nature
+- Surf
+- Protect
+- Ice Shard
+- U-turn

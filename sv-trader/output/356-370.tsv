@@ -7,7 +7,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230517
+.MetDate=20240528
+EVs: 4 HP / 252 Def / 252 SpD
+Ability: Pressure
+Tera Type: Normal
+Bold Nature
+- Will-O-Wisp
+- Protect
+- Night Shade
 
 Tropius
 Shiny: Yes
@@ -18,7 +25,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240927
+.MetDate=20231003
+EVs: 248 HP / 252 Def / 8 SpD
+Ability: Solar Power
+Tera Type: Flying
+Bold Nature
+- Leech Seed
+- Substitute
+- Air Slash
 
 Chimecho
 Shiny: Yes
@@ -29,7 +43,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230720
+.MetDate=20230219
+EVs: 252 HP / 4 Def / 252 SpD
+Ability: Levitate
+Tera Type: Psychic
+Calm Nature
+- Healing Wish
+- Recover
+- Psychic
 
 Snorunt
 Shiny: Yes
@@ -40,7 +61,15 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250506
+.MetDate=20240728
+EVs: 4 HP / 252 SpA / 252 Spe
+Ability: Inner Focus
+Tera Type: Ice
+Timid Nature
+- Protect
+- Substitute
+- Ice Beam
+- Shadow Ball
 
 Glalie
 Shiny: Yes
@@ -51,7 +80,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240711
+.MetDate=20230706
+EVs: 174 HP / 84 Def / 252 Spe
+Ability: Inner Focus
+Tera Type: Ice
+Timid Nature
+- Protect
+- Substitute
+- Freeze-Dry
 
 Luvdisc
 Shiny: Yes
@@ -62,4 +98,11 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250520
+.MetDate=20240519
+EVs: 252 SpA / 4 SpD / 252 Spe
+Ability: Swift Swim
+Tera Type: Grass
+Modest Nature
+- Hydro Pump
+- Ice Beam
+- Tera Blast

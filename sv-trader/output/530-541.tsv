@@ -7,7 +7,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230220
+.MetDate=20241102
+EVs: 252 Atk / 4 SpD / 252 Spe
+Ability: Mold Breaker
+Tera Type: Ground
+Jolly Nature
+- Earthquake
+- Iron Head
+- Rapid Spin
 
 Timburr
 Shiny: Yes
@@ -18,7 +25,15 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240808
+.MetDate=20251112
+EVs: 252 Atk / 4 SpD / 252 Spe
+Ability: Sheer Force
+Tera Type: Normal
+Adamant Nature
+- Facade
+- Close Combat
+- Mach Punch
+- Knock Off
 
 Gurdurr
 Shiny: Yes
@@ -29,7 +44,15 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20231013
+.MetDate=20240301
+EVs: 252 Atk / 4 SpD / 252 Spe
+Ability: Sheer Force
+Tera Type: Normal
+Adamant Nature
+- Facade
+- Close Combat
+- Mach Punch
+- Knock Off
 
 Conkeldurr
 Shiny: Yes
@@ -40,7 +63,14 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250805
+.MetDate=20231007
+EVs: 252 Atk / 4 SpD / 252 Spe
+Ability: Guts
+Tera Type: Normal
+Adamant Nature
+- Facade
+- Close Combat
+- Mach Punch
 
 Sewaddle
 Shiny: Yes
@@ -51,7 +81,15 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20251007
+.MetDate=20240514
+EVs: 252 Atk / 4 Def / 252 Spe
+Ability: Chlorophyll
+Tera Type: Rock
+Jolly Nature
+- Synthesis
+- Seed Bomb
+- Bug Bite
+- Tera Blast
 
 Swadloon
 Shiny: Yes
@@ -62,4 +100,12 @@ SID: 2164
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230313
+.MetDate=20251213
+EVs: 252 Atk / 4 Def / 252 Spe
+Ability: Leaf Guard
+Tera Type: Rock
+Jolly Nature
+- Synthesis
+- Razor Leaf
+- Bug Bite
+- Tera Blast
