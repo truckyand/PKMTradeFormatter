@@ -1,0 +1,113 @@
+.tsv Magearna @ Leftovers
+Shiny: No
+OT: trucky
+OTGender: Female
+TID: 391666
+SID: 2164
+Language: English
+Ability: Soul-Heart
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+EVs: 4 HP / 252 SpD / 252 Atk
+Modest Nature
+Tera Type: Stellar
+- Iron Defense
+- Shift Gear
+- Calm Mind
+- Stored Power
+
+
+.tsv Metagross @ Leftovers
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 391666
+SID: 2164
+Ball: Ultra Ball
+Language: English
+Ability: Clear Body
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+EVs: 224 HP / 232 SpD / 52 Atk
+Adamant Nature
+- Meteor Mash
+- Bullet Punch
+- Earthquake
+- Ice Punch
+
+
+.tsv Scizor (F) @ Leftovers
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 391666
+SID: 2164
+Ball: Ultra Ball
+Language: English
+Ability: Technician
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+EVs: 252 HP / 4 SpD / 252 Atk
+Adamant Nature
+Tera Type: Water
+- Tera Blast
+- Bullet Punch
+- Struggle Bug
+- Swords Dance
+
+
+
+
+
+.tsv Annihilape @ Shell Bell
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 391666
+SID: 2164
+Ball: Ultra Ball
+Language: English
+Ability: Defiant
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+EVs: 252 SpD / 252 Atk / 6 SpA
+Adamant Nature
+Tera Type: Ghost
+- Rage Fist
+- Focus Energy
+
+
+
+
+.tsv Azumarill
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 391666
+SID: 2164
+Ball: Master Ball
+Language: English
+Ability: Thick Fat
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+EVs: 252 HP / 6 Def / 252 Atk
+Tera Type: Water
+- Liquidation
+- Play Rough
+- Aqua Ring
+- Belly Drum
+
+
+.tsv Azumarill (F)
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 758975
+SID: 4118
+Ball: Ultra Ball
+Language: English
+Ability: Belly Drum
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+EVs: 252 HP / 6 Def / 252 Atk
+Tera Type: Water
+- Liquidation
+- Play Rough
+- Aqua Ring
+
+
+'

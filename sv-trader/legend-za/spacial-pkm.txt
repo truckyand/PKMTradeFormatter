@@ -21,7 +21,7 @@ SID: 4118
 Ball: Ultra Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-
+EVs: 252 SpA / 4 SpD / 252 Spe
 
 
 .t Vivillon-Meadow
@@ -34,7 +34,7 @@ SID: 4118
 Ball: Ultra Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-
+EVs: 252 SpA / 4 SpD / 252 Spe
 
 
 .t Slowpoke-Galar
@@ -47,19 +47,7 @@ SID: 4118
 Ball: Ultra Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-
-
-
-.t Slowking-Galar
-Shiny: Yes
-Alpha: Yes
-OT: trucky
-OTGender: Female
-TID: 75897
-SID: 4118
-Ball: Ultra Ball
-Language: English
-IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+EVs: 252 SpA / 4 SpD / 252 Spe
 
 
 
@@ -73,7 +61,7 @@ SID: 4118
 Ball: Ultra Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-
+EVs: 252 SpA / 4 SpD / 252 Spe
 
 
 
@@ -87,7 +75,7 @@ SID: 4118
 Ball: Ultra Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-
+EVs: 252 SpA / 4 SpD / 252 Spe
 
 
 

@@ -1,0 +1,671 @@
+.bt Avalugg-Hisui (F)
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 093590
+SID: 2017
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+EVs: 252 HP / 252 Atk / 4 Spe
+Ability: Strong Jaw
+
+
+Decidueye-Hisui (F)
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 093590
+SID: 2017
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+EVs: 252 HP / 252 Atk / 4 Spe
+Ability: Overgrow
+
+
+Goodra-Hisui (F)
+Shiny: Yes
+Alpha: Yes
+OT: trucky
+OTGender: Female
+TID: 093590
+SID: 2017
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+EVs: 252 HP / 252 SpD / 4 Spe
+
+
+Braviary-Hisui (F)
+Shiny: Yes
+Alpha: Yes
+OT: trucky
+OTGender: Female
+TID: 093590
+SID: 2017
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+EVs: 252 HP / 252 SpA / 4 Spe
+
+
+.bt Zorua-Hisui (F)
+Shiny: Yes
+Alpha: Yes
+OT: trucky
+OTGender: Female
+TID: 093590
+SID: 2017
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+EVs: 252 SpA / 4 SpD / 252 Spe
+
+Zoroark-Hisui (F)
+Shiny: Yes
+Alpha: Yes
+OT: trucky
+OTGender: Female
+TID: 093590
+SID: 2017
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+EVs: 252 SpA / 4 SpD / 252 Spe
+
+
+Lilligant-Hisui (F)
+Shiny: Yes
+Alpha: Yes
+OT: trucky
+OTGender: Female
+TID: 093590
+SID: 2017
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+EVs: 4 HP / 252 SpA / 252 Spe
+
+Samurott-Hisui (F)
+Shiny: Yes
+Alpha: Yes
+OT: trucky
+OTGender: Female
+TID: 093590
+SID: 2017
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+EVs: 4 HP / 252 Atk / 252 Spe
+
+
+.bt Sneasel-Hisui (F)
+Shiny: Yes
+Alpha: Yes
+OT: trucky
+OTGender: Female
+TID: 093590
+SID: 2017
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+EVs: 4 HP / 252 Atk / 252 Spe
+
+Qwilfish-Hisui (F)
+Shiny: Yes
+Alpha: Yes
+OT: trucky
+OTGender: Female
+TID: 093590
+SID: 2017
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+EVs: 4 HP / 252 Atk / 252 Spe
+
+
+Typhlosion-Hisui (F)
+Shiny: Yes
+Alpha: Yes
+OT: trucky
+OTGender: Female
+TID: 093590
+SID: 2017
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+EVs: 4 HP / 252 SpA / 252 Spe
+
+
+Electrode-Hisui (F)
+Shiny: Yes
+Alpha: Yes
+OT: trucky
+OTGender: Female
+TID: 093590
+SID: 2017
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+EVs: 4 HP / 252 SpA / 252 Spe
+
+
+.bt Voltorb-Hisui (F)
+Shiny: Yes
+Alpha: Yes
+OT: trucky
+OTGender: Female
+TID: 093590
+SID: 2017
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+EVs: 4 HP / 252 SpA / 252 Spe
+
+
+Arcanine-Hisui (F)
+Shiny: Yes
+Alpha: Yes
+OT: trucky
+OTGender: Female
+TID: 093590
+SID: 2017
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+EVs: 4 HP / 252 Atk / 252 Spe
+
+
+Ursaluna (F)
+Shiny: Yes
+Alpha: Yes
+OT: trucky
+OTGender: Female
+TID: 093590
+SID: 2017
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+EVs: 252 HP / 252 Atk / 4 SpD
+
+
+Sneasler (F)
+Shiny: Yes
+Alpha: Yes
+OT: trucky
+OTGender: Female
+TID: 093590
+SID: 2017
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+EVs: 4 HP / 252 Atk / 252 Spe
+
+
+.bt Kleavor (F)
+Shiny: Yes
+Alpha: Yes
+OT: trucky
+OTGender: Female
+TID: 093590
+SID: 2017
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+EVs: 4 HP / 252 Atk / 252 Spe
+
+Wyrdeer (F)
+Shiny: Yes
+Alpha: Yes
+OT: trucky
+OTGender: Female
+TID: 093590
+SID: 2017
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+EVs: 252 HP / 252 Atk / 6 Spe
+
+
+
+.bt Unown-A
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 093590
+SID: 2017
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+EVs: 252 HP / 252 Atk / 6 Spe
+
+
+Unown-B
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 093590
+SID: 2017
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+EVs: 252 HP / 252 Atk / 6 Spe
+
+
+Unown-C
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 093590
+SID: 2017
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+EVs: 252 HP / 252 Atk / 6 Spe
+
+Unown-D
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 093590
+SID: 2017
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+EVs: 252 HP / 252 Atk / 6 Spe
+
+
+
+.bt Unown-E
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 093590
+SID: 2017
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+EVs: 252 HP / 252 Atk / 6 Spe
+
+Unown-F
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 093590
+SID: 2017
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+EVs: 252 HP / 252 Atk / 6 Spe
+
+Unown-G
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 093590
+SID: 2017
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+EVs: 252 HP / 252 Atk / 6 Spe
+
+Unown-H
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 093590
+SID: 2017
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+EVs: 252 HP / 252 Atk / 6 Spe
+
+
+.bt Unown-I
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 093590
+SID: 2017
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+EVs: 252 HP / 252 Atk / 6 Spe
+
+Unown-J
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 093590
+SID: 2017
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+EVs: 252 HP / 252 Atk / 6 Spe
+
+Unown-K
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 093590
+SID: 2017
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+EVs: 252 HP / 252 Atk / 6 Spe
+
+Unown-L
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 093590
+SID: 2017
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+EVs: 252 HP / 252 Atk / 6 Spe
+
+
+.bt Unown-M
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 093590
+SID: 2017
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+EVs: 252 HP / 252 Atk / 6 Spe
+
+Unown-N
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 093590
+SID: 2017
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+EVs: 252 HP / 252 Atk / 6 Spe
+
+Unown-O
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 093590
+SID: 2017
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+EVs: 252 HP / 252 Atk / 6 Spe
+
+Unown-P
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 093590
+SID: 2017
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+EVs: 252 HP / 252 Atk / 6 Spe
+
+
+
+.bt Unown-Q
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 093590
+SID: 2017
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+EVs: 252 HP / 252 Atk / 6 Spe
+
+Unown-R
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 093590
+SID: 2017
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+EVs: 252 HP / 252 Atk / 6 Spe
+
+Unown-S
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 093590
+SID: 2017
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+EVs: 252 HP / 252 Atk / 6 Spe
+
+Unown-T
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 093590
+SID: 2017
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+EVs: 252 HP / 252 Atk / 6 Spe
+
+
+.bt Unown-U
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 093590
+SID: 2017
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+EVs: 252 HP / 252 Atk / 6 Spe
+
+Unown-V
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 093590
+SID: 2017
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+EVs: 252 HP / 252 Atk / 6 Spe
+
+Unown-W
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 093590
+SID: 2017
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+EVs: 252 HP / 252 Atk / 6 Spe
+
+Unown-X
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 093590
+SID: 2017
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+EVs: 252 HP / 252 Atk / 6 Spe
+
+.bt Unown-Y
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 093590
+SID: 2017
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+EVs: 252 HP / 252 Atk / 6 Spe
+
+Unown-Z
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 093590
+SID: 2017
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+EVs: 252 HP / 252 Atk / 6 Spe
+
+Unown-!
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 093590
+SID: 2017
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+EVs: 252 HP / 252 Atk / 6 Spe
+
+Unown-?
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 093590
+SID: 2017
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+EVs: 252 HP / 252 Atk / 6 Spe
+
+
+
+
+
+
+
+.bt Burmy (F)
+Shiny: Yes
+Alpha: Yes
+OT: trucky
+OTGender: Female
+TID: 093590
+SID: 2017
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+
+
+Wormadam-Sandy (F)
+Shiny: Yes
+Alpha: Yes
+OT: trucky
+OTGender: Female
+TID: 093590
+SID: 2017
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+
+Wormadam-Trash (F)
+Shiny: Yes
+Alpha: Yes
+OT: trucky
+OTGender: Female
+TID: 093590
+SID: 2017
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+
+wormadam-plant (F)
+Shiny: Yes
+Alpha: Yes
+OT: trucky
+OTGender: Female
+TID: 093590
+SID: 2017
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+
+
+.bt Mothim (F)
+Shiny: Yes
+Alpha: Yes
+OT: trucky
+OTGender: Female
+TID: 093590
+SID: 2017
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+
+
+Darkrai
+Shiny: No
+Alpha: No
+OT: trucky
+OTGender: Female
+TID: 093590
+SID: 2017
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+EVs: 252 SpA / 4 SpD / 252 Spe
+
+Bastiodon (F)
+Shiny: Yes
+Alpha: Yes
+OT: trucky
+OTGender: Female
+TID: 093590
+SID: 2017
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+EVs: 252 SpA / 4 SpD / 252 Spe
+
+Snorlax (F)
+Shiny: Yes
+Alpha: Yes
+OT: trucky
+OTGender: Female
+TID: 093590
+SID: 2017
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+EVs: 252 SpA / 4 SpD / 252 Spe
+
+
+
+
+.bt Rampardos (F)
+Shiny: Yes
+Alpha: Yes
+OT: trucky
+OTGender: Female
+TID: 093590
+SID: 2017
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+EVs: 252 SpA / 4 SpD / 252 Spe
+
+Spiritomb (F)
+Shiny: Yes
+Alpha: Yes
+OT: trucky
+OTGender: Female
+TID: 0935905
+SID: 2017
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+EVs: 252 SpA / 4 SpD / 252 Spe
+
+Garchomp (F)
+Shiny: Yes
+Alpha: Yes
+OT: trucky
+OTGender: Female
+TID: 093590
+SID: 2017
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+EVs: 252 SpA / 4 SpD / 252 Spe
+
+Porygon
+Shiny: Yes
+Alpha: Yes
+OT: trucky
+OTGender: Female
+TID: 75897
+SID: 2017
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+EVs: 252 SpA / 4 SpD / 252 Spe
+
+
+
+
+
+
+
+.bt Electabuzz (F)
+Shiny: Yes
+Alpha: Yes
+OT: trucky
+OTGender: Female
+TID: 093590
+SID: 2017
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+EVs: 252 SpA / 4 SpD / 252 Spe
+
+Rapidash (F)
+Shiny: Yes
+Alpha: Yes
+OT: trucky
+OTGender: Female
+TID: 093590
+SID: 2017
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+EVs: 252 SpA / 4 SpD / 252 Spe
+
+
+Aipom (F)
+Shiny: Yes
+Alpha: Yes
+OT: trucky
+OTGender: Female
+TID: 093590
+SID: 2017
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+EVs: 252 SpA / 4 SpD / 252 Spe
+
+
+Steelix (F)
+Shiny: Yes
+Alpha: Yes
+OT: trucky
+OTGender: Female
+TID: 093590
+SID: 2017
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+EVs: 252 SpA / 4 SpD / 252 Spe
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

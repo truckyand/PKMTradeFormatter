@@ -1,6 +1,10 @@
 plm-za-alpha
 
-
+.TrainerSID7=4118
+.TrainerTID7=758975
+.TID16=758975
+.SID16=4118
+.OriginalTrainerName=trucky
  
 999999
 Master Ball
@@ -10,11 +14,18 @@ Dusk Ball
 758975
 trucky
 
+Exp. Candy XS
+========================================================================
 
-Tarvitar
-Korodie
-Avalug
-Raichu Alolan
+.t 24267675
+Trubbish @ Exp. Candy XS
+Shiny: Yes
+Alpha: Yes
+OT: trucky
+OTGender: Female
+TID: 758975
+SID: 4118
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 
 
 .t 24267675
@@ -23,7 +34,7 @@ Shiny: Yes
 Alpha: Yes
 OT: trucky
 OTGender: Female
-TID: 75897
+TID: 758975
 SID: 4118
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 212 Spe / 76 SpD / 204 Atk
@@ -35,21 +46,21 @@ Shiny: Yes
 Alpha: Yes
 OT: trucky
 OTGender: Female
-TID: 75897
+TID: 758975
 SID: 4118
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 4 HP / 252 Spe / 252 Atk
 
-
-
 .t 24267675
-Amaura @ Eviolite
+Amaura (F) @ Eviolite
 Shiny: Yes
 Alpha: Yes
 OT: trucky
 OTGender: Female
-TID: 75897
+TID: 758975
 SID: 4118
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 4 HP / 252 Spe / 252 Atk
+
+
 
