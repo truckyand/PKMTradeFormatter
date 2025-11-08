@@ -87,27 +87,30 @@ Ability: Thick Fat
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 HP / 6 Def / 252 Atk
 Tera Type: Water
-- Liquidation
-- Play Rough
-- Aqua Ring
 - Belly Drum
+- Play Rough
+- Liquidation
+- Aqua Ring
 
 
-.tsv Azumarill (F)
+
+.tsv Azumarill
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 758975
-SID: 4118
-Ball: Ultra Ball
+TID: 391666
+SID: 2164
+Ball: Master Ball
 Language: English
-Ability: Belly Drum
+Ability: Thick Fat
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 HP / 6 Def / 252 Atk
 Tera Type: Water
-- Liquidation
+- Belly Drum
 - Play Rough
-- Aqua Ring
+- Liquidation
+- Huge Power
+
 
 
 '
