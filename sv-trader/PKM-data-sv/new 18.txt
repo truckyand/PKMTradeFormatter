@@ -1,0 +1,1372 @@
+<table class="a-table a-table table--fixed flexible-cell a-table" style="">
+  <thead>
+<tr>
+    <th width="40%" class="center" data-cell="Name">Event</th>
+    <th width="60%" class="center" data-cell="Info">Information</th>
+  </tr>
+  </thead>
+  <tbody>
+
+<tr>
+    <th width="40%" class="center">
+<a class="a-link" href=""><img src="https://img.game8.co/4322740/3947103152e23bb71562f69e83116a67.png/show" class="a-img lazy lazy-non-square lazy-loaded" alt="Hydreigon Tera Raid Event" data-src="https://img.game8.co/4322740/3947103152e23bb71562f69e83116a67.png/show" width="728" style="height: 0; padding-bottom: calc(px*381/728); padding-bottom: calc(min(100%,728px)*381/728);" data-loaded="true">Unrivaled Hydreigon</a>
+</th>
+    <td width="60%" class="center">
+<div class="align-left">
+<b class="a-bold">Rating:</b> <span class="a-red">★★★★★★★</span>
+
+
+<br>
+<b class="a-bold">Level:</b> 100
+
+<br>
+<div class="align"> <b class="a-bold">Tera Type</b>: 
+<a class="a-link" href="https://game8.co/games/Pokemon-Scarlet-Violet/archives/391626"><img src="https://img.game8.co/3292520/e981cd0853ca728d530cba933fb8ab4b.jpeg/show" class="a-img lazy lazy-non-square lazy-loaded" alt="Pokemon Poison Type Icon" data-src="https://img.game8.co/3292520/e981cd0853ca728d530cba933fb8ab4b.jpeg/show" width="50" style="height: 0; padding-bottom: calc(50px*11/50); padding-bottom: calc(min(100%,50px)*11/50);" data-loaded="true"></a>
+
+
+</div>
+
+
+
+
+<hr class="a-table__line">
+
+<b class="a-bold">Round 1 Date</b>:<br> 2025/11/07 00:00 UTC ~ 2025/11/09 23:59 UTC <br>
+<b class="a-bold">Round 2 Date</b>:<br>2025/11/14 00:00 UTC ~ 2025/11/16 23:59 UTC
+
+
+
+
+</div>
+<hr class="a-table__line">
+<a class="a-link" href="">▶ Click Here for Full Details!</a></td>
+</tr>
+<tr>
+    <th width="40%" class="center">
+<a class="a-link" href="https://game8.co/games/Pokemon-Scarlet-Violet/archives/534182"><img src="https://img.game8.co/4212907/fe6c038574e08af39629424941dfcba8.png/show" class="a-img lazy lazy-non-square lazy-loaded" alt="Kommo-o Tera Raid Event" data-src="https://img.game8.co/4212907/fe6c038574e08af39629424941dfcba8.png/show" width="728" style="height: 0; padding-bottom: calc(px*381/728); padding-bottom: calc(min(100%,728px)*381/728);" data-loaded="true">Unrivaled Kommo-o</a>
+</th>
+    <td width="60%" class="center">
+<div class="align-left">
+<b class="a-bold">Rating:</b> <span class="a-red">★★★★★★★</span>
+
+
+<br>
+<b class="a-bold">Level:</b> 100
+
+<br>
+<div class="align"> <b class="a-bold">Tera Type</b>: 
+<a class="a-link" href="https://game8.co/games/Pokemon-Scarlet-Violet/archives/391624"><img src="https://img.game8.co/3292518/0570f1796f4bf944736d74f173985a6b.jpeg/show" class="a-img lazy lazy-non-square lazy-loaded" alt="Pokemon Fighting Type Icon" data-src="https://img.game8.co/3292518/0570f1796f4bf944736d74f173985a6b.jpeg/show" width="50" style="height: 0; padding-bottom: calc(50px*11/50); padding-bottom: calc(min(100%,50px)*11/50);" data-loaded="true"></a>
+
+
+</div>
+
+
+
+
+<hr class="a-table__line">
+
+<b class="a-bold">Round 1 Date</b>:<br> 2025/07/11 00:00 UTC ~ 2025/07/13 23:59 UTC <br>
+<b class="a-bold">Round 2 Date</b>:<br>2025/07/18 00:00 UTC ~ 2025/07/20 23:59 UTC
+
+
+
+
+</div>
+<hr class="a-table__line">
+<a class="a-link" href="https://game8.co/games/Pokemon-Scarlet-Violet/archives/534182">▶ Click Here for Full Details!</a></td>
+</tr>
+<tr>
+    <th width="40%" class="center">
+<a class="a-link" href="https://game8.co/games/Pokemon-Scarlet-Violet/archives/529458"><img src="https://img.game8.co/4201658/a0295058983d50390046c7526171ed4b.png/show" class="a-img lazy lazy-non-square lazy-loaded" alt="Baxcalibur Tera Raid Event" data-src="https://img.game8.co/4201658/a0295058983d50390046c7526171ed4b.png/show" width="728" style="height: 0; padding-bottom: calc(px*381/728); padding-bottom: calc(min(100%,728px)*381/728);" data-loaded="true">Unrivaled Baxcalibur</a>
+</th>
+    <td width="60%" class="center">
+<div class="align-left">
+<b class="a-bold">Rating:</b> <span class="a-red">★★★★★★★</span>
+
+
+<br>
+<b class="a-bold">Level:</b> 100
+
+<br>
+<div class="align"> <b class="a-bold">Tera Type</b>: 
+<a class="a-link" href="https://game8.co/games/Pokemon-Scarlet-Violet/archives/391623"><img src="https://img.game8.co/3292527/23e6f066bfefe2bd3e6b89b79ad94ac9.jpeg/show" class="a-img lazy lazy-non-square lazy-loaded" alt="Pokemon Ice Type Icon" data-src="https://img.game8.co/3292527/23e6f066bfefe2bd3e6b89b79ad94ac9.jpeg/show" width="50" style="height: 0; padding-bottom: calc(50px*11/50); padding-bottom: calc(min(100%,50px)*11/50);" data-loaded="true"></a>
+
+
+</div>
+
+
+
+
+<hr class="a-table__line">
+
+<b class="a-bold">Round 1 Date</b>:<br> 2025/06/20 00:00 UTC ~ 2025/06/22 23:59 UTC <br>
+<b class="a-bold">Round 2 Date</b>:<br>2025/06/27 00:00 UTC ~ 2025/06/29 23:59 UTC
+
+
+
+
+</div>
+<hr class="a-table__line">
+<a class="a-link" href="https://game8.co/games/Pokemon-Scarlet-Violet/archives/529458">▶ Click Here for Full Details!</a></td>
+</tr>
+<tr>
+    <th width="40%" class="center">
+<a class="a-link" href="https://game8.co/games/Pokemon-Scarlet-Violet/archives/522533"><img src="https://img.game8.co/4173212/6fa731539086d5eac900eeb221b6c7e0.png/show" class="a-img lazy lazy-non-square lazy-loaded" alt="Garchomp Tera Raid Event" data-src="https://img.game8.co/4173212/6fa731539086d5eac900eeb221b6c7e0.png/show" width="728" style="height: 0; padding-bottom: calc(px*381/728); padding-bottom: calc(min(100%,728px)*381/728);" data-loaded="true">Unrivaled Garchomp</a>
+</th>
+    <td width="60%" class="center">
+<div class="align-left">
+<b class="a-bold">Rating:</b> <span class="a-red">★★★★★★★</span>
+
+
+<br>
+<b class="a-bold">Level:</b> 100
+
+<br>
+<div class="align"> <b class="a-bold">Tera Type</b>: 
+<a class="a-link" href="https://game8.co/games/Pokemon-Scarlet-Violet/archives/391625"><img src="https://img.game8.co/3292523/2c85424796049e0955b0882bb9ec7c19.jpeg/show" class="a-img lazy lazy-non-square lazy-loaded" alt="Pokemon Ground Type Icon" data-src="https://img.game8.co/3292523/2c85424796049e0955b0882bb9ec7c19.jpeg/show" width="50" style="height: 0; padding-bottom: calc(50px*11/50); padding-bottom: calc(min(100%,50px)*11/50);" data-loaded="true"></a>
+
+
+</div>
+
+
+
+
+<hr class="a-table__line">
+
+<b class="a-bold">Round 1 Date</b>:<br> 2025/05/23 00:00 UTC ~ 2025/05/25 23:59 UTC <br>
+<b class="a-bold">Round 2 Date</b>:<br>2025/05/30 00:00 UTC ~ 2025/06/01 23:59 UTC
+
+
+
+
+</div>
+<hr class="a-table__line">
+<a class="a-link" href="https://game8.co/games/Pokemon-Scarlet-Violet/archives/522533">▶ Click Here for Full Details!</a></td>
+</tr>
+<tr>
+    <th width="40%" class="center">
+<a class="a-link" href="https://game8.co/games/Pokemon-Scarlet-Violet/archives/519551"><img src="https://img.game8.co/4164101/fd0dd192b27bc4fb104d7322b8c3a560.png/show" class="a-img lazy lazy-non-square lazy-loaded" alt="Metagross Tera Raid Event" data-src="https://img.game8.co/4164101/fd0dd192b27bc4fb104d7322b8c3a560.png/show" width="728" style="height: 0; padding-bottom: calc(px*381/728); padding-bottom: calc(min(100%,728px)*381/728);" data-loaded="true">Unrivaled Metagross</a>
+</th>
+    <td width="60%" class="center">
+<div class="align-left">
+<b class="a-bold">Rating:</b> <span class="a-red">★★★★★★★</span>
+
+
+<br>
+<b class="a-bold">Level:</b> 100
+
+<br>
+<div class="align"> <b class="a-bold">Tera Type</b>: 
+<a class="a-link" href="https://game8.co/games/Pokemon-Scarlet-Violet/archives/391634"><img src="https://img.game8.co/3292528/e73e923ec5ec04ee5d34a6ab4367a5b7.jpeg/show" class="a-img lazy lazy-non-square lazy-loaded" alt="Pokemon Steel Type Icon" data-src="https://img.game8.co/3292528/e73e923ec5ec04ee5d34a6ab4367a5b7.jpeg/show" width="50" style="height: 0; padding-bottom: calc(50px*11/50); padding-bottom: calc(min(100%,50px)*11/50);" data-loaded="true"></a>
+
+
+</div>
+
+
+
+
+<hr class="a-table__line">
+
+<b class="a-bold">Round 1 Date</b>:<br> 2025/05/09 00:00 UTC ~ 2025/05/11 23:59 UTC <br>
+<b class="a-bold">Round 2 Date</b>:<br>2025/05/16 00:00 UTC ~ 2025/05/18 23:59 UTC
+
+
+
+
+</div>
+<hr class="a-table__line">
+<a class="a-link" href="https://game8.co/games/Pokemon-Scarlet-Violet/archives/519551">▶ Click Here for Full Details!</a></td>
+</tr>
+<tr>
+    <th width="40%" class="center">
+<a class="a-link" href="https://game8.co/games/Pokemon-Scarlet-Violet/archives/513737"><img src="https://img.game8.co/4151001/5f92a34eac374a3a32e6952421002e1b.png/show" class="a-img lazy lazy-non-square lazy-loaded" alt="Salamence Tera Raid Event" data-src="https://img.game8.co/4151001/5f92a34eac374a3a32e6952421002e1b.png/show" width="728" style="height: 0; padding-bottom: calc(px*381/728); padding-bottom: calc(min(100%,728px)*381/728);" data-loaded="true">Unrivaled Salamence</a>
+</th>
+    <td width="60%" class="center">
+<div class="align-left">
+<b class="a-bold">Rating:</b> <span class="a-red">★★★★★★★</span>
+
+
+<br>
+<b class="a-bold">Level:</b> 100
+
+<br>
+<div class="align"> <b class="a-bold">Tera Type</b>: 
+<a class="a-link" href="https://game8.co/games/Pokemon-Scarlet-Violet/archives/391627"><img src="https://img.game8.co/3292529/166adf6b5ee6f1cd95d84d0556df833e.jpeg/show" class="a-img lazy lazy-non-square lazy-loaded" alt="Pokemon Flying Type Icon" data-src="https://img.game8.co/3292529/166adf6b5ee6f1cd95d84d0556df833e.jpeg/show" width="50" style="height: 0; padding-bottom: calc(50px*11/50); padding-bottom: calc(min(100%,50px)*11/50);" data-loaded="true"></a>
+
+
+</div>
+
+
+
+
+<hr class="a-table__line">
+
+<b class="a-bold">Round 1 Date</b>:<br> 2025/04/18 00:00 UTC ~ 2025/04/20 23:59 UTC <br>
+<b class="a-bold">Round 2 Date</b>:<br>2025/04/25 00:00 UTC ~ 2025/04/27 23:59 UTC
+
+
+
+
+</div>
+<hr class="a-table__line">
+<a class="a-link" href="https://game8.co/games/Pokemon-Scarlet-Violet/archives/513737">▶ Click Here for Full Details!</a></td>
+</tr>
+<tr>
+    <th width="40%" class="center">
+<a class="a-link" href="https://game8.co/games/Pokemon-Scarlet-Violet/archives/506546"><img src="https://img.game8.co/4136769/544e81e987f88bc3e63398bf4fcd5331.png/show" class="a-img lazy lazy-non-square lazy-loaded" alt="Tyranitar Tera Raid Event" data-src="https://img.game8.co/4136769/544e81e987f88bc3e63398bf4fcd5331.png/show" width="728" style="height: 0; padding-bottom: calc(px*381/728); padding-bottom: calc(min(100%,728px)*381/728);" data-loaded="true">Unrivaled Tyranitar</a>
+</th>
+    <td width="60%" class="center">
+<div class="align-left">
+<b class="a-bold">Rating:</b> <span class="a-red">★★★★★★★</span>
+
+
+<br>
+<b class="a-bold">Level:</b> 100
+
+<br>
+<div class="align"> <b class="a-bold">Tera Type</b>: 
+<a class="a-link" href="https://game8.co/games/Pokemon-Scarlet-Violet/archives/391631"><img src="https://img.game8.co/3292524/f273952406d36333e9e53544772318b7.jpeg/show" class="a-img lazy lazy-non-square lazy-loaded" alt="Pokemon Ghost Type Icon" data-src="https://img.game8.co/3292524/f273952406d36333e9e53544772318b7.jpeg/show" width="50" style="height: 0; padding-bottom: calc(50px*11/50); padding-bottom: calc(min(100%,50px)*11/50);" data-loaded="true"></a>
+
+
+</div>
+
+
+
+
+<hr class="a-table__line">
+
+<b class="a-bold">Round 1 Date</b>:<br> 2025/03/28 00:00 UTC ~ 2025/03/30 23:59 UTC <br>
+<b class="a-bold">Round 2 Date</b>:<br>2025/04/04 00:00 UTC ~ 2025/04/06 23:59 UTC
+
+
+
+
+</div>
+<hr class="a-table__line">
+<a class="a-link" href="https://game8.co/games/Pokemon-Scarlet-Violet/archives/506546">▶ Click Here for Full Details!</a></td>
+</tr>
+<tr>
+    <th width="40%" class="center">
+<a class="a-link" href="https://game8.co/games/Pokemon-Scarlet-Violet/archives/460527"><img src="https://img.game8.co/3940204/6a4dcf3690c0b61c05e1d237acae912f.png/show" class="a-img lazy lazy-non-square lazy-loaded" alt="Dragonite Tera Raid Event" data-src="https://img.game8.co/3940204/6a4dcf3690c0b61c05e1d237acae912f.png/show" width="728" style="height: 0; padding-bottom: calc(px*410/728); padding-bottom: calc(min(100%,728px)*410/728);" data-loaded="true">Unrivaled Dragonite</a>
+</th>
+    <td width="60%" class="center">
+<div class="align-left">
+<b class="a-bold">Rating:</b> <span class="a-red">★★★★★★★</span>
+
+
+<br>
+<b class="a-bold">Level:</b> 100
+
+<br>
+<div class="align"> <b class="a-bold">Tera Type</b>: 
+<a class="a-link" href="https://game8.co/games/Pokemon-Scarlet-Violet/archives/391636"><img src="https://img.game8.co/3292525/ed1c9f20a26c083d39fe2d05acf7c8d0.jpeg/show" class="a-img lazy lazy-non-square lazy-loaded" alt="Pokemon Normal Type Icon" data-src="https://img.game8.co/3292525/ed1c9f20a26c083d39fe2d05acf7c8d0.jpeg/show" width="50" style="height: 0; padding-bottom: calc(50px*11/50); padding-bottom: calc(min(100%,50px)*11/50);" data-loaded="true"></a>
+
+
+</div>
+
+
+
+
+<hr class="a-table__line">
+
+
+<b class="a-bold">Event Date</b>:<br> 2024/08/23 00:00 UTC ~ 2024/09/01 23:59 UTC
+
+
+
+</div>
+<hr class="a-table__line">
+<a class="a-link" href="https://game8.co/games/Pokemon-Scarlet-Violet/archives/460527">▶ Click Here for Full Details!</a></td>
+</tr>
+
+
+
+<tr>
+    <th width="40%" class="center">
+<a class="a-link" href="https://game8.co/games/Pokemon-Scarlet-Violet/archives/501690"><img src="https://img.game8.co/4130850/c8f90440a32a8c23369c65ea98ad0fa7.png/show" class="a-img lazy lazy-non-square lazy-loaded" alt="Quaquaval Tera Raid Event" data-src="https://img.game8.co/4130850/c8f90440a32a8c23369c65ea98ad0fa7.png/show" width="728" style="height: 0; padding-bottom: calc(px*381/728); padding-bottom: calc(min(100%,728px)*381/728);" data-loaded="true">Unrivaled Quaquaval</a>
+</th>
+    <td width="60%" class="center">
+<div class="align-left">
+<b class="a-bold">Rating:</b> <span class="a-red">★★★★★★★</span>
+
+
+<br>
+<b class="a-bold">Level:</b> 100
+
+<br>
+<div class="align"> <b class="a-bold">Tera Type</b>: 
+<a class="a-link" href="https://game8.co/games/Pokemon-Scarlet-Violet/archives/391587"><img src="https://img.game8.co/3292519/e65194380a375124e601763ce891bebc.jpeg/show" class="a-img lazy lazy-non-square lazy-loaded" alt="Pokemon Water Type Icon" data-src="https://img.game8.co/3292519/e65194380a375124e601763ce891bebc.jpeg/show" width="50" style="height: 0; padding-bottom: calc(50px*11/50); padding-bottom: calc(min(100%,50px)*11/50);" data-loaded="true"></a>
+
+
+</div>
+
+
+
+
+<hr class="a-table__line">
+
+
+<b class="a-bold">Event Date</b>:<br> 2025/03/14 00:00 UTC ~ 2025/03/20 23:59 UTC
+
+
+
+</div>
+<hr class="a-table__line">
+<a class="a-link" href="https://game8.co/games/Pokemon-Scarlet-Violet/archives/501690">▶ Click Here for Full Details!</a></td>
+</tr>
+<tr>
+    <th width="40%" class="center">
+<a class="a-link" href="https://game8.co/games/Pokemon-Scarlet-Violet/archives/501687"><img src="https://img.game8.co/4126108/db34b86636e8d8a81ab7993cb142457b.png/show" class="a-img lazy lazy-non-square lazy-loaded" alt="Skeledirge Tera Raid Event" data-src="https://img.game8.co/4126108/db34b86636e8d8a81ab7993cb142457b.png/show" width="728" style="height: 0; padding-bottom: calc(px*381/728); padding-bottom: calc(min(100%,728px)*381/728);" data-loaded="true">Unrivaled Skeledirge</a>
+</th>
+    <td width="60%" class="center">
+<div class="align-left">
+<b class="a-bold">Rating:</b> <span class="a-red">★★★★★★★</span>
+
+
+<br>
+<b class="a-bold">Level:</b> 100
+
+<br>
+<div class="align"> <b class="a-bold">Tera Type</b>: 
+<a class="a-link" href="https://game8.co/games/Pokemon-Scarlet-Violet/archives/391589"><img src="https://img.game8.co/3292512/f581ef4de900eaf1a8a959215149d981.jpeg/show" class="a-img lazy lazy-non-square lazy-loaded" alt="Pokemon Fire Type Icon" data-src="https://img.game8.co/3292512/f581ef4de900eaf1a8a959215149d981.jpeg/show" width="50" style="height: 0; padding-bottom: calc(50px*11/50); padding-bottom: calc(min(100%,50px)*11/50);" data-loaded="true"></a>
+
+
+</div>
+
+
+
+
+<hr class="a-table__line">
+
+
+<b class="a-bold">Event Date</b>:<br> 2025/03/07 00:00 UTC ~ 2025/03/13 23:59 UTC
+
+
+
+</div>
+<hr class="a-table__line">
+<a class="a-link" href="https://game8.co/games/Pokemon-Scarlet-Violet/archives/501687">▶ Click Here for Full Details!</a></td>
+</tr>
+<tr>
+    <th width="40%" class="center">
+<a class="a-link" href="https://game8.co/games/Pokemon-Scarlet-Violet/archives/501554"><img src="https://img.game8.co/4119298/ac91482be565466ce582d1235f4b6b0b.png/show" class="a-img lazy lazy-non-square lazy-loaded" alt="Meowscarada Tera Raid Event" data-src="https://img.game8.co/4119298/ac91482be565466ce582d1235f4b6b0b.png/show" width="728" style="height: 0; padding-bottom: calc(px*381/728); padding-bottom: calc(min(100%,728px)*381/728);" data-loaded="true">Unrivaled Meowscarada</a>
+</th>
+    <td width="60%" class="center">
+<div class="align-left">
+<b class="a-bold">Rating:</b> <span class="a-red">★★★★★★★</span>
+
+
+<br>
+<b class="a-bold">Level:</b> 100
+
+<br>
+<div class="align"> <b class="a-bold">Tera Type</b>: 
+<a class="a-link" href="https://game8.co/games/Pokemon-Scarlet-Violet/archives/391584"><img src="https://img.game8.co/3292522/6a33afda12bda71694eeb6dbcb25c3fa.jpeg/show" class="a-img lazy lazy-non-square lazy-loaded" alt="Pokemon Grass Type Icon" data-src="https://img.game8.co/3292522/6a33afda12bda71694eeb6dbcb25c3fa.jpeg/show" width="50" style="height: 0; padding-bottom: calc(50px*11/50); padding-bottom: calc(min(100%,50px)*11/50);" data-loaded="true"></a>
+
+
+</div>
+
+
+
+
+<hr class="a-table__line">
+
+
+<b class="a-bold">Event Date</b>:<br> 2025/02/28 00:00 UTC ~ 2025/03/06 23:59 UTC
+
+
+
+</div>
+<hr class="a-table__line">
+<a class="a-link" href="https://game8.co/games/Pokemon-Scarlet-Violet/archives/501554">▶ Click Here for Full Details!</a></td>
+</tr>
+<tr>
+    <th width="40%" class="center">
+<a class="a-link" href="https://game8.co/games/Pokemon-Scarlet-Violet/archives/484275"><img src="https://img.game8.co/4037923/7835cb66de02713881d82fa81fc9fab1.png/show" class="a-img lazy lazy-non-square lazy-loaded" alt="Torterra Tera Raid Event" data-src="https://img.game8.co/4037923/7835cb66de02713881d82fa81fc9fab1.png/show" width="728" style="height: 0; padding-bottom: calc(px*381/728); padding-bottom: calc(min(100%,728px)*381/728);" data-loaded="true">Unrivaled Torterra</a>
+</th>
+    <td width="60%" class="center">
+<div class="align-left">
+<b class="a-bold">Rating:</b> <span class="a-red">★★★★★★★</span>
+
+
+<br>
+<b class="a-bold">Level:</b> 100
+
+<br>
+<div class="align"> <b class="a-bold">Tera Type</b>: 
+<a class="a-link" href="https://game8.co/games/Pokemon-Scarlet-Violet/archives/391625"><img src="https://img.game8.co/3292523/2c85424796049e0955b0882bb9ec7c19.jpeg/show" class="a-img lazy lazy-non-square lazy-loaded" alt="Pokemon Ground Type Icon" data-src="https://img.game8.co/3292523/2c85424796049e0955b0882bb9ec7c19.jpeg/show" width="50" style="height: 0; padding-bottom: calc(50px*11/50); padding-bottom: calc(min(100%,50px)*11/50);" data-loaded="true"></a>
+
+
+</div>
+
+
+
+
+<hr class="a-table__line">
+
+<b class="a-bold">Round 1 Date</b>:<br> 2024/11/15 00:00 UTC ~ 2024/11/17 23:59 UTC <br>
+<b class="a-bold">Round 2 Date</b>:<br>2024/11/22 00:00 UTC ~ 2024/11/24 23:59 UTC
+
+
+
+
+</div>
+<hr class="a-table__line">
+<a class="a-link" href="https://game8.co/games/Pokemon-Scarlet-Violet/archives/484275">▶ Click Here for Full Details!</a></td>
+</tr>
+<tr>
+    <th width="40%" class="center">
+<a class="a-link" href="https://game8.co/games/Pokemon-Scarlet-Violet/archives/396587"><img src="https://img.game8.co/4028753/68fa81bacb10911efe4b8ba68fb3c3e1.png/show" class="a-img lazy lazy-non-square lazy-loaded" alt="Feraligatr Tera Raid Event" data-src="https://img.game8.co/4028753/68fa81bacb10911efe4b8ba68fb3c3e1.png/show" width="728" style="height: 0; padding-bottom: calc(px*381/728); padding-bottom: calc(min(100%,728px)*381/728);" data-loaded="true">Unrivaled Feraligatr</a>
+</th>
+    <td width="60%" class="center">
+<div class="align-left">
+<b class="a-bold">Rating:</b> <span class="a-red">★★★★★★★</span>
+
+
+<br>
+<b class="a-bold">Level:</b> 100
+
+<br>
+<div class="align"> <b class="a-bold">Tera Type</b>: 
+<a class="a-link" href="https://game8.co/games/Pokemon-Scarlet-Violet/archives/391633"><img src="https://img.game8.co/3292514/58d807d6c8341f4e2f4d52f5390dbb56.jpeg/show" class="a-img lazy lazy-non-square lazy-loaded" alt="Pokemon Dark Type Icon" data-src="https://img.game8.co/3292514/58d807d6c8341f4e2f4d52f5390dbb56.jpeg/show" width="50" style="height: 0; padding-bottom: calc(50px*11/50); padding-bottom: calc(min(100%,50px)*11/50);" data-loaded="true"></a>
+
+
+</div>
+
+
+
+
+<hr class="a-table__line">
+
+<b class="a-bold">Round 1 Date</b>:<br> 2024/11/01 00:00 UTC ~ 2024/11/03 23:59 UTC <br>
+<b class="a-bold">Round 2 Date</b>:<br>2024/11/08 00:00 UTC ~ 2024/11/10 23:59 UTC
+
+
+
+
+</div>
+<hr class="a-table__line">
+<a class="a-link" href="https://game8.co/games/Pokemon-Scarlet-Violet/archives/396587">▶ Click Here for Full Details!</a></td>
+</tr>
+<tr>
+    <th width="40%" class="center">
+<a class="a-link" href="https://game8.co/games/Pokemon-Scarlet-Violet/archives/476348"><img src="https://img.game8.co/4001933/91c8a3c3db576f272270460bd0d04192.png/show" class="a-img lazy lazy-non-square lazy-loaded" alt="Infernape Tera Raid Event" data-src="https://img.game8.co/4001933/91c8a3c3db576f272270460bd0d04192.png/show" width="728" style="height: 0; padding-bottom: calc(px*381/728); padding-bottom: calc(min(100%,728px)*381/728);" data-loaded="true">Unrivaled Infernape</a>
+</th>
+    <td width="60%" class="center">
+<div class="align-left">
+<b class="a-bold">Rating:</b> <span class="a-red">★★★★★★★</span>
+
+
+<br>
+<b class="a-bold">Level:</b> 100
+
+<br>
+<div class="align"> <b class="a-bold">Tera Type</b>: 
+<a class="a-link" href="https://game8.co/games/Pokemon-Scarlet-Violet/archives/391630"><img src="https://img.game8.co/3292526/de33ac0f294ac5288dbf4bcb2ebfbc6b.jpeg/show" class="a-img lazy lazy-non-square lazy-loaded" alt="Pokemon Rock Type Icon" data-src="https://img.game8.co/3292526/de33ac0f294ac5288dbf4bcb2ebfbc6b.jpeg/show" width="50" style="height: 0; padding-bottom: calc(50px*11/50); padding-bottom: calc(min(100%,50px)*11/50);" data-loaded="true"></a>
+
+
+</div>
+
+
+
+
+<hr class="a-table__line">
+
+<b class="a-bold">Round 1 Date</b>:<br> 2024/10/04 00:00 UTC ~ 2024/10/06 23:59 UTC <br>
+<b class="a-bold">Round 2 Date</b>:<br>2024/10/11 00:00 UTC ~ 2024/10/13 23:59 UTC
+
+
+
+
+</div>
+<hr class="a-table__line">
+<a class="a-link" href="https://game8.co/games/Pokemon-Scarlet-Violet/archives/476348">▶ Click Here for Full Details!</a></td>
+</tr>
+<tr>
+    <th width="40%" class="center">
+<a class="a-link" href="https://game8.co/games/Pokemon-Scarlet-Violet/archives/473529"><img src="https://img.game8.co/3990585/d139afe3f91085176f64d734a7f1ee49.png/show" class="a-img lazy lazy-non-square lazy-loaded" alt="Serperior Tera Raid Event" data-src="https://img.game8.co/3990585/d139afe3f91085176f64d734a7f1ee49.png/show" width="728" style="height: 0; padding-bottom: calc(px*381/728); padding-bottom: calc(min(100%,728px)*381/728);" data-loaded="true">Unrivaled Serperior</a>
+</th>
+    <td width="60%" class="center">
+<div class="align-left">
+<b class="a-bold">Rating:</b> <span class="a-red">★★★★★★★</span>
+
+
+<br>
+<b class="a-bold">Level:</b> 100
+
+<br>
+<div class="align"> <b class="a-bold">Tera Type</b>: 
+<a class="a-link" href="https://game8.co/games/Pokemon-Scarlet-Violet/archives/391584"><img src="https://img.game8.co/3292522/6a33afda12bda71694eeb6dbcb25c3fa.jpeg/show" class="a-img lazy lazy-non-square lazy-loaded" alt="Pokemon Grass Type Icon" data-src="https://img.game8.co/3292522/6a33afda12bda71694eeb6dbcb25c3fa.jpeg/show" width="50" style="height: 0; padding-bottom: calc(50px*11/50); padding-bottom: calc(min(100%,50px)*11/50);" data-loaded="true"></a>
+
+
+</div>
+
+
+
+
+<hr class="a-table__line">
+
+<b class="a-bold">Round 1 Date</b>:<br> 2024/09/20 00:00 UTC ~ 2024/09/22 23:59 UTC <br>
+<b class="a-bold">Round 2 Date</b>:<br>2024/09/27 00:00 UTC ~ 2024/09/29 23:59 UTC
+
+
+
+
+</div>
+<hr class="a-table__line">
+<a class="a-link" href="https://game8.co/games/Pokemon-Scarlet-Violet/archives/473529">▶ Click Here for Full Details!</a></td>
+</tr>
+<tr>
+    <th width="40%" class="center">
+<a class="a-link" href="https://game8.co/games/Pokemon-Scarlet-Violet/archives/470967"><img src="https://img.game8.co/3976084/6d8539065ad7c82af58901dda4f49625.png/show" class="a-img lazy lazy-non-square lazy-loaded" alt="Incineroar Tera Raid Event" data-src="https://img.game8.co/3976084/6d8539065ad7c82af58901dda4f49625.png/show" width="728" style="height: 0; padding-bottom: calc(px*381/728); padding-bottom: calc(min(100%,728px)*381/728);" data-loaded="true">Unrivaled Incineroar</a>
+</th>
+    <td width="60%" class="center">
+<div class="align-left">
+<b class="a-bold">Rating:</b> <span class="a-red">★★★★★★★</span>
+
+
+<br>
+<b class="a-bold">Level:</b> 100
+
+<br>
+<div class="align"> <b class="a-bold">Tera Type</b>: 
+<a class="a-link" href="https://game8.co/games/Pokemon-Scarlet-Violet/archives/391633"><img src="https://img.game8.co/3292514/58d807d6c8341f4e2f4d52f5390dbb56.jpeg/show" class="a-img lazy lazy-non-square lazy-loaded" alt="Pokemon Dark Type Icon" data-src="https://img.game8.co/3292514/58d807d6c8341f4e2f4d52f5390dbb56.jpeg/show" width="50" style="height: 0; padding-bottom: calc(50px*11/50); padding-bottom: calc(min(100%,50px)*11/50);" data-loaded="true"></a>
+
+
+</div>
+
+
+
+
+<hr class="a-table__line">
+
+<b class="a-bold">Round 1 Date</b>:<br> 2024/09/06 00:00 UTC ~ 2024/09/08 23:59 UTC <br>
+<b class="a-bold">Round 2 Date</b>:<br>2024/09/13 00:00 UTC ~ 2024/09/15 23:59 UTC
+
+
+
+
+</div>
+<hr class="a-table__line">
+<a class="a-link" href="https://game8.co/games/Pokemon-Scarlet-Violet/archives/470967">▶ Click Here for Full Details!</a></td>
+</tr>
+<tr>
+    <th width="40%" class="center">
+<a class="a-link" href="https://game8.co/games/Pokemon-Scarlet-Violet/archives/405584"><img src="https://img.game8.co/3650427/eb6a9dc1137a9649f7d4bc72eb5c4fc2.jpeg/show" class="a-img lazy lazy-non-square lazy-loaded" alt="Pikachu Tera Raid Event" data-src="https://img.game8.co/3650427/eb6a9dc1137a9649f7d4bc72eb5c4fc2.jpeg/show" width="440" style="height: 0; padding-bottom: calc(px*230/440); padding-bottom: calc(min(100%,440px)*230/440);" data-loaded="true">Unrivaled Pikachu</a>
+</th>
+    <td width="60%" class="center">
+<div class="align-left">
+<b class="a-bold">Rating:</b> <span class="a-red">★★★★★★★</span>
+
+
+<br>
+<b class="a-bold">Level:</b> 100
+
+<br>
+<div class="align"> <b class="a-bold">Tera Type</b>: 
+<a class="a-link" href="https://game8.co/games/Pokemon-Scarlet-Violet/archives/391587"><img src="https://img.game8.co/3292519/e65194380a375124e601763ce891bebc.jpeg/show" class="a-img lazy lazy-non-square lazy-loaded" alt="Pokemon Water Type Icon" data-src="https://img.game8.co/3292519/e65194380a375124e601763ce891bebc.jpeg/show" width="50" style="height: 0; padding-bottom: calc(50px*11/50); padding-bottom: calc(min(100%,50px)*11/50);" data-loaded="true"></a>
+
+
+</div>
+
+
+
+
+<hr class="a-table__line">
+
+
+<b class="a-bold">Event Date</b>:<br> 2023/02/24 00:00 UTC ~ 2023/02/27 23:59 UTC
+
+
+<hr class="a-table__line">
+<b class="a-bold">Recent Rerun Date</b>:<br> 2024/07/12 00:00 UTC ~ 2024/07/25 23:59 UTC
+
+
+</div>
+<hr class="a-table__line">
+<a class="a-link" href="https://game8.co/games/Pokemon-Scarlet-Violet/archives/405584">▶ Click Here for Full Details!</a></td>
+</tr>
+<tr>
+    <th width="40%" class="center">
+<a class="a-link" href="https://game8.co/games/Pokemon-Scarlet-Violet/archives/459059"><img src="https://img.game8.co/3915926/58aa9bd9a53d36815cfd0fbb70cb7c2b.png/show" class="a-img lazy lazy-non-square lazy-loaded" alt="Sceptile Tera Raid Event" data-src="https://img.game8.co/3915926/58aa9bd9a53d36815cfd0fbb70cb7c2b.png/show" width="728" style="height: 0; padding-bottom: calc(px*410/728); padding-bottom: calc(min(100%,728px)*410/728);" data-loaded="true">Unrivaled Sceptile</a>
+</th>
+    <td width="60%" class="center">
+<div class="align-left">
+<b class="a-bold">Rating:</b> <span class="a-red">★★★★★★★</span>
+
+
+<br>
+<b class="a-bold">Level:</b> 100
+
+<br>
+<div class="align"> <b class="a-bold">Tera Type</b>: 
+<a class="a-link" href="https://game8.co/games/Pokemon-Scarlet-Violet/archives/391632"><img src="https://img.game8.co/3292515/bfe2bfaba4b45f1789923aa6a39b62e5.jpeg/show" class="a-img lazy lazy-non-square lazy-loaded" alt="Pokemon Dragon Type Icon" data-src="https://img.game8.co/3292515/bfe2bfaba4b45f1789923aa6a39b62e5.jpeg/show" width="50" style="height: 0; padding-bottom: calc(50px*11/50); padding-bottom: calc(min(100%,50px)*11/50);" data-loaded="true"></a>
+
+
+</div>
+
+
+
+
+<hr class="a-table__line">
+
+<b class="a-bold">Round 1 Date</b>:<br> 2024/06/28 00:00 UTC ~ 2024/06/30 23:59 UTC <br>
+<b class="a-bold">Round 2 Date</b>:<br>2024/07/05 00:00 UTC ~ 2023/07/07 23:59 UTC
+
+
+
+
+</div>
+<hr class="a-table__line">
+<a class="a-link" href="https://game8.co/games/Pokemon-Scarlet-Violet/archives/459059">▶ Click Here for Full Details!</a></td>
+</tr>
+<tr>
+    <th width="40%" class="center">
+<a class="a-link" href="https://game8.co/games/Pokemon-Scarlet-Violet/archives/457421"><img src="https://img.game8.co/3906367/6ed112089e361228f71a54e1d3882735.png/show" class="a-img lazy lazy-non-square lazy-loaded" alt="Emboar Tera Raid Event" data-src="https://img.game8.co/3906367/6ed112089e361228f71a54e1d3882735.png/show" width="728" style="height: 0; padding-bottom: calc(px*381/728); padding-bottom: calc(min(100%,728px)*381/728);" data-loaded="true">Unrivaled Emboar</a>
+</th>
+    <td width="60%" class="center">
+<div class="align-left">
+<b class="a-bold">Rating:</b> <span class="a-red">★★★★★★★</span>
+
+
+<br>
+<b class="a-bold">Level:</b> 100
+
+<br>
+<div class="align"> <b class="a-bold">Tera Type</b>: 
+<a class="a-link" href="https://game8.co/games/Pokemon-Scarlet-Violet/archives/391622"><img src="https://img.game8.co/3292513/e6b2b82b6b414b50492bef4e0a5f8c8c.jpeg/show" class="a-img lazy lazy-non-square lazy-loaded" alt="Pokemon Electric Type Icon" data-src="https://img.game8.co/3292513/e6b2b82b6b414b50492bef4e0a5f8c8c.jpeg/show" width="50" style="height: 0; padding-bottom: calc(50px*11/50); padding-bottom: calc(min(100%,50px)*11/50);" data-loaded="true"></a>
+
+
+</div>
+
+
+
+
+<hr class="a-table__line">
+
+<b class="a-bold">Round 1 Date</b>:<br> 2024/06/14 00:00 UTC ~ 2024/06/16 23:59 UTC <br>
+<b class="a-bold">Round 2 Date</b>:<br>2024/06/21 00:00 UTC ~ 2024/06/23 23:59 UTC
+
+
+
+
+</div>
+<hr class="a-table__line">
+<a class="a-link" href="https://game8.co/games/Pokemon-Scarlet-Violet/archives/457421">▶ Click Here for Full Details!</a></td>
+</tr>
+<tr>
+    <th width="40%" class="center">
+<a class="a-link" href="https://game8.co/games/Pokemon-Scarlet-Violet/archives/456644"><img src="https://img.game8.co/3897061/45312617843a63c83ea84f0a9da4d382.png/show" class="a-img lazy lazy-non-square lazy-loaded" alt="Swampert Tera Raid Event" data-src="https://img.game8.co/3897061/45312617843a63c83ea84f0a9da4d382.png/show" width="728" style="height: 0; padding-bottom: calc(px*381/728); padding-bottom: calc(min(100%,728px)*381/728);" data-loaded="true">Unrivaled Swampert</a>
+</th>
+    <td width="60%" class="center">
+<div class="align-left">
+<b class="a-bold">Rating:</b> <span class="a-red">★★★★★★★</span>
+
+
+<br>
+<b class="a-bold">Level:</b> 100
+
+<br>
+<div class="align"> <b class="a-bold">Tera Type</b>: 
+<a class="a-link" href="https://game8.co/games/Pokemon-Scarlet-Violet/archives/391626"><img src="https://img.game8.co/3292520/e981cd0853ca728d530cba933fb8ab4b.jpeg/show" class="a-img lazy lazy-non-square lazy-loaded" alt="Pokemon Poison Type Icon" data-src="https://img.game8.co/3292520/e981cd0853ca728d530cba933fb8ab4b.jpeg/show" width="50" style="height: 0; padding-bottom: calc(50px*11/50); padding-bottom: calc(min(100%,50px)*11/50);" data-loaded="true"></a>
+
+
+</div>
+
+
+
+
+<hr class="a-table__line">
+
+<b class="a-bold">Round 1 Date</b>:<br> 2024/05/31 00:00 UTC ~ 2024/06/02 23:59 UTC <br>
+<b class="a-bold">Round 2 Date</b>:<br>2024/06/07 00:00 UTC ~ 2023/06/09 23:59 UTC
+
+
+
+
+</div>
+<hr class="a-table__line">
+<a class="a-link" href="https://game8.co/games/Pokemon-Scarlet-Violet/archives/456644">▶ Click Here for Full Details!</a></td>
+</tr>
+<tr>
+    <th width="40%" class="center">
+<a class="a-link" href="https://game8.co/games/Pokemon-Scarlet-Violet/archives/453508"><img src="https://img.game8.co/3880463/ae0aa8b2dcba7312a503b2c56d8b4af1.png/show" class="a-img lazy lazy-non-square lazy-loaded" alt="Primarina Tera Raid Event" data-src="https://img.game8.co/3880463/ae0aa8b2dcba7312a503b2c56d8b4af1.png/show" width="728" style="height: 0; padding-bottom: calc(px*381/728); padding-bottom: calc(min(100%,728px)*381/728);" data-loaded="true">Unrivaled Primarina</a>
+</th>
+    <td width="60%" class="center">
+<div class="align-left">
+<b class="a-bold">Rating:</b> <span class="a-red">★★★★★★★</span>
+
+
+<br>
+<b class="a-bold">Level:</b> 100
+
+<br>
+<div class="align"> <b class="a-bold">Tera Type</b>: 
+<a class="a-link" href="https://game8.co/games/Pokemon-Scarlet-Violet/archives/391635"><img src="https://img.game8.co/3292516/e04eace4e3ca3537df995d905555980f.jpeg/show" class="a-img lazy lazy-non-square lazy-loaded" alt="Pokemon Fairy Type Icon" data-src="https://img.game8.co/3292516/e04eace4e3ca3537df995d905555980f.jpeg/show" width="50" style="height: 0; padding-bottom: calc(50px*11/50); padding-bottom: calc(min(100%,50px)*11/50);" data-loaded="true"></a>
+
+
+</div>
+
+
+
+
+<hr class="a-table__line">
+
+<b class="a-bold">Round 1 Date</b>:<br> 2024/05/10 00:00 UTC ~ 2024/05/13 23:59 UTC <br>
+<b class="a-bold">Round 2 Date</b>:<br>2024/05/17 00:00 UTC ~ 2023/05/19 23:59 UTC
+
+
+
+
+</div>
+<hr class="a-table__line">
+<a class="a-link" href="https://game8.co/games/Pokemon-Scarlet-Violet/archives/453508">▶ Click Here for Full Details!</a></td>
+</tr>
+<tr>
+    <th width="40%" class="center">
+<a class="a-link" href="https://game8.co/games/Pokemon-Scarlet-Violet/archives/449703"><img src="https://img.game8.co/3863103/394826df7787e6a6246531a219a5d79b.png/show" class="a-img lazy lazy-non-square lazy-loaded" alt="Meganium Tera Raid Event" data-src="https://img.game8.co/3863103/394826df7787e6a6246531a219a5d79b.png/show" width="728" style="height: 0; padding-bottom: calc(px*410/728); padding-bottom: calc(min(100%,728px)*410/728);" data-loaded="true">Unrivaled Meganium</a>
+</th>
+    <td width="60%" class="center">
+<div class="align-left">
+<b class="a-bold">Rating:</b> <span class="a-red">★★★★★★★</span>
+
+
+<br>
+<b class="a-bold">Level:</b> 100
+
+<br>
+<div class="align"> <b class="a-bold">Tera Type</b>: 
+<a class="a-link" href="https://game8.co/games/Pokemon-Scarlet-Violet/archives/391628"><img src="https://img.game8.co/3292521/7f94c718914a53c0d6e508f1088ee8d6.jpeg/show" class="a-img lazy lazy-non-square lazy-loaded" alt="Pokemon Psychic Type Icon" data-src="https://img.game8.co/3292521/7f94c718914a53c0d6e508f1088ee8d6.jpeg/show" width="50" style="height: 0; padding-bottom: calc(50px*11/50); padding-bottom: calc(min(100%,50px)*11/50);" data-loaded="true"></a>
+
+
+</div>
+
+
+
+
+<hr class="a-table__line">
+
+<b class="a-bold">Round 1 Date</b>:<br> 2024/04/05 00:00 UTC ~ 2024/04/07 23:59 UTC <br>
+<b class="a-bold">Round 2 Date</b>:<br>2024/04/12 00:00 UTC ~ 2023/04/14 23:59 UTC
+
+
+
+
+</div>
+<hr class="a-table__line">
+<a class="a-link" href="https://game8.co/games/Pokemon-Scarlet-Violet/archives/449703">▶ Click Here for Full Details!</a></td>
+</tr>
+<tr>
+    <th width="40%" class="center">
+<a class="a-link" href="https://game8.co/games/Pokemon-Scarlet-Violet/archives/397157"><img src="https://img.game8.co/3845920/a48b375670991530f9344399c4e505dc.png/show" class="a-img lazy lazy-non-square lazy-loaded" alt="Charizard Tera Raid Event" data-src="https://img.game8.co/3845920/a48b375670991530f9344399c4e505dc.png/show" width="600" style="height: 0; padding-bottom: calc(px*314/600); padding-bottom: calc(min(100%,600px)*314/600);" data-loaded="true">Unrivaled Charizard</a>
+</th>
+    <td width="60%" class="center">
+<div class="align-left">
+<b class="a-bold">Rating:</b> <span class="a-red">★★★★★★★</span>
+
+
+<br>
+<b class="a-bold">Level:</b> 100
+
+<br>
+<div class="align"> <b class="a-bold">Tera Type</b>: 
+<a class="a-link" href="https://game8.co/games/Pokemon-Scarlet-Violet/archives/391632"><img src="https://img.game8.co/3292515/bfe2bfaba4b45f1789923aa6a39b62e5.jpeg/show" class="a-img lazy lazy-non-square lazy-loaded" alt="Pokemon Dragon Type Icon" data-src="https://img.game8.co/3292515/bfe2bfaba4b45f1789923aa6a39b62e5.jpeg/show" width="50" style="height: 0; padding-bottom: calc(50px*11/50); padding-bottom: calc(min(100%,50px)*11/50);" data-loaded="true"></a>
+
+
+</div>
+
+
+
+
+<hr class="a-table__line">
+
+<b class="a-bold">Round 1 Date</b>:<br> 2022/12/02 00:00 UTC ~ 2022/12/04 23:59 UTC <br>
+<b class="a-bold">Round 2 Date</b>:<br>2022/12/16 00:00 UTC ~ 2022/12/18 23:59 UTC
+
+
+
+<hr class="a-table__line">
+<b class="a-bold">Recent Rerun Date</b>:<br> 2024/03/13 00:00 UTC ~ 2024/03/17 23:59 UTC
+
+
+</div>
+<hr class="a-table__line">
+<a class="a-link" href="https://game8.co/games/Pokemon-Scarlet-Violet/archives/397157">▶ Click Here for Full Details!</a></td>
+</tr>
+<tr>
+    <th width="40%" class="center">
+<a class="a-link" href="https://game8.co/games/Pokemon-Scarlet-Violet/archives/446164"><img src="https://img.game8.co/3845921/d2210cb57e9f30dcbe7224891aaa0243.png/show" class="a-img lazy lazy-non-square lazy-loaded" alt="Blastoise Tera Raid Event" data-src="https://img.game8.co/3845921/d2210cb57e9f30dcbe7224891aaa0243.png/show" width="600" style="height: 0; padding-bottom: calc(px*314/600); padding-bottom: calc(min(100%,600px)*314/600);" data-loaded="true">Unrivaled Blastoise</a>
+</th>
+    <td width="60%" class="center">
+<div class="align-left">
+<b class="a-bold">Rating:</b> <span class="a-red">★★★★★★★</span>
+
+
+<br>
+<b class="a-bold">Level:</b> 100
+
+<br>
+<div class="align"> <b class="a-bold">Tera Type</b>: 
+<a class="a-link" href="https://game8.co/games/Pokemon-Scarlet-Violet/archives/391634"><img src="https://img.game8.co/3292528/e73e923ec5ec04ee5d34a6ab4367a5b7.jpeg/show" class="a-img lazy lazy-non-square lazy-loaded" alt="Pokemon Steel Type Icon" data-src="https://img.game8.co/3292528/e73e923ec5ec04ee5d34a6ab4367a5b7.jpeg/show" width="50" style="height: 0; padding-bottom: calc(50px*11/50); padding-bottom: calc(min(100%,50px)*11/50);" data-loaded="true"></a>
+
+
+</div>
+
+
+
+
+<hr class="a-table__line">
+
+
+<b class="a-bold">Event Date</b>:<br> 2024/03/06 00:00 UTC ~ 2024/03/12 00:00 UTC
+
+
+
+</div>
+<hr class="a-table__line">
+<a class="a-link" href="https://game8.co/games/Pokemon-Scarlet-Violet/archives/446164">▶ Click Here for Full Details!</a></td>
+</tr>
+<tr>
+    <th width="40%" class="center">
+<a class="a-link" href="https://game8.co/games/Pokemon-Scarlet-Violet/archives/446157"><img src="https://img.game8.co/3845919/d80620a66cca52f73a5ba759c915a66c.png/show" class="a-img lazy lazy-non-square lazy-loaded" alt="Venusaur Tera Raid Event" data-src="https://img.game8.co/3845919/d80620a66cca52f73a5ba759c915a66c.png/show" width="600" style="height: 0; padding-bottom: calc(px*314/600); padding-bottom: calc(min(100%,600px)*314/600);" data-loaded="true">Unrivaled Venusaur</a>
+</th>
+    <td width="60%" class="center">
+<div class="align-left">
+<b class="a-bold">Rating:</b> <span class="a-red">★★★★★★★</span>
+
+
+<br>
+<b class="a-bold">Level:</b> 100
+
+<br>
+<div class="align"> <b class="a-bold">Tera Type</b>: 
+<a class="a-link" href="https://game8.co/games/Pokemon-Scarlet-Violet/archives/391625"><img src="https://img.game8.co/3292523/2c85424796049e0955b0882bb9ec7c19.jpeg/show" class="a-img lazy lazy-non-square lazy-loaded" alt="Pokemon Ground Type Icon" data-src="https://img.game8.co/3292523/2c85424796049e0955b0882bb9ec7c19.jpeg/show" width="50" style="height: 0; padding-bottom: calc(50px*11/50); padding-bottom: calc(min(100%,50px)*11/50);" data-loaded="true"></a>
+
+
+</div>
+
+
+
+
+<hr class="a-table__line">
+
+
+<b class="a-bold">Event Date</b>:<br> 2024/02/28 00:00 UTC ~ 2024/03/05 00:00 UTC
+
+
+
+</div>
+<hr class="a-table__line">
+<a class="a-link" href="https://game8.co/games/Pokemon-Scarlet-Violet/archives/446157">▶ Click Here for Full Details!</a></td>
+</tr>
+<tr>
+    <th width="40%" class="center">
+<a class="a-link" href="https://game8.co/games/Pokemon-Scarlet-Violet/archives/441815"><img src="https://img.game8.co/3829030/a9cdb50e5ff2ab7814b7d700c6147e5a.png/show" class="a-img lazy lazy-non-square lazy-loaded" alt="Empoleon Tera Raid Event" data-src="https://img.game8.co/3829030/a9cdb50e5ff2ab7814b7d700c6147e5a.png/show" width="440" style="height: 0; padding-bottom: calc(px*230/440); padding-bottom: calc(min(100%,440px)*230/440);" data-loaded="true">Unrivaled Empoleon</a>
+</th>
+    <td width="60%" class="center">
+<div class="align-left">
+<b class="a-bold">Rating:</b> <span class="a-red">★★★★★★★</span>
+
+
+<br>
+<b class="a-bold">Level:</b> 100
+
+<br>
+<div class="align"> <b class="a-bold">Tera Type</b>: 
+<a class="a-link" href="https://game8.co/games/Pokemon-Scarlet-Violet/archives/391623"><img src="https://img.game8.co/3292527/23e6f066bfefe2bd3e6b89b79ad94ac9.jpeg/show" class="a-img lazy lazy-non-square lazy-loaded" alt="Pokemon Ice Type Icon" data-src="https://img.game8.co/3292527/23e6f066bfefe2bd3e6b89b79ad94ac9.jpeg/show" width="50" style="height: 0; padding-bottom: calc(50px*11/50); padding-bottom: calc(min(100%,50px)*11/50);" data-loaded="true"></a>
+
+
+</div>
+
+
+
+
+<hr class="a-table__line">
+
+<b class="a-bold">Round 1 Date</b>:<br> 2024/02/02 00:00 UTC ~ 2024/02/04 23:59 UTC <br>
+<b class="a-bold">Round 2 Date</b>:<br>2024/02/09 00:00 UTC ~ 2024/02/11 23:59 UTC
+
+
+
+
+</div>
+<hr class="a-table__line">
+<a class="a-link" href="https://game8.co/games/Pokemon-Scarlet-Violet/archives/441815">▶ Click Here for Full Details!</a></td>
+</tr>
+<tr>
+    <th width="40%" class="center">
+<a class="a-link" href="https://game8.co/games/Pokemon-Scarlet-Violet/archives/438870"><img src="https://img.game8.co/3815820/b6adbdd57495d1d5c222eada8e3d0d9d.png/show" class="a-img lazy lazy-non-square lazy-loaded" alt="Blaziken Tera Raid Event" data-src="https://img.game8.co/3815820/b6adbdd57495d1d5c222eada8e3d0d9d.png/show" width="600" style="height: 0; padding-bottom: calc(px*314/600); padding-bottom: calc(min(100%,600px)*314/600);" data-loaded="true">Unrivaled Blaziken</a>
+</th>
+    <td width="60%" class="center">
+<div class="align-left">
+<b class="a-bold">Rating:</b> <span class="a-red">★★★★★★★</span>
+
+
+<br>
+<b class="a-bold">Level:</b> 100
+
+<br>
+<div class="align"> <b class="a-bold">Tera Type</b>: 
+<a class="a-link" href="https://game8.co/games/Pokemon-Scarlet-Violet/archives/391627"><img src="https://img.game8.co/3292529/166adf6b5ee6f1cd95d84d0556df833e.jpeg/show" class="a-img lazy lazy-non-square lazy-loaded" alt="Pokemon Flying Type Icon" data-src="https://img.game8.co/3292529/166adf6b5ee6f1cd95d84d0556df833e.jpeg/show" width="50" style="height: 0; padding-bottom: calc(50px*11/50); padding-bottom: calc(min(100%,50px)*11/50);" data-loaded="true"></a>
+
+
+</div>
+
+
+
+
+<hr class="a-table__line">
+
+<b class="a-bold">Round 1 Date</b>:<br> 2024/01/12 00:00 UTC ~ 2024/01/14 23:59 UTC <br>
+<b class="a-bold">Round 2 Date</b>:<br>2024/01/19 00:00 UTC ~ 2024/01/21 23:59 UTC
+
+
+
+
+</div>
+<hr class="a-table__line">
+<a class="a-link" href="https://game8.co/games/Pokemon-Scarlet-Violet/archives/438870">▶ Click Here for Full Details!</a></td>
+</tr>
+<tr>
+    <th width="40%" class="center">
+<a class="a-link" href="https://game8.co/games/Pokemon-Scarlet-Violet/archives/435092"><img src="https://img.game8.co/3800114/f1076f8ded7e167bd7ffb716e5439126.png/show" class="a-img lazy lazy-non-square lazy-loaded" alt="Hisuian Samurott Tera Raid Event" data-src="https://img.game8.co/3800114/f1076f8ded7e167bd7ffb716e5439126.png/show" width="600" style="height: 0; padding-bottom: calc(px*314/600); padding-bottom: calc(min(100%,600px)*314/600);" data-loaded="true">Unrivaled Hisuian Samurott</a>
+</th>
+    <td width="60%" class="center">
+<div class="align-left">
+<b class="a-bold">Rating:</b> <span class="a-red">★★★★★★★</span>
+
+
+<br>
+<b class="a-bold">Level:</b> 100
+
+<br>
+<div class="align"> <b class="a-bold">Tera Type</b>: 
+<a class="a-link" href="https://game8.co/games/Pokemon-Scarlet-Violet/archives/391587"><img src="https://img.game8.co/3292519/e65194380a375124e601763ce891bebc.jpeg/show" class="a-img lazy lazy-non-square lazy-loaded" alt="Pokemon Water Type Icon" data-src="https://img.game8.co/3292519/e65194380a375124e601763ce891bebc.jpeg/show" width="50" style="height: 0; padding-bottom: calc(50px*11/50); padding-bottom: calc(min(100%,50px)*11/50);" data-loaded="true"></a>
+
+
+</div>
+
+
+
+
+<hr class="a-table__line">
+
+<b class="a-bold">Round 1 Date</b>:<br> 2023/11/24 00:00 UTC ~ 2023/11/26 23:59 UTC <br>
+<b class="a-bold">Round 2 Date</b>:<br>2023/12/01 00:00 UTC ~ 2023/12/03 23:59 UTC
+
+
+
+
+</div>
+<hr class="a-table__line">
+<a class="a-link" href="https://game8.co/games/Pokemon-Scarlet-Violet/archives/435092">▶ Click Here for Full Details!</a></td>
+</tr>
+<tr>
+    <th width="40%" class="center">
+<a class="a-link" href="https://game8.co/games/Pokemon-Scarlet-Violet/archives/434302"><img src="https://img.game8.co/3795164/243e73caceb675ca3de4b5dccd0a0814.png/show" class="a-img lazy lazy-non-square lazy-loaded" alt="Eevee Tera Raid Event" data-src="https://img.game8.co/3795164/243e73caceb675ca3de4b5dccd0a0814.png/show" width="600" style="height: 0; padding-bottom: calc(px*314/600); padding-bottom: calc(min(100%,600px)*314/600);" data-loaded="true">Unrivaled Eevee</a>
+</th>
+    <td width="60%" class="center">
+<div class="align-left">
+<b class="a-bold">Rating:</b> <span class="a-red">★★★★★★★</span>
+
+
+<br>
+<b class="a-bold">Level:</b> 100
+
+<br>
+<div class="align"> <b class="a-bold">Tera Type</b>: 
+<a class="a-link" href="https://game8.co/games/Pokemon-Scarlet-Violet/archives/391636"><img src="https://img.game8.co/3292525/ed1c9f20a26c083d39fe2d05acf7c8d0.jpeg/show" class="a-img lazy lazy-non-square lazy-loaded" alt="Pokemon Normal Type Icon" data-src="https://img.game8.co/3292525/ed1c9f20a26c083d39fe2d05acf7c8d0.jpeg/show" width="50" style="height: 0; padding-bottom: calc(50px*11/50); padding-bottom: calc(min(100%,50px)*11/50);" data-loaded="true"></a>
+
+
+</div>
+
+
+
+
+<hr class="a-table__line">
+
+
+<b class="a-bold">Event Date</b>:<br> 2023/11/17 00:00 UTC ~ 2023/11/20 23:59 UTC
+
+
+
+</div>
+<hr class="a-table__line">
+<a class="a-link" href="https://game8.co/games/Pokemon-Scarlet-Violet/archives/434302">▶ Click Here for Full Details!</a></td>
+</tr>
+<tr>
+    <th width="40%" class="center">
+<a class="a-link" href="https://game8.co/games/Pokemon-Scarlet-Violet/archives/431749"><img src="https://img.game8.co/3789345/d489f2839100f9bb5b2858f1b50a9d6b.png/show" class="a-img lazy lazy-non-square lazy-loaded" alt="Hisuian Typhlosion Tera Raid Event" data-src="https://img.game8.co/3789345/d489f2839100f9bb5b2858f1b50a9d6b.png/show" width="600" style="height: 0; padding-bottom: calc(px*314/600); padding-bottom: calc(min(100%,600px)*314/600);" data-loaded="true">Unrivaled Hisuian Typhlosion</a>
+</th>
+    <td width="60%" class="center">
+<div class="align-left">
+<b class="a-bold">Rating:</b> <span class="a-red">★★★★★★★</span>
+
+
+<br>
+<b class="a-bold">Level:</b> 100
+
+<br>
+<div class="align"> <b class="a-bold">Tera Type</b>: 
+<a class="a-link" href="https://game8.co/games/Pokemon-Scarlet-Violet/archives/391589"><img src="https://img.game8.co/3292512/f581ef4de900eaf1a8a959215149d981.jpeg/show" class="a-img lazy lazy-non-square lazy-loaded" alt="Pokemon Fire Type Icon" data-src="https://img.game8.co/3292512/f581ef4de900eaf1a8a959215149d981.jpeg/show" width="50" style="height: 0; padding-bottom: calc(50px*11/50); padding-bottom: calc(min(100%,50px)*11/50);" data-loaded="true"></a>
+
+
+</div>
+
+
+
+
+<hr class="a-table__line">
+
+<b class="a-bold">Round 1 Date</b>:<br> 2023/11/03 00:00 UTC ~ 2023/11/05 23:59 UTC <br>
+<b class="a-bold">Round 2 Date</b>:<br>2023/11/10 00:00 UTC ~ 2023/11/12 23:59 UTC
+
+
+
+
+</div>
+<hr class="a-table__line">
+<a class="a-link" href="https://game8.co/games/Pokemon-Scarlet-Violet/archives/431749">▶ Click Here for Full Details!</a></td>
+</tr>
+<tr>
+    <th width="40%" class="center">
+<a class="a-link" href="https://game8.co/games/Pokemon-Scarlet-Violet/archives/428031"><img src="https://img.game8.co/3770731/8d6391ff103c0ca980544d076bbbb34d.png/show" class="a-img lazy lazy-non-square lazy-loaded" alt="Hisuian Decidueye Tera Raid Event" data-src="https://img.game8.co/3770731/8d6391ff103c0ca980544d076bbbb34d.png/show" width="538" style="height: 0; padding-bottom: calc(px*282/538); padding-bottom: calc(min(100%,538px)*282/538);" data-loaded="true">Unrivaled Hisuian Decidueye</a>
+</th>
+    <td width="60%" class="center">
+<div class="align-left">
+<b class="a-bold">Rating:</b> <span class="a-red">★★★★★★★</span>
+
+
+<br>
+<b class="a-bold">Level:</b> 100
+
+<br>
+<div class="align"> <b class="a-bold">Tera Type</b>: 
+<a class="a-link" href="https://game8.co/games/Pokemon-Scarlet-Violet/archives/391584"><img src="https://img.game8.co/3292522/6a33afda12bda71694eeb6dbcb25c3fa.jpeg/show" class="a-img lazy lazy-non-square lazy-loaded" alt="Pokemon Grass Type Icon" data-src="https://img.game8.co/3292522/6a33afda12bda71694eeb6dbcb25c3fa.jpeg/show" width="50" style="height: 0; padding-bottom: calc(50px*11/50); padding-bottom: calc(min(100%,50px)*11/50);" data-loaded="true"></a>
+
+
+</div>
+
+
+
+
+<hr class="a-table__line">
+
+<b class="a-bold">Round 1 Date</b>:<br> 2023/10/06 00:00 UTC ~ 2023/10/08 23:59 UTC <br>
+<b class="a-bold">Round 2 Date</b>:<br>2023/10/13 00:00 UTC ~ 2023/10/15 23:59 UTC
+
+
+
+
+</div>
+<hr class="a-table__line">
+<a class="a-link" href="https://game8.co/games/Pokemon-Scarlet-Violet/archives/428031">▶ Click Here for Full Details!</a></td>
+</tr>
+<tr>
+    <th width="40%" class="center">
+<a class="a-link" href="https://game8.co/games/Pokemon-Scarlet-Violet/archives/418157"><img src="https://img.game8.co/3737243/09d075f50d1e98a49144697a5519ba5d.png/show" class="a-img lazy lazy-non-square lazy-loaded" alt="Rillaboom Tera Raid Event" data-src="https://img.game8.co/3737243/09d075f50d1e98a49144697a5519ba5d.png/show" width="600" style="height: 0; padding-bottom: calc(px*314/600); padding-bottom: calc(min(100%,600px)*314/600);" data-loaded="true">Unrivaled Rillaboom</a>
+</th>
+    <td width="60%" class="center">
+<div class="align-left">
+<b class="a-bold">Rating:</b> <span class="a-red">★★★★★★★</span>
+
+
+<br>
+<b class="a-bold">Level:</b> 100
+
+<br>
+<div class="align"> <b class="a-bold">Tera Type</b>: 
+<a class="a-link" href="https://game8.co/games/Pokemon-Scarlet-Violet/archives/391636"><img src="https://img.game8.co/3292525/ed1c9f20a26c083d39fe2d05acf7c8d0.jpeg/show" class="a-img lazy lazy-non-square lazy-loaded" alt="Pokemon Normal Type Icon" data-src="https://img.game8.co/3292525/ed1c9f20a26c083d39fe2d05acf7c8d0.jpeg/show" width="50" style="height: 0; padding-bottom: calc(50px*11/50); padding-bottom: calc(min(100%,50px)*11/50);" data-loaded="true"></a>
+
+
+</div>
+
+
+
+
+<hr class="a-table__line">
+
+<b class="a-bold">Round 1 Date</b>:<br> 2023/07/28 00:00 UTC ~ 2023/07/30 23:59 UTC <br>
+<b class="a-bold">Round 2 Date</b>:<br>2023/08/04 00:00 UTC ~ 2023/08/06 23:59 UTC
+
+
+
+
+</div>
+<hr class="a-table__line">
+<a class="a-link" href="https://game8.co/games/Pokemon-Scarlet-Violet/archives/418157">▶ Click Here for Full Details!</a></td>
+</tr>
+<tr>
+    <th width="40%" class="center">
+<a class="a-link" href="https://game8.co/games/Pokemon-Scarlet-Violet/archives/415855"><img src="https://img.game8.co/3731033/d6a29d67c7958870462e0008a742ae05.jpeg/show" class="a-img lazy lazy-non-square lazy-loaded" alt="Delphox Tera Raid Event" data-src="https://img.game8.co/3731033/d6a29d67c7958870462e0008a742ae05.jpeg/show" width="640" style="height: 0; padding-bottom: calc(px*360/640); padding-bottom: calc(min(100%,640px)*360/640);" data-loaded="true">Unrivaled Delphox</a>
+</th>
+    <td width="60%" class="center">
+<div class="align-left">
+<b class="a-bold">Rating:</b> <span class="a-red">★★★★★★★</span>
+
+
+<br>
+<b class="a-bold">Level:</b> 100
+
+<br>
+<div class="align"> <b class="a-bold">Tera Type</b>: 
+<a class="a-link" href="https://game8.co/games/Pokemon-Scarlet-Violet/archives/391635"><img src="https://img.game8.co/3292516/e04eace4e3ca3537df995d905555980f.jpeg/show" class="a-img lazy lazy-non-square lazy-loaded" alt="Pokemon Fairy Type Icon" data-src="https://img.game8.co/3292516/e04eace4e3ca3537df995d905555980f.jpeg/show" width="50" style="height: 0; padding-bottom: calc(50px*11/50); padding-bottom: calc(min(100%,50px)*11/50);" data-loaded="true"></a>
+
+
+</div>
+
+
+
+
+<hr class="a-table__line">
+
+<b class="a-bold">Round 1 Date</b>:<br> 2023/07/07 00:00 UTC ~ 2023/07/09 23:59 UTC <br>
+<b class="a-bold">Round 2 Date</b>:<br>2023/07/14 00:00 UTC ~ 2023/07/16 23:59 UTC
+
+
+
+
+</div>
+<hr class="a-table__line">
+<a class="a-link" href="https://game8.co/games/Pokemon-Scarlet-Violet/archives/415855">▶ Click Here for Full Details!</a></td>
+</tr>
+<tr>
+    <th width="40%" class="center">
+<a class="a-link" href="https://game8.co/games/Pokemon-Scarlet-Violet/archives/411484"><img src="https://img.game8.co/3687951/26028959b2b85d872b444a991f33274f.png/show" class="a-img lazy lazy-non-square lazy-loaded" alt="Chesnaught Tera Raid Event" data-src="https://img.game8.co/3687951/26028959b2b85d872b444a991f33274f.png/show" width="441" style="height: 0; padding-bottom: calc(px*248/441); padding-bottom: calc(min(100%,441px)*248/441);" data-loaded="true">Unrivaled Chesnaught</a>
+</th>
+    <td width="60%" class="center">
+<div class="align-left">
+<b class="a-bold">Rating:</b> <span class="a-red">★★★★★★★</span>
+
+
+<br>
+<b class="a-bold">Level:</b> 100
+
+<br>
+<div class="align"> <b class="a-bold">Tera Type</b>: 
+<a class="a-link" href="https://game8.co/games/Pokemon-Scarlet-Violet/archives/391630"><img src="https://img.game8.co/3292526/de33ac0f294ac5288dbf4bcb2ebfbc6b.jpeg/show" class="a-img lazy lazy-non-square lazy-loaded" alt="Pokemon Rock Type Icon" data-src="https://img.game8.co/3292526/de33ac0f294ac5288dbf4bcb2ebfbc6b.jpeg/show" width="50" style="height: 0; padding-bottom: calc(50px*11/50); padding-bottom: calc(min(100%,50px)*11/50);" data-loaded="true"></a>
+
+
+</div>
+
+
+
+
+<hr class="a-table__line">
+
+<b class="a-bold">Round 1 Date</b>:<br> 2023/05/12 00:00 UTC ~ 2023/05/14 23:59 UTC <br>
+<b class="a-bold">Round 2 Date</b>:<br>2022/06/16 00:00 UTC ~ 2022/06/18 23:59 UTC
+
+
+
+
+</div>
+<hr class="a-table__line">
+<a class="a-link" href="https://game8.co/games/Pokemon-Scarlet-Violet/archives/411484">▶ Click Here for Full Details!</a></td>
+</tr>
+<tr>
+    <th width="40%" class="center">
+<a class="a-link" href="https://game8.co/games/Pokemon-Scarlet-Violet/archives/410221"><img src="https://img.game8.co/3680280/f34719eef29cf7c028f7818265cf0d4d.png/show" class="a-img lazy lazy-non-square lazy-loaded" alt="Inteleon Tera Raid Event" data-src="https://img.game8.co/3680280/f34719eef29cf7c028f7818265cf0d4d.png/show" width="728" style="height: 0; padding-bottom: calc(px*409/728); padding-bottom: calc(min(100%,728px)*409/728);" data-loaded="true">Unrivaled Inteleon</a>
+</th>
+    <td width="60%" class="center">
+<div class="align-left">
+<b class="a-bold">Rating:</b> <span class="a-red">★★★★★★★</span>
+
+
+<br>
+<b class="a-bold">Level:</b> 100
+
+<br>
+<div class="align"> <b class="a-bold">Tera Type</b>: 
+<a class="a-link" href="https://game8.co/games/Pokemon-Scarlet-Violet/archives/391623"><img src="https://img.game8.co/3292527/23e6f066bfefe2bd3e6b89b79ad94ac9.jpeg/show" class="a-img lazy lazy-non-square lazy-loaded" alt="Pokemon Ice Type Icon" data-src="https://img.game8.co/3292527/23e6f066bfefe2bd3e6b89b79ad94ac9.jpeg/show" width="50" style="height: 0; padding-bottom: calc(50px*11/50); padding-bottom: calc(min(100%,50px)*11/50);" data-loaded="true"></a>
+
+
+</div>
+
+
+
+
+<hr class="a-table__line">
+
+<b class="a-bold">Round 1 Date</b>:<br> 2023/04/28 00:00 UTC ~ 2023/04/30 23:59 UTC <br>
+<b class="a-bold">Round 2 Date</b>:<br>2023/05/05 00:00 UTC ~ 2023/05/07 23:59 UTC
+
+
+
+
+</div>
+<hr class="a-table__line">
+<a class="a-link" href="https://game8.co/games/Pokemon-Scarlet-Violet/archives/410221">▶ Click Here for Full Details!</a></td>
+</tr>
+<tr>
+    <th width="40%" class="center">
+<a class="a-link" href="https://game8.co/games/Pokemon-Scarlet-Violet/archives/409545"><img src="https://img.game8.co/3672995/1d88d6d1df0eeeab48012877a233a1c1.jpeg/show" class="a-img lazy lazy-non-square lazy-loaded" alt="Typhlosion Tera Raid Event" data-src="https://img.game8.co/3672995/1d88d6d1df0eeeab48012877a233a1c1.jpeg/show" width="440" style="height: 0; padding-bottom: calc(px*230/440); padding-bottom: calc(min(100%,440px)*230/440);" data-loaded="true">Unrivaled Typhlosion</a>
+</th>
+    <td width="60%" class="center">
+<div class="align-left">
+<b class="a-bold">Rating:</b> <span class="a-red">★★★★★★★</span>
+
+
+<br>
+<b class="a-bold">Level:</b> 100
+
+<br>
+<div class="align"> <b class="a-bold">Tera Type</b>: 
+<a class="a-link" href="https://game8.co/games/Pokemon-Scarlet-Violet/archives/391631"><img src="https://img.game8.co/3292524/f273952406d36333e9e53544772318b7.jpeg/show" class="a-img lazy lazy-non-square lazy-loaded" alt="Pokemon Ghost Type Icon" data-src="https://img.game8.co/3292524/f273952406d36333e9e53544772318b7.jpeg/show" width="50" style="height: 0; padding-bottom: calc(50px*11/50); padding-bottom: calc(min(100%,50px)*11/50);" data-loaded="true"></a>
+
+
+</div>
+
+
+
+
+<hr class="a-table__line">
+
+<b class="a-bold">Round 1 Date</b>:<br> 2023/04/14 00:00 UTC ~ 2023/04/16 23:59 UTC <br>
+<b class="a-bold">Round 2 Date</b>:<br>2023/04/21 00:00 UTC ~ 2023/04/23 23:59 UTC
+
+
+
+
+</div>
+<hr class="a-table__line">
+<a class="a-link" href="https://game8.co/games/Pokemon-Scarlet-Violet/archives/409545">▶ Click Here for Full Details!</a></td>
+</tr>
+<tr>
+    <th width="40%" class="center">
+<a class="a-link" href="https://game8.co/games/Pokemon-Scarlet-Violet/archives/408871"><img src="https://img.game8.co/3666277/9512c9d608896fa9487b58d6fe84afa6.png/show" class="a-img lazy lazy-non-square lazy-loaded" alt="Samurott Tera Raid Event" data-src="https://img.game8.co/3666277/9512c9d608896fa9487b58d6fe84afa6.png/show" width="728" style="height: 0; padding-bottom: calc(px*409/728); padding-bottom: calc(min(100%,728px)*409/728);" data-loaded="true">Unrivaled Samurott</a>
+</th>
+    <td width="60%" class="center">
+<div class="align-left">
+<b class="a-bold">Rating:</b> <span class="a-red">★★★★★★★</span>
+
+
+<br>
+<b class="a-bold">Level:</b> 100
+
+<br>
+<div class="align"> <b class="a-bold">Tera Type</b>: 
+<a class="a-link" href="https://game8.co/games/Pokemon-Scarlet-Violet/archives/391629"><img src="https://img.game8.co/3292517/c703341dacc0bf2ee198120a3c37ae2f.jpeg/show" class="a-img lazy lazy-non-square lazy-loaded" alt="Pokemon Bug Type Icon" data-src="https://img.game8.co/3292517/c703341dacc0bf2ee198120a3c37ae2f.jpeg/show" width="50" style="height: 0; padding-bottom: calc(50px*11/50); padding-bottom: calc(min(100%,50px)*11/50);" data-loaded="true"></a>
+
+
+</div>
+
+
+
+
+<hr class="a-table__line">
+
+<b class="a-bold">Round 1 Date</b>:<br> 2023/03/31 00:00 UTC ~ 2023/04/02 23:59 UTC <br>
+<b class="a-bold">Round 2 Date</b>:<br>2023/04/07 00:00 UTC ~ 2023/04/09 23:59 UTC
+
+
+
+
+</div>
+<hr class="a-table__line">
+<a class="a-link" href="https://game8.co/games/Pokemon-Scarlet-Violet/archives/408871">▶ Click Here for Full Details!</a></td>
+</tr>
+<tr>
+    <th width="40%" class="center">
+<a class="a-link" href="https://game8.co/games/Pokemon-Scarlet-Violet/archives/406783"><img src="https://img.game8.co/4136934/d51212666287f752e0b47e90b019f8df.png/show" class="a-img lazy lazy-non-square lazy-loaded" alt="Decidueye Tera Raid Event" data-src="https://img.game8.co/4136934/d51212666287f752e0b47e90b019f8df.png/show" width="728" style="height: 0; padding-bottom: calc(px*381/728); padding-bottom: calc(min(100%,728px)*381/728);" data-loaded="true">Unrivaled Decidueye</a>
+</th>
+    <td width="60%" class="center">
+<div class="align-left">
+<b class="a-bold">Rating:</b> <span class="a-red">★★★★★★★</span>
+
+
+<br>
+<b class="a-bold">Level:</b> 100
+
+<br>
+<div class="align"> <b class="a-bold">Tera Type</b>: 
+<a class="a-link" href="https://game8.co/games/Pokemon-Scarlet-Violet/archives/391627"><img src="https://img.game8.co/3292529/166adf6b5ee6f1cd95d84d0556df833e.jpeg/show" class="a-img lazy lazy-non-square lazy-loaded" alt="Pokemon Flying Type Icon" data-src="https://img.game8.co/3292529/166adf6b5ee6f1cd95d84d0556df833e.jpeg/show" width="50" style="height: 0; padding-bottom: calc(50px*11/50); padding-bottom: calc(min(100%,50px)*11/50);" data-loaded="true"></a>
+
+
+</div>
+
+
+
+
+<hr class="a-table__line">
+
+<b class="a-bold">Round 1 Date</b>:<br> 2023/03/17 00:00 UTC ~ 2023/03/19 23:59 UTC <br>
+<b class="a-bold">Round 2 Date</b>:<br>2023/03/24 00:00 UTC ~ 2023/03/26 23:59 UTC
+
+
+
+
+</div>
+<hr class="a-table__line">
+<a class="a-link" href="https://game8.co/games/Pokemon-Scarlet-Violet/archives/406783">▶ Click Here for Full Details!</a></td>
+</tr>
+<tr>
+    <th width="40%" class="center">
+<a class="a-link" href="https://game8.co/games/Pokemon-Scarlet-Violet/archives/402380"><img src="https://img.game8.co/3631420/62b8e1920710b9fb8ee7c809ab0b8de5.jpeg/show" class="a-img lazy lazy-non-square lazy-loaded" alt="Greninja Tera Raid Event" data-src="https://img.game8.co/3631420/62b8e1920710b9fb8ee7c809ab0b8de5.jpeg/show" width="728" style="height: 0; padding-bottom: calc(px*409/728); padding-bottom: calc(min(100%,728px)*409/728);" data-loaded="true">Unrivaled Greninja</a>
+</th>
+    <td width="60%" class="center">
+<div class="align-left">
+<b class="a-bold">Rating:</b> <span class="a-red">★★★★★★★</span>
+
+
+<br>
+<b class="a-bold">Level:</b> 100
+
+<br>
+<div class="align"> <b class="a-bold">Tera Type</b>: 
+<a class="a-link" href="https://game8.co/games/Pokemon-Scarlet-Violet/archives/391626"><img src="https://img.game8.co/3292520/e981cd0853ca728d530cba933fb8ab4b.jpeg/show" class="a-img lazy lazy-non-square lazy-loaded" alt="Pokemon Poison Type Icon" data-src="https://img.game8.co/3292520/e981cd0853ca728d530cba933fb8ab4b.jpeg/show" width="50" style="height: 0; padding-bottom: calc(50px*11/50); padding-bottom: calc(min(100%,50px)*11/50);" data-loaded="true"></a>
+
+
+</div>
+
+
+
+
+<hr class="a-table__line">
+
+<b class="a-bold">Round 1 Date</b>:<br> 2023/01/27 00:00 UTC ~ 2023/01/29 23:59 UTC <br>
+<b class="a-bold">Round 2 Date</b>:<br>2023/02/10 00:00 UTC ~ 2023/02/12 23:59 UTC
+
+
+
+
+</div>
+<hr class="a-table__line">
+<a class="a-link" href="https://game8.co/games/Pokemon-Scarlet-Violet/archives/402380">▶ Click Here for Full Details!</a></td>
+</tr>
+<tr>
+    <th width="40%" class="center">
+<a class="a-link" href="https://game8.co/games/Pokemon-Scarlet-Violet/archives/401130"><img src="https://img.game8.co/4136935/f76b983695a1c4108d1064813fbf201f.png/show" class="a-img lazy lazy-non-square lazy-loaded" alt="Cinderace Tera Raid Event" data-src="https://img.game8.co/4136935/f76b983695a1c4108d1064813fbf201f.png/show" width="728" style="height: 0; padding-bottom: calc(px*381/728); padding-bottom: calc(min(100%,728px)*381/728);" data-loaded="true">Unrivaled Cinderace</a>
+</th>
+    <td width="60%" class="center">
+<div class="align-left">
+<b class="a-bold">Rating:</b> <span class="a-red">★★★★★★★</span>
+
+
+<br>
+<b class="a-bold">Level:</b> 100
+
+<br>
+<div class="align"> <b class="a-bold">Tera Type</b>: 
+<a class="a-link" href="https://game8.co/games/Pokemon-Scarlet-Violet/archives/391624"><img src="https://img.game8.co/3292518/0570f1796f4bf944736d74f173985a6b.jpeg/show" class="a-img lazy lazy-non-square lazy-loaded" alt="Pokemon Fighting Type Icon" data-src="https://img.game8.co/3292518/0570f1796f4bf944736d74f173985a6b.jpeg/show" width="50" style="height: 0; padding-bottom: calc(50px*11/50); padding-bottom: calc(min(100%,50px)*11/50);" data-loaded="true"></a>
+
+
+</div>
+
+
+
+
+<hr class="a-table__line">
+
+<b class="a-bold">Round 1 Date</b>:<br> 2022/12/30 00:00 UTC ~ 2023/01/01 23:59 UTC <br>
+<b class="a-bold">Round 2 Date</b>:<br>2023/01/13 00:00 UTC ~ 2023/01/15 23:59 UTC
+
+
+
+
+</div>
+<hr class="a-table__line">
+<a class="a-link" href="https://game8.co/games/Pokemon-Scarlet-Violet/archives/401130">▶ Click Here for Full Details!</a></td>
+</tr>
+</tbody>
+</table>
