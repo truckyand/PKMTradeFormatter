@@ -113,4 +113,10 @@ Tera Type: Water
 
 
 
+
+SID: 2164
+TID: 391666
+OT: trucky
+
+
 '
