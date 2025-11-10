@@ -1,10 +1,10 @@
-.bt Iron-leaves
-Shiny: Yes
+.bt Iron-leaves @ Beast Ball
+Shiny: No
 OT: trucky
 OTGender: Female
 TID: 391666
 SID: 2164
-Ball: Poke Ball
+Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 .MetDate=20250228
@@ -15,13 +15,13 @@ Jolly Nature
 - Psyblade
 - Leaf Blade
 
-Dipplin
+Dipplin @ Beast Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
 TID: 391666
 SID: 2164
-Ball: Poke Ball
+Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 .MetDate=20250415
@@ -33,13 +33,13 @@ Bold Nature
 - Dragon Pulse
 - Syrup Bomb
 
-Poltchageist
+Poltchageist @ Beast Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
 TID: 391666
 SID: 2164
-Ball: Poke Ball
+Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 .MetDate=20250913
@@ -52,13 +52,13 @@ Bold Nature
 - Protect
 - Iron Defense
 
-Sinistcha
+Sinistcha @ Beast Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
 TID: 391666
 SID: 2164
-Ball: Poke Ball
+Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 .MetDate=20230304
@@ -70,13 +70,13 @@ Bold Nature
 - Calm Mind
 - Strength Sap
 
-Okidogi
-Shiny: Yes
+Okidogi @ Beast Ball
+Shiny: No
 OT: trucky
 OTGender: Female
 TID: 391666
 SID: 2164
-Ball: Poke Ball
+Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 .MetDate=20250927
@@ -87,13 +87,13 @@ Adamant Nature
 - Poison Jab
 - Drain Punch
 
-Munkidori
-Shiny: Yes
+Munkidori @ Beast Ball
+Shiny: No
 OT: trucky
 OTGender: Female
 TID: 391666
 SID: 2164
-Ball: Poke Ball
+Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 .MetDate=20240503

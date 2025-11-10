@@ -1,10 +1,10 @@
-.bt Chi-yu
+.bt Chi-yu @ Beast Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
 TID: 391666
 SID: 2164
-Ball: Poke Ball
+Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 .MetDate=20231012
@@ -16,13 +16,13 @@ Timid Nature
 - Dark Pulse
 - Tera Blast
 
-Roaring-moon
+Roaring-moon @ Beast Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
 TID: 391666
 SID: 2164
-Ball: Poke Ball
+Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 .MetDate=20230310
@@ -34,13 +34,13 @@ Jolly Nature
 - Outrage
 - Iron Head
 
-Iron-valiant
+Iron-valiant @ Beast Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
 TID: 391666
 SID: 2164
-Ball: Poke Ball
+Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 .MetDate=20231228
@@ -52,13 +52,13 @@ Jolly Nature
 - Spirit Break
 - Thunder Punch
 
-Koraidon
+Koraidon @ Beast Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
 TID: 391666
 SID: 2164
-Ball: Poke Ball
+Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 .MetDate=20241224
@@ -70,13 +70,13 @@ Jolly Nature
 - Swords Dance
 - Collision Course
 
-Miraidon
+Miraidon @ Beast Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
 TID: 391666
 SID: 2164
-Ball: Poke Ball
+Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 .MetDate=20231104
@@ -88,13 +88,13 @@ Timid Nature
 - Volt Switch
 - Electro Drift
 
-Walking-wake
-Shiny: Yes
+Walking-wake @ Beast Ball
+Shiny: No
 OT: trucky
 OTGender: Female
 TID: 391666
 SID: 2164
-Ball: Poke Ball
+Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 .MetDate=20240810
