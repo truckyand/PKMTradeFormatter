@@ -1,12 +1,12 @@
 # HOME 10-SV.Dex01
 
-.bt Clodsire
+.bt Clodsire @ Beast Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
 TID: 391666
 SID: 2164
-Ball: Poke Ball
+Ball: Master Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 .MetDate=20230725
@@ -18,13 +18,13 @@ Careful Nature
 - Toxic
 - Recover
 
-Farigiraf
+Farigiraf @ Beast Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
 TID: 391666
 SID: 2164
-Ball: Poke Ball
+Ball: Master Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 .MetDate=20251015
@@ -36,13 +36,13 @@ Timid Nature
 - Psyshock
 - Dazzling Gleam
 
-Dudunsparce
+Dudunsparce @ Beast Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
 TID: 391666
 SID: 2164
-Ball: Poke Ball
+Ball: Master Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 .MetDate=20241213
@@ -54,13 +54,13 @@ Timid Nature
 - Dragon Tail
 - Roost
 
-Kingambit
+Kingambit @ Beast Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
 TID: 391666
 SID: 2164
-Ball: Poke Ball
+Ball: Master Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 .MetDate=20251211
@@ -72,13 +72,13 @@ Adamant Nature
 - Iron Head
 - Iron Defense
 
-Great-tusk
+Great-tusk @ Beast Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
 TID: 391666
 SID: 2164
-Ball: Poke Ball
+Ball: Master Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 .MetDate=20241113
@@ -90,13 +90,13 @@ Adamant Nature
 - Close Combat
 - Knock Off
 
-Scream-tail
+Scream-tail @ Beast Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
 TID: 391666
 SID: 2164
-Ball: Poke Ball
+Ball: Master Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 .MetDate=20241010
