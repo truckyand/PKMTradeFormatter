@@ -1,0 +1,105 @@
+.bt Chansey @ Master Ball
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 391666
+SID: 2164
+Ball: Luxury Ball
+Language: English
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+.MetDate=20250915
+EVs: 6 HP / 252 Def / 252 SpD
+Ability: Natural Cure
+Bold Nature
+- Soft-Boiled
+- Seismic Toss
+- Thunder Wave
+
+Tangela @ Master Ball
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 391666
+SID: 2164
+Ball: Luxury Ball
+Language: English
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+.MetDate=20251217
+EVs: 252 HP / 4 Def / 252 SpD
+Ability: Regenerator
+Sassy Nature
+- Leaf Storm
+- Knock Off
+- Protect
+- Sludge Bomb
+
+Kangaskhan @ Master Ball
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 391666
+SID: 2164
+Ball: Luxury Ball
+Language: English
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+.MetDate=20240411
+EVs: 252 Atk / 4 SpD / 252 Spe
+Ability: Scrappy
+Adamant Nature
+- Fake Out
+- Double-Edge
+- Earthquake
+
+Horsea @ Master Ball
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 391666
+SID: 2164
+Ball: Luxury Ball
+Language: English
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+.MetDate=20230212
+EVs: 4 HP / 252 SpA / 252 Spe
+Ability: Swift Swim
+Modest Nature
+- Hydro Pump
+- Surf
+- Dragon Pulse
+- Ice Beam
+
+Seadra @ Master Ball
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 391666
+SID: 2164
+Ball: Luxury Ball
+Language: English
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+.MetDate=20240826
+EVs: 4 HP / 252 SpA / 252 Spe
+Ability: Poison Point
+Modest Nature
+- Hydro Pump
+- Surf
+- Dragon Pulse
+- Ice Beam
+
+Goldeen @ Master Ball
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 391666
+SID: 2164
+Ball: Luxury Ball
+Language: English
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+.MetDate=20240208
+EVs: 64 HP / 252 Atk / 192 Spe
+Ability: Lightning Rod
+Adamant Nature
+- Waterfall
+- Facade
+- Drill Run
+- Megahorn

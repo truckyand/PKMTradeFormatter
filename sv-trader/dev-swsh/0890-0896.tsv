@@ -1,0 +1,99 @@
+.bt Eternatus @ Master Ball
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 391666
+SID: 2164
+Ball: Luxury Ball
+Language: English
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+.MetDate=20250323
+EVs: 4 HP / 252 SpA / 252 Spe
+Ability: Pressure
+Timid Nature
+- Recover
+- Substitute
+- Flamethrower
+
+Kubfu @ Master Ball
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 391666
+SID: 2164
+Ball: Luxury Ball
+Language: English
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+.MetDate=20230701
+EVs: 4 HP / 252 Atk / 252 Spe
+Ability: Inner Focus
+Jolly Nature
+- Thunder Punch
+- Close Combat
+- Fire Punch
+
+Zarude @ Master Ball
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 391666
+SID: 2164
+Ball: Luxury Ball
+Language: English
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+.MetDate=20250107
+EVs: 6 HP / 252 Atk / 252 Spe
+Ability: Leaf Guard
+Jolly Nature
+- Jungle Healing
+- Darkest Lariat
+
+Regieleki @ Master Ball
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 391666
+SID: 2164
+Ball: Luxury Ball
+Language: English
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+.MetDate=20250609
+EVs: 4 Atk / 252 SpA / 252 Spe
+Ability: Transistor
+Rash Nature
+- Rising Voltage
+- Volt Switch
+- Thunderbolt
+
+Regidrago @ Master Ball
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 391666
+SID: 2164
+Ball: Luxury Ball
+Language: English
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+.MetDate=20241202
+EVs: 252 Atk / 4 Def / 252 Spe
+Ability: Dragon’s Maw
+Jolly Nature
+- Dragon Claw
+- Fire Fang
+- Substitute
+
+Glastrier @ Master Ball
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 391666
+SID: 2164
+Ball: Luxury Ball
+Language: English
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+.MetDate=20231116
+EVs: 252 HP / 252 Atk / 4 SpD
+Ability: Chilling Neigh
+Adamant Nature
+- Avalanche
+- Close Combat

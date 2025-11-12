@@ -69,13 +69,13 @@ for (let i = 0; i < data.length; i += chunkSize) {
 		const name = capitalize(item.name);
 		const metDate = randomDate();
 
-		content += `${name}\n`;
+		content += `${name} @ Master Ball\n`;
 		content += `Shiny: Yes\n`;
 		content += `OT: trucky\n`;
 		content += `OTGender: Female\n`;
 		content += `TID: 391666\n`;
 		content += `SID: 2164\n`;
-		content += `Ball: Poke Ball\n`;
+		content += `Ball: Luxury Ball\n`;
 		content += `Language: English\n`;
 		content += `IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA\n`;
 		content += `.MetDate=${metDate}\n`;

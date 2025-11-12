@@ -1,0 +1,104 @@
+.bt Hitmontop @ Master Ball
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 391666
+SID: 2164
+Ball: Luxury Ball
+Language: English
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+.MetDate=20240519
+EVs: 252 HP / 40 Atk / 120 Def / 96 SpD
+Ability: Intimidate
+Careful Nature
+- Fake Out
+- Close Combat
+- Sucker Punch
+
+Smoochum @ Master Ball
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 391666
+SID: 2164
+Ball: Luxury Ball
+Language: English
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+.MetDate=20230907
+EVs: 4 HP / 252 SpA / 252 Spe
+Ability: Forewarn
+Timid Nature
+- Blizzard
+- Psychic
+- Shadow Ball
+- Substitute
+
+Elekid @ Master Ball
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 391666
+SID: 2164
+Ball: Luxury Ball
+Language: English
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+.MetDate=20240801
+EVs: 4 HP / 252 SpA / 252 Spe
+Ability: Static
+Timid Nature
+- Thunderbolt
+- Volt Switch
+- Psychic
+- Substitute
+
+Magby @ Master Ball
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 391666
+SID: 2164
+Ball: Luxury Ball
+Language: English
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+.MetDate=20230802
+EVs: 4 HP / 252 Atk / 252 Spe
+Ability: Vital Spirit
+Jolly Nature
+- Substitute
+- Fire Punch
+- Mach Punch
+- Thunder Punch
+
+Miltank @ Master Ball
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 391666
+SID: 2164
+Ball: Luxury Ball
+Language: English
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+.MetDate=20241009
+EVs: 252 HP / 4 Atk / 252 SpD
+Ability: Thick Fat
+Adamant Nature
+- Stealth Rock
+- Curse
+- Milk Drink
+
+Blissey @ Master Ball
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 391666
+SID: 2164
+Ball: Luxury Ball
+Language: English
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+.MetDate=20250921
+EVs: 252 HP / 252 Def / 4 SpD
+Ability: Natural Cure
+Bold Nature
+- Seismic Toss
+- Thunder Wave
+- Soft-Boiled

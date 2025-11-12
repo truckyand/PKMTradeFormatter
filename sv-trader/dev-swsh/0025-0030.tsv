@@ -1,0 +1,105 @@
+.bt Pikachu @ Master Ball
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 391666
+SID: 2164
+Ball: Luxury Ball
+Language: English
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+.MetDate=20240303
+EVs: 4 HP / 252 SpA / 252 Spe
+Ability: Lightning Rod
+Gigantamax: Yes
+Timid Nature
+- Thunderbolt
+- Volt Switch
+- Surf
+
+Raichu @ Master Ball
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 391666
+SID: 2164
+Ball: Luxury Ball
+Language: English
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+.MetDate=20240326
+EVs: 4 HP / 252 SpA / 252 Spe
+Ability: Lightning Rod
+Timid Nature
+- Thunderbolt
+- Nasty Plot
+- Grass Knot
+
+Sandshrew @ Master Ball
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 391666
+SID: 2164
+Ball: Luxury Ball
+Language: English
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+.MetDate=20230916
+EVs: 252 HP / 4 Atk / 252 Spe
+Ability: Sand Rush
+Jolly Nature
+- Earthquake
+- Protect
+- Rapid Spin
+- Stealth Rock
+
+Sandslash @ Master Ball
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 391666
+SID: 2164
+Ball: Luxury Ball
+Language: English
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+.MetDate=20231219
+EVs: 252 HP / 4 Atk / 252 Spe
+Ability: Sand Rush
+Jolly Nature
+- Earthquake
+- Protect
+- Rapid Spin
+
+Nidoran-f @ Master Ball
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 391666
+SID: 2164
+Ball: Luxury Ball
+Language: English
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+.MetDate=20250417
+EVs: 60 Atk / 180 Def / 196 SpD / 28 Spe
+Ability: Poison Point
+Impish Nature
+- Toxic Spikes
+- Protect
+- Poison Jab
+- Thief
+
+Nidorina @ Master Ball
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 391666
+SID: 2164
+Ball: Luxury Ball
+Language: English
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+.MetDate=20230221
+EVs: 60 Atk / 180 Def / 196 SpD / 28 Spe
+Ability: Poison Point
+Impish Nature
+- Toxic Spikes
+- Protect
+- Poison Jab
+- Thief

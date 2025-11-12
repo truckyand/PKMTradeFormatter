@@ -1,0 +1,103 @@
+.bt Electabuzz @ Master Ball
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 391666
+SID: 2164
+Ball: Luxury Ball
+Language: English
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+.MetDate=20230918
+EVs: 4 HP / 252 SpA / 252 Spe
+Ability: Vital Spirit
+Timid Nature
+- Thunderbolt
+- Volt Switch
+- Focus Blast
+- Substitute
+
+Magmar @ Master Ball
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 391666
+SID: 2164
+Ball: Luxury Ball
+Language: English
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+.MetDate=20240110
+EVs: 4 Atk / 252 SpA / 252 Spe
+Ability: Vital Spirit
+Hasty Nature
+- Fire Blast
+- Focus Blast
+- Will-O-Wisp
+- Substitute
+
+Pinsir @ Master Ball
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 391666
+SID: 2164
+Ball: Luxury Ball
+Language: English
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+.MetDate=20240321
+EVs: 252 Atk / 4 Def / 252 Spe
+Ability: Mold Breaker
+Jolly Nature
+- Swords Dance
+- X-Scissor
+- Earthquake
+
+Tauros @ Master Ball
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 391666
+SID: 2164
+Ball: Luxury Ball
+Language: English
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+.MetDate=20251110
+EVs: 252 Atk / 4 SpA / 252 Spe
+Ability: Sheer Force
+Naive Nature
+- Body Slam
+- Fire Blast
+- Work Up
+
+Magikarp @ Master Ball
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 391666
+SID: 2164
+Ball: Luxury Ball
+Language: English
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+.MetDate=20250302
+EVs: 4 HP / 252 Atk / 252 Spe
+Ability: Rattled
+Jolly Nature
+- Bounce
+- Hydro Pump
+- Splash
+
+Gyarados @ Master Ball
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 391666
+SID: 2164
+Ball: Luxury Ball
+Language: English
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+.MetDate=20240210
+EVs: 4 HP / 252 Atk / 252 Spe
+Ability: Moxie
+Jolly Nature
+- Dragon Dance
+- Waterfall
+- Bounce
