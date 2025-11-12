@@ -119,15 +119,6 @@ OT: trucky
 OTGender: Male
 TID: 391666
 SID: 2164
-Ball: Poke Ball
-Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 .MetDate=20221026
 EVs: 252 HP / 252 Def / 4 SpD
-Ability: Water Absorb
-Tera Type: Ground
-Relaxed Nature
-- Liquidation
-- Earthquake
-- Recover
-- Toxic
