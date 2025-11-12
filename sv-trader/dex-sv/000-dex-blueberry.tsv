@@ -5,7 +5,7 @@
 # @ Everstone
 
 .bt
-Dugtrio-Alola @ Everstone
+Dugtrio @ Everstone
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -13,15 +13,15 @@ TID: 391666
 SID: 2164
 Ball: Ultra Ball
 Language: English
-Ability: Tangling Hair
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-EVs: 252 Atk / 4 SpD / 252 Spe
-Tera Type: Steel
-Level: 1
+EVs: 4 HP / 252 Atk / 252 Spe
+Ability: Arena Trap
+Tera Type: Ground
+Shiny: Yes
 Jolly Nature
 - Earthquake
-- Iron Head
-- Substitute
+- Sucker Punch
+- Stealth Rock
 - Stone Edge
 
 
@@ -32,6 +32,7 @@ TID: 391666
 SID: 2164
 Ball: Ultra Ball
 Language: English
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 Atk / 4 SpD / 252 Spe
 Ability: Tangling Hair
 Tera Type: Steel
@@ -49,6 +50,7 @@ TID: 391666
 SID: 2164
 Ball: Ultra Ball
 Language: English
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 HP / 252 Atk / 4 Def
 Ability: Gluttony
 Tera Type: Poison
@@ -68,6 +70,7 @@ TID: 391666
 SID: 2164
 Ball: Ultra Ball
 Language: English
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 HP / 252 Atk / 4 Def
 Ability: Gluttony
 Tera Type: Poison
@@ -86,6 +89,7 @@ TID: 391666
 SID: 2164
 Ball: Ultra Ball
 Language: English
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 HP / 4 Def / 252 SpA
 Ability: Gluttony
 Tera Type: Fire
@@ -104,6 +108,7 @@ TID: 391666
 SID: 2164
 Ball: Ultra Ball
 Language: English
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 HP / 4 Def / 252 SpA
 Ability: Own Tempo
 Tera Type: Fire
@@ -123,6 +128,7 @@ TID: 391666
 SID: 2164
 Ball: Ultra Ball
 Language: English
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 HP / 4 Def / 252 SpA
 Ability: Own Tempo
 Tera Type: Fire
@@ -140,6 +146,7 @@ TID: 391666
 SID: 2164
 Ball: Ultra Ball
 Language: English
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 HP / 252 Atk / 4 SpD
 Ability: Magnet Pull
 Tera Type: Flying
@@ -158,6 +165,7 @@ TID: 391666
 SID: 2164
 Ball: Ultra Ball
 Language: English
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 HP / 252 Atk / 4 SpD
 Ability: Magnet Pull
 Tera Type: Flying
@@ -176,6 +184,7 @@ TID: 391666
 SID: 2164
 Ball: Ultra Ball
 Language: English
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 Atk / 4 Def / 252 Spe
 Ability: Swift Swim
 Shiny: Yes
@@ -192,6 +201,7 @@ TID: 391666
 SID: 2164
 Ball: Ultra Ball
 Language: English
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 4 HP / 252 Atk / 252 Spe
 Ability: Poison Point
 Tera Type: Poison
@@ -210,6 +220,7 @@ TID: 391666
 SID: 2164
 Ball: Ultra Ball
 Language: English
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 Atk / 4 SpD / 252 Spe
 Ability: Snow Cloak
 Tera Type: Ice
@@ -230,6 +241,7 @@ TID: 391666
 SID: 2164
 Ball: Ultra Ball
 Language: English
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 Atk / 6 Def / 252 Spe
 Ability: Slush Rush
 Shiny: Yes
@@ -246,6 +258,7 @@ TID: 391666
 SID: 2164
 Ball: Ultra Ball
 Language: English
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 4 HP / 252 Atk / 252 Spe
 Ability: Technician
 Gigantamax: Yes
@@ -263,6 +276,7 @@ TID: 391666
 SID: 2164
 Ball: Ultra Ball
 Language: English
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 8 HP / 248 Atk / 252 Spe
 Ability: Tough Claws
 Shiny: Yes
@@ -279,6 +293,7 @@ TID: 391666
 SID: 2164
 Ball: Ultra Ball
 Language: English
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 4 Def / 252 SpA / 252 Spe
 Ability: Technician
 Tera Type: Normal
@@ -296,6 +311,7 @@ TID: 391666
 SID: 2164
 Ball: Ultra Ball
 Language: English
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 SpA / 4 SpD / 252 Spe
 Ability: Fur Coat
 Tera Type: Dark
@@ -307,6 +323,24 @@ Timid Nature
 - Thunderbolt
 
 
+Dugtrio @ Everstone
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 391666 
+SID: 2164
+Ball: Ultra Ball
+Language: English
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+EVs: 4 HP / 252 Atk / 252 Spe
+Ability: Arena Trap
+Tera Type: Ground
+Shiny: Yes
+Jolly Nature
+- Earthquake
+- Sucker Punch
+- Stealth Rock
+- Stone Edge
 
 
 
