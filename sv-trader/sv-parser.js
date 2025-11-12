@@ -1,15 +1,26 @@
 const fs = require('fs');
 
-const pokemons = require('../sv.json');
-pokemons.sort((a, b) => a.id - b.id); // Sort Pokémon by their National Pokédex id
-console.log(`pokemons sv.json: ${pokemons.length}`);
+const srcFile = '../swsh.json';
+const metasetFile = '../pkmgg_sorted_swsh_pokemon.json';
 
-const pkmgg_sorted_pkm_json = require('../pkmgg_sorted_pokemon.json');
+// Define chunk size and output directory
+const chunkSize = 6;
+const outputDir = './dev-swsh';
+
+//
+//
+//
+const pokemons = require(srcFile);
+pokemons.sort((a, b) => a.id - b.id); // Sort Pokémon by their National Pokédex id
+console.log(`pokemons ${srcFile}: ${pokemons.length}`);
+
+const pkmgg_sorted_pkm_json = require(metasetFile);
 const pkmgg_sorted_pkm = Object.entries(pkmgg_sorted_pkm_json).map(([id, pkm]) => ({
-  id,
-  ...pkm
+	id,
+	...pkm
 }));
-console.log(`pkmgg_sorted_pkm: ${pkmgg_sorted_pkm.length}`);
+console.log(`${metasetFile}: ${pkmgg_sorted_pkm.length}`);
+console.log(pkmgg_sorted_pkm[0]);
 
 // List of Legendary & Mythical Pokémon
 const { LegendaryMythicalList } = require('./legend.js');
@@ -21,9 +32,6 @@ const legendary_pkm = pkmgg_sorted_pkm
 legendary_pkm.sort((a, b) => a.species_id - b.species_id);
 console.log(`Legendary: ${legendary_pkm.length}`);
 
-// Define chunk size
-const chunkSize = 6;
-const outputDir = './output';
 
 // Helper: capitalize first letter
 function capitalize(str) {
@@ -39,8 +47,8 @@ function randomDate() {
 }
 
 // p6 testing
-const p6 = pokemons.slice(0, 6);
-console.log(p6.length);
+//const p6 = pokemons.slice(0, 6);
+//
 
 // Process in chunks
 data = pokemons;
@@ -50,12 +58,12 @@ for (let i = 0; i < data.length; i += chunkSize) {
 	const chunk = data.slice(i, i + chunkSize);
 	const startId = chunk[0].id;
 	const endId = chunk[chunk.length - 1].id;
-	const filename = `${outputDir}/${startId}-${endId}.tsv`;
+	const filename = `${outputDir}/${startId.toString().padStart(4, '0')}-${endId.toString().padStart(4, '0')}.tsv`;
 
 	let content = '.bt ';
 	chunk.forEach(item => {
-		if(LegendaryMythicalList.has(item.name)) {
-			console.log(`${item.name} is legend, ignore.`);
+		if (LegendaryMythicalList.has(item.name)) {
+			console.log(`>>> ${item.name} is legendary, ignore.`);
 		}
 
 		const name = capitalize(item.name);
@@ -74,7 +82,15 @@ for (let i = 0; i < data.length; i += chunkSize) {
 
 		// meta_set
 		idStr = item.id.toString().padStart(4, '0');
-		var pkmgg_pkm = pkmgg_sorted_pkm.find(x => x.id===idStr);
+
+		// Find meta_set from pkmgg_sorted_pkm
+		// Use species name instead of id to find the Pokémon
+		// 0046 Mimikyu
+		var pkmgg_pkm = pkmgg_sorted_pkm.find(x => x.id === idStr);
+		if (!pkmgg_pkm) {
+			// Fallback to species name search
+			pkmgg_pkm = pkmgg_sorted_pkm.find(x => x.species.toLowerCase() === name.toLowerCase());
+		}
 		if (pkmgg_pkm && pkmgg_pkm.meta_set) {
 			var meta_set = pkmgg_pkm.meta_set;
 			meta_set = meta_set.split('\n');
