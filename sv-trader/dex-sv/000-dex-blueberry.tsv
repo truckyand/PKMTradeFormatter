@@ -4,6 +4,7 @@
 # Blueberry (Alolan)
 # @ Everstone
 
+.bt
 Dugtrio-Alola @ Everstone
 Shiny: Yes
 OT: trucky
@@ -113,6 +114,8 @@ Modest Nature
 - Psychic
 - Flamethrower
 
+
+.bt
 Slowking-Galar @ Everstone
 OT: trucky
 OTGender: Female
@@ -218,6 +221,8 @@ Jolly Nature
 - Iron Head
 - Earthquake
 
+
+.bt
 Sandslash-Alola (F) @ Everstone
 OT: trucky
 OTGender: Female
