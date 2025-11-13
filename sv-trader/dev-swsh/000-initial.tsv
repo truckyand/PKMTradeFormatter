@@ -1,0 +1,204 @@
+
+.bt Charizard
+Shiny: Yes
+Level: 20
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Ultra Ball
+Language: English
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+- Fire Blast
+- Solar Beam
+- Sunny Day
+- Hurricane
+
+
+Charizard
+Shiny: Yes
+Level: 100
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Ultra Ball
+Language: English
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+- Fire Blast
+- Solar Beam
+- Sunny Day
+- Hurricane
+
+
+Charizard-Gmax
+Shiny: Yes
+Level: 100
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Ultra Ball
+Language: English
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+EVs: 4 HP / 252 SpA / 252 Spe
+
+
+
+
+
+
+
+
+
+
+
+
+
+ @ Comet Shard
+
+
+.bt Gyarados @ Comet Shard
+Shiny: Yes
+Level: 20
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Ultra Ball
+Language: English
+Ability: Moxie
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+EVs: 252 Spe / 4 SpD / 252 Atk
+Adamant Nature
+- Dragon Dance
+- Waterfall
+- Ice Fang
+- Power Whip
+
+Gyarados @ Comet Shard
+Shiny: Yes
+Level: 100
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Ultra Ball
+Language: English
+Ability: Moxie
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+EVs: 252 Spe / 4 SpD / 252 Atk
+Adamant Nature
+- Dragon Dance
+- Waterfall
+- Ice Fang
+- Power Whip
+
+
+Toxtricity @ Comet Shard
+Shiny: Yes
+Level: 50
+OT: trucky
+OTGender: Male
+TID: 331778
+SID: 2401
+Ball: Poke Ball
+Language: English
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+.MetDate=20221023
+EVs: 252 SpA / 4 SpD / 252 Spe
+Ability: Lightning Rod
+Tera Type: Electric
+Timid Nature
+- Nasty Plot
+- Thunderbolt
+- Substitute
+- Thunder
+
+
+Gardevoir @ Comet Shard
+Shiny: Yes
+Level: 40
+OT: trucky
+OTGender: Male
+TID: 331778
+SID: 2401
+Ball: Dusk Ball
+Language: English
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+.MetDate=20220422
+EVs: 252 HP / 4 SpD / 252 Spe
+Ability: Trace
+Tera Type: Dark
+Timid Nature
+- Hypnosis
+- Thunder Wave
+- Heal Pulse
+- Dazzling Gleam
+
+
+Gallade (F) @ Leftovers
+Shiny: Yes
+Level: 40
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Ultra Ball
+Language: English
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+252 Atk / 4 SpD / 252 Spe
+- False Swipe
+- Hypnosis
+- Thunder Wave
+- Swords Dance
+
+
+
+
+Sirfetchd @ Comet Shard
+Shiny: Yes
+Level: 50
+OT: trucky
+OTGender: Male
+TID: 331778
+SID: 2401
+Ball: Poke Ball
+Language: English
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+EVs: 252 Atk / 4 Def / 252 Spe
+.MetDate=20231216
+Ability: Scrappy
+Jolly Nature
+- Knock Off
+- Close Combat
+- Poison Jab
+- First Impression
+
+
+
+Grimmsnarl            
+Shiny: Yes
+OT: trucky
+OTGender: Male
+TID: 391666
+SID: 2164
+Ball: Poke Ball
+Language: English
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+.MetDate=20240831
+EVs: 252 HP / 252 Atk / 4 SpD
+Ability: Frisk
+Tera Type: Fairy
+Adamant Nature
+- Fake Out
+- Reflect
+- Light Screen
+- Spirit Break
+
+
+Copperajah 
