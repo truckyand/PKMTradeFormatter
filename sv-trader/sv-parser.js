@@ -2,6 +2,8 @@ const fs = require('fs');
 
 const srcFile = '../swsh.json';
 const metasetFile = '../pkmgg_sorted_swsh_pokemon.json';
+const FILE_PREFIX = '000-legendary-swsh';
+const LEGENDARY_ONLY = true;
 
 // Define chunk size and output directory
 const chunkSize = 6;
@@ -28,9 +30,14 @@ console.log(`Legendary List: ${LegendaryMythicalList.size}`);
 
 // Filter only Legendary & Mythical
 const legendary_pkm = pkmgg_sorted_pkm
-	.filter(pkm => LegendaryMythicalList.has(pkm.species))
+	.filter(pkm => LegendaryMythicalList.has(pkm.species));
 legendary_pkm.sort((a, b) => a.species_id - b.species_id);
 console.log(`Legendary: ${legendary_pkm.length}`);
+
+const legendary_pkm_v2 = pkmgg_sorted_pkm
+	.filter(pkm => pkm.is_legendary == true);
+legendary_pkm_v2.sort((a, b) => a.species_id - b.species_id);
+console.log(`Legendary V2: ${legendary_pkm_v2.length}`);
 
 
 // Helper: capitalize first letter
@@ -52,19 +59,23 @@ function randomDate() {
 
 // Process in chunks
 data = pokemons;
+if (LEGENDARY_ONLY) {
+	data = pokemons
+		.filter(pkm => pkmgg_sorted_pkm.find(x => (x.species.toLowerCase() === pkm.name.toLowerCase()) && (x.is_legendary == true)));
+}
 for (let i = 0; i < data.length; i += chunkSize) {
 
 	// Filename based on the first and last id in the chunk
 	const chunk = data.slice(i, i + chunkSize);
 	const startId = chunk[0].id;
 	const endId = chunk[chunk.length - 1].id;
-	const filename = `${outputDir}/${startId.toString().padStart(4, '0')}-${endId.toString().padStart(4, '0')}.tsv`;
+	const filename = `${outputDir}/${FILE_PREFIX}-${startId.toString().padStart(4, '0')}-${endId.toString().padStart(4, '0')}.tsv`;
 
 	let content = '.bt ';
 	chunk.forEach(item => {
-		if (LegendaryMythicalList.has(item.name)) {
+		/*if (LegendaryMythicalList.has(item.name)) {
 			console.log(`>>> ${item.name} is legendary, ignore.`);
-		}
+		}*/
 
 		const name = capitalize(item.name);
 		const metDate = randomDate();
@@ -97,7 +108,12 @@ for (let i = 0; i < data.length; i += chunkSize) {
 			meta_set.splice(0, 1); // remove Name    
 			meta_set.splice(meta_set.findIndex(x => x.startsWith("Shiny")), 1); // remove Shiny
 			meta_set.splice(meta_set.findIndex(x => x.startsWith("Level")), 1); // remove Level
-			meta_set = meta_set.join('\n')
+			meta_set = meta_set.join('\n');
+
+			//console.log(`item: ${pkmgg_pkm.species}, is_legendary: ${pkmgg_pkm.is_legendary}`);
+			if (!LEGENDARY_ONLY && (pkmgg_pkm.is_legendary == true)) {
+				console.log(`>>> ${pkmgg_pkm.species} is legendary, ignore.`);
+			}
 		}
 		else {
 			console.log(`Cannot find meta_set for ${idStr} ${name}`);
@@ -107,5 +123,5 @@ for (let i = 0; i < data.length; i += chunkSize) {
 	});
 
 	fs.writeFileSync(filename, content.trim() + '\n');
-	//console.log(`✅ Wrote ${filename}`);
+	console.log(`✅ Wrote ${filename}`);
 }
