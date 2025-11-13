@@ -1,0 +1,208 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pokémon Sword & ShieldList Viewer</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>Pokémon List Viewer</h1>
+    <form id="filterForm">
+        <div style="width: 100%;">
+            <label for="species" style="text-align: left;">Species:</label>
+            <input type="text" id="species" name="species" placeholder="Enter Pokémon name">
+        </div>
+        
+        <div style="width: 100%;">
+            <label for="game">Game:</label>
+            <select id="game" name="game">
+                <option value="">Any</option>
+                <option value="lgpe">Let's Go, Pikachu & Eevee</option>
+                <option value="swsh">Sword & Shield</option>
+                <option value="bdsp">Brilliant Diamond & Shining Pearl</option>
+                <option value="pla">Legends: Arceus</option>
+                <option value="sv">Scarlet & Violet</option>
+            </select>
+        </div>
+        
+        <div style="width: 100%;">
+            <label style="vertical-align: top">Generation:</label>
+            <div style="width: 525px; display: inline-block">
+                <input type="checkbox" value="1" id="legend" name="legend" style="min-width: 10px; padding: 0px; width: 15px;" />
+                <label for="legend" style="width: 200px; color: red; font-weight: bold;">Legendary & Mythical</label>
+
+                <br />
+                <input type="checkbox" value="1" id="gen1" name="gen" style="min-width: 10px; padding: 0px; width: 15px;" />
+                <label for="gen1">Gen 1</label>
+
+                <input type="checkbox" value="2" id="gen2" name="gen" style="min-width: 10px; padding: 0px; width: 15px;" />
+                <label for="gen2">Gen 2</label>
+
+                <input type="checkbox" value="3" id="gen3" name="gen" style="min-width: 10px; padding: 0px; width: 15px;" />
+                <label for="gen3">Gen 3</label>
+
+                <input type="checkbox" value="4" id="gen4" name="gen" style="min-width: 10px; padding: 0px; width: 15px;" />
+                <label for="gen4">Gen 4</label>
+
+                <input type="checkbox" value="5" id="gen5" name="gen" style="min-width: 10px; padding: 0px; width: 15px;" />
+                <label for="gen5">Gen 5</label>
+
+                <input type="checkbox" value="6" id="gen6" name="gen" style="min-width: 10px; padding: 0px; width: 15px;" />
+                <label for="gen6">Gen 6</label>
+
+                <input type="checkbox" value="7" id="gen7" name="gen" style="min-width: 10px; padding: 0px; width: 15px;" />
+                <label for="gen7">Gen 7</label>
+
+                <input type="checkbox" value="8" id="gen8" name="gen" style="min-width: 10px; padding: 0px; width: 15px;" />
+                <label for="gen8" style="color: gold; font-weight: bold;">Gen 8</label>
+
+                <input type="checkbox" value="9" id="gen9" name="gen" style="min-width: 10px; padding: 0px; width: 15px;" />
+                <label for="gen9" style="color: gold; font-weight: bold;">Gen 9</label>
+            </div>
+        </div>
+        
+        <button type="submit">Search</button>
+    </form>
+    
+    <ul id="results"></ul>
+    
+    <script type="module">
+        import { faker } from 'https://esm.sh/@faker-js/faker';
+        
+        var pkmgg_sorted_pkm = [];
+        document.addEventListener("DOMContentLoaded", async() => {
+            console.log("Document ready!");
+
+            var pkmgg_sorted_pokemon_json = await(await fetch('pkmgg_sorted_swsh_pokemon.json')).json();
+            pkmgg_sorted_pkm = Object.entries(pkmgg_sorted_pokemon_json).map(([id, pkm]) => ({
+                id,
+                ...pkm
+            }));
+            console.log(`pkmgg_sorted_pokemon loaded. ${pkmgg_sorted_pkm.length}`);
+        });
+    
+        document.getElementById('filterForm').addEventListener('submit', async(event) => {
+            event.preventDefault();
+
+            const species = document.getElementById('species').value.toLowerCase();
+            const game = document.getElementById('game').value.toLowerCase();
+            
+            const files = {
+                'lgpe': 'lgpe.json',
+                'swsh': 'swsh.json',
+                'bdsp': 'bdsp.json',
+                'pla': 'pla.json',
+                'sv': 'sv.json'
+            };
+            
+            const selectedFiles = game ? [files[game]] : Object.values(files);
+            Promise.all(selectedFiles.map(file => fetch(file).then(response => response.json())))
+                .then(dataArray => {
+                    const allPokemon = dataArray.flat();
+                    const filteredPokemon = allPokemon.filter(pokemon => 
+                        (!species || pokemon.name.toLowerCase().includes(species))
+                    );
+
+                    // Sort Pokémon by their National Pokédex id
+                    filteredPokemon.sort((a, b) => a.id - b.id);
+
+                    displayResults(filteredPokemon);
+                })
+                .catch(error => console.error('Error fetching Pokémon data:', error));
+        });
+
+        function displayResults(pokemonList) {
+            const resultsContainer = document.getElementById('results');
+            resultsContainer.innerHTML = '';
+            
+            if (pokemonList.length === 0) {
+                resultsContainer.innerHTML = '<li>No matching Pokémon found.</li>';
+                return;
+            }
+            
+            pokemonList.forEach(pokemon => {
+                const listItem = document.createElement('li');
+                
+                // Display only Pokémon name (no ID)
+                const nameText = document.createElement('span');
+                var nameCapitalize = pokemon.name.charAt(0).toUpperCase() + pokemon.name.slice(1); // Capitalize first letter
+                nameText.textContent = `#${pokemon.id} ${nameCapitalize}`;
+                
+                // Pokémon image
+                const img = document.createElement('img');
+                img.src = `https://img.pokemondb.net/sprites/home/shiny/${pokemon.name.toLowerCase()}.png`;
+                img.alt = `${pokemon.name} shiny sprite`;
+                img.style.width = '100px'; // Adjust size as needed
+                img.style.display = 'block'; // Ensure it appears below the name
+                
+                listItem.appendChild(nameText);
+                listItem.appendChild(img);
+                listItem.addEventListener('click', () => copyToClipboard(pokemon.id, nameCapitalize));
+                
+                resultsContainer.appendChild(listItem);
+            });
+        }
+        
+        function copyToClipboard(id, content) {
+            var dt = randomDate();
+
+            // Inject
+            content = content + `            
+Shiny: Yes
+OT: trucky
+OTGender: Male
+TID: 391666
+SID: 2164
+Ball: Poke Ball
+Language: English
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+.MetDate=` + dt + `\n`;
+
+            // meta_set
+            var idStr = id.toString().padStart(4, '0');
+            var pkmgg_pkm = pkmgg_sorted_pkm.find(x => x.id === idStr);
+            if (pkmgg_pkm && pkmgg_pkm.meta_set) {
+                var meta_set = pkmgg_pkm.meta_set;
+                meta_set = meta_set.split('\n'); 
+                meta_set.splice(0, 1); // remove Name   
+
+                // remove Shiny
+                var idx = meta_set.findIndex(x => x.startsWith("Shiny"));
+                if (idx != -1) {
+                    meta_set.splice(meta_set.findIndex(x => x.startsWith("Shiny")), 1); 
+                }
+
+                // remove Level
+                idx = meta_set.findIndex(x => x.startsWith("Level"));
+                if (idx != -1) {
+                    meta_set.splice(meta_set.findIndex(x => x.startsWith("Level")), 1); 
+                }
+                meta_set = meta_set.join('\n')
+            }
+            else {
+                console.log(`Cannot find meta_set for ${idStr} ${name}`);
+            }
+            content += `${meta_set}\n`;
+            
+            // Set to clipboard
+            console.log(content);
+            navigator.clipboard.writeText(content).then(() => {
+                alert(`${content}`);
+            }).catch(err => console.error('Error copying text:', err));
+        }
+
+        function randomDate(){
+            const randomDt = faker.date.between({ from: '2022-01-01T00:00:00.000Z', to: Date.now() });
+            var dt = new Date(randomDt);
+
+            const day = String(dt.getDate()).padStart(2, '0');
+            const month = String(dt.getMonth() + 1).padStart(2, '0'); // Months are 0-indexed
+            const year = dt.getFullYear();
+            console.log(`${year}${month}${day}`); 
+            return `${year}${month}${day}`;
+        }
+
+    </script>
+</body>
+</html>
