@@ -2,12 +2,12 @@
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250821
+.MetDate=20241211
 EVs: 252 HP / 252 Def / 4 SpD
 Ability: Frisk
 Gigantamax: Yes
@@ -20,12 +20,12 @@ Nickit @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20251102
+.MetDate=20240522
 EVs: 4 HP / 252 Atk / 252 Spe
 Ability: Unburden
 Jolly Nature
@@ -38,12 +38,12 @@ Thievul @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240614
+.MetDate=20240305
 EVs: 252 SpA / 4 SpD / 252 Spe
 Ability: Unburden
 Timid Nature
@@ -55,12 +55,12 @@ Gossifleur @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20231014
+.MetDate=20231113
 EVs: 252 HP / 252 Def / 4 SpD
 Ability: Regenerator
 Bold Nature
@@ -73,12 +73,12 @@ Eldegoss @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230720
+.MetDate=20250126
 EVs: 252 HP / 252 Def / 4 SpD
 Ability: Regenerator
 Bold Nature
@@ -90,12 +90,12 @@ Wooloo @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240926
+.MetDate=20230221
 EVs: 104 HP / 252 Def / 152 Spe
 Ability: Fluffy
 Impish Nature

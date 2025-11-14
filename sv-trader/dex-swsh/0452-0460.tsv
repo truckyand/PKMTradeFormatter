@@ -2,12 +2,12 @@
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230211
+.MetDate=20250912
 EVs: 252 Atk / 4 SpD / 252 Spe
 Ability: Sniper
 Jolly Nature
@@ -19,12 +19,12 @@ Croagunk @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20241009
+.MetDate=20250917
 EVs: 52 HP / 116 Def / 188 SpA / 116 SpD / 36 Spe
 Ability: Dry Skin
 Modest Nature
@@ -37,12 +37,12 @@ Toxicroak @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240106
+.MetDate=20251109
 EVs: 252 Atk / 4 SpD / 252 Spe
 Ability: Dry Skin
 Jolly Nature
@@ -54,12 +54,12 @@ Mantyke @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240708
+.MetDate=20230303
 EVs: 252 HP / 120 SpD / 136 Spe
 Ability: Water Absorb
 Calm Nature
@@ -72,12 +72,12 @@ Snover @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230114
+.MetDate=20250118
 EVs: 252 SpA / 4 SpD / 252 Spe
 Ability: Snow Warning
 Mild Nature
@@ -89,12 +89,12 @@ Abomasnow @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230218
+.MetDate=20230622
 EVs: 252 SpA / 4 SpD / 252 Spe
 Ability: Snow Warning
 Mild Nature

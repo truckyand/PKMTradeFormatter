@@ -2,12 +2,12 @@
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240922
+.MetDate=20240814
 EVs: 252 HP / 252 SpA / 4 SpD
 Ability: Analytic
 Quiet Nature
@@ -20,12 +20,12 @@ Omanyte @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230313
+.MetDate=20250405
 EVs: 76 HP / 196 SpA / 236 Spe
 Ability: Shell Armor
 Modest Nature
@@ -38,12 +38,12 @@ Omastar @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250626
+.MetDate=20230928
 EVs: 4 HP / 252 SpA / 252 Spe
 Ability: Swift Swim
 Timid Nature
@@ -55,12 +55,12 @@ Kabuto @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20231109
+.MetDate=20240924
 EVs: 116 HP / 196 Atk / 196 Def
 Ability: Battle Armor
 Adamant Nature
@@ -73,12 +73,12 @@ Kabutops @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230706
+.MetDate=20240721
 EVs: 252 Atk / 4 Def / 252 Spe
 Ability: Swift Swim
 Jolly Nature
@@ -90,12 +90,12 @@ Aerodactyl @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230614
+.MetDate=20250411
 EVs: 252 Atk / 4 SpD / 252 Spe
 Ability: Unnerve
 Adamant Nature

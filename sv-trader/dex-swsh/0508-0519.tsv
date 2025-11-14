@@ -2,12 +2,12 @@
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20231216
+.MetDate=20231128
 EVs: 252 Atk / 4 SpD / 252 Spe
 Ability: Scrappy
 Adamant Nature
@@ -19,12 +19,12 @@ Purrloin @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240809
+.MetDate=20240916
 EVs: 4 HP / 252 SpA / 252 Spe
 Ability: Prankster
 Timid Nature
@@ -37,12 +37,12 @@ Liepard @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250115
+.MetDate=20230508
 EVs: 4 HP / 252 SpA / 252 Spe
 Ability: Prankster
 Timid Nature
@@ -54,12 +54,12 @@ Munna @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250828
+.MetDate=20250602
 EVs: 128 HP / 252 SpA / 36 SpD / 92 Spe
 Ability: Synchronize
 Modest Nature
@@ -72,12 +72,12 @@ Musharna @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240605
+.MetDate=20230122
 EVs: 128 HP / 252 SpA / 36 SpD / 92 Spe
 Ability: Synchronize
 Modest Nature
@@ -89,12 +89,12 @@ Pidove @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20251213
+.MetDate=20230825
 EVs: 252 Atk / 4 Def / 252 Spe
 Ability: Super Luck
 Adamant Nature

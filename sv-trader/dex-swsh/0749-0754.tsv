@@ -2,12 +2,12 @@
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240605
+.MetDate=20240806
 EVs: 4 HP / 252 Atk / 252 Spe
 Ability: Stamina
 Adamant Nature
@@ -20,12 +20,12 @@ Mudsdale @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250114
+.MetDate=20230911
 EVs: 4 HP / 252 Atk / 252 Spe
 Ability: Stamina
 Adamant Nature
@@ -37,12 +37,12 @@ Dewpider @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20231214
+.MetDate=20251019
 EVs: 252 HP / 252 Atk / 4 Def
 Ability: Water Bubble
 Brave Nature
@@ -55,12 +55,12 @@ Araquanid @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240620
+.MetDate=20250121
 EVs: 252 HP / 252 Atk / 4 Def
 Ability: Water Bubble
 Brave Nature
@@ -72,12 +72,12 @@ Fomantis @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230114
+.MetDate=20240315
 EVs: 248 HP / 252 Def / 8 SpA
 Ability: Contrary
 Bold Nature
@@ -90,12 +90,12 @@ Lurantis @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240613
+.MetDate=20230925
 EVs: 248 HP / 252 Def / 8 SpA
 Ability: Contrary
 Bold Nature

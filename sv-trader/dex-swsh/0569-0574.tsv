@@ -2,12 +2,12 @@
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240918
+.MetDate=20231022
 EVs: 252 HP / 4 Def / 252 SpD
 Ability: Aftermath
 Gigantamax: Yes
@@ -20,12 +20,12 @@ Zorua @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20231125
+.MetDate=20230126
 EVs: 252 SpA / 4 SpD / 252 Spe
 Ability: Illusion
 Timid Nature
@@ -38,12 +38,12 @@ Zoroark @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230306
+.MetDate=20250818
 EVs: 252 SpA / 4 SpD / 252 Spe
 Ability: Illusion
 Timid Nature
@@ -55,12 +55,12 @@ Minccino @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20231220
+.MetDate=20240323
 EVs: 252 Atk / 4 Def / 252 Spe
 Ability: Skill Link
 Jolly Nature
@@ -73,12 +73,12 @@ Cinccino @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250820
+.MetDate=20250712
 EVs: 252 Atk / 4 Def / 252 Spe
 Ability: Skill Link
 Jolly Nature
@@ -90,12 +90,12 @@ Gothita @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250127
+.MetDate=20241107
 EVs: 252 HP / 252 Def / 4 Spe
 Ability: Shadow Tag
 Bold Nature

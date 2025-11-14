@@ -2,12 +2,12 @@
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240709
+.MetDate=20240910
 EVs: 252 HP / 88 Atk / 168 Def
 Ability: Ice Body
 Impish Nature
@@ -20,12 +20,12 @@ Avalugg @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240220
+.MetDate=20251217
 EVs: 252 HP / 88 Atk / 168 Def
 Ability: Ice Body
 Impish Nature
@@ -37,12 +37,12 @@ Noibat @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250210
+.MetDate=20250108
 EVs: 252 SpA / 4 SpD / 252 Spe
 Ability: Infiltrator
 Timid Nature
@@ -55,12 +55,12 @@ Noivern @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20251101
+.MetDate=20250507
 EVs: 252 SpA / 4 SpD / 252 Spe
 Ability: Infiltrator
 Timid Nature
@@ -72,12 +72,12 @@ Grubbin @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240723
+.MetDate=20230910
 EVs: 140 HP / 20 Atk / 156 Def / 156 SpD
 Ability: Swarm
 Relaxed Nature
@@ -90,12 +90,12 @@ Charjabug @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250617
+.MetDate=20230704
 EVs: 252 HP / 4 Atk / 252 Def
 Ability: Battery
 Impish Nature

@@ -2,12 +2,12 @@
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20241001
+.MetDate=20250215
 EVs: 252 Atk / 4 SpD / 252 Spe
 Ability: White Smoke
 Gigantamax: Yes
@@ -20,12 +20,12 @@ Clobbopus @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250112
+.MetDate=20250101
 EVs: 252 HP / 4 Def / 252 SpD
 Ability: Technician
 Careful Nature
@@ -38,12 +38,12 @@ Grapploct @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240902
+.MetDate=20250313
 EVs: 252 HP / 4 Def / 252 SpD
 Ability: Technician
 Careful Nature
@@ -55,12 +55,12 @@ Sinistea @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240725
+.MetDate=20240812
 EVs: 252 SpA / 4 SpD / 252 Spe
 Ability: Weak Armor
 Modest Nature
@@ -73,12 +73,12 @@ Polteageist @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240727
+.MetDate=20250624
 EVs: 252 SpA / 4 SpD / 252 Spe
 Ability: Weak Armor
 Modest Nature
@@ -90,12 +90,12 @@ Hatenna @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240910
+.MetDate=20240603
 EVs: 252 HP / 252 Def / 4 SpA
 Ability: Magic Bounce
 Bold Nature

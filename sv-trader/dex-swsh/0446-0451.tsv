@@ -2,12 +2,12 @@
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20241208
+.MetDate=20250302
 EVs: 236 Atk / 36 Def / 236 SpD
 Ability: Thick Fat
 Adamant Nature
@@ -20,12 +20,12 @@ Riolu @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240828
+.MetDate=20231018
 EVs: 252 Atk / 4 SpD / 252 Spe
 Ability: Prankster
 Adamant Nature
@@ -38,12 +38,12 @@ Lucario @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240210
+.MetDate=20230908
 EVs: 252 Atk / 4 SpD / 252 Spe
 Ability: Justified
 Adamant Nature
@@ -55,12 +55,12 @@ Hippopotas @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230523
+.MetDate=20241204
 EVs: 252 HP / 8 Atk / 72 Def / 176 SpD
 Ability: Sand Stream
 Impish Nature
@@ -73,12 +73,12 @@ Hippowdon @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20241021
+.MetDate=20240424
 EVs: 252 HP / 8 Atk / 72 Def / 176 SpD
 Ability: Sand Stream
 Impish Nature
@@ -90,12 +90,12 @@ Skorupi @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230221
+.MetDate=20240808
 EVs: 252 Atk / 4 SpD / 252 Spe
 Ability: Sniper
 Jolly Nature

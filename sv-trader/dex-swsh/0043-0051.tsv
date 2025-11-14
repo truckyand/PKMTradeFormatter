@@ -2,12 +2,12 @@
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240722
+.MetDate=20231003
 EVs: 252 HP / 252 Def / 4 SpD
 Ability: Run Away
 Bold Nature
@@ -20,12 +20,12 @@ Gloom @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240218
+.MetDate=20241001
 EVs: 252 HP / 252 Def / 4 SpD
 Ability: Stench
 Bold Nature
@@ -38,12 +38,12 @@ Vileplume @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20251025
+.MetDate=20240323
 EVs: 252 HP / 252 Def / 4 SpD
 Ability: Effect Spore
 Bold Nature
@@ -55,12 +55,12 @@ Mimikyu @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20241117
+.MetDate=20240922
 EVs: 252 Atk / 4 SpD / 252 Spe
 Ability: Disguise
 Jolly Nature
@@ -72,12 +72,12 @@ Diglett @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20241002
+.MetDate=20231112
 EVs: 4 HP / 252 Atk / 252 Spe
 Ability: Arena Trap
 Jolly Nature
@@ -90,12 +90,12 @@ Dugtrio @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240418
+.MetDate=20251003
 EVs: 4 HP / 252 Atk / 252 Spe
 Ability: Arena Trap
 Jolly Nature

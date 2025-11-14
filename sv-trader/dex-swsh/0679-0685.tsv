@@ -2,12 +2,12 @@
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240822
+.MetDate=20240509
 EVs: 252 HP / 4 Def / 252 SpD
 Ability: No Guard
 Careful Nature
@@ -20,12 +20,12 @@ Doublade @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240822
+.MetDate=20230510
 EVs: 252 HP / 4 Def / 252 SpD
 Ability: No Guard
 Careful Nature
@@ -38,12 +38,12 @@ Spritzee @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230513
+.MetDate=20230405
 EVs: 212 HP / 196 Def / 12 SpA / 76 SpD / 12 Spe
 Ability: Aroma Veil
 Bold Nature
@@ -56,12 +56,12 @@ Aromatisse @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250213
+.MetDate=20250902
 EVs: 248 HP / 252 SpA / 8 SpD
 Ability: Aroma Veil
 Quiet Nature
@@ -73,12 +73,12 @@ Swirlix @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240728
+.MetDate=20230213
 EVs: 4 HP / 252 SpA / 252 Spe
 Ability: Unburden
 Timid Nature
@@ -91,12 +91,12 @@ Slurpuff @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230510
+.MetDate=20250226
 EVs: 4 HP / 252 SpA / 252 Spe
 Ability: Unburden
 Timid Nature

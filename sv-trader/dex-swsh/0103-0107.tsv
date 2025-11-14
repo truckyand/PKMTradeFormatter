@@ -2,12 +2,12 @@
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20251005
+.MetDate=20231026
 EVs: 252 SpA / 4 SpD / 252 Spe
 Ability: Chlorophyll
 Modest Nature
@@ -19,12 +19,12 @@ Darmanitan @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240909
+.MetDate=20250124
 EVs: 252 HP / 252 Atk / 4 Def
 Ability: Rock Head
 Brave Nature
@@ -37,12 +37,12 @@ Cubone @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20241210
+.MetDate=20231212
 EVs: 252 HP / 252 Atk / 4 Def
 Ability: Rock Head
 Brave Nature
@@ -55,12 +55,12 @@ Marowak @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20251101
+.MetDate=20240807
 EVs: 252 HP / 252 Atk / 4 Def
 Ability: Rock Head
 Brave Nature
@@ -72,12 +72,12 @@ Hitmonlee @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240913
+.MetDate=20231223
 EVs: 252 Atk / 4 SpD / 252 Spe
 Ability: Reckless
 Jolly Nature
@@ -89,12 +89,12 @@ Hitmonchan @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20251226
+.MetDate=20250204
 EVs: 252 Atk / 4 SpD / 252 Spe
 Ability: Iron Fist
 Adamant Nature

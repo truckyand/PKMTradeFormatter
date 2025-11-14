@@ -2,12 +2,12 @@
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230321
+.MetDate=20240211
 EVs: 252 Atk / 4 SpD / 252 Spe
 Ability: Flash Fire
 Jolly Nature
@@ -19,12 +19,12 @@ Durant @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20241223
+.MetDate=20231201
 EVs: 56 HP / 200 Atk / 252 Spe
 Ability: Hustle
 Jolly Nature
@@ -36,12 +36,12 @@ Deino @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240616
+.MetDate=20240721
 EVs: 252 SpA / 4 SpD / 252 Spe
 Ability: Hustle
 Timid Nature
@@ -54,12 +54,12 @@ Zweilous @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20251121
+.MetDate=20240117
 EVs: 252 SpA / 4 SpD / 252 Spe
 Ability: Hustle
 Timid Nature
@@ -72,12 +72,12 @@ Hydreigon @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250924
+.MetDate=20240126
 EVs: 252 SpA / 4 SpD / 252 Spe
 Ability: Levitate
 Timid Nature
@@ -89,12 +89,12 @@ Larvesta @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250214
+.MetDate=20231021
 EVs: 252 HP / 4 Def / 252 Spe
 Ability: Flame Body
 Timid Nature

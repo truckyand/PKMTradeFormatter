@@ -2,12 +2,12 @@
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240907
+.MetDate=20251114
 EVs: 12 HP / 244 Atk / 12 Def / 236 Spe
 Ability: Contrary
 Jolly Nature
@@ -20,12 +20,12 @@ Malamar @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20251117
+.MetDate=20230923
 EVs: 252 HP / 4 Def / 252 SpD
 Ability: Contrary
 Careful Nature
@@ -37,12 +37,12 @@ Binacle @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20241112
+.MetDate=20230602
 EVs: 252 Atk / 4 SpA / 252 Spe
 Ability: Tough Claws
 Naive Nature
@@ -55,12 +55,12 @@ Barbaracle @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240306
+.MetDate=20251120
 EVs: 252 Atk / 4 SpA / 252 Spe
 Ability: Tough Claws
 Naive Nature
@@ -72,12 +72,12 @@ Skrelp @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250721
+.MetDate=20231226
 EVs: 228 HP / 252 SpA / 28 Spe
 Ability: Adaptability
 Modest Nature
@@ -90,12 +90,12 @@ Dragalge @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250203
+.MetDate=20240414
 EVs: 228 HP / 252 SpA / 28 Spe
 Ability: Adaptability
 Modest Nature

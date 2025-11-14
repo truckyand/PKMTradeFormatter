@@ -2,12 +2,12 @@
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240319
+.MetDate=20230612
 EVs: 252 Atk / 4 Def / 252 Spe
 Ability: Rock Head
 Adamant Nature
@@ -19,12 +19,12 @@ Bagon @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250617
+.MetDate=20240602
 EVs: 252 Atk / 4 Def / 252 Spe
 Ability: Sheer Force
 Jolly Nature
@@ -37,12 +37,12 @@ Shelgon @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230308
+.MetDate=20250302
 EVs: 252 Atk / 4 Def / 252 Spe
 Ability: Overcoat
 Jolly Nature
@@ -55,12 +55,12 @@ Salamence @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250825
+.MetDate=20231226
 EVs: 252 Atk / 4 Def / 252 Spe
 Ability: Moxie
 Jolly Nature
@@ -72,12 +72,12 @@ Beldum @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250101
+.MetDate=20250210
 EVs: 4 HP / 250 Atk / 252 Spe
 Ability: Clear Body
 Jolly Nature
@@ -90,12 +90,12 @@ Metang @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20241214
+.MetDate=20231211
 EVs: 4 HP / 250 Atk / 252 Spe
 Ability: Clear Body
 Jolly Nature

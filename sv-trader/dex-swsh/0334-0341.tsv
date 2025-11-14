@@ -2,12 +2,12 @@
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230203
+.MetDate=20250924
 EVs: 4 HP / 252 Atk / 252 Spe
 Ability: Natural Cure
 Jolly Nature
@@ -19,12 +19,12 @@ Lunatone @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20231019
+.MetDate=20230708
 EVs: 252 SpA / 4 SpD / 252 Spe
 Ability: Levitate
 Modest Nature
@@ -36,12 +36,12 @@ Solrock @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20241117
+.MetDate=20240513
 EVs: 252 HP / 4 Atk / 252 Def
 Ability: Levitate
 Impish Nature
@@ -53,12 +53,12 @@ Barboach @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250601
+.MetDate=20240820
 EVs: 4 HP / 252 Atk / 252 Spe
 Ability: Anticipation
 Jolly Nature
@@ -71,12 +71,12 @@ Whiscash @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20231105
+.MetDate=20241125
 EVs: 4 HP / 252 Atk / 252 Spe
 Ability: Anticipation
 Jolly Nature
@@ -88,12 +88,12 @@ Corphish @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20231012
+.MetDate=20240917
 EVs: 196 Atk / 76 Def / 236 Spe
 Ability: Adaptability
 Adamant Nature

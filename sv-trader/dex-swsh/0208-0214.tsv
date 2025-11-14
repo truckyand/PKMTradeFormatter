@@ -2,12 +2,12 @@
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20251214
+.MetDate=20240320
 EVs: 252 HP / 208 Atk / 48 SpD
 Ability: Sturdy
 Brave Nature
@@ -19,12 +19,12 @@ Meowstic @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230522
+.MetDate=20230828
 EVs: 4 Def / 252 SpA / 252 Spe
 Ability: Infiltrator
 Timid Nature
@@ -36,12 +36,12 @@ Qwilfish @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20241128
+.MetDate=20240612
 EVs: 252 Atk / 4 Def / 252 Spe
 Ability: Swift Swim
 Adamant Nature
@@ -53,12 +53,12 @@ Scizor @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230226
+.MetDate=20230205
 EVs: 252 HP / 252 Atk / 4 SpD
 Ability: Technician
 Adamant Nature
@@ -70,12 +70,12 @@ Shuckle @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20231119
+.MetDate=20230223
 EVs: 248 HP / 252 Def / 8 SpD
 Ability: Contrary
 Bold Nature
@@ -87,12 +87,12 @@ Heracross @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20251017
+.MetDate=20241101
 EVs: 252 Atk / 4 Def / 252 Spe
 Ability: Guts
 Jolly Nature

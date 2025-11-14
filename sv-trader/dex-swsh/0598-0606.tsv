@@ -2,12 +2,12 @@
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250501
+.MetDate=20240117
 EVs: 252 HP / 4 Def / 252 SpD
 Ability: Iron Barbs
 Careful Nature
@@ -19,12 +19,12 @@ Klink @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230407
+.MetDate=20231014
 EVs: 4 HP / 252 Atk / 252 Spe
 Ability: Clear Body
 Adamant Nature
@@ -37,12 +37,12 @@ Klang @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250219
+.MetDate=20250616
 EVs: 4 HP / 252 Atk / 252 Spe
 Ability: Clear Body
 Adamant Nature
@@ -55,12 +55,12 @@ Klinklang @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240709
+.MetDate=20230319
 EVs: 4 HP / 252 Atk / 252 Spe
 Ability: Clear Body
 Adamant Nature
@@ -72,12 +72,12 @@ Elgyem @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240421
+.MetDate=20250416
 EVs: 248 HP / 8 Def / 252 SpA
 Ability: Analytic
 Quiet Nature
@@ -90,12 +90,12 @@ Beheeyem @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240610
+.MetDate=20250504
 EVs: 248 HP / 8 Def / 252 SpA
 Ability: Analytic
 Quiet Nature

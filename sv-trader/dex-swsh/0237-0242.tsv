@@ -2,12 +2,12 @@
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240519
+.MetDate=20230902
 EVs: 252 HP / 40 Atk / 120 Def / 96 SpD
 Ability: Intimidate
 Careful Nature
@@ -19,12 +19,12 @@ Smoochum @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230907
+.MetDate=20240114
 EVs: 4 HP / 252 SpA / 252 Spe
 Ability: Forewarn
 Timid Nature
@@ -37,12 +37,12 @@ Elekid @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240801
+.MetDate=20250224
 EVs: 4 HP / 252 SpA / 252 Spe
 Ability: Static
 Timid Nature
@@ -55,12 +55,12 @@ Magby @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230802
+.MetDate=20251217
 EVs: 4 HP / 252 Atk / 252 Spe
 Ability: Vital Spirit
 Jolly Nature
@@ -73,12 +73,12 @@ Miltank @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20241009
+.MetDate=20250804
 EVs: 252 HP / 4 Atk / 252 SpD
 Ability: Thick Fat
 Adamant Nature
@@ -90,12 +90,12 @@ Blissey @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250921
+.MetDate=20231203
 EVs: 252 HP / 252 Def / 4 SpD
 Ability: Natural Cure
 Bold Nature

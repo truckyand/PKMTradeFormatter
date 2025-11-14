@@ -2,12 +2,12 @@
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20251227
+.MetDate=20231019
 EVs: 252 Atk / 4 SpD / 252 Spe
 Ability: Multiscale
 Jolly Nature
@@ -19,12 +19,12 @@ Morpeko @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20241007
+.MetDate=20250901
 EVs: 252 Atk / 4 Def / 252 Spe
 Ability: Hunger Switch
 Adamant Nature
@@ -36,12 +36,12 @@ Lycanroc @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230422
+.MetDate=20240102
 EVs: 252 Atk / 4 Def / 252 Spe
 Ability: Steadfast
 Jolly Nature
@@ -53,12 +53,12 @@ Hoothoot @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250622
+.MetDate=20240210
 EVs: 196 HP / 36 Def / 228 SpD / 36 Spe
 Ability: Insomnia
 Calm Nature
@@ -71,12 +71,12 @@ Noctowl @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240419
+.MetDate=20230814
 EVs: 252 SpA / 4 SpD / 252 Spe
 Ability: Tinted Lens
 Modest Nature
@@ -88,12 +88,12 @@ Crobat @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250112
+.MetDate=20251111
 EVs: 252 Atk / 4 Def / 252 Spe
 Ability: Infiltrator
 Jolly Nature

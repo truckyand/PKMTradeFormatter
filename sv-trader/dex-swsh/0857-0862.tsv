@@ -2,12 +2,12 @@
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240514
+.MetDate=20230905
 EVs: 252 HP / 252 Def / 4 SpA
 Ability: Magic Bounce
 Bold Nature
@@ -20,12 +20,12 @@ Hatterene @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230915
+.MetDate=20230118
 EVs: 252 HP / 4 Def / 252 SpA
 Ability: Magic Bounce
 Gigantamax: Yes
@@ -38,12 +38,12 @@ Impidimp @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230816
+.MetDate=20250909
 EVs: 252 HP / 32 Atk / 224 SpD
 Ability: Prankster
 Adamant Nature
@@ -56,12 +56,12 @@ Morgrem @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20231228
+.MetDate=20240704
 EVs: 252 HP / 32 Atk / 224 SpD
 Ability: Prankster
 Adamant Nature
@@ -74,12 +74,12 @@ Grimmsnarl @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230415
+.MetDate=20250117
 EVs: 252 HP / 4 Atk / 252 SpD
 Ability: Prankster
 Gigantamax: Yes
@@ -92,12 +92,12 @@ Obstagoon @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240717
+.MetDate=20250621
 EVs: 4 HP / 252 Atk / 252 Spe
 Ability: Guts
 Jolly Nature

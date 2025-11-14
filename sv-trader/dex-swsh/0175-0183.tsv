@@ -2,12 +2,12 @@
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240616
+.MetDate=20240508
 EVs: 248 HP / 4 Def / 252 SpA
 Ability: Super Luck
 Modest Nature
@@ -20,12 +20,12 @@ Togetic @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240526
+.MetDate=20230503
 EVs: 248 HP / 4 Def / 252 SpA
 Ability: Super Luck
 Modest Nature
@@ -37,12 +37,12 @@ Natu @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240609
+.MetDate=20230520
 EVs: 252 HP / 4 SpD / 252 Spe
 Ability: Magic Bounce
 Jolly Nature
@@ -55,12 +55,12 @@ Xatu @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250514
+.MetDate=20250920
 EVs: 252 HP / 4 SpD / 252 Spe
 Ability: Magic Bounce
 Jolly Nature
@@ -72,12 +72,12 @@ Bellossom @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250719
+.MetDate=20230506
 EVs: 248 HP / 8 Def / 252 Spe
 Ability: Chlorophyll
 Timid Nature
@@ -89,12 +89,12 @@ Marill @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20251212
+.MetDate=20240428
 EVs: 244 HP / 252 Atk / 4 Def / 4 SpD / 4 Spe
 Ability: Huge Power
 Adamant Nature

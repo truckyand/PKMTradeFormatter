@@ -2,12 +2,12 @@
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250508
+.MetDate=20230814
 EVs: 112 HP / 252 SpA / 144 Spe
 Ability: Water Absorb
 Modest Nature
@@ -20,12 +20,12 @@ Poliwhirl @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240823
+.MetDate=20251011
 EVs: 112 HP / 252 SpA / 144 Spe
 Ability: Water Absorb
 Modest Nature
@@ -38,12 +38,12 @@ Poliwrath @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250705
+.MetDate=20230918
 EVs: 112 HP / 252 SpA / 144 Spe
 Ability: Water Absorb
 Modest Nature
@@ -55,12 +55,12 @@ Abra @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240813
+.MetDate=20250306
 EVs: 4 Def / 252 SpA / 252 Spe
 Ability: Magic Guard
 Timid Nature
@@ -73,12 +73,12 @@ Basculin @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240526
+.MetDate=20251026
 EVs: 4 Def / 252 SpA / 252 Spe
 Ability: Magic Guard
 Timid Nature
@@ -91,12 +91,12 @@ Kadabra @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230322
+.MetDate=20230508
 EVs: 4 Def / 252 SpA / 252 Spe
 Ability: Magic Guard
 Timid Nature

@@ -2,12 +2,12 @@
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20241218
+.MetDate=20250502
 EVs: 252 Atk / 4 SpD / 252 Spe
 Ability: Pressure
 Jolly Nature
@@ -19,12 +19,12 @@ Magnezone @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20251015
+.MetDate=20250912
 EVs: 252 SpA / 4 SpD / 252 Spe
 Ability: Magnet Pull
 Timid Nature
@@ -36,12 +36,12 @@ Lickilicky @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230201
+.MetDate=20230520
 EVs: 168 HP / 252 Atk / 4 Def / 84 Spe
 Ability: Cloud Nine
 Adamant Nature
@@ -53,12 +53,12 @@ Rhyperior @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20251213
+.MetDate=20230821
 EVs: 4 HP / 252 Atk / 252 SpD
 Ability: Solid Rock
 Brave Nature
@@ -70,12 +70,12 @@ Tangrowth @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250107
+.MetDate=20241013
 EVs: 252 HP / 4 Def / 252 SpD
 Ability: Regenerator
 Sassy Nature
@@ -87,12 +87,12 @@ Electivire @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20251018
+.MetDate=20230703
 EVs: 4 Atk / 252 SpA / 252 Spe
 Ability: Motor Drive
 Hasty Nature

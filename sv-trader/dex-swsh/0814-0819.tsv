@@ -2,12 +2,12 @@
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20241219
+.MetDate=20250821
 EVs: 4 HP / 252 Atk / 252 Spe
 Ability: Libero
 Jolly Nature
@@ -20,12 +20,12 @@ Cinderace @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230703
+.MetDate=20240805
 EVs: 4 HP / 252 Atk / 252 Spe
 Ability: Libero
 Gigantamax: Yes
@@ -38,12 +38,12 @@ Sobble @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230723
+.MetDate=20230106
 EVs: 252 SpA / 4 SpD / 252 Spe
 Ability: Sniper
 Timid Nature
@@ -56,12 +56,12 @@ Drizzile @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250918
+.MetDate=20230524
 EVs: 252 SpA / 4 SpD / 252 Spe
 Ability: Sniper
 Timid Nature
@@ -74,12 +74,12 @@ Inteleon @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230106
+.MetDate=20240916
 EVs: 252 SpA / 4 SpD / 252 Spe
 Ability: Sniper
 Gigantamax: Yes
@@ -92,12 +92,12 @@ Skwovet @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20241210
+.MetDate=20230916
 EVs: 4 HP / 156 Atk / 84 Def / 140 SpD / 124 Spe
 Ability: Cheek Pouch
 Adamant Nature

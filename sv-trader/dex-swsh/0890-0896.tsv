@@ -2,12 +2,12 @@
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250323
+.MetDate=20240227
 EVs: 4 HP / 252 SpA / 252 Spe
 Ability: Pressure
 Timid Nature
@@ -19,12 +19,12 @@ Kubfu @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230701
+.MetDate=20251207
 EVs: 4 HP / 252 Atk / 252 Spe
 Ability: Inner Focus
 Jolly Nature
@@ -36,12 +36,12 @@ Zarude @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250107
+.MetDate=20230607
 EVs: 6 HP / 252 Atk / 252 Spe
 Ability: Leaf Guard
 Jolly Nature
@@ -52,12 +52,12 @@ Regieleki @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250609
+.MetDate=20250517
 EVs: 4 Atk / 252 SpA / 252 Spe
 Ability: Transistor
 Rash Nature
@@ -69,12 +69,12 @@ Regidrago @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20241202
+.MetDate=20250327
 EVs: 252 Atk / 4 Def / 252 Spe
 Ability: Dragon’s Maw
 Jolly Nature
@@ -86,12 +86,12 @@ Glastrier @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20231116
+.MetDate=20250619
 EVs: 252 HP / 252 Atk / 4 SpD
 Ability: Chilling Neigh
 Adamant Nature

@@ -2,12 +2,12 @@
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250608
+.MetDate=20250911
 EVs: 252 HP / 252 Atk / 4 Def
 Ability: Adaptability
 Brave Nature
@@ -19,12 +19,12 @@ Baltoy @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230725
+.MetDate=20250623
 EVs: 252 HP / 120 Def / 136 Spe
 Ability: Levitate
 Bold Nature
@@ -37,12 +37,12 @@ Claydol @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20251219
+.MetDate=20230822
 EVs: 252 HP / 120 Def / 136 Spe
 Ability: Levitate
 Bold Nature
@@ -54,12 +54,12 @@ Lileep @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240909
+.MetDate=20240828
 EVs: 252 HP / 4 Def / 252 SpD
 Ability: Storm Drain
 Careful Nature
@@ -72,12 +72,12 @@ Cradily @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230403
+.MetDate=20250804
 EVs: 252 HP / 4 Def / 252 SpD
 Ability: Storm Drain
 Careful Nature
@@ -89,12 +89,12 @@ Anorith @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250109
+.MetDate=20231118
 EVs: 252 HP / 92 Atk / 164 Spe
 Ability: Battle Armor
 Adamant Nature

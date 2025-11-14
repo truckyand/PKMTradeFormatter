@@ -2,12 +2,12 @@
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240402
+.MetDate=20240606
 EVs: 252 SpA / 4 SpD / 252 Spe
 Ability: Sheer Force
 Timid Nature
@@ -19,24 +19,24 @@ Nidoran-m @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240506
+.MetDate=20230406
 undefined
 
 Nidorino @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240613
+.MetDate=20230419
 EVs: 4 HP / 252 Atk / 252 Spe
 Ability: Hustle
 Adamant Nature
@@ -49,12 +49,12 @@ Nidoking @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230228
+.MetDate=20240819
 EVs: 4 Def / 252 SpA / 252 Spe
 Ability: Sheer Force
 Timid Nature
@@ -66,12 +66,12 @@ Clefairy @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240705
+.MetDate=20240728
 EVs: 252 HP / 252 Def / 4 SpD
 Ability: Friend Guard
 Bold Nature
@@ -83,12 +83,12 @@ Clefable @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20251118
+.MetDate=20250728
 EVs: 196 HP / 252 SpA / 60 Spe
 Ability: Magic Guard
 Modest Nature

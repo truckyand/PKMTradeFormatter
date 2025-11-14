@@ -2,12 +2,12 @@
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240526
+.MetDate=20230628
 EVs: 4 Def / 252 SpA / 252 Spe
 Ability: Magic Guard
 Timid Nature
@@ -19,12 +19,12 @@ Machop @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230415
+.MetDate=20250319
 EVs: 252 HP / 252 Atk / 4 Def
 Ability: Guts
 Adamant Nature
@@ -37,12 +37,12 @@ Machoke @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240810
+.MetDate=20240318
 EVs: 252 HP / 252 Atk / 4 Def
 Ability: Guts
 Adamant Nature
@@ -55,12 +55,12 @@ Machamp @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240913
+.MetDate=20251005
 EVs: 252 HP / 252 Atk / 4 Def
 Ability: Guts
 Gigantamax: Yes
@@ -73,12 +73,12 @@ Tentacool @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230616
+.MetDate=20230405
 EVs: 252 HP / 112 Def / 144 Spe
 Ability: Clear Body
 Timid Nature
@@ -91,12 +91,12 @@ Tentacruel @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250203
+.MetDate=20251119
 EVs: 252 HP / 112 Def / 144 Spe
 Ability: Clear Body
 Timid Nature

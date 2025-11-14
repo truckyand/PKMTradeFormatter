@@ -2,12 +2,12 @@
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230624
+.MetDate=20241220
 EVs: 252 HP / 252 SpA / 4 SpD
 Ability: Levitate
 Modest Nature
@@ -19,12 +19,12 @@ Cutiefly @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240218
+.MetDate=20230905
 EVs: 4 HP / 252 SpA / 252 Spe
 Ability: Sweet Veil
 Timid Nature
@@ -37,12 +37,12 @@ Ribombee @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20231019
+.MetDate=20240411
 EVs: 4 HP / 252 SpA / 252 Spe
 Ability: Sweet Veil
 Timid Nature
@@ -54,12 +54,12 @@ Rockruff @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230711
+.MetDate=20230923
 EVs: 252 Atk / 4 Def / 252 Spe
 Ability: Steadfast
 Jolly Nature
@@ -72,12 +72,12 @@ Mareanie @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20241001
+.MetDate=20240203
 EVs: 252 HP / 252 Def / 4 SpD
 Ability: Regenerator
 Bold Nature
@@ -90,12 +90,12 @@ Toxapex @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250901
+.MetDate=20230713
 EVs: 252 HP / 252 Def / 4 SpD
 Ability: Regenerator
 Bold Nature

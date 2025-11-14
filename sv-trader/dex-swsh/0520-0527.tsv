@@ -2,12 +2,12 @@
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240803
+.MetDate=20250105
 EVs: 252 Atk / 4 Def / 252 Spe
 Ability: Super Luck
 Adamant Nature
@@ -20,12 +20,12 @@ Unfezant @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240618
+.MetDate=20240507
 EVs: 252 Atk / 4 Def / 252 Spe
 Ability: Super Luck
 Adamant Nature
@@ -37,12 +37,12 @@ Roggenrola @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250420
+.MetDate=20250126
 EVs: 252 HP / 4 Def / 252 SpD
 Ability: Weak Armor
 Careful Nature
@@ -55,12 +55,12 @@ Boldore @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20231112
+.MetDate=20230409
 EVs: 252 HP / 4 Def / 252 SpD
 Ability: Weak Armor
 Careful Nature
@@ -73,12 +73,12 @@ Gigalith @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230118
+.MetDate=20240525
 EVs: 252 HP / 4 Def / 252 SpD
 Ability: Sand Stream
 Careful Nature
@@ -90,12 +90,12 @@ Woobat @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230306
+.MetDate=20250524
 EVs: 4 HP / 252 SpA / 252 Spe
 Ability: Simple
 Timid Nature

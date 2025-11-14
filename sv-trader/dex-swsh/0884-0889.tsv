@@ -2,12 +2,12 @@
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20251008
+.MetDate=20230904
 EVs: 4 HP / 252 SpA / 252 Spe
 Ability: Stalwart
 Gigantamax: Yes
@@ -20,12 +20,12 @@ Dreepy @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230427
+.MetDate=20250119
 EVs: 4 HP / 252 SpA / 252 Spe
 Ability: Infiltrator
 Timid Nature
@@ -38,12 +38,12 @@ Drakloak @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230907
+.MetDate=20250709
 EVs: 4 HP / 252 SpA / 252 Spe
 Ability: Infiltrator
 Timid Nature
@@ -56,12 +56,12 @@ Dragapult @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230216
+.MetDate=20250803
 EVs: 4 HP / 252 SpA / 252 Spe
 Ability: Infiltrator
 Timid Nature
@@ -73,12 +73,12 @@ Zacian @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20251213
+.MetDate=20250115
 EVs: 4 HP / 252 Atk / 252 Spe
 Ability: Intrepid Sword
 Jolly Nature
@@ -90,12 +90,12 @@ Zamazenta @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250507
+.MetDate=20230703
 EVs: 252 Atk / 4 Def / 252 Spe
 Ability: Dauntless Shield
 Jolly Nature

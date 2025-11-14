@@ -2,12 +2,12 @@
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230626
+.MetDate=20240901
 EVs: 252 HP / 92 Atk / 164 Spe
 Ability: Battle Armor
 Adamant Nature
@@ -19,12 +19,12 @@ Feebas @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20231227
+.MetDate=20251221
 EVs: 252 HP / 76 Def / 172 SpA / 4 SpD / 4 Spe
 Ability: Oblivious
 Calm Nature
@@ -37,12 +37,12 @@ Milotic @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240407
+.MetDate=20240127
 EVs: 252 HP / 76 Def / 172 SpA / 4 SpD / 4 Spe
 Ability: Competitive
 Calm Nature
@@ -54,12 +54,12 @@ Duskull @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230702
+.MetDate=20240923
 EVs: 252 HP / 96 Def / 160 SpD
 Ability: Frisk
 Relaxed Nature
@@ -72,12 +72,12 @@ Dusclops @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20241025
+.MetDate=20240118
 EVs: 252 HP / 96 Def / 160 SpD
 Ability: Frisk
 Relaxed Nature
@@ -89,12 +89,12 @@ Absol @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20231211
+.MetDate=20250312
 EVs: 252 Atk / 4 Def / 252 Spe
 Ability: Justified
 Jolly Nature

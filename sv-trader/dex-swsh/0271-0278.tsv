@@ -2,12 +2,12 @@
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20251005
+.MetDate=20230114
 EVs: 4 Def / 252 SpA / 252 Spe
 Ability: Swift Swim
 Modest Nature
@@ -20,12 +20,12 @@ Ludicolo @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250916
+.MetDate=20230312
 EVs: 4 Def / 252 SpA / 252 Spe
 Ability: Swift Swim
 Modest Nature
@@ -37,12 +37,12 @@ Seedot @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20251213
+.MetDate=20250522
 EVs: 252 Atk / 4 Def / 252 Spe
 Ability: Chlorophyll
 Adamant Nature
@@ -55,12 +55,12 @@ Nuzleaf @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230820
+.MetDate=20230409
 EVs: 252 Atk / 4 Def / 252 Spe
 Ability: Chlorophyll
 Adamant Nature
@@ -73,12 +73,12 @@ Shiftry @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240602
+.MetDate=20240527
 EVs: 252 Atk / 4 Def / 252 Spe
 Ability: Chlorophyll
 Adamant Nature
@@ -90,12 +90,12 @@ Wingull @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240326
+.MetDate=20250823
 EVs: 4 HP / 252 SpA / 252 Spe
 Ability: Hydration
 Modest Nature

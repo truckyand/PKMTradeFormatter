@@ -2,12 +2,12 @@
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240913
+.MetDate=20250525
 EVs: 4 HP / 250 Atk / 252 Spe
 Ability: Clear Body
 Jolly Nature
@@ -19,12 +19,12 @@ Regirock @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240607
+.MetDate=20250228
 EVs: 252 HP / 252 SpD
 Ability: Clear Body
 Impish Nature
@@ -36,12 +36,12 @@ Regice @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250312
+.MetDate=20251013
 EVs: 252 HP / 252 SpA / 4 SpD
 Ability: Clear Body
 Modest Nature
@@ -53,12 +53,12 @@ Registeel @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250311
+.MetDate=20250524
 EVs: 252 HP / 4 Atk / 252 SpD
 Ability: Clear Body
 Careful Nature
@@ -70,12 +70,12 @@ Shinx @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20241228
+.MetDate=20250323
 EVs: 252 Atk / 4 SpD / 252 Spe
 Ability: Guts
 Jolly Nature
@@ -88,12 +88,12 @@ Luxio @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20231126
+.MetDate=20251227
 EVs: 252 Atk / 4 SpD / 252 Spe
 Ability: Guts
 Jolly Nature

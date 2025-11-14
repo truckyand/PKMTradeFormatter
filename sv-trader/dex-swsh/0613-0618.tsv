@@ -2,12 +2,12 @@
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240616
+.MetDate=20251014
 EVs: 76 HP / 196 Atk / 36 SpA / 196 Spe
 Ability: Slush Rush
 Naive Nature
@@ -20,12 +20,12 @@ Beartic @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20231026
+.MetDate=20251207
 EVs: 252 Atk / 4 SpD / 252 Spe
 Ability: Slush Rush
 Jolly Nature
@@ -37,12 +37,12 @@ Cryogonal @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240816
+.MetDate=20250209
 EVs: 248 HP / 8 SpA / 52 SpD / 200 Spe
 Ability: Levitate
 Timid Nature
@@ -54,12 +54,12 @@ Shelmet @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20241027
+.MetDate=20240428
 EVs: 252 HP
 Ability: Hydration
 Bold Nature
@@ -72,12 +72,12 @@ Accelgor @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250304
+.MetDate=20250409
 EVs: 252 SpA / 4 SpD / 252 Spe
 Ability: Sticky Hold
 Timid Nature
@@ -89,12 +89,12 @@ Stunfisk @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230818
+.MetDate=20251201
 EVs: 252 HP / 252 Def / 4 SpD
 Ability: Static
 Bold Nature

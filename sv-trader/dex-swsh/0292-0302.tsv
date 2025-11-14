@@ -2,12 +2,12 @@
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250511
+.MetDate=20241028
 EVs: 252 Atk / 4 SpD / 252 Spe
 Ability: Wonder Guard
 Adamant Nature
@@ -19,12 +19,12 @@ Whismur @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20231122
+.MetDate=20240421
 EVs: 4 Def / 252 SpA / 252 Spe
 Ability: Rattled
 Timid Nature
@@ -37,12 +37,12 @@ Loudred @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20241226
+.MetDate=20241110
 EVs: 4 Def / 252 SpA / 252 Spe
 Ability: Scrappy
 Timid Nature
@@ -55,12 +55,12 @@ Exploud @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240216
+.MetDate=20231113
 EVs: 4 Def / 252 SpA / 252 Spe
 Ability: Scrappy
 Timid Nature
@@ -72,12 +72,12 @@ Azurill @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240628
+.MetDate=20250414
 EVs: 244 HP / 252 Atk / 4 Def / 4 SpD / 4 Spe
 Ability: Huge Power
 Adamant Nature
@@ -90,12 +90,12 @@ Sableye @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230903
+.MetDate=20250412
 EVs: 252 HP / 252 Def / 4 SpD
 Ability: Prankster
 Impish Nature

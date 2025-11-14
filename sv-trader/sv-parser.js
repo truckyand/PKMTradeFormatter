@@ -2,12 +2,12 @@ const fs = require('fs');
 
 const srcFile = '../swsh.json';
 const metasetFile = '../pkmgg_sorted_swsh_pokemon.json';
-const FILE_PREFIX = '000-legendary-swsh';
-const LEGENDARY_ONLY = true;
+const FILE_PREFIX = '';
+const LEGENDARY_ONLY = false;
 
 // Define chunk size and output directory
 const chunkSize = 6;
-const outputDir = './dev-swsh';
+const outputDir = './dex-swsh';
 
 //
 //
@@ -69,7 +69,7 @@ for (let i = 0; i < data.length; i += chunkSize) {
 	const chunk = data.slice(i, i + chunkSize);
 	const startId = chunk[0].id;
 	const endId = chunk[chunk.length - 1].id;
-	const filename = `${outputDir}/${FILE_PREFIX}-${startId.toString().padStart(4, '0')}-${endId.toString().padStart(4, '0')}.tsv`;
+	const filename = `${outputDir}/${FILE_PREFIX}${startId.toString().padStart(4, '0')}-${endId.toString().padStart(4, '0')}.tsv`;
 
 	let content = '.bt ';
 	chunk.forEach(item => {
@@ -84,8 +84,8 @@ for (let i = 0; i < data.length; i += chunkSize) {
 		content += `Shiny: Yes\n`;
 		content += `OT: trucky\n`;
 		content += `OTGender: Female\n`;
-		content += `TID: 391666\n`;
-		content += `SID: 2164\n`;
+		content += `TID: 331778\n`;
+		content += `SID: 2401\n`;
 		content += `Ball: Luxury Ball\n`;
 		content += `Language: English\n`;
 		content += `IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA\n`;

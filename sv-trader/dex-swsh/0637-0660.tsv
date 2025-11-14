@@ -2,12 +2,12 @@
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240119
+.MetDate=20241019
 EVs: 252 HP / 4 Def / 252 Spe
 Ability: Flame Body
 Timid Nature
@@ -19,12 +19,12 @@ Cobalion @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230820
+.MetDate=20240107
 EVs: 4 HP / 252 Atk / 252 Spe
 Ability: Justified
 Jolly Nature
@@ -36,12 +36,12 @@ Terrakion @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250924
+.MetDate=20230907
 EVs: 252 Atk / 4 Def / 252 Spe
 Ability: Justified
 Jolly Nature
@@ -53,12 +53,12 @@ Virizion @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240110
+.MetDate=20241107
 EVs: 252 Atk / 4 SpD / 252 Spe
 Ability: Justified
 Jolly Nature
@@ -70,12 +70,12 @@ Bunnelby @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20241011
+.MetDate=20250804
 EVs: 252 Atk / 4 SpD / 252 Spe
 Ability: Huge Power
 Adamant Nature
@@ -88,12 +88,12 @@ Diggersby @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230614
+.MetDate=20251009
 EVs: 252 Atk / 4 SpD / 252 Spe
 Ability: Huge Power
 Adamant Nature

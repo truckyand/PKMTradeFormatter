@@ -2,12 +2,12 @@
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250326
+.MetDate=20251008
 EVs: 4 HP / 252 Atk / 252 Spe
 Ability: Sand Spit
 Gigantamax: Yes
@@ -20,12 +20,12 @@ Cramorant @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20241112
+.MetDate=20241108
 EVs: 252 HP / 4 Def / 252 SpD
 Ability: Gulp Missile
 Calm Nature
@@ -37,12 +37,12 @@ Arrokuda @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20251111
+.MetDate=20240815
 EVs: 252 Atk / 4 SpD / 252 Spe
 Ability: Swift Swim
 Adamant Nature
@@ -55,12 +55,12 @@ Barraskewda @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250813
+.MetDate=20250925
 EVs: 252 Atk / 4 SpD / 252 Spe
 Ability: Swift Swim
 Adamant Nature
@@ -72,12 +72,12 @@ Toxel @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20251212
+.MetDate=20230518
 EVs: 4 HP / 252 SpA / 252 Spe
 Ability: Rattled
 Timid Nature
@@ -90,12 +90,12 @@ Sizzlipede @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240708
+.MetDate=20230127
 EVs: 252 Atk / 4 SpD / 252 Spe
 Ability: White Smoke
 Adamant Nature

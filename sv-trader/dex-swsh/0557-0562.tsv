@@ -2,12 +2,12 @@
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250505
+.MetDate=20250818
 EVs: 252 Atk / 4 SpD / 252 Spe
 Ability: Sturdy
 Jolly Nature
@@ -20,12 +20,12 @@ Crustle @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20241220
+.MetDate=20250211
 EVs: 252 Atk / 4 SpD / 252 Spe
 Ability: Sturdy
 Jolly Nature
@@ -37,12 +37,12 @@ Scraggy @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240417
+.MetDate=20231010
 EVs: 252 HP / 152 Atk / 16 Def / 60 SpD / 28 Spe
 Ability: Intimidate
 Impish Nature
@@ -55,12 +55,12 @@ Scrafty @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230512
+.MetDate=20240327
 EVs: 252 HP / 152 Atk / 16 Def / 60 SpD / 28 Spe
 Ability: Intimidate
 Impish Nature
@@ -72,12 +72,12 @@ Sigilyph @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20231206
+.MetDate=20230602
 EVs: 252 SpA / 4 SpD / 252 Spe
 Ability: Magic Guard
 Timid Nature
@@ -89,12 +89,12 @@ Yamask @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240109
+.MetDate=20250313
 EVs: 252 HP / 252 Def / 4 SpD
 Ability: Wandering Spirit
 Impish Nature

@@ -2,12 +2,12 @@
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240308
+.MetDate=20230216
 EVs: 4 Def / 252 SpA / 252 Spe
 Ability: Chlorophyll
 Timid Nature
@@ -19,12 +19,12 @@ Sandile @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20231103
+.MetDate=20230712
 EVs: 252 Atk / 4 Def / 252 Spe
 Ability: Intimidate
 Jolly Nature
@@ -37,12 +37,12 @@ Krokorok @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20251025
+.MetDate=20250922
 EVs: 252 Atk / 4 Def / 252 Spe
 Ability: Intimidate
 Jolly Nature
@@ -55,12 +55,12 @@ Krookodile @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250425
+.MetDate=20251116
 EVs: 252 Atk / 4 Def / 252 Spe
 Ability: Intimidate
 Jolly Nature
@@ -72,12 +72,12 @@ Darumaka @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230703
+.MetDate=20240427
 EVs: 252 Atk / 4 SpD / 252 Spe
 Ability: Hustle
 Jolly Nature
@@ -90,12 +90,12 @@ Maractus @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230627
+.MetDate=20241214
 EVs: 4 Atk / 252 SpA / 252 Spe
 Ability: Water Absorb
 Naive Nature

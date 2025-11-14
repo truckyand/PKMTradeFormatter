@@ -2,12 +2,12 @@
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250901
+.MetDate=20250402
 EVs: 252 SpA / 4 SpD / 252 Spe
 Ability: Sap Sipper
 Timid Nature
@@ -20,12 +20,12 @@ Sliggoo @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230309
+.MetDate=20240904
 EVs: 252 SpA / 4 SpD / 252 Spe
 Ability: Sap Sipper
 Timid Nature
@@ -38,12 +38,12 @@ Goodra @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20231221
+.MetDate=20241113
 EVs: 252 SpA / 4 SpD / 252 Spe
 Ability: Sap Sipper
 Timid Nature
@@ -55,12 +55,12 @@ Klefki @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20231124
+.MetDate=20250406
 EVs: 248 HP / 252 SpD / 8 Spe
 Ability: Prankster
 Careful Nature
@@ -72,12 +72,12 @@ Phantump @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240214
+.MetDate=20240910
 EVs: 252 Atk / 4 SpD / 252 Spe
 Ability: Natural Cure
 Jolly Nature
@@ -90,12 +90,12 @@ Trevenant @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240713
+.MetDate=20251103
 EVs: 252 Atk / 4 SpD / 252 Spe
 Ability: Natural Cure
 Jolly Nature

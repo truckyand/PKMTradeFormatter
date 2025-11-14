@@ -2,12 +2,12 @@
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230918
+.MetDate=20230209
 EVs: 4 HP / 252 SpA / 252 Spe
 Ability: Vital Spirit
 Timid Nature
@@ -20,12 +20,12 @@ Magmar @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240110
+.MetDate=20250906
 EVs: 4 Atk / 252 SpA / 252 Spe
 Ability: Vital Spirit
 Hasty Nature
@@ -38,12 +38,12 @@ Pinsir @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240321
+.MetDate=20251008
 EVs: 252 Atk / 4 Def / 252 Spe
 Ability: Mold Breaker
 Jolly Nature
@@ -55,12 +55,12 @@ Tauros @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20251110
+.MetDate=20250122
 EVs: 252 Atk / 4 SpA / 252 Spe
 Ability: Sheer Force
 Naive Nature
@@ -72,12 +72,12 @@ Magikarp @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250302
+.MetDate=20230305
 EVs: 4 HP / 252 Atk / 252 Spe
 Ability: Rattled
 Jolly Nature
@@ -89,12 +89,12 @@ Gyarados @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240210
+.MetDate=20231020
 EVs: 4 HP / 252 Atk / 252 Spe
 Ability: Moxie
 Jolly Nature

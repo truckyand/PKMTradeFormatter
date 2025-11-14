@@ -2,12 +2,12 @@
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230517
+.MetDate=20251109
 EVs: 252 Atk / 4 SpD / 252 Spe
 Ability: Limber
 Jolly Nature
@@ -19,12 +19,12 @@ Stunky @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20231028
+.MetDate=20240203
 EVs: 4 Def / 252 SpA / 252 Spe
 Ability: Aftermath
 Modest Nature
@@ -37,12 +37,12 @@ Skuntank @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250523
+.MetDate=20240308
 EVs: 4 Def / 252 SpA / 252 Spe
 Ability: Aftermath
 Modest Nature
@@ -54,12 +54,12 @@ Bronzor @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250324
+.MetDate=20230302
 EVs: 252 HP / 252 Def / 4 SpD
 Ability: Levitate
 Relaxed Nature
@@ -72,12 +72,12 @@ Bronzong @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240722
+.MetDate=20240704
 EVs: 252 HP / 252 Def / 4 SpD
 Ability: Levitate
 Relaxed Nature
@@ -89,12 +89,12 @@ Bonsly @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250816
+.MetDate=20250925
 EVs: 252 Atk / 4 Def / 252 Spe
 Ability: Rock Head
 Adamant Nature

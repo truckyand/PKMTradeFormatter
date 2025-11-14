@@ -2,12 +2,12 @@
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230311
+.MetDate=20230113
 EVs: 4 HP / 252 Atk / 252 Spe
 Ability: RKS System
 Jolly Nature
@@ -19,12 +19,12 @@ Turtonator @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250212
+.MetDate=20231025
 EVs: 252 SpA / 4 SpD / 252 Spe
 Ability: Shell Armor
 Timid Nature
@@ -36,12 +36,12 @@ Togedemaru @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230528
+.MetDate=20250523
 EVs: 252 Atk / 4 Def / 252 Spe
 Ability: Lightning Rod
 Jolly Nature
@@ -53,12 +53,12 @@ Drampa @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230719
+.MetDate=20230517
 EVs: 140 HP / 252 SpA / 116 Spe
 Ability: Sap Sipper
 Modest Nature
@@ -70,12 +70,12 @@ Dhelmise @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20231110
+.MetDate=20230205
 EVs: 52 HP / 252 Atk / 204 Spe
 Ability: Steelworker
 Adamant Nature
@@ -87,12 +87,12 @@ Jangmo-o @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250706
+.MetDate=20251002
 EVs: 4 HP / 252 Atk / 252 Spe
 Ability: Bulletproof
 Adamant Nature

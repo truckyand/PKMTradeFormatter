@@ -2,12 +2,12 @@
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250514
+.MetDate=20241207
 EVs: 252 HP / 252 Def / 4 SpD
 Ability: Unaware
 Relaxed Nature
@@ -19,12 +19,12 @@ Espeon @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20231215
+.MetDate=20250226
 EVs: 4 HP / 252 SpA / 252 Spe
 Ability: Magic Bounce
 Timid Nature
@@ -36,12 +36,12 @@ Umbreon @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230118
+.MetDate=20230604
 EVs: 252 HP / 4 Def / 252 SpD
 Ability: Synchronize
 Calm Nature
@@ -53,12 +53,12 @@ Slowking @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230419
+.MetDate=20240128
 EVs: 248 HP / 252 Def / 8 SpD
 Ability: Regenerator
 Bold Nature
@@ -70,12 +70,12 @@ Wobbuffet @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250502
+.MetDate=20250817
 EVs: 252 HP / 252 Def / 4 SpD
 Ability: Shadow Tag
 Bold Nature
@@ -87,12 +87,12 @@ Dunsparce @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240410
+.MetDate=20250818
 EVs: 252 HP / 36 Atk / 220 Spe
 Ability: Serene Grace
 Adamant Nature

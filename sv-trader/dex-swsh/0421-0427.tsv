@@ -2,12 +2,12 @@
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250713
+.MetDate=20250820
 EVs: 252 SpA / 4 SpD / 252 Spe
 Ability: Flower Gift
 Timid Nature
@@ -19,12 +19,12 @@ Shellos @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230409
+.MetDate=20231011
 EVs: 244 HP / 252 Def / 12 SpA
 Ability: Storm Drain
 Modest Nature
@@ -37,12 +37,12 @@ Gastrodon @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240128
+.MetDate=20230727
 EVs: 244 HP / 252 Def / 12 SpA
 Ability: Storm Drain
 Modest Nature
@@ -54,12 +54,12 @@ Drifloon @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230310
+.MetDate=20240120
 EVs: 252 Def / 4 SpA / 252 Spe
 Ability: Aftermath
 Bold Nature
@@ -72,12 +72,12 @@ Drifblim @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250420
+.MetDate=20240925
 EVs: 252 Def / 4 SpA / 252 Spe
 Ability: Aftermath
 Bold Nature
@@ -89,12 +89,12 @@ Buneary @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250810
+.MetDate=20240228
 EVs: 252 Atk / 4 SpD / 252 Spe
 Ability: Klutz
 Jolly Nature

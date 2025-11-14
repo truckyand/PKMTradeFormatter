@@ -2,12 +2,12 @@
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250121
+.MetDate=20250213
 EVs: 4 HP / 252 SpA / 252 Spe
 Ability: Soundproof
 Timid Nature
@@ -20,12 +20,12 @@ Happiny @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250927
+.MetDate=20230625
 EVs: 252 HP / 252 Def / 4 SpD
 Ability: Natural Cure
 Bold Nature
@@ -38,12 +38,12 @@ Spiritomb @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20231206
+.MetDate=20240212
 EVs: 248 HP / 252 Def / 8 SpD
 Ability: Pressure
 Bold Nature
@@ -55,12 +55,12 @@ Gible @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230720
+.MetDate=20240209
 EVs: 4 HP / 252 Atk / 252 Spe
 Ability: Rough Skin
 Jolly Nature
@@ -73,12 +73,12 @@ Gabite @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240927
+.MetDate=20230416
 EVs: 4 HP / 252 Atk / 252 Spe
 Ability: Rough Skin
 Jolly Nature
@@ -91,12 +91,12 @@ Garchomp @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240611
+.MetDate=20250103
 EVs: 4 HP / 252 Atk / 252 Spe
 Ability: Rough Skin
 Jolly Nature

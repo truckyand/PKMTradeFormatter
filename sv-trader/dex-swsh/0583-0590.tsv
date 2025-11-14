@@ -2,12 +2,12 @@
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230104
+.MetDate=20240926
 EVs: 4 HP / 252 SpA / 252 Spe
 Ability: Snow Cloak
 Timid Nature
@@ -20,12 +20,12 @@ Vanilluxe @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230816
+.MetDate=20250313
 EVs: 4 HP / 252 SpA / 252 Spe
 Ability: Snow Warning
 Timid Nature
@@ -37,12 +37,12 @@ Emolga @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250826
+.MetDate=20241203
 EVs: 248 HP / 8 Def / 252 Spe
 Ability: Motor Drive
 Jolly Nature
@@ -54,12 +54,12 @@ Karrablast @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230227
+.MetDate=20231004
 EVs: 236 Atk / 76 Def / 196 Spe
 Ability: No Guard
 Jolly Nature
@@ -72,12 +72,12 @@ Escavalier @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230205
+.MetDate=20251218
 EVs: 252 HP / 252 Atk / 4 SpD
 Ability: Overcoat
 Adamant Nature
@@ -89,12 +89,12 @@ Foongus @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240106
+.MetDate=20230325
 EVs: 248 HP / 168 Def / 92 SpD
 Ability: Regenerator
 Bold Nature

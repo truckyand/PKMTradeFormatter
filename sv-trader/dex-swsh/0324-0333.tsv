@@ -2,8 +2,8 @@
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
@@ -19,12 +19,12 @@ Trapinch @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20231208
+.MetDate=20230403
 EVs: 252 Atk / 4 SpD / 252 Spe
 Ability: Hyper Cutter
 Jolly Nature
@@ -37,12 +37,12 @@ Vibrava @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250807
+.MetDate=20240612
 EVs: 252 Atk / 4 SpD / 252 Spe
 Ability: Levitate
 Jolly Nature
@@ -55,12 +55,12 @@ Flygon @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230724
+.MetDate=20240921
 EVs: 252 Atk / 4 SpD / 252 Spe
 Ability: Levitate
 Jolly Nature
@@ -72,12 +72,12 @@ Aegislash @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240727
+.MetDate=20250406
 EVs: 252 HP / 4 Def / 252 SpD
 Ability: Stance Change
 Careful Nature
@@ -89,12 +89,12 @@ Swablu @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250315
+.MetDate=20230910
 EVs: 4 HP / 252 Atk / 252 Spe
 Ability: Natural Cure
 Jolly Nature

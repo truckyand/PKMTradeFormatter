@@ -2,12 +2,12 @@
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230216
+.MetDate=20230127
 EVs: 252 HP / 4 Def / 252 SpD
 Ability: Gluttony
 Gigantamax: Yes
@@ -20,12 +20,12 @@ Articuno @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230427
+.MetDate=20241225
 EVs: 252 SpA / 4 SpD / 252 Spe
 Ability: Pressure
 Timid Nature
@@ -37,12 +37,12 @@ Zapdos @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20231112
+.MetDate=20240527
 EVs: 4 HP / 252 SpA / 252 Spe
 Ability: Pressure
 Timid Nature
@@ -54,12 +54,12 @@ Moltres @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230406
+.MetDate=20250707
 EVs: 4 Def / 252 SpA / 252 Spe
 Ability: Pressure
 Timid Nature
@@ -71,12 +71,12 @@ Dratini @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250706
+.MetDate=20230416
 EVs: 4 HP / 252 Atk / 252 Spe
 Ability: Shed Skin
 Jolly Nature
@@ -89,12 +89,12 @@ Dragonair @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230710
+.MetDate=20241025
 EVs: 252 HP / 4 Def / 252 SpD
 Ability: Marvel Scale
 Careful Nature

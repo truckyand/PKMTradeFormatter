@@ -2,12 +2,12 @@
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20231110
+.MetDate=20241220
 EVs: 4 HP / 252 Atk / 252 Spe
 Ability: Guts
 Jolly Nature
@@ -20,12 +20,12 @@ Pupitar @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230519
+.MetDate=20230613
 EVs: 4 HP / 252 Atk / 252 Spe
 Ability: Shed Skin
 Jolly Nature
@@ -38,12 +38,12 @@ Tyranitar @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20251002
+.MetDate=20230414
 EVs: 4 HP / 252 Atk / 252 Spe
 Ability: Sand Stream
 Jolly Nature
@@ -55,12 +55,12 @@ Zigzagoon @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240409
+.MetDate=20241118
 EVs: 4 HP / 252 Atk / 252 Spe
 Ability: Gluttony
 Jolly Nature
@@ -73,12 +73,12 @@ Linoone @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20231109
+.MetDate=20230910
 EVs: 12 HP / 208 Atk / 38 SpD / 252 Spe
 Ability: Pickup
 Adamant Nature
@@ -90,12 +90,12 @@ Lotad @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250926
+.MetDate=20240527
 EVs: 116 Def / 196 SpA / 196 Spe
 Ability: Swift Swim
 Modest Nature

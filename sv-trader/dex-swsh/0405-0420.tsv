@@ -2,12 +2,12 @@
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20231115
+.MetDate=20240818
 EVs: 252 Atk / 4 SpD / 252 Spe
 Ability: Guts
 Jolly Nature
@@ -19,12 +19,12 @@ Budew @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240822
+.MetDate=20230923
 EVs: 252 SpA / 4 SpD / 252 Spe
 Ability: Leaf Guard
 Timid Nature
@@ -37,12 +37,12 @@ Roserade @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250804
+.MetDate=20230217
 EVs: 252 SpA / 4 SpD / 252 Spe
 Ability: Technician
 Timid Nature
@@ -54,12 +54,12 @@ Combee @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240219
+.MetDate=20250719
 EVs: 248 HP / 172 Def / 88 Spe
 Ability: Honey Gather
 Bold Nature
@@ -72,12 +72,12 @@ Vespiquen @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250201
+.MetDate=20230813
 EVs: 248 HP / 172 Def / 88 Spe
 Ability: Pressure
 Bold Nature
@@ -89,12 +89,12 @@ Cherubi @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240111
+.MetDate=20230101
 EVs: 252 SpA / 4 SpD / 252 Spe
 Ability: Chlorophyll
 Timid Nature

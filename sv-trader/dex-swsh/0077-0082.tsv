@@ -2,12 +2,12 @@
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230319
+.MetDate=20240904
 EVs: 4 HP / 252 Atk / 252 Spe
 Ability: Pastel Veil
 Adamant Nature
@@ -20,12 +20,12 @@ Rapidash @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250523
+.MetDate=20230822
 EVs: 252 Atk / 4 SpD / 252 Spe
 Ability: Pastel Veil
 Jolly Nature
@@ -37,12 +37,12 @@ Slowpoke @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250925
+.MetDate=20250413
 EVs: 252 HP / 4 Def / 252 SpA
 Ability: Regenerator
 Modest Nature
@@ -55,12 +55,12 @@ Slowbro @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240503
+.MetDate=20250909
 EVs: 252 HP / 4 Def / 252 SpA
 Ability: Regenerator
 Modest Nature
@@ -72,12 +72,12 @@ Magnemite @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230815
+.MetDate=20241120
 EVs: 252 SpA / 4 SpD / 252 Spe
 Ability: Magnet Pull
 Timid Nature
@@ -90,12 +90,12 @@ Magneton @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230517
+.MetDate=20240608
 EVs: 252 SpA / 4 SpD / 252 Spe
 Ability: Magnet Pull
 Timid Nature

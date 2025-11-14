@@ -2,12 +2,12 @@
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240307
+.MetDate=20251113
 EVs: 252 Atk / 4 Def / 252 Spe
 Ability: Defiant
 Adamant Nature
@@ -19,12 +19,12 @@ Shellder @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20241018
+.MetDate=20241126
 EVs: 252 Atk / 4 SpD / 252 Spe
 Ability: Skill Link
 Adamant Nature
@@ -36,12 +36,12 @@ Eiscue @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240524
+.MetDate=20230113
 EVs: 252 Atk / 4 SpD / 252 Spe
 Ability: Skill Link
 Adamant Nature
@@ -53,12 +53,12 @@ Cloyster @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230805
+.MetDate=20240828
 EVs: 252 Atk / 4 SpD / 252 Spe
 Ability: Skill Link
 Adamant Nature
@@ -70,12 +70,12 @@ Gastly @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240820
+.MetDate=20230808
 EVs: 4 HP / 252 SpA / 252 Spe
 Ability: Levitate
 Timid Nature
@@ -88,12 +88,12 @@ Haunter @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250606
+.MetDate=20241125
 EVs: 4 HP / 252 SpA / 252 Spe
 Ability: Levitate
 Timid Nature

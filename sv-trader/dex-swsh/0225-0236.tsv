@@ -2,12 +2,12 @@
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20231015
+.MetDate=20231014
 EVs: 252 SpA / 4 SpD / 252 Spe
 Ability: Vital Spirit
 Timid Nature
@@ -19,12 +19,12 @@ Mantine @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230319
+.MetDate=20250119
 EVs: 252 HP / 120 SpD / 136 Spe
 Ability: Water Absorb
 Calm Nature
@@ -36,12 +36,12 @@ Skarmory @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230805
+.MetDate=20230711
 EVs: 252 HP / 252 Def / 4 SpD
 Ability: Sturdy
 Bold Nature
@@ -53,12 +53,12 @@ Kingdra @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230804
+.MetDate=20230204
 EVs: 4 HP / 252 SpA / 252 Spe
 Ability: Swift Swim
 Modest Nature
@@ -70,12 +70,12 @@ Porygon2 @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240319
+.MetDate=20251228
 EVs: 252 HP / 252 SpA / 4 SpD
 Ability: Analytic
 Quiet Nature
@@ -87,12 +87,12 @@ Tyrogue @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20231122
+.MetDate=20230521
 EVs: 252 Atk / 4 SpD / 252 Spe
 Ability: Steadfast
 Jolly Nature

@@ -2,12 +2,12 @@
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230413
+.MetDate=20240721
 EVs: 236 HP / 252 Atk / 20 Spe
 Ability: Guts
 Adamant Nature
@@ -19,12 +19,12 @@ Tympole @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240127
+.MetDate=20230705
 EVs: 252 HP / 252 Def / 4 SpD
 Ability: Water Absorb
 Relaxed Nature
@@ -37,12 +37,12 @@ Palpitoad @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20231102
+.MetDate=20240522
 EVs: 252 HP / 252 Def / 4 SpD
 Ability: Water Absorb
 Relaxed Nature
@@ -55,12 +55,12 @@ Seismitoad @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240223
+.MetDate=20250328
 EVs: 252 HP / 252 Def / 4 SpD
 Ability: Water Absorb
 Relaxed Nature
@@ -72,12 +72,12 @@ Throh @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240628
+.MetDate=20230317
 EVs: 252 HP / 252 Atk / 4 SpD
 Ability: Guts
 Adamant Nature
@@ -89,12 +89,12 @@ Sawk @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240109
+.MetDate=20251020
 EVs: 252 Atk / 4 SpD / 252 Spe
 Ability: Mold Breaker
 Jolly Nature

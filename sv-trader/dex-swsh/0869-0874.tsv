@@ -2,12 +2,12 @@
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20251001
+.MetDate=20251226
 EVs: 252 HP / 228 Def / 28 SpD
 Ability: Aroma Veil
 Gigantamax: Yes
@@ -20,12 +20,12 @@ Falinks @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230101
+.MetDate=20251216
 EVs: 252 Atk / 4 Def / 252 Spe
 Ability: Defiant
 Jolly Nature
@@ -37,12 +37,12 @@ Pincurchin @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250215
+.MetDate=20230517
 EVs: 248 HP / 164 Def / 96 SpD
 Ability: Electric Surge
 Bold Nature
@@ -54,12 +54,12 @@ Snom @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240212
+.MetDate=20241105
 EVs: 252 SpA / 4 SpD / 252 Spe
 Ability: Ice Scales
 Timid Nature
@@ -72,12 +72,12 @@ Frosmoth @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240628
+.MetDate=20230306
 EVs: 252 SpA / 4 SpD / 252 Spe
 Ability: Ice Scales
 Timid Nature
@@ -89,12 +89,12 @@ Stonjourner @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240217
+.MetDate=20250918
 EVs: 252 Atk / 4 Def / 252 Spe
 Ability: Power Spot
 Jolly Nature

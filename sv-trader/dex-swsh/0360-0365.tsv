@@ -2,12 +2,12 @@
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250716
+.MetDate=20250801
 EVs: 156 HP / 132 Def / 132 SpD / 12 Spe
 Ability: Shadow Tag
 Bold Nature
@@ -19,12 +19,12 @@ Snorunt @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250305
+.MetDate=20230722
 EVs: 174 HP / 84 Def / 252 Spe
 Ability: Moody
 Timid Nature
@@ -37,12 +37,12 @@ Glalie @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240225
+.MetDate=20250109
 EVs: 174 HP / 84 Def / 252 Spe
 Ability: Moody
 Timid Nature
@@ -54,12 +54,12 @@ Spheal @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230620
+.MetDate=20240111
 EVs: 248 HP / 8 Def / 252 SpD
 Ability: Oblivious
 Calm Nature
@@ -72,12 +72,12 @@ Sealeo @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20241206
+.MetDate=20241122
 EVs: 248 HP / 8 Def / 252 SpD
 Ability: Oblivious
 Calm Nature
@@ -90,12 +90,12 @@ Walrein @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250103
+.MetDate=20230316
 EVs: 248 HP / 8 Def / 252 SpD
 Ability: Oblivious
 Calm Nature

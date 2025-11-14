@@ -2,12 +2,12 @@
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240509
+.MetDate=20240723
 EVs: 252 SpA / 4 SpD / 252 Spe
 Ability: Snow Warning
 Modest Nature
@@ -20,12 +20,12 @@ Aurorus @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250805
+.MetDate=20251203
 EVs: 252 SpA / 4 SpD / 252 Spe
 Ability: Snow Warning
 Modest Nature
@@ -37,12 +37,12 @@ Sylveon @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20231208
+.MetDate=20250221
 EVs: 252 HP / 4 Def / 252 SpD
 Ability: Pixilate
 Calm Nature
@@ -54,12 +54,12 @@ Hawlucha @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240406
+.MetDate=20240817
 EVs: 252 Atk / 4 Def / 252 Spe
 Ability: Unburden
 Jolly Nature
@@ -71,12 +71,12 @@ Dedenne @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250910
+.MetDate=20241205
 EVs: 4 HP / 252 SpA / 252 Spe
 Ability: Cheek Pouch
 Timid Nature
@@ -88,12 +88,12 @@ Carbink @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20251128
+.MetDate=20250701
 EVs: 252 HP / 4 Def / 252 SpD
 Ability: Clear Body
 Calm Nature

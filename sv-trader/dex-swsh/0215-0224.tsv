@@ -2,12 +2,12 @@
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20231114
+.MetDate=20250928
 EVs: 252 Atk / 4 SpD / 252 Spe
 Ability: Keen Eye
 Jolly Nature
@@ -20,12 +20,12 @@ Swinub @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250928
+.MetDate=20250708
 EVs: 252 Atk / 4 Def / 252 Spe
 Ability: Thick Fat
 Jolly Nature
@@ -38,12 +38,12 @@ Piloswine @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250527
+.MetDate=20230312
 EVs: 252 Atk / 4 Def / 252 Spe
 Ability: Thick Fat
 Jolly Nature
@@ -56,12 +56,12 @@ Corsola @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250114
+.MetDate=20250714
 EVs: 252 HP / 252 Def / 4 SpD
 Ability: Regenerator
 Bold Nature
@@ -73,12 +73,12 @@ Remoraid @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240802
+.MetDate=20240310
 EVs: 252 HP / 252 SpA / 4 SpD
 Ability: Sniper
 Quiet Nature
@@ -91,12 +91,12 @@ Octillery @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240427
+.MetDate=20230107
 EVs: 252 HP / 252 SpA / 4 SpD
 Ability: Sniper
 Quiet Nature

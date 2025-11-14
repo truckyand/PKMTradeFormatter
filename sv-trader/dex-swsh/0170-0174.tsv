@@ -2,12 +2,12 @@
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250802
+.MetDate=20240908
 EVs: 40 HP / 220 Def / 248 SpD
 Ability: Volt Absorb
 Calm Nature
@@ -20,12 +20,12 @@ Lanturn @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20241008
+.MetDate=20231106
 EVs: 40 HP / 220 Def / 248 SpD
 Ability: Volt Absorb
 Calm Nature
@@ -37,12 +37,12 @@ Indeedee @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250801
+.MetDate=20240619
 EVs: 40 HP / 220 Def / 248 SpD
 Ability: Volt Absorb
 Calm Nature
@@ -54,12 +54,12 @@ Pichu @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230810
+.MetDate=20240806
 EVs: 4 HP / 252 SpA / 252 Spe
 Ability: Lightning Rod
 Timid Nature
@@ -72,12 +72,12 @@ Cleffa @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20251127
+.MetDate=20230320
 EVs: 252 HP / 252 Def / 4 SpA
 Ability: Magic Guard
 Bold Nature
@@ -90,12 +90,12 @@ Igglybuff @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230216
+.MetDate=20230108
 EVs: 4 HP / 252 SpA / 252 Spe
 Ability: Competitive
 Timid Nature

@@ -2,12 +2,12 @@
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240317
+.MetDate=20240922
 EVs: 248 HP / 168 Def / 92 SpD
 Ability: Regenerator
 Bold Nature
@@ -19,12 +19,12 @@ Frillish @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230318
+.MetDate=20250517
 EVs: 252 HP / 196 Def / 60 Spe
 Ability: Water Absorb
 Bold Nature
@@ -37,12 +37,12 @@ Jellicent @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230606
+.MetDate=20240405
 EVs: 252 HP / 196 Def / 60 Spe
 Ability: Water Absorb
 Bold Nature
@@ -54,12 +54,12 @@ Joltik @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250421
+.MetDate=20230803
 EVs: 4 HP / 252 SpA / 252 Spe
 Ability: Compound Eyes
 Timid Nature
@@ -72,12 +72,12 @@ Galvantula @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230823
+.MetDate=20250106
 EVs: 4 HP / 252 SpA / 252 Spe
 Ability: Compound Eyes
 Timid Nature
@@ -89,12 +89,12 @@ Ferroseed @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250418
+.MetDate=20240414
 EVs: 252 HP / 4 Def / 252 SpD
 Ability: Iron Barbs
 Careful Nature

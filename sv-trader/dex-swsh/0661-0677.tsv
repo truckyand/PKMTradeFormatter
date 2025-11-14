@@ -2,12 +2,12 @@
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230924
+.MetDate=20240818
 EVs: 252 Atk / 4 Def / 252 Spe
 Ability: Gale Wings
 Adamant Nature
@@ -20,12 +20,12 @@ Fletchinder @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240516
+.MetDate=20240818
 EVs: 252 Atk / 4 Def / 252 Spe
 Ability: Gale Wings
 Adamant Nature
@@ -38,12 +38,12 @@ Talonflame @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230311
+.MetDate=20250701
 EVs: 252 Atk / 4 Def / 252 Spe
 Ability: Gale Wings
 Adamant Nature
@@ -55,12 +55,12 @@ Pancham @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240514
+.MetDate=20231121
 EVs: 252 Atk / 4 SpD / 252 Spe
 Ability: Iron Fist
 Adamant Nature
@@ -73,12 +73,12 @@ Pangoro @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230113
+.MetDate=20230122
 EVs: 252 Atk / 4 SpD / 252 Spe
 Ability: Iron Fist
 Adamant Nature
@@ -90,12 +90,12 @@ Espurr @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240110
+.MetDate=20250108
 EVs: 4 Def / 252 SpA / 252 Spe
 Ability: Infiltrator
 Timid Nature

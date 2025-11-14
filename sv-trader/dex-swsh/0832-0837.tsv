@@ -2,12 +2,12 @@
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240409
+.MetDate=20250205
 EVs: 104 HP / 252 Def / 152 Spe
 Ability: Fluffy
 Impish Nature
@@ -19,12 +19,12 @@ Chewtle @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240325
+.MetDate=20241225
 EVs: 252 Atk / 4 Def / 252 Spe
 Ability: Swift Swim
 Adamant Nature
@@ -37,12 +37,12 @@ Drednaw @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250525
+.MetDate=20250102
 EVs: 252 Atk / 4 Def / 252 Spe
 Ability: Swift Swim
 Gigantamax: Yes
@@ -55,12 +55,12 @@ Yamper @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230227
+.MetDate=20250607
 EVs: 4 HP / 252 Atk / 252 Spe
 Ability: Ball Fetch
 Jolly Nature
@@ -73,12 +73,12 @@ Boltund @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230202
+.MetDate=20251227
 EVs: 4 HP / 252 Atk / 252 Spe
 Ability: Strong Jaw
 Jolly Nature
@@ -90,12 +90,12 @@ Rolycoly @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20231011
+.MetDate=20230122
 EVs: 248 HP / 8 Def / 252 SpD
 Ability: Heatproof
 Sassy Nature

@@ -2,12 +2,12 @@
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20241119
+.MetDate=20250406
 EVs: 248 HP / 8 Def / 252 SpD
 Ability: Flame Body
 Sassy Nature
@@ -20,12 +20,12 @@ Coalossal @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240517
+.MetDate=20230522
 EVs: 248 HP / 8 Def / 252 SpD
 Ability: Flame Body
 Gigantamax: Yes
@@ -38,12 +38,12 @@ Applin @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20231217
+.MetDate=20230821
 EVs: 252 Atk / 4 Def / 252 Spe
 Ability: Bulletproof
 Adamant Nature
@@ -56,12 +56,12 @@ Flapple @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240406
+.MetDate=20240328
 EVs: 252 Atk / 4 Def / 252 Spe
 Ability: Hustle
 Gigantamax: Yes
@@ -74,12 +74,12 @@ Appletun @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240911
+.MetDate=20250205
 EVs: 248 HP / 8 SpA / 252 SpD
 Ability: Thick Fat
 Gigantamax: Yes
@@ -92,12 +92,12 @@ Silicobra @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230707
+.MetDate=20251023
 EVs: 4 HP / 252 Atk / 252 Spe
 Ability: Sand Spit
 Adamant Nature

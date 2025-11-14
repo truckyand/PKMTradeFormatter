@@ -2,12 +2,12 @@
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250323
+.MetDate=20231205
 EVs: 8 HP / 248 Atk / 252 Spe
 Ability: Tough Claws
 Adamant Nature
@@ -19,12 +19,12 @@ Cursola @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230303
+.MetDate=20240420
 EVs: 208 HP / 252 SpA / 48 Spe
 Ability: Perish Body
 Modest Nature
@@ -36,12 +36,12 @@ Sirfetchd @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20231109
+.MetDate=20241228
 EVs: 252 Atk / 4 Def / 252 Spe
 Ability: Scrappy
 Jolly Nature
@@ -53,12 +53,12 @@ Mr-rime @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240624
+.MetDate=20230307
 EVs: 252 HP / 212 Def / 8 SpA / 36 Spe
 Ability: Screen Cleaner
 Bold Nature
@@ -70,12 +70,12 @@ Runerigus @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20251019
+.MetDate=20250125
 EVs: 252 HP / 252 Def / 4 SpD
 Ability: Wandering Spirit
 Impish Nature
@@ -87,12 +87,12 @@ Milcery @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240211
+.MetDate=20250816
 EVs: 252 HP / 252 Def / 4 SpA
 Ability: Aroma Veil
 Gigantamax: Yes

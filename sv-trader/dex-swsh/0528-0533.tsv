@@ -2,12 +2,12 @@
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250224
+.MetDate=20230305
 EVs: 4 HP / 252 SpA / 252 Spe
 Ability: Simple
 Timid Nature
@@ -19,12 +19,12 @@ Drilbur @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240710
+.MetDate=20250328
 EVs: 252 Atk / 4 Def / 252 Spe
 Ability: Mold Breaker
 Jolly Nature
@@ -37,12 +37,12 @@ Excadrill @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240409
+.MetDate=20231003
 EVs: 252 Atk / 4 Def / 252 Spe
 Ability: Mold Breaker
 Jolly Nature
@@ -54,12 +54,12 @@ Audino @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240304
+.MetDate=20240524
 EVs: 252 HP / 4 Def / 252 SpD
 Ability: Regenerator
 Calm Nature
@@ -71,12 +71,12 @@ Timburr @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230326
+.MetDate=20241104
 EVs: 236 HP / 252 Atk / 20 Spe
 Ability: Guts
 Adamant Nature
@@ -89,12 +89,12 @@ Gurdurr @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240308
+.MetDate=20250305
 EVs: 236 HP / 252 Atk / 20 Spe
 Ability: Guts
 Adamant Nature

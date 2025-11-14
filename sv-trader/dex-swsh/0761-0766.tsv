@@ -2,12 +2,12 @@
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250916
+.MetDate=20250322
 EVs: 252 Atk / 4 SpD / 252 Spe
 Ability: Oblivious
 Jolly Nature
@@ -20,12 +20,12 @@ Steenee @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230615
+.MetDate=20230526
 EVs: 252 Atk / 4 SpD / 252 Spe
 Ability: Oblivious
 Jolly Nature
@@ -38,12 +38,12 @@ Tsareena @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20231028
+.MetDate=20250307
 EVs: 252 Atk / 4 SpD / 252 Spe
 Ability: Queenly Majesty
 Jolly Nature
@@ -55,12 +55,12 @@ Comfey @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20241115
+.MetDate=20240114
 EVs: 236 HP / 252 SpA / 20 Spe
 Ability: Triage
 Modest Nature
@@ -72,12 +72,12 @@ Oranguru @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230206
+.MetDate=20231022
 EVs: 248 HP / 252 SpA / 8 SpD
 Ability: Symbiosis
 Quiet Nature
@@ -89,12 +89,12 @@ Passimian @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250211
+.MetDate=20250610
 EVs: 252 Atk / 4 Def / 252 Spe
 Ability: Defiant
 Jolly Nature

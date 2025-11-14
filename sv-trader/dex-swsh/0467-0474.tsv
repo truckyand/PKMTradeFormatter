@@ -2,12 +2,12 @@
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230212
+.MetDate=20230710
 EVs: 4 HP / 252 SpA / 252 Spe
 Ability: Vital Spirit
 Timid Nature
@@ -19,12 +19,12 @@ Togekiss @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250805
+.MetDate=20250602
 EVs: 4 HP / 252 SpA / 252 Spe
 Ability: Serene Grace
 Timid Nature
@@ -36,12 +36,12 @@ Leafeon @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230809
+.MetDate=20230906
 EVs: 252 Atk / 4 Def / 252 Spe
 Ability: Chlorophyll
 Jolly Nature
@@ -53,12 +53,12 @@ Glaceon @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240203
+.MetDate=20240310
 EVs: 4 Def / 252 SpA / 252 Spe
 Ability: Ice Body
 Modest Nature
@@ -70,12 +70,12 @@ Mamoswine @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250402
+.MetDate=20231001
 EVs: 252 Atk / 4 Def / 252 Spe
 Ability: Thick Fat
 Jolly Nature
@@ -87,12 +87,12 @@ Porygon-z @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230919
+.MetDate=20230404
 EVs: 252 SpA / 4 SpD / 252 Spe
 Ability: Adaptability
 Timid Nature

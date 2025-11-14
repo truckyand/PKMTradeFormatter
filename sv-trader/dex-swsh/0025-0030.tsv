@@ -2,12 +2,12 @@
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240303
+.MetDate=20230226
 EVs: 4 HP / 252 SpA / 252 Spe
 Ability: Lightning Rod
 Gigantamax: Yes
@@ -20,12 +20,12 @@ Raichu @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240326
+.MetDate=20250613
 EVs: 4 HP / 252 SpA / 252 Spe
 Ability: Lightning Rod
 Timid Nature
@@ -37,12 +37,12 @@ Sandshrew @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230916
+.MetDate=20250821
 EVs: 252 HP / 4 Atk / 252 Spe
 Ability: Sand Rush
 Jolly Nature
@@ -55,12 +55,12 @@ Sandslash @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20231219
+.MetDate=20240815
 EVs: 252 HP / 4 Atk / 252 Spe
 Ability: Sand Rush
 Jolly Nature
@@ -72,12 +72,12 @@ Nidoran-f @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250417
+.MetDate=20241115
 EVs: 60 Atk / 180 Def / 196 SpD / 28 Spe
 Ability: Poison Point
 Impish Nature
@@ -90,12 +90,12 @@ Nidorina @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
-TID: 391666
-SID: 2164
+TID: 331778
+SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230221
+.MetDate=20230708
 EVs: 60 Atk / 180 Def / 196 SpD / 28 Spe
 Ability: Poison Point
 Impish Nature
