@@ -1,84 +1,26 @@
 
-.bt Charizard
-Shiny: Yes
-Level: 20
-OT: trucky
-OTGender: Female
-TID: 331778
-SID: 2401
-Ball: Ultra Ball
-Language: English
-IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-EVs: 4 HP / 252 SpA / 252 Spe
-Timid Nature
-- Fire Blast
-- Solar Beam
-- Sunny Day
-- Hurricane
-
-
-Charizard
-Shiny: Yes
-Level: 100
-OT: trucky
-OTGender: Female
-TID: 331778
-SID: 2401
-Ball: Ultra Ball
-Language: English
-IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-EVs: 4 HP / 252 SpA / 252 Spe
-Timid Nature
-- Fire Blast
-- Solar Beam
-- Sunny Day
-- Hurricane
-
-
-Charizard-Gmax
-Shiny: Yes
-Level: 100
-OT: trucky
-OTGender: Female
-TID: 331778
-SID: 2401
-Ball: Ultra Ball
-Language: English
-IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-EVs: 4 HP / 252 SpA / 252 Spe
-
-
-
-
-
-
-
-
-
-
-
-
-
  @ Comet Shard
 
+.bt 
 
-.bt Gyarados @ Comet Shard
+Charizard @ Weakness Policy
 Shiny: Yes
-Level: 20
+Level: 100
 OT: trucky
 OTGender: Female
 TID: 331778
 SID: 2401
 Ball: Ultra Ball
 Language: English
-Ability: Moxie
+Gigantamax: Yes
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-EVs: 252 Spe / 4 SpD / 252 Atk
+EVs: 4 HP / 252 Atk / 252 Spe
 Adamant Nature
-- Dragon Dance
-- Waterfall
-- Ice Fang
-- Power Whip
+- Fire Blast
+- Flamethrower
+- Flare Blitz
+- Blast Burn
+
 
 Gyarados @ Comet Shard
 Shiny: Yes
@@ -91,17 +33,96 @@ Ball: Ultra Ball
 Language: English
 Ability: Moxie
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-EVs: 252 Spe / 4 SpD / 252 Atk
-Adamant Nature
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
 - Dragon Dance
 - Waterfall
-- Ice Fang
+- Hydro Beam
+- Hydro Pump
+
+
+Sirfetchd @ Comet Shard
+Shiny: Yes
+OT: trucky
+OTGender: Male
+TID: 331778
+SID: 2401
+Ball: Poke Ball
+Language: English
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+EVs: 252 Atk / 4 Def / 252 Spe
+.MetDate=20231216
+Ability: Scrappy
+Jolly Nature
+- Knock Off
+- Close Combat
+- Poison Jab
+- First Impression
+
+
+
+Grimmsnarl @ Comet Shard
+Shiny: Yes
+OT: trucky
+OTGender: Male
+TID: 391666
+SID: 2164
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+EVs: 252 HP / 4 Atk / 252 SpD
+.MetDate=20220907
+Ability: Prankster
+Adamant Nature
+- Darkest Lariat
+- Substitute
+- Spirit Break
+- Bulk Up
+
+
+
+Copperajah @ Comet Shard
+Shiny: Yes
+OT: trucky
+OTGender: Male
+TID: 391666
+SID: 2164
+Ball: Poke Ball
+Language: English
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+.MetDate=20230723
+EVs: 252 HP / 252 Atk / 4 SpD
+Ability: Heavy Metal
+Gigantamax: Yes
+Adamant Nature
+- Heavy Slam
+- Heat Crash
 - Power Whip
+- Earthquake
+
+
+Duraludon @ Comet Shard
+Shiny: Yes
+OT: trucky
+OTGender: Male
+TID: 391666
+SID: 2164
+Ball: Poke Ball
+Language: English
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+.MetDate=20240129
+EVs: 4 HP / 252 SpA / 252 Spe
+Ability: Stalwart
+Gigantamax: Yes
+Modest Nature
+- Flash Cannon
+- Draco Meteor
+- Dark Pulse
+- Thunderbolt
+
+
 
 
 Toxtricity @ Comet Shard
 Shiny: Yes
-Level: 50
 OT: trucky
 OTGender: Male
 TID: 331778
@@ -122,7 +143,6 @@ Timid Nature
 
 Gardevoir @ Comet Shard
 Shiny: Yes
-Level: 40
 OT: trucky
 OTGender: Male
 TID: 331778
@@ -143,7 +163,6 @@ Timid Nature
 
 Gallade (F) @ Leftovers
 Shiny: Yes
-Level: 40
 OT: trucky
 OTGender: Female
 TID: 331778
@@ -158,11 +177,8 @@ IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 - Swords Dance
 
 
-
-
-Sirfetchd @ Comet Shard
+Gigalith @ Comet Shard
 Shiny: Yes
-Level: 50
 OT: trucky
 OTGender: Male
 TID: 331778
@@ -170,35 +186,11 @@ SID: 2401
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-EVs: 252 Atk / 4 Def / 252 Spe
-.MetDate=20231216
-Ability: Scrappy
-Jolly Nature
-- Knock Off
-- Close Combat
-- Poison Jab
-- First Impression
-
-
-
-Grimmsnarl            
-Shiny: Yes
-OT: trucky
-OTGender: Male
-TID: 391666
-SID: 2164
-Ball: Poke Ball
-Language: English
-IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240831
-EVs: 252 HP / 252 Atk / 4 SpD
-Ability: Frisk
-Tera Type: Fairy
-Adamant Nature
-- Fake Out
-- Reflect
-- Light Screen
-- Spirit Break
-
-
-Copperajah 
+.MetDate=20250123
+EVs: 252 HP / 4 Def / 252 SpD
+Ability: Sand Stream
+Careful Nature
+- Stealth Rock
+- Stone Edge
+- Earthquake
+- Protect
