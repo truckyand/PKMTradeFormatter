@@ -3,11 +3,11 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Pokémon Sword & ShieldList Viewer</title>
+    <title>Pokémon Sword & Shield | List Viewer</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <h1>Pokémon Sword & Shield - List Viewer</h1>
+    <h1>Pokémon Sword & Shield | List Viewer</h1>
     <form id="filterForm">
         <div style="width: 100%;">
             <label for="species" style="text-align: left;">Species:</label>
@@ -70,6 +70,36 @@
     <script type="module">
         import { faker } from 'https://esm.sh/@faker-js/faker';
         
+        const files = {
+            'lgpe': 'lgpe.json',
+            'swsh': 'swsh.json',
+            'bdsp': 'bdsp.json',
+            'pla': 'pla.json',
+            'sv': 'sv.json'
+        };
+        var ot_data = {
+            'lgpe': {},
+            'swsh': {
+                "OT": "trucky",
+                "OTGender": "Male",
+                "TID": 331778,
+                "SID": 2401
+            },
+            'bdsp': {},
+            'pla': {
+                "OT": "trucky",
+                "OTGender": "Male",
+                "TID": 758975,
+                "SID": 4118
+            },
+            'sv': {
+                "OT": "trucky",
+                "OTGender": "Male",
+                "TID": 391666,
+                "SID": 2164
+            }
+        };
+
         var pkmgg_sorted_pkm = [];
         document.addEventListener("DOMContentLoaded", async() => {
             console.log("Document ready!");
@@ -87,14 +117,6 @@
 
             const species = document.getElementById('species').value.toLowerCase();
             const game = document.getElementById('game').value.toLowerCase();
-            
-            const files = {
-                'lgpe': 'lgpe.json',
-                'swsh': 'swsh.json',
-                'bdsp': 'bdsp.json',
-                'pla': 'pla.json',
-                'sv': 'sv.json'
-            };
             
             const selectedFiles = game ? [files[game]] : Object.values(files);
             Promise.all(selectedFiles.map(file => fetch(file).then(response => response.json())))
@@ -146,22 +168,33 @@
         
         function copyToClipboard(id, content) {
             var dt = randomDate();
+            
+            // pkm data
+            var idStr = id.toString().padStart(4, '0');
+            var pkmgg_pkm = pkmgg_sorted_pkm.find(x => x.id === idStr);
+
+            const game = document.getElementById('game').value.toLowerCase();
+            const is_shiny = pkmgg_pkm && pkmgg_pkm.shiny_locked ? "No" : "Yes";
+            const OT = ot_data[game] && ot_data[game].OT ? ot_data[game].OT : "trucky";
+            const OTGender = ot_data[game] && ot_data[game].OTGender ? ot_data[game].OTGender : "Male";
+            const TID = ot_data[game] && ot_data[game].TID ? ot_data[game].TID : 123456;
+            const SID = ot_data[game] && ot_data[game].SID ? ot_data[game].SID : 1234; 
+            const pokeBall = "Luxury Ball";
 
             // Inject
-            content = content + `            
-Shiny: Yes
-OT: trucky
-OTGender: Male
-TID: 331778
-SID: 2401
-Ball: Poke Ball
+            content = content + `
+Shiny: ${is_shiny}
+OT: ${OT}
+OTGender: ${OTGender}
+TID: ${TID}
+SID: ${SID}
+Ball: ${pokeBall}
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 .MetDate=` + dt + `\n`;
 
+
             // meta_set
-            var idStr = id.toString().padStart(4, '0');
-            var pkmgg_pkm = pkmgg_sorted_pkm.find(x => x.id === idStr);
             if (pkmgg_pkm && pkmgg_pkm.meta_set) {
                 var meta_set = pkmgg_pkm.meta_set;
                 meta_set = meta_set.split('\n'); 
