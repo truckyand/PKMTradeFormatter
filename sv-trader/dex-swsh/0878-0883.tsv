@@ -65,6 +65,7 @@ Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 .MetDate=20230820
+.MetLocation=162
 EVs: 252 Atk / 4 SpA / 252 Spe
 Ability: Volt Absorb
 Jolly Nature
@@ -83,6 +84,7 @@ Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 .MetDate=20230811
+.MetLocation=162
 EVs: 4 HP / 252 Atk / 252 Spe
 Ability: Strong Jaw
 Jolly Nature
