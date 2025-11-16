@@ -77,51 +77,66 @@ for (let i = 0; i < data.length; i += chunkSize) {
 			console.log(`>>> ${item.name} is legendary, ignore.`);
 		}*/
 
-		const name = capitalize(item.name);
-		const metDate = randomDate();
-
-		content += `${name} @ Master Ball\n`;
-		content += `Shiny: Yes\n`;
-		content += `OT: trucky\n`;
-		content += `OTGender: Female\n`;
-		content += `TID: 331778\n`;
-		content += `SID: 2401\n`;
-		content += `Ball: Luxury Ball\n`;
-		content += `Language: English\n`;
-		content += `IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA\n`;
-		content += `.MetDate=${metDate}\n`;
 
 		// meta_set
 		idStr = item.id.toString().padStart(4, '0');
+		const name = capitalize(item.name);
+		try {
 
-		// Find meta_set from pkmgg_sorted_pkm
-		// Use species name instead of id to find the Pokémon
-		// 0046 Mimikyu
-		var pkmgg_pkm = pkmgg_sorted_pkm.find(x => x.id === idStr);
-		if (!pkmgg_pkm) {
-			// Fallback to species name search
-			pkmgg_pkm = pkmgg_sorted_pkm.find(x => x.species.toLowerCase() === name.toLowerCase());
-		}
-		if (pkmgg_pkm && pkmgg_pkm.meta_set) {
-			var meta_set = pkmgg_pkm.meta_set;
-			meta_set = meta_set.split('\n');
-			meta_set.splice(0, 1); // remove Name    
-			meta_set.splice(meta_set.findIndex(x => x.startsWith("Shiny")), 1); // remove Shiny
-			meta_set.splice(meta_set.findIndex(x => x.startsWith("Level")), 1); // remove Level
-			meta_set = meta_set.join('\n');
-
-			//console.log(`item: ${pkmgg_pkm.species}, is_legendary: ${pkmgg_pkm.is_legendary}`);
-			if (!LEGENDARY_ONLY && (pkmgg_pkm.is_legendary == true)) {
-				console.log(`>>> ${pkmgg_pkm.species} is legendary, ignore.`);
+			// Find meta_set from pkmgg_sorted_pkm
+			// Use species name instead of id to find the Pokémon
+			// 0046 Mimikyu
+			var pkmgg_pkm = pkmgg_sorted_pkm.find(x => x.id === idStr);
+			if (!pkmgg_pkm) {
+				// Fallback to species name search
+				pkmgg_pkm = pkmgg_sorted_pkm.find(x => x.species.toLowerCase() === name.toLowerCase());
 			}
+			if (!pkmgg_pkm) {
+				console.log(`Cannot find meta_set for ${idStr} ${name}`);
+			}
+
+			if (pkmgg_pkm && pkmgg_pkm.meta_set) {
+				var meta_set = pkmgg_pkm.meta_set;
+				meta_set = meta_set.split('\n');
+				meta_set.splice(0, 1); // remove Name    
+				meta_set.splice(meta_set.findIndex(x => x.startsWith("Shiny")), 1); // remove Shiny
+				meta_set.splice(meta_set.findIndex(x => x.startsWith("Level")), 1); // remove Level
+				meta_set = meta_set.join('\n');
+
+				//console.log(`item: ${pkmgg_pkm.species}, is_legendary: ${pkmgg_pkm.is_legendary}`);
+				if (!LEGENDARY_ONLY && (pkmgg_pkm.is_legendary == true)) {
+					console.log(`>>> ${pkmgg_pkm.species} is legendary, ignore.`);
+				}
+			}
+
+			// Finalize data
+			const metDate = randomDate();
+			const holdItem = ' @ Master Ball';
+			const pokeBall_Wanted = "Luxury Ball";
+			const pokeBall = pkmgg_pkm && pkmgg_pkm.legal_pokeballs.includes(pokeBall_Wanted) ? pokeBall_Wanted : pkmgg_pkm.legal_pokeballs[0];
+			const is_shiny = pkmgg_pkm && (pkmgg_pkm.shiny_locked === true) ? 'No' : 'Yes';
+			const is_legendary = pkmgg_pkm && (pkmgg_pkm.is_legendary == true) ? "# is_legendary" : "";
+
+			content += `${is_legendary}\n`;
+			content += `${name} ${holdItem}\n`;
+			content += `Shiny: ${is_shiny}\n`;
+			content += `OT: trucky\n`;
+			content += `OTGender: Female\n`;
+			content += `TID: 331778\n`;
+			content += `SID: 2401\n`;
+			content += `Ball: ${pokeBall}\n`;
+			content += `Language: English\n`;
+			content += `IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA\n`;
+			content += `.MetDate=${metDate}\n`;
+
+			content += `${meta_set}\n`;
+			content += `\n`;
+
+		} catch (error) {
+			console.log(`Error processing ${idStr} ${name}: ${error}`);
 		}
-		else {
-			console.log(`Cannot find meta_set for ${idStr} ${name}`);
-		}
-		content += `${meta_set}\n`;
-		content += `\n`;
 	});
 
 	fs.writeFileSync(filename, content.trim() + '\n');
-	console.log(`✅ Wrote ${filename}`);
+	// console.log(`✅ Wrote ${filename}`);
 }
