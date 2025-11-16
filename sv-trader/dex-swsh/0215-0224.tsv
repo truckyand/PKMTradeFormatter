@@ -1,5 +1,5 @@
 .bt 
-Sneasel  @ Master Ball
+Sneasel @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -8,7 +8,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230513
+.MetDate=20250617
+.Ribbons=$suggestAll
 EVs: 252 Atk / 4 SpD / 252 Spe
 Ability: Keen Eye
 Jolly Nature
@@ -18,7 +19,7 @@ Jolly Nature
 - Low Kick
 
 
-Swinub  @ Master Ball
+Swinub @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -27,7 +28,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240818
+.MetDate=20241227
+.Ribbons=$suggestAll
 EVs: 252 Atk / 4 Def / 252 Spe
 Ability: Thick Fat
 Jolly Nature
@@ -37,7 +39,7 @@ Jolly Nature
 - Rock Slide
 
 
-Piloswine  @ Master Ball
+Piloswine @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -46,7 +48,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230317
+.MetDate=20250919
+.Ribbons=$suggestAll
 EVs: 252 Atk / 4 Def / 252 Spe
 Ability: Thick Fat
 Jolly Nature
@@ -56,7 +59,7 @@ Jolly Nature
 - Stone Edge
 
 
-Corsola  @ Master Ball
+Corsola @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -65,7 +68,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20251001
+.MetDate=20231028
+.Ribbons=$suggestAll
 EVs: 252 HP / 252 Def / 4 SpD
 Ability: Regenerator
 Bold Nature
@@ -74,7 +78,7 @@ Bold Nature
 - Scald
 
 
-Remoraid  @ Master Ball
+Remoraid @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -83,7 +87,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20231016
+.MetDate=20250609
+.Ribbons=$suggestAll
 EVs: 252 HP / 252 SpA / 4 SpD
 Ability: Sniper
 Quiet Nature
@@ -93,7 +98,7 @@ Quiet Nature
 - Psychic
 
 
-Octillery  @ Master Ball
+Octillery @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -102,7 +107,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230924
+.MetDate=20240904
+.Ribbons=$suggestAll
 EVs: 252 HP / 252 SpA / 4 SpD
 Ability: Sniper
 Quiet Nature

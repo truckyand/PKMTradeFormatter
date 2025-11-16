@@ -1,5 +1,5 @@
 .bt 
-Snorlax  @ Master Ball
+Snorlax @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -8,7 +8,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20241207
+.MetDate=20250428
+.Ribbons=$suggestAll
 EVs: 252 HP / 4 Def / 252 SpD
 Ability: Gluttony
 Gigantamax: Yes
@@ -18,7 +19,7 @@ Sassy Nature
 - Curse
 
 # is_legendary
-Articuno  @ Master Ball
+Articuno @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -27,7 +28,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240526
+.MetDate=20230919
+.Ribbons=$suggestAll
 EVs: 252 SpA / 4 SpD / 252 Spe
 Ability: Pressure
 Timid Nature
@@ -36,7 +38,7 @@ Timid Nature
 - Hurricane
 
 # is_legendary
-Zapdos  @ Master Ball
+Zapdos @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -45,7 +47,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230109
+.MetDate=20230225
+.Ribbons=$suggestAll
 EVs: 4 HP / 252 SpA / 252 Spe
 Ability: Pressure
 Timid Nature
@@ -54,7 +57,7 @@ Timid Nature
 - Volt Switch
 
 # is_legendary
-Moltres  @ Master Ball
+Moltres @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -63,7 +66,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230114
+.MetDate=20251124
+.Ribbons=$suggestAll
 EVs: 4 Def / 252 SpA / 252 Spe
 Ability: Pressure
 Timid Nature
@@ -72,7 +76,7 @@ Timid Nature
 - Will-O-Wisp
 
 
-Dratini  @ Master Ball
+Dratini @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -81,7 +85,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230421
+.MetDate=20250805
+.Ribbons=$suggestAll
 EVs: 4 HP / 252 Atk / 252 Spe
 Ability: Shed Skin
 Jolly Nature
@@ -91,7 +96,7 @@ Jolly Nature
 - Fire Blast
 
 
-Dragonair  @ Master Ball
+Dragonair @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -100,7 +105,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250306
+.MetDate=20230523
+.Ribbons=$suggestAll
 EVs: 252 HP / 4 Def / 252 SpD
 Ability: Marvel Scale
 Careful Nature

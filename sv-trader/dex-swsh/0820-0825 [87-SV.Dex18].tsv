@@ -1,5 +1,5 @@
 .bt 
-Greedent @ Comet Shard
+Greedent @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -8,7 +8,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20241027
+.MetDate=20251102
+.Ribbons=$suggestAll
 EVs: 4 HP / 156 Atk / 84 Def / 140 SpD / 124 Spe
 Ability: Cheek Pouch
 Adamant Nature
@@ -17,7 +18,7 @@ Adamant Nature
 - Fire Fang
 
 
-Rookidee @ Comet Shard
+Rookidee @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -26,7 +27,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20251002
+.MetDate=20250604
+.Ribbons=$suggestAll
 EVs: 252 HP / 32 Def / 136 SpD / 88 Spe
 Ability: Keen Eye
 Careful Nature
@@ -36,7 +38,7 @@ Careful Nature
 - Protect
 
 
-Corvisquire @ Comet Shard
+Corvisquire @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -45,7 +47,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230812
+.MetDate=20251112
+.Ribbons=$suggestAll
 EVs: 252 HP / 32 Def / 136 SpD / 88 Spe
 Ability: Keen Eye
 Careful Nature
@@ -55,7 +58,7 @@ Careful Nature
 - Protect
 
 
-Corviknight @ Comet Shard
+Corviknight @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -64,7 +67,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230620
+.MetDate=20230327
+.Ribbons=$suggestAll
 EVs: 252 HP / 32 Def / 136 SpD / 88 Spe
 Ability: Mirror Armor
 Gigantamax: Yes
@@ -74,7 +78,7 @@ Careful Nature
 - Iron Head
 
 
-Blipbug @ Comet Shard
+Blipbug @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -83,7 +87,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20241102
+.MetDate=20230318
+.Ribbons=$suggestAll
 EVs: 252 HP / 252 Def / 4 SpD
 Ability: Compound Eyes
 Bold Nature
@@ -93,7 +98,7 @@ Bold Nature
 - Sticky Web
 
 
-Dottler @ Comet Shard
+Dottler @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -102,7 +107,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20251024
+.MetDate=20250203
+.Ribbons=$suggestAll
 EVs: 252 HP / 252 Def / 4 SpD
 Ability: Compound Eyes
 Bold Nature

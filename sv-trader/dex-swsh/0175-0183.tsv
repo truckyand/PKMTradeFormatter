@@ -1,5 +1,5 @@
 .bt 
-Togepi  @ Master Ball
+Togepi @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -8,7 +8,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20241220
+.MetDate=20230911
+.Ribbons=$suggestAll
 EVs: 248 HP / 4 Def / 252 SpA
 Ability: Super Luck
 Modest Nature
@@ -18,7 +19,7 @@ Modest Nature
 - Dazzling Gleam
 
 
-Togetic  @ Master Ball
+Togetic @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -27,7 +28,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230110
+.MetDate=20250511
+.Ribbons=$suggestAll
 EVs: 248 HP / 4 Def / 252 SpA
 Ability: Super Luck
 Modest Nature
@@ -36,7 +38,7 @@ Modest Nature
 - Flamethrower
 
 
-Natu  @ Master Ball
+Natu @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -45,7 +47,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240807
+.MetDate=20230228
+.Ribbons=$suggestAll
 EVs: 252 HP / 4 SpD / 252 Spe
 Ability: Magic Bounce
 Jolly Nature
@@ -55,7 +58,7 @@ Jolly Nature
 - Thunder Wave
 
 
-Xatu  @ Master Ball
+Xatu @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -64,7 +67,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240504
+.MetDate=20230226
+.Ribbons=$suggestAll
 EVs: 252 HP / 4 SpD / 252 Spe
 Ability: Magic Bounce
 Jolly Nature
@@ -73,7 +77,7 @@ Jolly Nature
 - U-turn
 
 
-Bellossom  @ Master Ball
+Bellossom @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -82,7 +86,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250811
+.MetDate=20251014
+.Ribbons=$suggestAll
 EVs: 248 HP / 8 Def / 252 Spe
 Ability: Chlorophyll
 Timid Nature
@@ -91,7 +96,7 @@ Timid Nature
 - Giga Drain
 
 
-Marill  @ Master Ball
+Marill @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -100,7 +105,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240319
+.MetDate=20250315
+.Ribbons=$suggestAll
 EVs: 244 HP / 252 Atk / 4 Def / 4 SpD / 4 Spe
 Ability: Huge Power
 Adamant Nature

@@ -1,5 +1,5 @@
 .bt 
-Oddish  @ Master Ball
+Oddish @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -8,7 +8,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230825
+.MetDate=20241201
+.Ribbons=$suggestAll
 EVs: 252 HP / 252 Def / 4 SpD
 Ability: Run Away
 Bold Nature
@@ -18,7 +19,7 @@ Bold Nature
 - Sleep Powder
 
 
-Gloom  @ Master Ball
+Gloom @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -27,7 +28,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230913
+.MetDate=20231023
+.Ribbons=$suggestAll
 EVs: 252 HP / 252 Def / 4 SpD
 Ability: Stench
 Bold Nature
@@ -37,7 +39,7 @@ Bold Nature
 - Sleep Powder
 
 
-Vileplume  @ Master Ball
+Vileplume @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -46,7 +48,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250114
+.MetDate=20241005
+.Ribbons=$suggestAll
 EVs: 252 HP / 252 Def / 4 SpD
 Ability: Effect Spore
 Bold Nature
@@ -55,7 +58,7 @@ Bold Nature
 - Strength Sap
 
 
-Mimikyu  @ Master Ball
+Mimikyu @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -64,7 +67,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250817
+.MetDate=20230402
+.Ribbons=$suggestAll
 EVs: 252 Atk / 4 SpD / 252 Spe
 Ability: Disguise
 Jolly Nature
@@ -73,7 +77,7 @@ Jolly Nature
 - Play Rough
 
 
-Diglett  @ Master Ball
+Diglett @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -82,7 +86,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250608
+.MetDate=20240928
+.Ribbons=$suggestAll
 EVs: 4 HP / 252 Atk / 252 Spe
 Ability: Arena Trap
 Jolly Nature
@@ -92,7 +97,7 @@ Jolly Nature
 - Rock Slide
 
 
-Dugtrio  @ Master Ball
+Dugtrio @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -101,7 +106,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250716
+.MetDate=20241110
+.Ribbons=$suggestAll
 EVs: 4 HP / 252 Atk / 252 Spe
 Ability: Arena Trap
 Jolly Nature

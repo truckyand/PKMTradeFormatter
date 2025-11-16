@@ -1,5 +1,5 @@
 .bt 
-Mime-jr  @ Master Ball
+Mime-jr @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -8,7 +8,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230515
+.MetDate=20240823
+.Ribbons=$suggestAll
 EVs: 4 HP / 252 SpA / 252 Spe
 Ability: Soundproof
 Timid Nature
@@ -18,7 +19,7 @@ Timid Nature
 - Protect
 
 
-Happiny  @ Master Ball
+Happiny @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -27,7 +28,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240726
+.MetDate=20230913
+.Ribbons=$suggestAll
 EVs: 252 HP / 252 Def / 4 SpD
 Ability: Natural Cure
 Bold Nature
@@ -37,7 +39,7 @@ Bold Nature
 - Aromatherapy
 
 
-Spiritomb  @ Master Ball
+Spiritomb @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -46,7 +48,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250504
+.MetDate=20240404
+.Ribbons=$suggestAll
 EVs: 248 HP / 252 Def / 8 SpD
 Ability: Pressure
 Bold Nature
@@ -55,7 +58,27 @@ Bold Nature
 - Rest
 
 
-Gible  @ Master Ball
+Gible @ Big Nugget
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Luxury Ball
+Language: English
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+.MetDate=20230820
+.Ribbons=$suggestAll
+EVs: 4 HP / 252 Atk / 252 Spe
+Ability: Rough Skin
+Jolly Nature
+- Stealth Rock
+- Outrage
+- Earthquake
+- Stone Edge
+
+
+Gabite @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -65,6 +88,7 @@ Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 .MetDate=20240418
+.Ribbons=$suggestAll
 EVs: 4 HP / 252 Atk / 252 Spe
 Ability: Rough Skin
 Jolly Nature
@@ -74,7 +98,7 @@ Jolly Nature
 - Stone Edge
 
 
-Gabite  @ Master Ball
+Garchomp @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -83,26 +107,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240817
-EVs: 4 HP / 252 Atk / 252 Spe
-Ability: Rough Skin
-Jolly Nature
-- Stealth Rock
-- Outrage
-- Earthquake
-- Stone Edge
-
-
-Garchomp  @ Master Ball
-Shiny: Yes
-OT: trucky
-OTGender: Female
-TID: 331778
-SID: 2401
-Ball: Luxury Ball
-Language: English
-IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250525
+.MetDate=20240611
+.Ribbons=$suggestAll
 EVs: 4 HP / 252 Atk / 252 Spe
 Ability: Rough Skin
 Jolly Nature

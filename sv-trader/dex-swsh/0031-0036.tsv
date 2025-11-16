@@ -1,5 +1,5 @@
 .bt 
-Nidoqueen  @ Master Ball
+Nidoqueen @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -8,7 +8,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250909
+.MetDate=20240205
+.Ribbons=$suggestAll
 EVs: 252 SpA / 4 SpD / 252 Spe
 Ability: Sheer Force
 Timid Nature
@@ -17,7 +18,7 @@ Timid Nature
 - Sludge Wave
 
 
-Nidorino  @ Master Ball
+Nidorino @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -26,7 +27,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250613
+.MetDate=20231222
+.Ribbons=$suggestAll
 EVs: 4 HP / 252 Atk / 252 Spe
 Ability: Hustle
 Adamant Nature
@@ -36,7 +38,7 @@ Adamant Nature
 - Protect
 
 
-Nidoking  @ Master Ball
+Nidoking @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -45,7 +47,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20251016
+.MetDate=20240319
+.Ribbons=$suggestAll
 EVs: 4 Def / 252 SpA / 252 Spe
 Ability: Sheer Force
 Timid Nature
@@ -54,7 +57,7 @@ Timid Nature
 - Ice Beam
 
 
-Clefairy  @ Master Ball
+Clefairy @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -63,7 +66,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20231207
+.MetDate=20251023
+.Ribbons=$suggestAll
 EVs: 252 HP / 252 Def / 4 SpD
 Ability: Friend Guard
 Bold Nature
@@ -72,7 +76,7 @@ Bold Nature
 - Moonlight
 
 
-Clefable  @ Master Ball
+Clefable @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -81,7 +85,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250624
+.MetDate=20230918
+.Ribbons=$suggestAll
 EVs: 196 HP / 252 SpA / 60 Spe
 Ability: Magic Guard
 Modest Nature

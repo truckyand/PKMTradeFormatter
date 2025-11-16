@@ -1,5 +1,5 @@
 .bt 
-Mawile  @ Master Ball
+Mawile @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -8,7 +8,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240817
+.MetDate=20240123
+.Ribbons=$suggestAll
 EVs: 92 HP / 252 Atk / 164 Spe
 Ability: Intimidate
 Adamant Nature
@@ -17,7 +18,7 @@ Adamant Nature
 - Sucker Punch
 
 
-Aron  @ Master Ball
+Aron @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -26,7 +27,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20251213
+.MetDate=20241222
+.Ribbons=$suggestAll
 EVs: 252 HP / 16 Def / 240 SpD
 Ability: Sturdy
 Impish Nature
@@ -36,7 +38,7 @@ Impish Nature
 - Earthquake
 
 
-Lairon  @ Master Ball
+Lairon @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -45,7 +47,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250306
+.MetDate=20240121
+.Ribbons=$suggestAll
 EVs: 252 HP / 16 Def / 240 SpD
 Ability: Sturdy
 Impish Nature
@@ -55,7 +58,7 @@ Impish Nature
 - Earthquake
 
 
-Aggron  @ Master Ball
+Aggron @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -64,7 +67,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230407
+.MetDate=20230507
+.Ribbons=$suggestAll
 EVs: 252 HP / 16 Def / 240 SpD
 Ability: Sturdy
 Impish Nature
@@ -73,7 +77,7 @@ Impish Nature
 - Heavy Slam
 
 
-Electrike  @ Master Ball
+Electrike @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -82,7 +86,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20251004
+.MetDate=20230825
+.Ribbons=$suggestAll
 EVs: 252 SpA / 4 SpD / 252 Spe
 Ability: Lightning Rod
 Timid Nature
@@ -92,7 +97,7 @@ Timid Nature
 - Protect
 
 
-Manectric  @ Master Ball
+Manectric @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -101,7 +106,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230701
+.MetDate=20240103
+.Ribbons=$suggestAll
 EVs: 252 SpA / 4 SpD / 252 Spe
 Ability: Lightning Rod
 Timid Nature

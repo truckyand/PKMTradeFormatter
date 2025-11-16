@@ -1,5 +1,5 @@
 .bt 
-Steelix  @ Master Ball
+Steelix @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -8,7 +8,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230124
+.MetDate=20230803
+.Ribbons=$suggestAll
 EVs: 252 HP / 208 Atk / 48 SpD
 Ability: Sturdy
 Brave Nature
@@ -17,7 +18,64 @@ Brave Nature
 - Earthquake
 
 
-Meowstic  @ Master Ball
+Meowstic @ Big Nugget
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Luxury Ball
+Language: English
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+.MetDate=20240305
+.Ribbons=$suggestAll
+EVs: 4 Def / 252 SpA / 252 Spe
+Ability: Infiltrator
+Timid Nature
+- Expanding Force
+- Thunderbolt
+- Nasty Plot
+
+
+Qwilfish @ Big Nugget
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Luxury Ball
+Language: English
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+.MetDate=20250521
+.Ribbons=$suggestAll
+EVs: 252 Atk / 4 Def / 252 Spe
+Ability: Swift Swim
+Adamant Nature
+- Swords Dance
+- Waterfall
+- Poison Jab
+
+
+Scizor @ Big Nugget
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Luxury Ball
+Language: English
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+.MetDate=20251008
+.Ribbons=$suggestAll
+EVs: 252 HP / 252 Atk / 4 SpD
+Ability: Technician
+Adamant Nature
+- Dual Wingbeat
+- Superpower
+- Bullet Punch
+
+
+Shuckle @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -27,60 +85,7 @@ Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 .MetDate=20230806
-EVs: 4 Def / 252 SpA / 252 Spe
-Ability: Infiltrator
-Timid Nature
-- Expanding Force
-- Thunderbolt
-- Nasty Plot
-
-
-Qwilfish  @ Master Ball
-Shiny: Yes
-OT: trucky
-OTGender: Female
-TID: 331778
-SID: 2401
-Ball: Luxury Ball
-Language: English
-IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230218
-EVs: 252 Atk / 4 Def / 252 Spe
-Ability: Swift Swim
-Adamant Nature
-- Swords Dance
-- Waterfall
-- Poison Jab
-
-
-Scizor  @ Master Ball
-Shiny: Yes
-OT: trucky
-OTGender: Female
-TID: 331778
-SID: 2401
-Ball: Luxury Ball
-Language: English
-IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20231116
-EVs: 252 HP / 252 Atk / 4 SpD
-Ability: Technician
-Adamant Nature
-- Dual Wingbeat
-- Superpower
-- Bullet Punch
-
-
-Shuckle  @ Master Ball
-Shiny: Yes
-OT: trucky
-OTGender: Female
-TID: 331778
-SID: 2401
-Ball: Luxury Ball
-Language: English
-IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20241013
+.Ribbons=$suggestAll
 EVs: 248 HP / 252 Def / 8 SpD
 Ability: Contrary
 Bold Nature
@@ -89,7 +94,7 @@ Bold Nature
 - Knock Off
 
 
-Heracross  @ Master Ball
+Heracross @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -98,7 +103,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20231107
+.MetDate=20230408
+.Ribbons=$suggestAll
 EVs: 252 Atk / 4 Def / 252 Spe
 Ability: Guts
 Jolly Nature

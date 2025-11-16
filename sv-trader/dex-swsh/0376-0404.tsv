@@ -1,5 +1,5 @@
 .bt 
-Metagross  @ Master Ball
+Metagross @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -8,7 +8,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230323
+.MetDate=20251213
+.Ribbons=$suggestAll
 EVs: 4 HP / 250 Atk / 252 Spe
 Ability: Clear Body
 Jolly Nature
@@ -17,7 +18,7 @@ Jolly Nature
 - Earthquake
 
 # is_legendary
-Regirock  @ Master Ball
+Regirock @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -26,7 +27,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230916
+.MetDate=20240206
+.Ribbons=$suggestAll
 EVs: 252 HP / 252 SpD
 Ability: Clear Body
 Impish Nature
@@ -35,7 +37,7 @@ Impish Nature
 - Drain Punch
 
 # is_legendary
-Regice  @ Master Ball
+Regice @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -44,7 +46,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250520
+.MetDate=20240918
+.Ribbons=$suggestAll
 EVs: 252 HP / 252 SpA / 4 SpD
 Ability: Clear Body
 Modest Nature
@@ -53,7 +56,7 @@ Modest Nature
 - Focus Blast
 
 # is_legendary
-Registeel  @ Master Ball
+Registeel @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -62,7 +65,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20251225
+.MetDate=20240122
+.Ribbons=$suggestAll
 EVs: 252 HP / 4 Atk / 252 SpD
 Ability: Clear Body
 Careful Nature
@@ -71,7 +75,7 @@ Careful Nature
 - Iron Head
 
 
-Shinx  @ Master Ball
+Shinx @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -80,7 +84,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20251108
+.MetDate=20230501
+.Ribbons=$suggestAll
 EVs: 252 Atk / 4 SpD / 252 Spe
 Ability: Guts
 Jolly Nature
@@ -90,7 +95,7 @@ Jolly Nature
 - Volt Switch
 
 
-Luxio  @ Master Ball
+Luxio @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -99,7 +104,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250720
+.MetDate=20240703
+.Ribbons=$suggestAll
 EVs: 252 Atk / 4 SpD / 252 Spe
 Ability: Guts
 Jolly Nature

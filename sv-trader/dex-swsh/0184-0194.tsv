@@ -1,5 +1,5 @@
 .bt 
-Azumarill  @ Master Ball
+Azumarill @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -8,7 +8,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250413
+.MetDate=20251213
+.Ribbons=$suggestAll
 EVs: 244 HP / 252 Atk / 4 Def / 4 SpD / 4 Spe
 Ability: Huge Power
 Adamant Nature
@@ -17,7 +18,7 @@ Adamant Nature
 - Play Rough
 
 
-Sudowoodo  @ Master Ball
+Sudowoodo @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -26,7 +27,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250612
+.MetDate=20240213
+.Ribbons=$suggestAll
 EVs: 252 Atk / 4 Def / 252 Spe
 Ability: Rock Head
 Adamant Nature
@@ -35,44 +37,7 @@ Adamant Nature
 - Sucker Punch
 
 
-Politoed  @ Master Ball
-Shiny: Yes
-OT: trucky
-OTGender: Female
-TID: 331778
-SID: 2401
-Ball: Luxury Ball
-Language: English
-IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20241118
-EVs: 220 HP / 148 Def / 84 SpA / 52 SpD / 4 Spe
-Ability: Drizzle
-Calm Nature
-- Scald
-- Ice Beam
-- Encore
-
-
-Pumpkaboo  @ Master Ball
-Shiny: Yes
-OT: trucky
-OTGender: Female
-TID: 331778
-SID: 2401
-Ball: Luxury Ball
-Language: English
-IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240328
-EVs: 252 HP / 252 Def / 4 SpD
-Ability: Frisk
-Bold Nature
-- Will-O-Wisp
-- Protect
-- Foul Play
-- Leech Seed
-
-
-Gourgeist  @ Master Ball
+Politoed @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -82,15 +47,16 @@ Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 .MetDate=20250112
-EVs: 152 HP / 132 Def / 224 Spe
-Ability: Frisk
-Jolly Nature
-- Substitute
-- Leech Seed
-- Will-O-Wisp
+.Ribbons=$suggestAll
+EVs: 220 HP / 148 Def / 84 SpA / 52 SpD / 4 Spe
+Ability: Drizzle
+Calm Nature
+- Scald
+- Ice Beam
+- Encore
 
 
-Wooper  @ Master Ball
+Pumpkaboo @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -99,7 +65,47 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230109
+.MetDate=20240709
+.Ribbons=$suggestAll
+EVs: 252 HP / 252 Def / 4 SpD
+Ability: Frisk
+Bold Nature
+- Will-O-Wisp
+- Protect
+- Foul Play
+- Leech Seed
+
+
+Gourgeist @ Big Nugget
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Luxury Ball
+Language: English
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+.MetDate=20250217
+.Ribbons=$suggestAll
+EVs: 152 HP / 132 Def / 224 Spe
+Ability: Frisk
+Jolly Nature
+- Substitute
+- Leech Seed
+- Will-O-Wisp
+
+
+Wooper @ Big Nugget
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Luxury Ball
+Language: English
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+.MetDate=20240703
+.Ribbons=$suggestAll
 EVs: 252 HP / 252 Def / 4 SpD
 Ability: Unaware
 Relaxed Nature

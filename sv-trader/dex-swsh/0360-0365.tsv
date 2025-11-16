@@ -1,5 +1,5 @@
 .bt 
-Wynaut  @ Master Ball
+Wynaut @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -8,7 +8,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250719
+.MetDate=20250420
+.Ribbons=$suggestAll
 EVs: 156 HP / 132 Def / 132 SpD / 12 Spe
 Ability: Shadow Tag
 Bold Nature
@@ -17,7 +18,7 @@ Bold Nature
 - Charm
 
 
-Snorunt  @ Master Ball
+Snorunt @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -26,7 +27,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250510
+.MetDate=20241224
+.Ribbons=$suggestAll
 EVs: 174 HP / 84 Def / 252 Spe
 Ability: Moody
 Timid Nature
@@ -36,7 +38,7 @@ Timid Nature
 - Shadow Ball
 
 
-Glalie  @ Master Ball
+Glalie @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -45,7 +47,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20231003
+.MetDate=20230116
+.Ribbons=$suggestAll
 EVs: 174 HP / 84 Def / 252 Spe
 Ability: Moody
 Timid Nature
@@ -54,7 +57,7 @@ Timid Nature
 - Freeze-Dry
 
 
-Spheal  @ Master Ball
+Spheal @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -63,7 +66,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20231001
+.MetDate=20241228
+.Ribbons=$suggestAll
 EVs: 248 HP / 8 Def / 252 SpD
 Ability: Oblivious
 Calm Nature
@@ -73,7 +77,7 @@ Calm Nature
 - Protect
 
 
-Sealeo  @ Master Ball
+Sealeo @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -82,7 +86,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230921
+.MetDate=20250902
+.Ribbons=$suggestAll
 EVs: 248 HP / 8 Def / 252 SpD
 Ability: Oblivious
 Calm Nature
@@ -92,7 +97,7 @@ Calm Nature
 - Protect
 
 
-Walrein  @ Master Ball
+Walrein @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -101,7 +106,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240620
+.MetDate=20250210
+.Ribbons=$suggestAll
 EVs: 248 HP / 8 Def / 252 SpD
 Ability: Oblivious
 Calm Nature

@@ -1,5 +1,5 @@
 .bt 
-Hakamo-o @ Comet Shard
+Hakamo-o @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -8,7 +8,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230819
+.MetDate=20240528
+.Ribbons=$suggestAll
 EVs: 4 HP / 252 Atk / 252 Spe
 Ability: Bulletproof
 Adamant Nature
@@ -18,7 +19,7 @@ Adamant Nature
 - Brick Break
 
 
-Kommo-o @ Comet Shard
+Kommo-o @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -27,7 +28,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20231009
+.MetDate=20250221
+.Ribbons=$suggestAll
 EVs: 4 HP / 252 SpA / 252 Spe
 Ability: Overcoat
 Timid Nature
@@ -36,7 +38,7 @@ Timid Nature
 - Flash Cannon
 
 
-Grookey @ Comet Shard
+Grookey @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -45,7 +47,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250217
+.MetDate=20250904
+.Ribbons=$suggestAll
 EVs: 252 HP / 252 Atk / 4 Spe
 Ability: Grassy Surge
 Adamant Nature
@@ -55,7 +58,7 @@ Adamant Nature
 - Drain Punch
 
 
-Thwackey @ Comet Shard
+Thwackey @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -64,7 +67,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240406
+.MetDate=20250424
+.Ribbons=$suggestAll
 EVs: 252 HP / 252 Atk / 4 Spe
 Ability: Grassy Surge
 Adamant Nature
@@ -74,7 +78,7 @@ Adamant Nature
 - Drain Punch
 
 
-Rillaboom @ Comet Shard
+Rillaboom @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -83,7 +87,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250705
+.MetDate=20250814
+.Ribbons=$suggestAll
 EVs: 252 Atk / 4 SpD / 252 Spe
 Ability: Grassy Surge
 Gigantamax: Yes
@@ -93,7 +98,7 @@ Jolly Nature
 - U-turn
 
 
-Scorbunny @ Comet Shard
+Scorbunny @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -102,7 +107,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230519
+.MetDate=20240122
+.Ribbons=$suggestAll
 EVs: 4 HP / 252 Atk / 252 Spe
 Ability: Libero
 Jolly Nature

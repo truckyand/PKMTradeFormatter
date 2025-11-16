@@ -1,5 +1,5 @@
 .bt 
-Clauncher  @ Master Ball
+Clauncher @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -8,7 +8,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230801
+.MetDate=20230804
+.Ribbons=$suggestAll
 EVs: 252 SpA / 4 SpD / 252 Spe
 Ability: Mega Launcher
 Modest Nature
@@ -18,7 +19,7 @@ Modest Nature
 - Aura Sphere
 
 
-Clawitzer  @ Master Ball
+Clawitzer @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -27,7 +28,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20241118
+.MetDate=20250613
+.Ribbons=$suggestAll
 EVs: 252 SpA / 4 SpD / 252 Spe
 Ability: Mega Launcher
 Modest Nature
@@ -36,7 +38,7 @@ Modest Nature
 - Dark Pulse
 
 
-Helioptile  @ Master Ball
+Helioptile @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -45,7 +47,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240518
+.MetDate=20241114
+.Ribbons=$suggestAll
 EVs: 4 Def / 252 SpA / 252 Spe
 Ability: Dry Skin
 Timid Nature
@@ -54,7 +57,7 @@ Timid Nature
 - Thunderbolt
 
 
-Heliolisk  @ Master Ball
+Heliolisk @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -63,7 +66,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250701
+.MetDate=20230925
+.Ribbons=$suggestAll
 EVs: 4 Def / 252 SpA / 252 Spe
 Ability: Dry Skin
 Timid Nature
@@ -72,7 +76,7 @@ Timid Nature
 - Thunderbolt
 
 
-Tyrunt  @ Master Ball
+Tyrunt @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -81,7 +85,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230516
+.MetDate=20250414
+.Ribbons=$suggestAll
 EVs: 4 HP / 252 Atk / 252 Spe
 Ability: Sturdy
 Adamant Nature
@@ -91,7 +96,7 @@ Adamant Nature
 - Superpower
 
 
-Tyrantrum  @ Master Ball
+Tyrantrum @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -100,7 +105,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240708
+.MetDate=20240916
+.Ribbons=$suggestAll
 EVs: 4 HP / 252 Atk / 252 Spe
 Ability: Rock Head
 Adamant Nature

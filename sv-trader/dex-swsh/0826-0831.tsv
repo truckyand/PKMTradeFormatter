@@ -1,5 +1,5 @@
 .bt 
-Orbeetle @ Comet Shard
+Orbeetle @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -8,7 +8,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250523
+.MetDate=20240707
+.Ribbons=$suggestAll
 EVs: 252 HP / 252 Def / 4 SpD
 Ability: Frisk
 Gigantamax: Yes
@@ -18,7 +19,7 @@ Bold Nature
 - Bug Buzz
 
 
-Nickit @ Comet Shard
+Nickit @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -27,7 +28,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230814
+.MetDate=20240719
+.Ribbons=$suggestAll
 EVs: 4 HP / 252 Atk / 252 Spe
 Ability: Unburden
 Jolly Nature
@@ -37,7 +39,7 @@ Jolly Nature
 - Protect
 
 
-Thievul @ Comet Shard
+Thievul @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -46,7 +48,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250920
+.MetDate=20240308
+.Ribbons=$suggestAll
 EVs: 252 SpA / 4 SpD / 252 Spe
 Ability: Unburden
 Timid Nature
@@ -55,7 +58,7 @@ Timid Nature
 - Psychic
 
 
-Gossifleur @ Comet Shard
+Gossifleur @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -64,7 +67,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230306
+.MetDate=20240222
+.Ribbons=$suggestAll
 EVs: 252 HP / 252 Def / 4 SpD
 Ability: Regenerator
 Bold Nature
@@ -74,7 +78,7 @@ Bold Nature
 - Sleep Powder
 
 
-Eldegoss @ Comet Shard
+Eldegoss @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -83,7 +87,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20231104
+.MetDate=20241103
+.Ribbons=$suggestAll
 EVs: 252 HP / 252 Def / 4 SpD
 Ability: Regenerator
 Bold Nature
@@ -92,7 +97,7 @@ Bold Nature
 - Leech Seed
 
 
-Wooloo @ Comet Shard
+Wooloo @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -101,7 +106,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20241223
+.MetDate=20250615
+.Ribbons=$suggestAll
 EVs: 104 HP / 252 Def / 152 Spe
 Ability: Fluffy
 Impish Nature

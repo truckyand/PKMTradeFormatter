@@ -1,5 +1,5 @@
 .bt 
-Armaldo  @ Master Ball
+Armaldo @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -8,7 +8,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20251228
+.MetDate=20230604
+.Ribbons=$suggestAll
 EVs: 252 HP / 92 Atk / 164 Spe
 Ability: Battle Armor
 Adamant Nature
@@ -17,7 +18,7 @@ Adamant Nature
 - Knock Off
 
 
-Feebas  @ Master Ball
+Feebas @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -26,7 +27,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250327
+.MetDate=20230120
+.Ribbons=$suggestAll
 EVs: 252 HP / 76 Def / 172 SpA / 4 SpD / 4 Spe
 Ability: Oblivious
 Calm Nature
@@ -36,7 +38,7 @@ Calm Nature
 - Protect
 
 
-Milotic  @ Master Ball
+Milotic @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -45,7 +47,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20231023
+.MetDate=20251215
+.Ribbons=$suggestAll
 EVs: 252 HP / 76 Def / 172 SpA / 4 SpD / 4 Spe
 Ability: Competitive
 Calm Nature
@@ -54,7 +57,7 @@ Calm Nature
 - Recover
 
 
-Duskull  @ Master Ball
+Duskull @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -63,7 +66,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20251222
+.MetDate=20251005
+.Ribbons=$suggestAll
 EVs: 252 HP / 96 Def / 160 SpD
 Ability: Frisk
 Relaxed Nature
@@ -73,7 +77,7 @@ Relaxed Nature
 - Night Shade
 
 
-Dusclops  @ Master Ball
+Dusclops @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -82,7 +86,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20251006
+.MetDate=20231120
+.Ribbons=$suggestAll
 EVs: 252 HP / 96 Def / 160 SpD
 Ability: Frisk
 Relaxed Nature
@@ -91,7 +96,7 @@ Relaxed Nature
 - Pain Split
 
 
-Absol  @ Master Ball
+Absol @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -100,7 +105,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230601
+.MetDate=20230625
+.Ribbons=$suggestAll
 EVs: 252 Atk / 4 Def / 252 Spe
 Ability: Justified
 Jolly Nature

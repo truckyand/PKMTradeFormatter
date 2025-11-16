@@ -1,5 +1,5 @@
 .bt 
-Carkol @ Comet Shard
+Carkol @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -8,7 +8,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250908
+.MetDate=20250512
+.Ribbons=$suggestAll
 EVs: 248 HP / 8 Def / 252 SpD
 Ability: Flame Body
 Sassy Nature
@@ -18,7 +19,7 @@ Sassy Nature
 - Scald
 
 
-Coalossal @ Comet Shard
+Coalossal @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -27,7 +28,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240601
+.MetDate=20250718
+.Ribbons=$suggestAll
 EVs: 248 HP / 8 Def / 252 SpD
 Ability: Flame Body
 Gigantamax: Yes
@@ -37,7 +39,7 @@ Sassy Nature
 - Flamethrower
 
 
-Applin @ Comet Shard
+Applin @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -46,7 +48,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250401
+.MetDate=20240605
+.Ribbons=$suggestAll
 EVs: 252 Atk / 4 Def / 252 Spe
 Ability: Bulletproof
 Adamant Nature
@@ -56,7 +59,7 @@ Adamant Nature
 - Recycle
 
 
-Flapple @ Comet Shard
+Flapple @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -65,7 +68,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230410
+.MetDate=20230822
+.Ribbons=$suggestAll
 EVs: 252 Atk / 4 Def / 252 Spe
 Ability: Hustle
 Gigantamax: Yes
@@ -75,7 +79,7 @@ Adamant Nature
 - Dragon Dance
 
 
-Appletun @ Comet Shard
+Appletun @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -84,7 +88,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230608
+.MetDate=20230326
+.Ribbons=$suggestAll
 EVs: 248 HP / 8 SpA / 252 SpD
 Ability: Thick Fat
 Gigantamax: Yes
@@ -94,7 +99,7 @@ Calm Nature
 - Leech Seed
 
 
-Silicobra @ Comet Shard
+Silicobra @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -103,7 +108,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230806
+.MetDate=20240325
+.Ribbons=$suggestAll
 EVs: 4 HP / 252 Atk / 252 Spe
 Ability: Sand Spit
 Adamant Nature

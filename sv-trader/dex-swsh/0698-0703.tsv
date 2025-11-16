@@ -1,5 +1,5 @@
 .bt 
-Amaura  @ Master Ball
+Amaura @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -8,7 +8,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250627
+.MetDate=20250928
+.Ribbons=$suggestAll
 EVs: 252 SpA / 4 SpD / 252 Spe
 Ability: Snow Warning
 Modest Nature
@@ -18,7 +19,7 @@ Modest Nature
 - Stealth Rock
 
 
-Aurorus  @ Master Ball
+Aurorus @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -27,7 +28,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230327
+.MetDate=20231026
+.Ribbons=$suggestAll
 EVs: 252 SpA / 4 SpD / 252 Spe
 Ability: Snow Warning
 Modest Nature
@@ -36,7 +38,7 @@ Modest Nature
 - Earth Power
 
 
-Sylveon  @ Master Ball
+Sylveon @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -45,7 +47,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240820
+.MetDate=20231112
+.Ribbons=$suggestAll
 EVs: 252 HP / 4 Def / 252 SpD
 Ability: Pixilate
 Calm Nature
@@ -54,7 +57,7 @@ Calm Nature
 - Mystical Fire
 
 
-Hawlucha  @ Master Ball
+Hawlucha @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -63,7 +66,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230822
+.MetDate=20230912
+.Ribbons=$suggestAll
 EVs: 252 Atk / 4 Def / 252 Spe
 Ability: Unburden
 Jolly Nature
@@ -72,7 +76,7 @@ Jolly Nature
 - Close Combat
 
 
-Dedenne  @ Master Ball
+Dedenne @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -81,7 +85,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240705
+.MetDate=20250305
+.Ribbons=$suggestAll
 EVs: 4 HP / 252 SpA / 252 Spe
 Ability: Cheek Pouch
 Timid Nature
@@ -90,7 +95,7 @@ Timid Nature
 - Thunderbolt
 
 
-Carbink  @ Master Ball
+Carbink @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -99,7 +104,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250628
+.MetDate=20240806
+.Ribbons=$suggestAll
 EVs: 252 HP / 4 Def / 252 SpD
 Ability: Clear Body
 Calm Nature

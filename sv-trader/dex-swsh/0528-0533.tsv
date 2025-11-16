@@ -1,5 +1,5 @@
 .bt 
-Swoobat  @ Master Ball
+Swoobat @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -8,7 +8,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250803
+.MetDate=20241225
+.Ribbons=$suggestAll
 EVs: 4 HP / 252 SpA / 252 Spe
 Ability: Simple
 Timid Nature
@@ -17,7 +18,7 @@ Timid Nature
 - Stored Power
 
 
-Drilbur  @ Master Ball
+Drilbur @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -26,7 +27,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250305
+.MetDate=20230713
+.Ribbons=$suggestAll
 EVs: 252 Atk / 4 Def / 252 Spe
 Ability: Mold Breaker
 Jolly Nature
@@ -36,7 +38,7 @@ Jolly Nature
 - Rock Slide
 
 
-Excadrill  @ Master Ball
+Excadrill @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -45,7 +47,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230723
+.MetDate=20251217
+.Ribbons=$suggestAll
 EVs: 252 Atk / 4 Def / 252 Spe
 Ability: Mold Breaker
 Jolly Nature
@@ -54,7 +57,7 @@ Jolly Nature
 - Iron Head
 
 
-Audino  @ Master Ball
+Audino @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -63,7 +66,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230828
+.MetDate=20250816
+.Ribbons=$suggestAll
 EVs: 252 HP / 4 Def / 252 SpD
 Ability: Regenerator
 Calm Nature
@@ -72,7 +76,7 @@ Calm Nature
 - Yawn
 
 
-Timburr  @ Master Ball
+Timburr @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -81,7 +85,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240408
+.MetDate=20250609
+.Ribbons=$suggestAll
 EVs: 236 HP / 252 Atk / 20 Spe
 Ability: Guts
 Adamant Nature
@@ -91,7 +96,7 @@ Adamant Nature
 - Defog
 
 
-Gurdurr  @ Master Ball
+Gurdurr @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -100,7 +105,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240928
+.MetDate=20230709
+.Ribbons=$suggestAll
 EVs: 236 HP / 252 Atk / 20 Spe
 Ability: Guts
 Adamant Nature

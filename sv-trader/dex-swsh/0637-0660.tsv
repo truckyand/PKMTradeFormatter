@@ -1,5 +1,5 @@
 .bt 
-Volcarona  @ Master Ball
+Volcarona @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -8,7 +8,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20241104
+.MetDate=20230620
+.Ribbons=$suggestAll
 EVs: 252 HP / 4 Def / 252 Spe
 Ability: Flame Body
 Timid Nature
@@ -17,7 +18,7 @@ Timid Nature
 - Bug Buzz
 
 # is_legendary
-Cobalion  @ Master Ball
+Cobalion @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -26,7 +27,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240518
+.MetDate=20230908
+.Ribbons=$suggestAll
 EVs: 4 HP / 252 Atk / 252 Spe
 Ability: Justified
 Jolly Nature
@@ -35,7 +37,7 @@ Jolly Nature
 - Volt Switch
 
 # is_legendary
-Terrakion  @ Master Ball
+Terrakion @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -44,7 +46,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250325
+.MetDate=20250121
+.Ribbons=$suggestAll
 EVs: 252 Atk / 4 Def / 252 Spe
 Ability: Justified
 Jolly Nature
@@ -53,7 +56,7 @@ Jolly Nature
 - Sacred Sword
 
 # is_legendary
-Virizion  @ Master Ball
+Virizion @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -62,7 +65,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230910
+.MetDate=20240618
+.Ribbons=$suggestAll
 EVs: 252 Atk / 4 SpD / 252 Spe
 Ability: Justified
 Jolly Nature
@@ -71,7 +75,7 @@ Jolly Nature
 - Grassy Glide
 
 
-Bunnelby  @ Master Ball
+Bunnelby @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -80,7 +84,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240219
+.MetDate=20240319
+.Ribbons=$suggestAll
 EVs: 252 Atk / 4 SpD / 252 Spe
 Ability: Huge Power
 Adamant Nature
@@ -90,7 +95,7 @@ Adamant Nature
 - Stone Edge
 
 
-Diggersby  @ Master Ball
+Diggersby @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -99,7 +104,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20251209
+.MetDate=20250802
+.Ribbons=$suggestAll
 EVs: 252 Atk / 4 SpD / 252 Spe
 Ability: Huge Power
 Adamant Nature

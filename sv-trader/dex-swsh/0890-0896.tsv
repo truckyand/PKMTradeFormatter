@@ -1,5 +1,5 @@
 .bt # is_legendary
-Eternatus  @ Master Ball
+Eternatus @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -8,7 +8,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240703
+.MetDate=20231014
+.Ribbons=$suggestAll
 EVs: 4 HP / 252 SpA / 252 Spe
 Ability: Pressure
 Timid Nature
@@ -17,7 +18,7 @@ Timid Nature
 - Flamethrower
 
 # is_legendary
-Kubfu  @ Master Ball
+Kubfu @ Big Nugget
 Shiny: No
 OT: trucky
 OTGender: Female
@@ -26,7 +27,8 @@ SID: 2401
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250802
+.MetDate=20231107
+.Ribbons=$suggestAll
 EVs: 4 HP / 252 Atk / 252 Spe
 Ability: Inner Focus
 Jolly Nature
@@ -35,7 +37,7 @@ Jolly Nature
 - Fire Punch
 
 # is_legendary
-Zarude  @ Master Ball
+Zarude @ Big Nugget
 Shiny: No
 OT: trucky
 OTGender: Female
@@ -44,7 +46,8 @@ SID: 2401
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20251217
+.MetDate=20230328
+.Ribbons=$suggestAll
 EVs: 6 HP / 252 Atk / 252 Spe
 Ability: Leaf Guard
 Jolly Nature
@@ -52,7 +55,7 @@ Jolly Nature
 - Darkest Lariat
 
 # is_legendary
-Regieleki  @ Master Ball
+Regieleki @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -61,7 +64,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230120
+.MetDate=20250205
+.Ribbons=$suggestAll
 EVs: 4 Atk / 252 SpA / 252 Spe
 Ability: Transistor
 Rash Nature
@@ -70,7 +74,7 @@ Rash Nature
 - Thunderbolt
 
 # is_legendary
-Regidrago  @ Master Ball
+Regidrago @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -79,7 +83,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20251228
+.MetDate=20240323
+.Ribbons=$suggestAll
 EVs: 252 Atk / 4 Def / 252 Spe
 Ability: Dragon’s Maw
 Jolly Nature
@@ -88,7 +93,7 @@ Jolly Nature
 - Substitute
 
 # is_legendary
-Glastrier  @ Master Ball
+Glastrier @ Big Nugget
 Shiny: No
 OT: trucky
 OTGender: Female
@@ -97,7 +102,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240622
+.MetDate=20231013
+.Ribbons=$suggestAll
 EVs: 252 HP / 252 Atk / 4 SpD
 Ability: Chilling Neigh
 Adamant Nature

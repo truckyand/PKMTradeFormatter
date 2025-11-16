@@ -1,5 +1,5 @@
 .bt 
-Squirtle  @ Master Ball
+Squirtle @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -8,7 +8,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240913
+.MetDate=20250818
+.Ribbons=$suggestAll
 EVs: 4 HP / 252 Atk / 252 Spe
 Ability: Rain Dish
 Adamant Nature
@@ -18,7 +19,7 @@ Adamant Nature
 - Zen Headbutt
 
 
-Wartortle  @ Master Ball
+Wartortle @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -27,7 +28,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250714
+.MetDate=20240416
+.Ribbons=$suggestAll
 EVs: 4 HP / 252 Atk / 252 Spe
 Ability: Rain Dish
 Adamant Nature
@@ -37,7 +39,7 @@ Adamant Nature
 - Zen Headbutt
 
 
-Blastoise  @ Master Ball
+Blastoise @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -46,7 +48,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230221
+.MetDate=20241126
+.Ribbons=$suggestAll
 EVs: 252 Atk / 4 Def / 252 Spe
 Ability: Torrent
 Gigantamax: Yes
@@ -56,7 +59,7 @@ Adamant Nature
 - Ice Punch
 
 
-Caterpie  @ Master Ball
+Caterpie @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -65,7 +68,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230226
+.MetDate=20231020
+.Ribbons=$suggestAll
 EVs: 252 SpA / 4 SpD / 252 Spe
 Ability: Run Away
 Timid Nature
@@ -75,7 +79,7 @@ Timid Nature
 - Tackle
 
 
-Metapod  @ Master Ball
+Metapod @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -84,7 +88,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20231110
+.MetDate=20240828
+.Ribbons=$suggestAll
 EVs: 252 SpA / 4 SpD / 252 Spe
 Ability: Shed Skin
 Timid Nature
@@ -94,7 +99,7 @@ Timid Nature
 - Tackle
 
 
-Butterfree  @ Master Ball
+Butterfree @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -103,7 +108,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20231006
+.MetDate=20250719
+.Ribbons=$suggestAll
 EVs: 252 SpA / 4 SpD / 252 Spe
 Ability: Tinted Lens
 Gigantamax: Yes

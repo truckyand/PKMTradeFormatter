@@ -1,5 +1,5 @@
 .bt 
-Ferrothorn  @ Master Ball
+Ferrothorn @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -8,7 +8,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230504
+.MetDate=20241216
+.Ribbons=$suggestAll
 EVs: 252 HP / 4 Def / 252 SpD
 Ability: Iron Barbs
 Careful Nature
@@ -17,7 +18,7 @@ Careful Nature
 - Leech Seed
 
 
-Klink  @ Master Ball
+Klink @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -26,7 +27,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250125
+.MetDate=20240514
+.Ribbons=$suggestAll
 EVs: 4 HP / 252 Atk / 252 Spe
 Ability: Clear Body
 Adamant Nature
@@ -36,7 +38,7 @@ Adamant Nature
 - Substitute
 
 
-Klang  @ Master Ball
+Klang @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -45,7 +47,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250524
+.MetDate=20241015
+.Ribbons=$suggestAll
 EVs: 4 HP / 252 Atk / 252 Spe
 Ability: Clear Body
 Adamant Nature
@@ -55,7 +58,7 @@ Adamant Nature
 - Substitute
 
 
-Klinklang  @ Master Ball
+Klinklang @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -64,7 +67,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20251006
+.MetDate=20251122
+.Ribbons=$suggestAll
 EVs: 4 HP / 252 Atk / 252 Spe
 Ability: Clear Body
 Adamant Nature
@@ -73,7 +77,7 @@ Adamant Nature
 - Wild Charge
 
 
-Elgyem  @ Master Ball
+Elgyem @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -82,7 +86,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250809
+.MetDate=20250609
+.Ribbons=$suggestAll
 EVs: 248 HP / 8 Def / 252 SpA
 Ability: Analytic
 Quiet Nature
@@ -92,7 +97,7 @@ Quiet Nature
 - Thunderbolt
 
 
-Beheeyem  @ Master Ball
+Beheeyem @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -101,7 +106,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230224
+.MetDate=20230215
+.Ribbons=$suggestAll
 EVs: 248 HP / 8 Def / 252 SpA
 Ability: Analytic
 Quiet Nature

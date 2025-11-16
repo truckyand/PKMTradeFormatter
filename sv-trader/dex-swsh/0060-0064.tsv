@@ -1,5 +1,5 @@
 .bt 
-Poliwag  @ Master Ball
+Poliwag @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -8,7 +8,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20251212
+.MetDate=20240925
+.Ribbons=$suggestAll
 EVs: 112 HP / 252 SpA / 144 Spe
 Ability: Water Absorb
 Modest Nature
@@ -18,7 +19,7 @@ Modest Nature
 - Protect
 
 
-Poliwhirl  @ Master Ball
+Poliwhirl @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -27,7 +28,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240719
+.MetDate=20241104
+.Ribbons=$suggestAll
 EVs: 112 HP / 252 SpA / 144 Spe
 Ability: Water Absorb
 Modest Nature
@@ -37,7 +39,7 @@ Modest Nature
 - Protect
 
 
-Poliwrath  @ Master Ball
+Poliwrath @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -46,7 +48,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250704
+.MetDate=20240807
+.Ribbons=$suggestAll
 EVs: 112 HP / 252 SpA / 144 Spe
 Ability: Water Absorb
 Modest Nature
@@ -55,7 +58,7 @@ Modest Nature
 - Ice Beam
 
 
-Abra  @ Master Ball
+Abra @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -64,7 +67,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230924
+.MetDate=20241105
+.Ribbons=$suggestAll
 EVs: 4 Def / 252 SpA / 252 Spe
 Ability: Magic Guard
 Timid Nature
@@ -74,7 +78,7 @@ Timid Nature
 - Shadow Ball
 
 
-Basculin  @ Master Ball
+Basculin @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -83,7 +87,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230714
+.MetDate=20250104
+.Ribbons=$suggestAll
 EVs: 4 Def / 252 SpA / 252 Spe
 Ability: Magic Guard
 Timid Nature
@@ -93,7 +98,7 @@ Timid Nature
 - Shadow Ball
 
 
-Kadabra  @ Master Ball
+Kadabra @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -102,7 +107,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240516
+.MetDate=20240415
+.Ribbons=$suggestAll
 EVs: 4 Def / 252 SpA / 252 Spe
 Ability: Magic Guard
 Timid Nature

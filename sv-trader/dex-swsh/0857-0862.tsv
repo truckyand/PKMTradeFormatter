@@ -1,5 +1,5 @@
 .bt 
-Hattrem @ Comet Shard
+Hattrem @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -8,7 +8,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230924
+.MetDate=20240112
+.Ribbons=$suggestAll
 EVs: 252 HP / 252 Def / 4 SpA
 Ability: Magic Bounce
 Bold Nature
@@ -18,7 +19,7 @@ Bold Nature
 - Mystical Fire
 
 
-Hatterene @ Comet Shard
+Hatterene @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -27,7 +28,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240909
+.MetDate=20250710
+.Ribbons=$suggestAll
 EVs: 252 HP / 4 Def / 252 SpA
 Ability: Magic Bounce
 Gigantamax: Yes
@@ -37,7 +39,7 @@ Quiet Nature
 - Dazzling Gleam
 
 
-Impidimp @ Comet Shard
+Impidimp @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -46,7 +48,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230319
+.MetDate=20230403
+.Ribbons=$suggestAll
 EVs: 252 HP / 32 Atk / 224 SpD
 Ability: Prankster
 Adamant Nature
@@ -56,7 +59,7 @@ Adamant Nature
 - Protect
 
 
-Morgrem @ Comet Shard
+Morgrem @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -65,7 +68,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230104
+.MetDate=20240622
+.Ribbons=$suggestAll
 EVs: 252 HP / 32 Atk / 224 SpD
 Ability: Prankster
 Adamant Nature
@@ -75,7 +79,7 @@ Adamant Nature
 - Light Screen
 
 
-Grimmsnarl @ Comet Shard
+Grimmsnarl @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -84,7 +88,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20241004
+.MetDate=20250704
+.Ribbons=$suggestAll
 EVs: 252 HP / 4 Atk / 252 SpD
 Ability: Prankster
 Gigantamax: Yes
@@ -94,7 +99,7 @@ Adamant Nature
 - Spirit Break
 
 
-Obstagoon @ Comet Shard
+Obstagoon @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -103,7 +108,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230610
+.MetDate=20240803
+.Ribbons=$suggestAll
 EVs: 4 HP / 252 Atk / 252 Spe
 Ability: Guts
 Jolly Nature

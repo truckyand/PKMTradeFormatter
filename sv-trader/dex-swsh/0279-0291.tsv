@@ -1,5 +1,5 @@
 .bt 
-Pelipper  @ Master Ball
+Pelipper @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -8,7 +8,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230310
+.MetDate=20240109
+.Ribbons=$suggestAll
 EVs: 4 HP / 252 SpA / 252 Spe
 Ability: Drizzle
 Modest Nature
@@ -17,7 +18,7 @@ Modest Nature
 - Tailwind
 
 
-Ralts  @ Master Ball
+Ralts @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -26,7 +27,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20241018
+.MetDate=20250502
+.Ribbons=$suggestAll
 EVs: 252 SpA / 4 SpD / 252 Spe
 Ability: Trace
 Timid Nature
@@ -36,7 +38,7 @@ Timid Nature
 - Psychic
 
 
-Kirlia  @ Master Ball
+Kirlia @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -45,7 +47,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240708
+.MetDate=20230817
+.Ribbons=$suggestAll
 EVs: 252 SpA / 4 SpD / 252 Spe
 Ability: Trace
 Timid Nature
@@ -55,7 +58,7 @@ Timid Nature
 - Psychic
 
 
-Gardevoir  @ Master Ball
+Gardevoir @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -64,7 +67,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20231008
+.MetDate=20240302
+.Ribbons=$suggestAll
 EVs: 252 SpA / 4 SpD / 252 Spe
 Ability: Trace
 Timid Nature
@@ -73,7 +77,7 @@ Timid Nature
 - Energy Ball
 
 
-Nincada  @ Master Ball
+Nincada @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -82,7 +86,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20231018
+.MetDate=20251116
+.Ribbons=$suggestAll
 EVs: 252 Atk / 4 Def / 252 Spe
 Ability: Compound Eyes
 Jolly Nature
@@ -92,7 +97,7 @@ Jolly Nature
 - Protect
 
 
-Ninjask  @ Master Ball
+Ninjask @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -101,7 +106,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250612
+.MetDate=20250909
+.Ribbons=$suggestAll
 EVs: 252 Atk / 4 Def / 252 Spe
 Ability: Speed Boost
 Jolly Nature

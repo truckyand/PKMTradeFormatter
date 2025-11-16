@@ -1,5 +1,5 @@
 .bt 
-Toxtricity  @ Master Ball
+Toxtricity @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -8,7 +8,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230613
+.MetDate=20240310
+.Ribbons=$suggestAll
 EVs: 4 HP / 252 SpA / 252 Spe
 Ability: Punk Rock
 Gigantamax: Yes
@@ -18,7 +19,7 @@ Timid Nature
 - Sludge Wave
 
 
-Roselia  @ Master Ball
+Roselia @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -27,7 +28,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230227
+.MetDate=20230525
+.Ribbons=$suggestAll
 EVs: 252 SpA / 4 SpD / 252 Spe
 Ability: Leaf Guard
 Timid Nature
@@ -37,7 +39,7 @@ Timid Nature
 - Synthesis
 
 
-Carvanha  @ Master Ball
+Carvanha @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -46,7 +48,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250908
+.MetDate=20231214
+.Ribbons=$suggestAll
 EVs: 4 HP / 252 Atk / 252 Spe
 Ability: Speed Boost
 Adamant Nature
@@ -56,7 +59,7 @@ Adamant Nature
 - Protect
 
 
-Sharpedo  @ Master Ball
+Sharpedo @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -65,7 +68,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240224
+.MetDate=20240726
+.Ribbons=$suggestAll
 EVs: 4 HP / 252 Atk / 252 Spe
 Ability: Speed Boost
 Adamant Nature
@@ -74,7 +78,7 @@ Adamant Nature
 - Earthquake
 
 
-Wailmer  @ Master Ball
+Wailmer @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -83,7 +87,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230918
+.MetDate=20250119
+.Ribbons=$suggestAll
 EVs: 252 Def / 4 SpA / 252 SpD
 Ability: Pressure
 Calm Nature
@@ -93,7 +98,7 @@ Calm Nature
 - Scald
 
 
-Wailord  @ Master Ball
+Wailord @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -102,7 +107,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230819
+.MetDate=20230210
+.Ribbons=$suggestAll
 EVs: 252 Def / 4 SpA / 252 SpD
 Ability: Pressure
 Calm Nature

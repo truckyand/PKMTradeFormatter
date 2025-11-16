@@ -1,5 +1,5 @@
 .bt 
-Dwebble  @ Master Ball
+Dwebble @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -8,7 +8,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240601
+.MetDate=20250717
+.Ribbons=$suggestAll
 EVs: 252 Atk / 4 SpD / 252 Spe
 Ability: Sturdy
 Jolly Nature
@@ -18,7 +19,7 @@ Jolly Nature
 - Knock Off
 
 
-Crustle  @ Master Ball
+Crustle @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -27,7 +28,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240622
+.MetDate=20230425
+.Ribbons=$suggestAll
 EVs: 252 Atk / 4 SpD / 252 Spe
 Ability: Sturdy
 Jolly Nature
@@ -36,7 +38,7 @@ Jolly Nature
 - Earthquake
 
 
-Scraggy  @ Master Ball
+Scraggy @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -45,7 +47,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230909
+.MetDate=20231118
+.Ribbons=$suggestAll
 EVs: 252 HP / 152 Atk / 16 Def / 60 SpD / 28 Spe
 Ability: Intimidate
 Impish Nature
@@ -55,7 +58,7 @@ Impish Nature
 - Protect
 
 
-Scrafty  @ Master Ball
+Scrafty @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -64,7 +67,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240411
+.MetDate=20231119
+.Ribbons=$suggestAll
 EVs: 252 HP / 152 Atk / 16 Def / 60 SpD / 28 Spe
 Ability: Intimidate
 Impish Nature
@@ -73,7 +77,7 @@ Impish Nature
 - Throat Chop
 
 
-Sigilyph  @ Master Ball
+Sigilyph @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -82,7 +86,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230108
+.MetDate=20250418
+.Ribbons=$suggestAll
 EVs: 252 SpA / 4 SpD / 252 Spe
 Ability: Magic Guard
 Timid Nature
@@ -91,7 +96,7 @@ Timid Nature
 - Energy Ball
 
 
-Yamask  @ Master Ball
+Yamask @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -100,7 +105,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20241213
+.MetDate=20231125
+.Ribbons=$suggestAll
 EVs: 252 HP / 252 Def / 4 SpD
 Ability: Wandering Spirit
 Impish Nature

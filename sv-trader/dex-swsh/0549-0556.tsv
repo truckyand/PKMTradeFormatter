@@ -1,5 +1,5 @@
 .bt 
-Lilligant  @ Master Ball
+Lilligant @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -8,7 +8,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230326
+.MetDate=20241109
+.Ribbons=$suggestAll
 EVs: 4 Def / 252 SpA / 252 Spe
 Ability: Chlorophyll
 Timid Nature
@@ -17,7 +18,7 @@ Timid Nature
 - Synthesis
 
 
-Sandile  @ Master Ball
+Sandile @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -26,7 +27,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230406
+.MetDate=20240219
+.Ribbons=$suggestAll
 EVs: 252 Atk / 4 Def / 252 Spe
 Ability: Intimidate
 Jolly Nature
@@ -36,7 +38,7 @@ Jolly Nature
 - Facade
 
 
-Krokorok  @ Master Ball
+Krokorok @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -45,7 +47,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230105
+.MetDate=20250904
+.Ribbons=$suggestAll
 EVs: 252 Atk / 4 Def / 252 Spe
 Ability: Intimidate
 Jolly Nature
@@ -55,7 +58,7 @@ Jolly Nature
 - Brick Break
 
 
-Krookodile  @ Master Ball
+Krookodile @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -64,7 +67,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230518
+.MetDate=20240122
+.Ribbons=$suggestAll
 EVs: 252 Atk / 4 Def / 252 Spe
 Ability: Intimidate
 Jolly Nature
@@ -73,7 +77,7 @@ Jolly Nature
 - Stone Edge
 
 
-Darumaka  @ Master Ball
+Darumaka @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -82,7 +86,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240417
+.MetDate=20230219
+.Ribbons=$suggestAll
 EVs: 252 Atk / 4 SpD / 252 Spe
 Ability: Hustle
 Jolly Nature
@@ -92,7 +97,7 @@ Jolly Nature
 - Rock Slide
 
 
-Maractus  @ Master Ball
+Maractus @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -101,7 +106,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20231225
+.MetDate=20230824
+.Ribbons=$suggestAll
 EVs: 4 Atk / 252 SpA / 252 Spe
 Ability: Water Absorb
 Naive Nature

@@ -1,5 +1,5 @@
 .bt 
-Mudbray  @ Master Ball
+Mudbray @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -8,7 +8,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230421
+.MetDate=20250701
+.Ribbons=$suggestAll
 EVs: 4 HP / 252 Atk / 252 Spe
 Ability: Stamina
 Adamant Nature
@@ -18,7 +19,7 @@ Adamant Nature
 - Close Combat
 
 
-Mudsdale  @ Master Ball
+Mudsdale @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -27,7 +28,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250617
+.MetDate=20230207
+.Ribbons=$suggestAll
 EVs: 4 HP / 252 Atk / 252 Spe
 Ability: Stamina
 Adamant Nature
@@ -36,7 +38,7 @@ Adamant Nature
 - Rock Slide
 
 
-Dewpider  @ Master Ball
+Dewpider @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -45,7 +47,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230812
+.MetDate=20231025
+.Ribbons=$suggestAll
 EVs: 252 HP / 252 Atk / 4 Def
 Ability: Water Bubble
 Brave Nature
@@ -55,7 +58,7 @@ Brave Nature
 - Protect
 
 
-Araquanid  @ Master Ball
+Araquanid @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -64,7 +67,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20241227
+.MetDate=20230408
+.Ribbons=$suggestAll
 EVs: 252 HP / 252 Atk / 4 Def
 Ability: Water Bubble
 Brave Nature
@@ -73,7 +77,7 @@ Brave Nature
 - Wide Guard
 
 
-Fomantis  @ Master Ball
+Fomantis @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -82,7 +86,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250920
+.MetDate=20230625
+.Ribbons=$suggestAll
 EVs: 248 HP / 252 Def / 8 SpA
 Ability: Contrary
 Bold Nature
@@ -92,7 +97,7 @@ Bold Nature
 - Synthesis
 
 
-Lurantis  @ Master Ball
+Lurantis @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -101,7 +106,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230915
+.MetDate=20240219
+.Ribbons=$suggestAll
 EVs: 248 HP / 252 Def / 8 SpA
 Ability: Contrary
 Bold Nature

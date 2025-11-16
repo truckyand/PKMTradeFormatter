@@ -1,5 +1,5 @@
 .bt 
-Farfetchd  @ Master Ball
+Farfetchd @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -8,7 +8,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240820
+.MetDate=20230815
+.Ribbons=$suggestAll
 EVs: 252 Atk / 4 Def / 252 Spe
 Ability: Defiant
 Adamant Nature
@@ -17,7 +18,7 @@ Adamant Nature
 - Leaf Blade
 
 
-Shellder  @ Master Ball
+Shellder @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -26,7 +27,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250520
+.MetDate=20230506
+.Ribbons=$suggestAll
 EVs: 252 Atk / 4 SpD / 252 Spe
 Ability: Skill Link
 Adamant Nature
@@ -35,7 +37,7 @@ Adamant Nature
 - Rock Blast
 
 
-Eiscue  @ Master Ball
+Eiscue @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -44,7 +46,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240412
+.MetDate=20250323
+.Ribbons=$suggestAll
 EVs: 252 Atk / 4 SpD / 252 Spe
 Ability: Skill Link
 Adamant Nature
@@ -53,7 +56,7 @@ Adamant Nature
 - Rock Blast
 
 
-Cloyster  @ Master Ball
+Cloyster @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -62,7 +65,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230414
+.MetDate=20240626
+.Ribbons=$suggestAll
 EVs: 252 Atk / 4 SpD / 252 Spe
 Ability: Skill Link
 Adamant Nature
@@ -71,7 +75,7 @@ Adamant Nature
 - Rock Blast
 
 
-Gastly  @ Master Ball
+Gastly @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -80,7 +84,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240308
+.MetDate=20251011
+.Ribbons=$suggestAll
 EVs: 4 HP / 252 SpA / 252 Spe
 Ability: Levitate
 Timid Nature
@@ -90,7 +95,7 @@ Timid Nature
 - Destiny Bond
 
 
-Haunter  @ Master Ball
+Haunter @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -99,7 +104,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250401
+.MetDate=20230204
+.Ribbons=$suggestAll
 EVs: 4 HP / 252 SpA / 252 Spe
 Ability: Levitate
 Timid Nature

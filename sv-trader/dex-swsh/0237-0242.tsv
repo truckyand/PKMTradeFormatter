@@ -1,5 +1,5 @@
 .bt 
-Hitmontop  @ Master Ball
+Hitmontop @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -8,7 +8,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250709
+.MetDate=20240203
+.Ribbons=$suggestAll
 EVs: 252 HP / 40 Atk / 120 Def / 96 SpD
 Ability: Intimidate
 Careful Nature
@@ -17,7 +18,7 @@ Careful Nature
 - Sucker Punch
 
 
-Smoochum  @ Master Ball
+Smoochum @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -26,7 +27,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20231219
+.MetDate=20230911
+.Ribbons=$suggestAll
 EVs: 4 HP / 252 SpA / 252 Spe
 Ability: Forewarn
 Timid Nature
@@ -36,7 +38,7 @@ Timid Nature
 - Substitute
 
 
-Elekid  @ Master Ball
+Elekid @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -45,7 +47,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240618
+.MetDate=20231209
+.Ribbons=$suggestAll
 EVs: 4 HP / 252 SpA / 252 Spe
 Ability: Static
 Timid Nature
@@ -55,7 +58,7 @@ Timid Nature
 - Substitute
 
 
-Magby  @ Master Ball
+Magby @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -64,7 +67,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230716
+.MetDate=20230817
+.Ribbons=$suggestAll
 EVs: 4 HP / 252 Atk / 252 Spe
 Ability: Vital Spirit
 Jolly Nature
@@ -74,7 +78,7 @@ Jolly Nature
 - Thunder Punch
 
 
-Miltank  @ Master Ball
+Miltank @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -83,7 +87,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240108
+.MetDate=20250215
+.Ribbons=$suggestAll
 EVs: 252 HP / 4 Atk / 252 SpD
 Ability: Thick Fat
 Adamant Nature
@@ -92,7 +97,7 @@ Adamant Nature
 - Milk Drink
 
 
-Blissey  @ Master Ball
+Blissey @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -101,7 +106,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250821
+.MetDate=20230303
+.Ribbons=$suggestAll
 EVs: 252 HP / 252 Def / 4 SpD
 Ability: Natural Cure
 Bold Nature

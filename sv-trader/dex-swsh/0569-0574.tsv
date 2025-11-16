@@ -1,5 +1,5 @@
 .bt 
-Garbodor  @ Master Ball
+Garbodor @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -8,7 +8,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20231217
+.MetDate=20230111
+.Ribbons=$suggestAll
 EVs: 252 HP / 4 Def / 252 SpD
 Ability: Aftermath
 Gigantamax: Yes
@@ -18,7 +19,7 @@ Careful Nature
 - Pain Split
 
 
-Zorua  @ Master Ball
+Zorua @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -27,7 +28,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240513
+.MetDate=20250801
+.Ribbons=$suggestAll
 EVs: 252 SpA / 4 SpD / 252 Spe
 Ability: Illusion
 Timid Nature
@@ -37,7 +39,7 @@ Timid Nature
 - Sludge Bomb
 
 
-Zoroark  @ Master Ball
+Zoroark @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -46,7 +48,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230610
+.MetDate=20250117
+.Ribbons=$suggestAll
 EVs: 252 SpA / 4 SpD / 252 Spe
 Ability: Illusion
 Timid Nature
@@ -55,7 +58,7 @@ Timid Nature
 - Focus Blast
 
 
-Minccino  @ Master Ball
+Minccino @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -64,7 +67,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240415
+.MetDate=20250518
+.Ribbons=$suggestAll
 EVs: 252 Atk / 4 Def / 252 Spe
 Ability: Skill Link
 Jolly Nature
@@ -74,7 +78,7 @@ Jolly Nature
 - Tail Slap
 
 
-Cinccino  @ Master Ball
+Cinccino @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -83,7 +87,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240706
+.MetDate=20250307
+.Ribbons=$suggestAll
 EVs: 252 Atk / 4 Def / 252 Spe
 Ability: Skill Link
 Jolly Nature
@@ -92,7 +97,7 @@ Jolly Nature
 - Bullet Seed
 
 
-Gothita  @ Master Ball
+Gothita @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -101,7 +106,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250928
+.MetDate=20240312
+.Ribbons=$suggestAll
 EVs: 252 HP / 252 Def / 4 Spe
 Ability: Shadow Tag
 Bold Nature

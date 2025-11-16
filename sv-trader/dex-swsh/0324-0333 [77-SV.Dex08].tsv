@@ -1,5 +1,5 @@
 .bt 
-Torkoal  @ Master Ball
+Torkoal @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -8,7 +8,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250415
+.MetDate=20240428
+.Ribbons=$suggestAll
 EVs: 252 HP / 4 Def / 252 SpA
 Ability: Drought
 Quiet Nature
@@ -17,7 +18,7 @@ Quiet Nature
 - Heat Wave
 
 
-Trapinch  @ Master Ball
+Trapinch @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -26,7 +27,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240321
+.MetDate=20230915
+.Ribbons=$suggestAll
 EVs: 252 Atk / 4 SpD / 252 Spe
 Ability: Hyper Cutter
 Jolly Nature
@@ -36,7 +38,7 @@ Jolly Nature
 - Rock Slide
 
 
-Vibrava  @ Master Ball
+Vibrava @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -45,7 +47,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250918
+.MetDate=20240823
+.Ribbons=$suggestAll
 EVs: 252 Atk / 4 SpD / 252 Spe
 Ability: Levitate
 Jolly Nature
@@ -55,7 +58,7 @@ Jolly Nature
 - Rock Slide
 
 
-Flygon  @ Master Ball
+Flygon @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -64,7 +67,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20231107
+.MetDate=20250927
+.Ribbons=$suggestAll
 EVs: 252 Atk / 4 SpD / 252 Spe
 Ability: Levitate
 Jolly Nature
@@ -73,7 +77,7 @@ Jolly Nature
 - Dragon Claw
 
 
-Aegislash  @ Master Ball
+Aegislash @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -82,7 +86,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250827
+.MetDate=20250212
+.Ribbons=$suggestAll
 EVs: 252 HP / 4 Def / 252 SpD
 Ability: Stance Change
 Careful Nature
@@ -91,7 +96,7 @@ Careful Nature
 - Iron Head
 
 
-Swablu  @ Master Ball
+Swablu @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -100,7 +105,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250604
+.MetDate=20240922
+.Ribbons=$suggestAll
 EVs: 4 HP / 252 Atk / 252 Spe
 Ability: Natural Cure
 Jolly Nature

@@ -1,5 +1,5 @@
 .bt 
-Larvitar  @ Master Ball
+Larvitar @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -8,7 +8,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230817
+.MetDate=20251014
+.Ribbons=$suggestAll
 EVs: 4 HP / 252 Atk / 252 Spe
 Ability: Guts
 Jolly Nature
@@ -18,7 +19,7 @@ Jolly Nature
 - Superpower
 
 
-Pupitar  @ Master Ball
+Pupitar @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -27,7 +28,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230518
+.MetDate=20250124
+.Ribbons=$suggestAll
 EVs: 4 HP / 252 Atk / 252 Spe
 Ability: Shed Skin
 Jolly Nature
@@ -37,7 +39,7 @@ Jolly Nature
 - Superpower
 
 
-Tyranitar  @ Master Ball
+Tyranitar @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -46,7 +48,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250513
+.MetDate=20230820
+.Ribbons=$suggestAll
 EVs: 4 HP / 252 Atk / 252 Spe
 Ability: Sand Stream
 Jolly Nature
@@ -55,7 +58,7 @@ Jolly Nature
 - Earthquake
 
 
-Zigzagoon  @ Master Ball
+Zigzagoon @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -64,7 +67,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240907
+.MetDate=20251110
+.Ribbons=$suggestAll
 EVs: 4 HP / 252 Atk / 252 Spe
 Ability: Gluttony
 Jolly Nature
@@ -74,7 +78,7 @@ Jolly Nature
 - Gunk Shot
 
 
-Linoone  @ Master Ball
+Linoone @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -83,7 +87,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20251123
+.MetDate=20231007
+.Ribbons=$suggestAll
 EVs: 12 HP / 208 Atk / 38 SpD / 252 Spe
 Ability: Pickup
 Adamant Nature
@@ -92,7 +97,7 @@ Adamant Nature
 - Stomping Tantrum
 
 
-Lotad  @ Master Ball
+Lotad @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -101,7 +106,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20251125
+.MetDate=20250315
+.Ribbons=$suggestAll
 EVs: 116 Def / 196 SpA / 196 Spe
 Ability: Swift Swim
 Modest Nature

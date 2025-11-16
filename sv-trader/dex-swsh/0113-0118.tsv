@@ -1,5 +1,5 @@
 .bt 
-Chansey  @ Master Ball
+Chansey @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -8,7 +8,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240613
+.MetDate=20251108
+.Ribbons=$suggestAll
 EVs: 6 HP / 252 Def / 252 SpD
 Ability: Natural Cure
 Bold Nature
@@ -17,7 +18,7 @@ Bold Nature
 - Thunder Wave
 
 
-Tangela  @ Master Ball
+Tangela @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -26,7 +27,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240528
+.MetDate=20250627
+.Ribbons=$suggestAll
 EVs: 252 HP / 4 Def / 252 SpD
 Ability: Regenerator
 Sassy Nature
@@ -36,7 +38,7 @@ Sassy Nature
 - Sludge Bomb
 
 
-Kangaskhan  @ Master Ball
+Kangaskhan @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -45,7 +47,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230724
+.MetDate=20251007
+.Ribbons=$suggestAll
 EVs: 252 Atk / 4 SpD / 252 Spe
 Ability: Scrappy
 Adamant Nature
@@ -54,7 +57,7 @@ Adamant Nature
 - Earthquake
 
 
-Horsea  @ Master Ball
+Horsea @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -63,7 +66,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240204
+.MetDate=20240414
+.Ribbons=$suggestAll
 EVs: 4 HP / 252 SpA / 252 Spe
 Ability: Swift Swim
 Modest Nature
@@ -73,7 +77,7 @@ Modest Nature
 - Ice Beam
 
 
-Seadra  @ Master Ball
+Seadra @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -82,7 +86,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230204
+.MetDate=20230627
+.Ribbons=$suggestAll
 EVs: 4 HP / 252 SpA / 252 Spe
 Ability: Poison Point
 Modest Nature
@@ -92,7 +97,7 @@ Modest Nature
 - Ice Beam
 
 
-Goldeen  @ Master Ball
+Goldeen @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -101,7 +106,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20231215
+.MetDate=20250209
+.Ribbons=$suggestAll
 EVs: 64 HP / 252 Atk / 192 Spe
 Ability: Lightning Rod
 Adamant Nature

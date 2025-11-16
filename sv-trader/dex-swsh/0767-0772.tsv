@@ -1,5 +1,5 @@
 .bt 
-Wimpod @ Comet Shard
+Wimpod @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -8,7 +8,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250702
+.MetDate=20230203
+.Ribbons=$suggestAll
 EVs: 168 HP / 252 Atk / 88 Spe
 Ability: Wimp Out
 Adamant Nature
@@ -18,7 +19,7 @@ Adamant Nature
 - Aqua Jet
 
 
-Golisopod @ Comet Shard
+Golisopod @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -27,7 +28,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20231015
+.MetDate=20240704
+.Ribbons=$suggestAll
 EVs: 168 HP / 252 Atk / 88 Spe
 Ability: Emergency Exit
 Adamant Nature
@@ -36,7 +38,7 @@ Adamant Nature
 - Leech Life
 
 
-Sandygast @ Comet Shard
+Sandygast @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -45,7 +47,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250323
+.MetDate=20250910
+.Ribbons=$suggestAll
 EVs: 252 HP / 252 Def / 4 SpD
 Ability: Water Compaction
 Bold Nature
@@ -55,7 +58,7 @@ Bold Nature
 - Shore Up
 
 
-Palossand @ Comet Shard
+Palossand @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -64,7 +67,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250904
+.MetDate=20230402
+.Ribbons=$suggestAll
 EVs: 252 HP / 252 Def / 4 SpD
 Ability: Water Compaction
 Bold Nature
@@ -73,7 +77,7 @@ Bold Nature
 - Shadow Ball
 
 
-Pyukumuku @ Comet Shard
+Pyukumuku @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -82,7 +86,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240706
+.MetDate=20230203
+.Ribbons=$suggestAll
 EVs: 252 HP / 252 Def / 4 SpD
 Ability: Unaware
 Bold Nature
@@ -91,7 +96,7 @@ Bold Nature
 - Recover
 
 # is_legendary
-Type-null @ Comet Shard
+Type-null @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -100,7 +105,8 @@ SID: 2401
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240615
+.MetDate=20240213
+.Ribbons=$suggestAll
 EVs: 252 HP / 8 Def / 248 SpD
 Ability: Battle Armor
 Careful Nature

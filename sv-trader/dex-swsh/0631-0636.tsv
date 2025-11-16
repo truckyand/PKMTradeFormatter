@@ -1,5 +1,5 @@
 .bt 
-Heatmor  @ Master Ball
+Heatmor @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -8,7 +8,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20241127
+.MetDate=20241007
+.Ribbons=$suggestAll
 EVs: 252 Atk / 4 SpD / 252 Spe
 Ability: Flash Fire
 Jolly Nature
@@ -17,7 +18,7 @@ Jolly Nature
 - Thunder Punch
 
 
-Durant  @ Master Ball
+Durant @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -26,7 +27,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240910
+.MetDate=20241102
+.Ribbons=$suggestAll
 EVs: 56 HP / 200 Atk / 252 Spe
 Ability: Hustle
 Jolly Nature
@@ -35,7 +37,7 @@ Jolly Nature
 - Stone Edge
 
 
-Deino  @ Master Ball
+Deino @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -44,7 +46,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20231116
+.MetDate=20250726
+.Ribbons=$suggestAll
 EVs: 252 SpA / 4 SpD / 252 Spe
 Ability: Hustle
 Timid Nature
@@ -54,7 +57,7 @@ Timid Nature
 - Nasty Plot
 
 
-Zweilous  @ Master Ball
+Zweilous @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -63,7 +66,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230504
+.MetDate=20251008
+.Ribbons=$suggestAll
 EVs: 252 SpA / 4 SpD / 252 Spe
 Ability: Hustle
 Timid Nature
@@ -73,7 +77,7 @@ Timid Nature
 - Nasty Plot
 
 
-Hydreigon  @ Master Ball
+Hydreigon @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -82,7 +86,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250416
+.MetDate=20250325
+.Ribbons=$suggestAll
 EVs: 252 SpA / 4 SpD / 252 Spe
 Ability: Levitate
 Timid Nature
@@ -91,7 +96,7 @@ Timid Nature
 - Flash Cannon
 
 
-Larvesta  @ Master Ball
+Larvesta @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -100,7 +105,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250923
+.MetDate=20240211
+.Ribbons=$suggestAll
 EVs: 252 HP / 4 Def / 252 Spe
 Ability: Flame Body
 Timid Nature

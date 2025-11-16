@@ -1,5 +1,5 @@
 .bt 
-Dragonite  @ Master Ball
+Dragonite @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -8,7 +8,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20241011
+.MetDate=20240504
+.Ribbons=$suggestAll
 EVs: 252 Atk / 4 SpD / 252 Spe
 Ability: Multiscale
 Jolly Nature
@@ -17,7 +18,7 @@ Jolly Nature
 - Earthquake
 
 
-Morpeko  @ Master Ball
+Morpeko @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -26,7 +27,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240607
+.MetDate=20230111
+.Ribbons=$suggestAll
 EVs: 252 Atk / 4 Def / 252 Spe
 Ability: Hunger Switch
 Adamant Nature
@@ -35,7 +37,7 @@ Adamant Nature
 - Crunch
 
 
-Lycanroc  @ Master Ball
+Lycanroc @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -44,7 +46,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230509
+.MetDate=20230609
+.Ribbons=$suggestAll
 EVs: 252 Atk / 4 Def / 252 Spe
 Ability: Steadfast
 Jolly Nature
@@ -53,7 +56,7 @@ Jolly Nature
 - Brick Break
 
 
-Hoothoot  @ Master Ball
+Hoothoot @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -62,7 +65,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240925
+.MetDate=20240514
+.Ribbons=$suggestAll
 EVs: 196 HP / 36 Def / 228 SpD / 36 Spe
 Ability: Insomnia
 Calm Nature
@@ -72,7 +76,7 @@ Calm Nature
 - Reflect
 
 
-Noctowl  @ Master Ball
+Noctowl @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -81,7 +85,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20241225
+.MetDate=20230711
+.Ribbons=$suggestAll
 EVs: 252 SpA / 4 SpD / 252 Spe
 Ability: Tinted Lens
 Modest Nature
@@ -90,7 +95,7 @@ Modest Nature
 - Hurricane
 
 
-Crobat  @ Master Ball
+Crobat @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -99,7 +104,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250704
+.MetDate=20241121
+.Ribbons=$suggestAll
 EVs: 252 Atk / 4 Def / 252 Spe
 Ability: Infiltrator
 Jolly Nature

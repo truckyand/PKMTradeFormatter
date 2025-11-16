@@ -1,5 +1,5 @@
 .bt 
-Duraludon  @ Master Ball
+Duraludon @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -8,7 +8,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230108
+.MetDate=20240123
+.Ribbons=$suggestAll
 EVs: 4 HP / 252 SpA / 252 Spe
 Ability: Stalwart
 Gigantamax: Yes
@@ -18,7 +19,7 @@ Modest Nature
 - Dark Pulse
 
 
-Dreepy  @ Master Ball
+Dreepy @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -27,7 +28,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20231105
+.MetDate=20251117
+.Ribbons=$suggestAll
 EVs: 4 HP / 252 SpA / 252 Spe
 Ability: Infiltrator
 Timid Nature
@@ -37,7 +39,7 @@ Timid Nature
 - Protect
 
 
-Drakloak  @ Master Ball
+Drakloak @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -46,7 +48,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20231004
+.MetDate=20240315
+.Ribbons=$suggestAll
 EVs: 4 HP / 252 SpA / 252 Spe
 Ability: Infiltrator
 Timid Nature
@@ -56,7 +59,7 @@ Timid Nature
 - Fire Blast
 
 
-Dragapult  @ Master Ball
+Dragapult @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -65,7 +68,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230714
+.MetDate=20240514
+.Ribbons=$suggestAll
 EVs: 4 HP / 252 SpA / 252 Spe
 Ability: Infiltrator
 Timid Nature
@@ -74,7 +78,7 @@ Timid Nature
 - Thunderbolt
 
 # is_legendary
-Zacian  @ Master Ball
+Zacian @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -83,7 +87,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230328
+.MetDate=20250519
+.Ribbons=$suggestAll
 EVs: 4 HP / 252 Atk / 252 Spe
 Ability: Intrepid Sword
 Jolly Nature
@@ -92,7 +97,7 @@ Jolly Nature
 - Iron Head
 
 # is_legendary
-Zamazenta  @ Master Ball
+Zamazenta @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -101,7 +106,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250215
+.MetDate=20250311
+.Ribbons=$suggestAll
 EVs: 252 Atk / 4 Def / 252 Spe
 Ability: Dauntless Shield
 Jolly Nature

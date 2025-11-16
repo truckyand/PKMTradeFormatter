@@ -1,5 +1,5 @@
 .bt 
-Quagsire  @ Master Ball
+Quagsire @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -8,7 +8,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240915
+.MetDate=20251021
+.Ribbons=$suggestAll
 EVs: 252 HP / 252 Def / 4 SpD
 Ability: Unaware
 Relaxed Nature
@@ -17,7 +18,7 @@ Relaxed Nature
 - Scald
 
 
-Espeon  @ Master Ball
+Espeon @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -26,7 +27,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230906
+.MetDate=20230908
+.Ribbons=$suggestAll
 EVs: 4 HP / 252 SpA / 252 Spe
 Ability: Magic Bounce
 Timid Nature
@@ -35,7 +37,7 @@ Timid Nature
 - Dazzling Gleam
 
 
-Umbreon  @ Master Ball
+Umbreon @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -44,7 +46,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230308
+.MetDate=20231221
+.Ribbons=$suggestAll
 EVs: 252 HP / 4 Def / 252 SpD
 Ability: Synchronize
 Calm Nature
@@ -53,7 +56,7 @@ Calm Nature
 - Protect
 
 
-Slowking  @ Master Ball
+Slowking @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -62,7 +65,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230117
+.MetDate=20230821
+.Ribbons=$suggestAll
 EVs: 248 HP / 252 Def / 8 SpD
 Ability: Regenerator
 Bold Nature
@@ -71,7 +75,7 @@ Bold Nature
 - Calm Mind
 
 
-Wobbuffet  @ Master Ball
+Wobbuffet @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -80,7 +84,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230320
+.MetDate=20230706
+.Ribbons=$suggestAll
 EVs: 252 HP / 252 Def / 4 SpD
 Ability: Shadow Tag
 Bold Nature
@@ -89,7 +94,7 @@ Bold Nature
 - Mirror Coat
 
 
-Dunsparce  @ Master Ball
+Dunsparce @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -98,7 +103,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230426
+.MetDate=20230723
+.Ribbons=$suggestAll
 EVs: 252 HP / 36 Atk / 220 Spe
 Ability: Serene Grace
 Adamant Nature

@@ -1,5 +1,5 @@
 .bt 
-Porygon  @ Master Ball
+Porygon @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -8,7 +8,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250502
+.MetDate=20240310
+.Ribbons=$suggestAll
 EVs: 252 HP / 252 SpA / 4 SpD
 Ability: Analytic
 Quiet Nature
@@ -18,7 +19,7 @@ Quiet Nature
 - Protect
 
 
-Omanyte  @ Master Ball
+Omanyte @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -27,7 +28,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240810
+.MetDate=20240305
+.Ribbons=$suggestAll
 EVs: 76 HP / 196 SpA / 236 Spe
 Ability: Shell Armor
 Modest Nature
@@ -37,7 +39,7 @@ Modest Nature
 - Earth Power
 
 
-Omastar  @ Master Ball
+Omastar @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -46,7 +48,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250615
+.MetDate=20231012
+.Ribbons=$suggestAll
 EVs: 4 HP / 252 SpA / 252 Spe
 Ability: Swift Swim
 Timid Nature
@@ -55,7 +58,7 @@ Timid Nature
 - Ice Beam
 
 
-Kabuto  @ Master Ball
+Kabuto @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -64,7 +67,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250405
+.MetDate=20230413
+.Ribbons=$suggestAll
 EVs: 116 HP / 196 Atk / 196 Def
 Ability: Battle Armor
 Adamant Nature
@@ -74,7 +78,7 @@ Adamant Nature
 - Waterfall
 
 
-Kabutops  @ Master Ball
+Kabutops @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -83,7 +87,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250825
+.MetDate=20230122
+.Ribbons=$suggestAll
 EVs: 252 Atk / 4 Def / 252 Spe
 Ability: Swift Swim
 Jolly Nature
@@ -92,7 +97,7 @@ Jolly Nature
 - Knock Off
 
 
-Aerodactyl  @ Master Ball
+Aerodactyl @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -101,7 +106,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20231206
+.MetDate=20240303
+.Ribbons=$suggestAll
 EVs: 252 Atk / 4 SpD / 252 Spe
 Ability: Unnerve
 Adamant Nature

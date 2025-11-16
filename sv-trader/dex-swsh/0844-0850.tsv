@@ -1,5 +1,5 @@
 .bt 
-Sandaconda @ Comet Shard
+Sandaconda @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -8,7 +8,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20231204
+.MetDate=20250205
+.Ribbons=$suggestAll
 EVs: 4 HP / 252 Atk / 252 Spe
 Ability: Sand Spit
 Gigantamax: Yes
@@ -18,7 +19,7 @@ Adamant Nature
 - Earthquake
 
 
-Cramorant @ Comet Shard
+Cramorant @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -27,7 +28,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20231215
+.MetDate=20240805
+.Ribbons=$suggestAll
 EVs: 252 HP / 4 Def / 252 SpD
 Ability: Gulp Missile
 Calm Nature
@@ -36,7 +38,7 @@ Calm Nature
 - Surf
 
 
-Arrokuda @ Comet Shard
+Arrokuda @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -45,7 +47,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230215
+.MetDate=20240623
+.Ribbons=$suggestAll
 EVs: 252 Atk / 4 SpD / 252 Spe
 Ability: Swift Swim
 Adamant Nature
@@ -55,7 +58,7 @@ Adamant Nature
 - Poison Jab
 
 
-Barraskewda @ Comet Shard
+Barraskewda @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -64,7 +67,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230618
+.MetDate=20250506
+.Ribbons=$suggestAll
 EVs: 252 Atk / 4 SpD / 252 Spe
 Ability: Swift Swim
 Adamant Nature
@@ -73,7 +77,7 @@ Adamant Nature
 - Psychic Fangs
 
 
-Toxel @ Comet Shard
+Toxel @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -82,7 +86,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240326
+.MetDate=20231106
+.Ribbons=$suggestAll
 EVs: 4 HP / 252 SpA / 252 Spe
 Ability: Rattled
 Timid Nature
@@ -92,7 +97,7 @@ Timid Nature
 - Tearful Look
 
 
-Sizzlipede @ Comet Shard
+Sizzlipede @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -101,7 +106,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20251023
+.MetDate=20231205
+.Ribbons=$suggestAll
 EVs: 252 Atk / 4 SpD / 252 Spe
 Ability: White Smoke
 Adamant Nature

@@ -1,5 +1,5 @@
 .bt 
-Honedge  @ Master Ball
+Honedge @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -8,7 +8,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230716
+.MetDate=20230419
+.Ribbons=$suggestAll
 EVs: 252 HP / 4 Def / 252 SpD
 Ability: No Guard
 Careful Nature
@@ -18,7 +19,7 @@ Careful Nature
 - Sacred Sword
 
 
-Doublade  @ Master Ball
+Doublade @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -27,7 +28,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240415
+.MetDate=20251023
+.Ribbons=$suggestAll
 EVs: 252 HP / 4 Def / 252 SpD
 Ability: No Guard
 Careful Nature
@@ -37,7 +39,7 @@ Careful Nature
 - Sacred Sword
 
 
-Spritzee  @ Master Ball
+Spritzee @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -46,7 +48,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250123
+.MetDate=20230111
+.Ribbons=$suggestAll
 EVs: 212 HP / 196 Def / 12 SpA / 76 SpD / 12 Spe
 Ability: Aroma Veil
 Bold Nature
@@ -56,7 +59,7 @@ Bold Nature
 - Energy Ball
 
 
-Aromatisse  @ Master Ball
+Aromatisse @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -65,7 +68,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240922
+.MetDate=20230502
+.Ribbons=$suggestAll
 EVs: 248 HP / 252 SpA / 8 SpD
 Ability: Aroma Veil
 Quiet Nature
@@ -74,7 +78,7 @@ Quiet Nature
 - Moonblast
 
 
-Swirlix  @ Master Ball
+Swirlix @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -83,7 +87,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240515
+.MetDate=20250608
+.Ribbons=$suggestAll
 EVs: 4 HP / 252 SpA / 252 Spe
 Ability: Unburden
 Timid Nature
@@ -93,7 +98,7 @@ Timid Nature
 - Dazzling Gleam
 
 
-Slurpuff  @ Master Ball
+Slurpuff @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -102,7 +107,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240804
+.MetDate=20241001
+.Ribbons=$suggestAll
 EVs: 4 HP / 252 SpA / 252 Spe
 Ability: Unburden
 Timid Nature

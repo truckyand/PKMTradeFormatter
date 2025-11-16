@@ -111,7 +111,7 @@ for (let i = 0; i < data.length; i += chunkSize) {
 
 			// Finalize data
 			const metDate = randomDate();
-			const holdItem = '@ Master Ball';
+			const holdItem = '@ Big Nugget';
 			const pokeBall_Wanted = "Luxury Ball";
 			const pokeBall = pkmgg_pkm && pkmgg_pkm.legal_pokeballs.includes(pokeBall_Wanted) ? pokeBall_Wanted : pkmgg_pkm.legal_pokeballs[0];
 			const is_shiny = pkmgg_pkm && (pkmgg_pkm.shiny_locked === true) ? 'No' : 'Yes';
@@ -128,6 +128,7 @@ for (let i = 0; i < data.length; i += chunkSize) {
 			content += `Language: English\n`;
 			content += `IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA\n`;
 			content += `.MetDate=${metDate}\n`;
+			content += `.Ribbons=$suggestAll\n`;
 
 			content += `${meta_set}\n`;
 			content += `\n`;

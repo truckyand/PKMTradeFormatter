@@ -1,5 +1,5 @@
 .bt 
-Delibird  @ Master Ball
+Delibird @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -8,7 +8,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20241214
+.MetDate=20240402
+.Ribbons=$suggestAll
 EVs: 252 SpA / 4 SpD / 252 Spe
 Ability: Vital Spirit
 Timid Nature
@@ -17,7 +18,7 @@ Timid Nature
 - Icy Wind
 
 
-Mantine  @ Master Ball
+Mantine @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -26,7 +27,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230816
+.MetDate=20240116
+.Ribbons=$suggestAll
 EVs: 252 HP / 120 SpD / 136 Spe
 Ability: Water Absorb
 Calm Nature
@@ -35,7 +37,7 @@ Calm Nature
 - Scald
 
 
-Skarmory  @ Master Ball
+Skarmory @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -44,7 +46,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240428
+.MetDate=20240112
+.Ribbons=$suggestAll
 EVs: 252 HP / 252 Def / 4 SpD
 Ability: Sturdy
 Bold Nature
@@ -53,7 +56,7 @@ Bold Nature
 - Whirlwind
 
 
-Kingdra  @ Master Ball
+Kingdra @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -62,7 +65,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20231122
+.MetDate=20240204
+.Ribbons=$suggestAll
 EVs: 4 HP / 252 SpA / 252 Spe
 Ability: Swift Swim
 Modest Nature
@@ -71,7 +75,7 @@ Modest Nature
 - Draco Meteor
 
 
-Porygon2  @ Master Ball
+Porygon2 @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -80,7 +84,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250712
+.MetDate=20251023
+.Ribbons=$suggestAll
 EVs: 252 HP / 252 SpA / 4 SpD
 Ability: Analytic
 Quiet Nature
@@ -89,7 +94,7 @@ Quiet Nature
 - Shadow Ball
 
 
-Tyrogue  @ Master Ball
+Tyrogue @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -98,7 +103,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250515
+.MetDate=20230927
+.Ribbons=$suggestAll
 EVs: 252 Atk / 4 SpD / 252 Spe
 Ability: Steadfast
 Jolly Nature

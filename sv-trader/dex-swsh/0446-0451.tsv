@@ -1,5 +1,5 @@
 .bt 
-Munchlax  @ Master Ball
+Munchlax @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -8,7 +8,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230305
+.MetDate=20231226
+.Ribbons=$suggestAll
 EVs: 236 Atk / 36 Def / 236 SpD
 Ability: Thick Fat
 Adamant Nature
@@ -18,7 +19,7 @@ Adamant Nature
 - Recycle
 
 
-Riolu  @ Master Ball
+Riolu @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -27,7 +28,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230805
+.MetDate=20230416
+.Ribbons=$suggestAll
 EVs: 252 Atk / 4 SpD / 252 Spe
 Ability: Prankster
 Adamant Nature
@@ -37,7 +39,7 @@ Adamant Nature
 - Drain Punch
 
 
-Lucario  @ Master Ball
+Lucario @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -46,7 +48,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250122
+.MetDate=20250226
+.Ribbons=$suggestAll
 EVs: 252 Atk / 4 SpD / 252 Spe
 Ability: Justified
 Adamant Nature
@@ -55,7 +58,7 @@ Adamant Nature
 - Close Combat
 
 
-Hippopotas  @ Master Ball
+Hippopotas @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -64,7 +67,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250113
+.MetDate=20230211
+.Ribbons=$suggestAll
 EVs: 252 HP / 8 Atk / 72 Def / 176 SpD
 Ability: Sand Stream
 Impish Nature
@@ -74,7 +78,7 @@ Impish Nature
 - Whirlwind
 
 
-Hippowdon  @ Master Ball
+Hippowdon @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -83,7 +87,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250306
+.MetDate=20251018
+.Ribbons=$suggestAll
 EVs: 252 HP / 8 Atk / 72 Def / 176 SpD
 Ability: Sand Stream
 Impish Nature
@@ -92,7 +97,7 @@ Impish Nature
 - Stealth Rock
 
 
-Skorupi  @ Master Ball
+Skorupi @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -101,7 +106,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250513
+.MetDate=20241004
+.Ribbons=$suggestAll
 EVs: 252 Atk / 4 SpD / 252 Spe
 Ability: Sniper
 Jolly Nature

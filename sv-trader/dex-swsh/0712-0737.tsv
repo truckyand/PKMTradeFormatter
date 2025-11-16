@@ -1,5 +1,5 @@
 .bt 
-Bergmite  @ Master Ball
+Bergmite @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -8,7 +8,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20251108
+.MetDate=20250810
+.Ribbons=$suggestAll
 EVs: 252 HP / 88 Atk / 168 Def
 Ability: Ice Body
 Impish Nature
@@ -18,7 +19,7 @@ Impish Nature
 - Stone Edge
 
 
-Avalugg  @ Master Ball
+Avalugg @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -27,7 +28,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250903
+.MetDate=20240902
+.Ribbons=$suggestAll
 EVs: 252 HP / 88 Atk / 168 Def
 Ability: Ice Body
 Impish Nature
@@ -36,7 +38,7 @@ Impish Nature
 - Rapid Spin
 
 
-Noibat  @ Master Ball
+Noibat @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -45,7 +47,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230210
+.MetDate=20250124
+.Ribbons=$suggestAll
 EVs: 252 SpA / 4 SpD / 252 Spe
 Ability: Infiltrator
 Timid Nature
@@ -55,7 +58,7 @@ Timid Nature
 - U-turn
 
 
-Noivern  @ Master Ball
+Noivern @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -64,7 +67,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240828
+.MetDate=20251020
+.Ribbons=$suggestAll
 EVs: 252 SpA / 4 SpD / 252 Spe
 Ability: Infiltrator
 Timid Nature
@@ -73,7 +77,7 @@ Timid Nature
 - Roost
 
 
-Grubbin  @ Master Ball
+Grubbin @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -82,7 +86,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240304
+.MetDate=20251216
+.Ribbons=$suggestAll
 EVs: 140 HP / 20 Atk / 156 Def / 156 SpD
 Ability: Swarm
 Relaxed Nature
@@ -92,7 +97,7 @@ Relaxed Nature
 - Acrobatics
 
 
-Charjabug  @ Master Ball
+Charjabug @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -101,7 +106,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240127
+.MetDate=20250212
+.Ribbons=$suggestAll
 EVs: 252 HP / 4 Atk / 252 Def
 Ability: Battery
 Impish Nature

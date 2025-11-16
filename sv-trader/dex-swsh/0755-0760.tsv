@@ -1,5 +1,5 @@
 .bt 
-Morelull  @ Master Ball
+Morelull @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -8,7 +8,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230917
+.MetDate=20250819
+.Ribbons=$suggestAll
 EVs: 36 HP / 236 Def / 76 SpA / 156 SpD
 Ability: Effect Spore
 Bold Nature
@@ -18,7 +19,7 @@ Bold Nature
 - Strength Sap
 
 
-Shiinotic  @ Master Ball
+Shiinotic @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -27,7 +28,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240312
+.MetDate=20240308
+.Ribbons=$suggestAll
 EVs: 252 HP / 252 Def
 Ability: Effect Spore
 Bold Nature
@@ -36,7 +38,7 @@ Bold Nature
 - Leech Seed
 
 
-Salandit  @ Master Ball
+Salandit @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -45,7 +47,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20241219
+.MetDate=20251217
+.Ribbons=$suggestAll
 EVs: 4 Def / 252 SpA / 252 Spe
 Ability: Corrosion
 Timid Nature
@@ -55,7 +58,7 @@ Timid Nature
 - Dragon Pulse
 
 
-Salazzle  @ Master Ball
+Salazzle @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -64,7 +67,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230716
+.MetDate=20230315
+.Ribbons=$suggestAll
 EVs: 4 Def / 252 SpA / 252 Spe
 Ability: Corrosion
 Timid Nature
@@ -73,7 +77,7 @@ Timid Nature
 - Nasty Plot
 
 
-Stufful  @ Master Ball
+Stufful @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -82,7 +86,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230416
+.MetDate=20231102
+.Ribbons=$suggestAll
 EVs: 252 Atk / 4 Def / 252 Spe
 Ability: Fluffy
 Adamant Nature
@@ -92,7 +97,7 @@ Adamant Nature
 - Thunder Punch
 
 
-Bewear  @ Master Ball
+Bewear @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -101,7 +106,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20231021
+.MetDate=20240805
+.Ribbons=$suggestAll
 EVs: 252 Atk / 4 Def / 252 Spe
 Ability: Fluffy
 Adamant Nature

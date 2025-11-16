@@ -1,5 +1,5 @@
 .bt 
-Lickitung  @ Master Ball
+Lickitung @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -8,7 +8,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20251121
+.MetDate=20230702
+.Ribbons=$suggestAll
 EVs: 168 HP / 252 Atk / 4 Def / 84 Spe
 Ability: Cloud Nine
 Adamant Nature
@@ -18,7 +19,7 @@ Adamant Nature
 - Earthquake
 
 
-Koffing  @ Master Ball
+Koffing @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -27,7 +28,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240414
+.MetDate=20231024
+.Ribbons=$suggestAll
 EVs: 252 HP / 252 Def / 4 SpD
 Ability: Neutralizing Gas
 Bold Nature
@@ -37,7 +39,7 @@ Bold Nature
 - Toxic
 
 
-Wishiwashi  @ Master Ball
+Wishiwashi @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -46,7 +48,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230526
+.MetDate=20230726
+.Ribbons=$suggestAll
 EVs: 252 HP / 152 Def / 96 SpD / 4 Spe
 Ability: Levitate
 Bold Nature
@@ -55,7 +58,7 @@ Bold Nature
 - Pain Split
 
 
-Weezing  @ Master Ball
+Weezing @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -64,7 +67,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250118
+.MetDate=20231103
+.Ribbons=$suggestAll
 EVs: 252 HP / 152 Def / 96 SpD / 4 Spe
 Ability: Levitate
 Bold Nature
@@ -73,7 +77,7 @@ Bold Nature
 - Pain Split
 
 
-Rhyhorn  @ Master Ball
+Rhyhorn @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -82,7 +86,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230817
+.MetDate=20230114
+.Ribbons=$suggestAll
 EVs: 4 HP / 252 Atk / 252 SpD
 Ability: Rock Head
 Brave Nature
@@ -92,7 +97,7 @@ Brave Nature
 - Protect
 
 
-Rhydon  @ Master Ball
+Rhydon @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -101,7 +106,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250918
+.MetDate=20250528
+.Ribbons=$suggestAll
 EVs: 4 HP / 252 Atk / 252 SpD
 Ability: Rock Head
 Brave Nature

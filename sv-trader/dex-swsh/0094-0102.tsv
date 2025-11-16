@@ -1,5 +1,5 @@
 .bt 
-Gengar  @ Master Ball
+Gengar @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -8,7 +8,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250213
+.MetDate=20251120
+.Ribbons=$suggestAll
 EVs: 4 HP / 252 SpA / 252 Spe
 Ability: Cursed Body
 Gigantamax: Yes
@@ -18,7 +19,7 @@ Timid Nature
 - Focus Blast
 
 
-Onix  @ Master Ball
+Onix @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -27,7 +28,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250516
+.MetDate=20250103
+.Ribbons=$suggestAll
 EVs: 252 HP / 208 Atk / 48 SpD
 Ability: Sturdy
 Brave Nature
@@ -37,7 +39,7 @@ Brave Nature
 - Curse
 
 
-Krabby  @ Master Ball
+Krabby @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -46,7 +48,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230122
+.MetDate=20241119
+.Ribbons=$suggestAll
 EVs: 252 Atk / 4 Def / 252 Spe
 Ability: Sheer Force
 Adamant Nature
@@ -55,7 +58,7 @@ Adamant Nature
 - Liquidation
 
 
-Kingler  @ Master Ball
+Kingler @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -64,7 +67,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240219
+.MetDate=20230317
+.Ribbons=$suggestAll
 EVs: 252 Atk / 4 Def / 252 Spe
 Ability: Sheer Force
 Gigantamax: Yes
@@ -74,7 +78,7 @@ Adamant Nature
 - Liquidation
 
 # is_legendary
-Urshifu  @ Master Ball
+Urshifu @ Big Nugget
 Shiny: No
 OT: trucky
 OTGender: Female
@@ -83,7 +87,8 @@ SID: 2401
 Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240213
+.MetDate=20250223
+.Ribbons=$suggestAll
 EVs: 4 HP / 252 Atk / 252 Spe
 Ability: Unseen Fist
 Gigantamax: Yes
@@ -92,7 +97,7 @@ Jolly Nature
 - Close Combat
 
 
-Exeggcute  @ Master Ball
+Exeggcute @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -101,7 +106,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230407
+.MetDate=20250925
+.Ribbons=$suggestAll
 EVs: 252 SpA / 4 SpD / 252 Spe
 Ability: Chlorophyll
 Modest Nature

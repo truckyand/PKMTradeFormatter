@@ -1,5 +1,5 @@
 .bt 
-Raboot @ Comet Shard
+Raboot @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -8,7 +8,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240120
+.MetDate=20230109
+.Ribbons=$suggestAll
 EVs: 4 HP / 252 Atk / 252 Spe
 Ability: Libero
 Jolly Nature
@@ -18,7 +19,7 @@ Jolly Nature
 - U-turn
 
 
-Cinderace @ Comet Shard
+Cinderace @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -27,7 +28,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240416
+.MetDate=20241020
+.Ribbons=$suggestAll
 EVs: 4 HP / 252 Atk / 252 Spe
 Ability: Libero
 Gigantamax: Yes
@@ -37,7 +39,7 @@ Jolly Nature
 - High Jump Kick
 
 
-Sobble @ Comet Shard
+Sobble @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -46,7 +48,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20231220
+.MetDate=20240213
+.Ribbons=$suggestAll
 EVs: 252 SpA / 4 SpD / 252 Spe
 Ability: Sniper
 Timid Nature
@@ -56,7 +59,7 @@ Timid Nature
 - U-turn
 
 
-Drizzile @ Comet Shard
+Drizzile @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -65,7 +68,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250608
+.MetDate=20240816
+.Ribbons=$suggestAll
 EVs: 252 SpA / 4 SpD / 252 Spe
 Ability: Sniper
 Timid Nature
@@ -75,7 +79,7 @@ Timid Nature
 - U-turn
 
 
-Inteleon @ Comet Shard
+Inteleon @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -84,7 +88,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240613
+.MetDate=20250925
+.Ribbons=$suggestAll
 EVs: 252 SpA / 4 SpD / 252 Spe
 Ability: Sniper
 Gigantamax: Yes
@@ -94,7 +99,7 @@ Timid Nature
 - Air Slash
 
 
-Skwovet @ Comet Shard
+Skwovet @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -103,7 +108,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250221
+.MetDate=20241117
+.Ribbons=$suggestAll
 EVs: 4 HP / 156 Atk / 84 Def / 140 SpD / 124 Spe
 Ability: Cheek Pouch
 Adamant Nature

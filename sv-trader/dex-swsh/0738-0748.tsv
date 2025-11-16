@@ -1,5 +1,5 @@
 .bt 
-Vikavolt  @ Master Ball
+Vikavolt @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -8,7 +8,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250204
+.MetDate=20240416
+.Ribbons=$suggestAll
 EVs: 252 HP / 252 SpA / 4 SpD
 Ability: Levitate
 Modest Nature
@@ -17,7 +18,7 @@ Modest Nature
 - Bug Buzz
 
 
-Cutiefly  @ Master Ball
+Cutiefly @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -26,7 +27,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20251016
+.MetDate=20241212
+.Ribbons=$suggestAll
 EVs: 4 HP / 252 SpA / 252 Spe
 Ability: Sweet Veil
 Timid Nature
@@ -36,7 +38,7 @@ Timid Nature
 - Quiver Dance
 
 
-Ribombee  @ Master Ball
+Ribombee @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -45,7 +47,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20251223
+.MetDate=20250514
+.Ribbons=$suggestAll
 EVs: 4 HP / 252 SpA / 252 Spe
 Ability: Sweet Veil
 Timid Nature
@@ -54,7 +57,7 @@ Timid Nature
 - Stun Spore
 
 
-Rockruff  @ Master Ball
+Rockruff @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -63,7 +66,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20251002
+.MetDate=20240203
+.Ribbons=$suggestAll
 EVs: 252 Atk / 4 Def / 252 Spe
 Ability: Steadfast
 Jolly Nature
@@ -73,7 +77,7 @@ Jolly Nature
 - Thunder Fang
 
 
-Mareanie  @ Master Ball
+Mareanie @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -82,7 +86,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230613
+.MetDate=20240619
+.Ribbons=$suggestAll
 EVs: 252 HP / 252 Def / 4 SpD
 Ability: Regenerator
 Bold Nature
@@ -92,7 +97,7 @@ Bold Nature
 - Haze
 
 
-Toxapex  @ Master Ball
+Toxapex @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -101,7 +106,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230914
+.MetDate=20240814
+.Ribbons=$suggestAll
 EVs: 252 HP / 252 Def / 4 SpD
 Ability: Regenerator
 Bold Nature

@@ -1,5 +1,5 @@
 .bt 
-Centiskorch @ Comet Shard
+Centiskorch @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -8,7 +8,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20231109
+.MetDate=20240323
+.Ribbons=$suggestAll
 EVs: 252 Atk / 4 SpD / 252 Spe
 Ability: White Smoke
 Gigantamax: Yes
@@ -18,7 +19,7 @@ Adamant Nature
 - Power Whip
 
 
-Clobbopus @ Comet Shard
+Clobbopus @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -27,7 +28,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240523
+.MetDate=20250706
+.Ribbons=$suggestAll
 EVs: 252 HP / 4 Def / 252 SpD
 Ability: Technician
 Careful Nature
@@ -37,7 +39,7 @@ Careful Nature
 - Rest
 
 
-Grapploct @ Comet Shard
+Grapploct @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -46,7 +48,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250918
+.MetDate=20251216
+.Ribbons=$suggestAll
 EVs: 252 HP / 4 Def / 252 SpD
 Ability: Technician
 Careful Nature
@@ -55,7 +58,7 @@ Careful Nature
 - Soak
 
 
-Sinistea @ Comet Shard
+Sinistea @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -64,7 +67,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250412
+.MetDate=20230806
+.Ribbons=$suggestAll
 EVs: 252 SpA / 4 SpD / 252 Spe
 Ability: Weak Armor
 Modest Nature
@@ -74,7 +78,7 @@ Modest Nature
 - Giga Drain
 
 
-Polteageist @ Comet Shard
+Polteageist @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -83,7 +87,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250924
+.MetDate=20240905
+.Ribbons=$suggestAll
 EVs: 252 SpA / 4 SpD / 252 Spe
 Ability: Weak Armor
 Modest Nature
@@ -92,7 +97,7 @@ Modest Nature
 - Stored Power
 
 
-Hatenna @ Comet Shard
+Hatenna @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -101,7 +106,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240212
+.MetDate=20230709
+.Ribbons=$suggestAll
 EVs: 252 HP / 252 Def / 4 SpA
 Ability: Magic Bounce
 Bold Nature

@@ -1,5 +1,5 @@
 .bt # is_legendary
-Spectrier  @ Master Ball
+Spectrier @ Big Nugget
 Shiny: No
 OT: trucky
 OTGender: Female
@@ -8,7 +8,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250925
+.MetDate=20250119
+.Ribbons=$suggestAll
 EVs: 4 Def / 252 SpA / 252 Spe
 Ability: Grim Neigh
 Timid Nature
@@ -16,7 +17,7 @@ Timid Nature
 - Will-O-Wisp
 
 # is_legendary
-Calyrex  @ Master Ball
+Calyrex @ Big Nugget
 Shiny: No
 OT: trucky
 OTGender: Female
@@ -25,7 +26,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240106
+.MetDate=20240702
+.Ribbons=$suggestAll
 EVs: 252 HP / 252 Def / 4 SpD
 Ability: Unnerve
 Bold Nature

@@ -1,5 +1,5 @@
 .bt 
-Perrserker @ Comet Shard
+Perrserker @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -8,7 +8,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240117
+.MetDate=20240519
+.Ribbons=$suggestAll
 EVs: 8 HP / 248 Atk / 252 Spe
 Ability: Tough Claws
 Adamant Nature
@@ -17,7 +18,7 @@ Adamant Nature
 - Throat Chop
 
 
-Cursola @ Comet Shard
+Cursola @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -26,7 +27,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250827
+.MetDate=20250805
+.Ribbons=$suggestAll
 EVs: 208 HP / 252 SpA / 48 Spe
 Ability: Perish Body
 Modest Nature
@@ -35,7 +37,7 @@ Modest Nature
 - Earth Power
 
 
-Sirfetchd @ Comet Shard
+Sirfetchd @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -44,7 +46,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230712
+.MetDate=20250817
+.Ribbons=$suggestAll
 EVs: 252 Atk / 4 Def / 252 Spe
 Ability: Scrappy
 Jolly Nature
@@ -53,7 +56,7 @@ Jolly Nature
 - Poison Jab
 
 
-Mr. Rime @ Comet Shard
+Mr-rime @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -62,7 +65,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20251127
+.MetDate=20250525
+.Ribbons=$suggestAll
 EVs: 252 HP / 212 Def / 8 SpA / 36 Spe
 Ability: Screen Cleaner
 Bold Nature
@@ -71,7 +75,7 @@ Bold Nature
 - Freeze-Dry
 
 
-Runerigus @ Comet Shard
+Runerigus @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -80,7 +84,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240617
+.MetDate=20230128
+.Ribbons=$suggestAll
 EVs: 252 HP / 252 Def / 4 SpD
 Ability: Wandering Spirit
 Impish Nature
@@ -89,7 +94,7 @@ Impish Nature
 - Earthquake
 
 
-Milcery @ Comet Shard
+Milcery @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -98,7 +103,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240703
+.MetDate=20241105
+.Ribbons=$suggestAll
 EVs: 252 HP / 252 Def / 4 SpA
 Ability: Aroma Veil
 Gigantamax: Yes

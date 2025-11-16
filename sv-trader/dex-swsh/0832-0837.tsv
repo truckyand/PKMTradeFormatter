@@ -1,5 +1,5 @@
 .bt 
-Dubwool @ Comet Shard
+Dubwool @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -8,7 +8,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250810
+.MetDate=20230627
+.Ribbons=$suggestAll
 EVs: 104 HP / 252 Def / 152 Spe
 Ability: Fluffy
 Impish Nature
@@ -17,7 +18,7 @@ Impish Nature
 - Thunder Wave
 
 
-Chewtle @ Comet Shard
+Chewtle @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -26,7 +27,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250309
+.MetDate=20251022
+.Ribbons=$suggestAll
 EVs: 252 Atk / 4 Def / 252 Spe
 Ability: Swift Swim
 Adamant Nature
@@ -36,7 +38,7 @@ Adamant Nature
 - Protect
 
 
-Drednaw @ Comet Shard
+Drednaw @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -45,7 +47,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20241005
+.MetDate=20251109
+.Ribbons=$suggestAll
 EVs: 252 Atk / 4 Def / 252 Spe
 Ability: Swift Swim
 Gigantamax: Yes
@@ -55,7 +58,7 @@ Adamant Nature
 - Superpower
 
 
-Yamper @ Comet Shard
+Yamper @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -64,7 +67,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20231116
+.MetDate=20250523
+.Ribbons=$suggestAll
 EVs: 4 HP / 252 Atk / 252 Spe
 Ability: Ball Fetch
 Jolly Nature
@@ -74,7 +78,7 @@ Jolly Nature
 - Crunch
 
 
-Boltund @ Comet Shard
+Boltund @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -83,7 +87,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250502
+.MetDate=20240307
+.Ribbons=$suggestAll
 EVs: 4 HP / 252 Atk / 252 Spe
 Ability: Strong Jaw
 Jolly Nature
@@ -92,7 +97,7 @@ Jolly Nature
 - Fire Fang
 
 
-Rolycoly @ Comet Shard
+Rolycoly @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -101,7 +106,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230805
+.MetDate=20230414
+.Ribbons=$suggestAll
 EVs: 248 HP / 8 Def / 252 SpD
 Ability: Heatproof
 Sassy Nature

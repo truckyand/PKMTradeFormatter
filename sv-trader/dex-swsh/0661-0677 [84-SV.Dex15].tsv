@@ -1,5 +1,5 @@
 .bt 
-Fletchling  @ Master Ball
+Fletchling @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -8,7 +8,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230202
+.MetDate=20240320
+.Ribbons=$suggestAll
 EVs: 252 Atk / 4 Def / 252 Spe
 Ability: Gale Wings
 Adamant Nature
@@ -18,7 +19,7 @@ Adamant Nature
 - Steel Wing
 
 
-Fletchinder  @ Master Ball
+Fletchinder @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -27,7 +28,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250320
+.MetDate=20230815
+.Ribbons=$suggestAll
 EVs: 252 Atk / 4 Def / 252 Spe
 Ability: Gale Wings
 Adamant Nature
@@ -37,7 +39,7 @@ Adamant Nature
 - Steel Wing
 
 
-Talonflame  @ Master Ball
+Talonflame @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -46,7 +48,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250221
+.MetDate=20230323
+.Ribbons=$suggestAll
 EVs: 252 Atk / 4 Def / 252 Spe
 Ability: Gale Wings
 Adamant Nature
@@ -55,7 +58,7 @@ Adamant Nature
 - U-turn
 
 
-Pancham  @ Master Ball
+Pancham @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -64,7 +67,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250415
+.MetDate=20230827
+.Ribbons=$suggestAll
 EVs: 252 Atk / 4 SpD / 252 Spe
 Ability: Iron Fist
 Adamant Nature
@@ -74,7 +78,7 @@ Adamant Nature
 - Thunder Punch
 
 
-Pangoro  @ Master Ball
+Pangoro @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -83,7 +87,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20251203
+.MetDate=20230228
+.Ribbons=$suggestAll
 EVs: 252 Atk / 4 SpD / 252 Spe
 Ability: Iron Fist
 Adamant Nature
@@ -92,7 +97,7 @@ Adamant Nature
 - Drain Punch
 
 
-Espurr  @ Master Ball
+Espurr @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -101,7 +106,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250419
+.MetDate=20231007
+.Ribbons=$suggestAll
 EVs: 4 Def / 252 SpA / 252 Spe
 Ability: Infiltrator
 Timid Nature

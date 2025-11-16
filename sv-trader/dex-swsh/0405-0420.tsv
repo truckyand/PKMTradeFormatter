@@ -1,5 +1,5 @@
 .bt 
-Luxray  @ Master Ball
+Luxray @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -8,7 +8,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250720
+.MetDate=20230113
+.Ribbons=$suggestAll
 EVs: 252 Atk / 4 SpD / 252 Spe
 Ability: Guts
 Jolly Nature
@@ -17,7 +18,7 @@ Jolly Nature
 - Superpower
 
 
-Budew  @ Master Ball
+Budew @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -26,7 +27,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250106
+.MetDate=20241111
+.Ribbons=$suggestAll
 EVs: 252 SpA / 4 SpD / 252 Spe
 Ability: Leaf Guard
 Timid Nature
@@ -36,7 +38,7 @@ Timid Nature
 - Synthesis
 
 
-Roserade  @ Master Ball
+Roserade @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -45,7 +47,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230928
+.MetDate=20231118
+.Ribbons=$suggestAll
 EVs: 252 SpA / 4 SpD / 252 Spe
 Ability: Technician
 Timid Nature
@@ -54,7 +57,7 @@ Timid Nature
 - Sludge Bomb
 
 
-Combee  @ Master Ball
+Combee @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -63,7 +66,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250105
+.MetDate=20250804
+.Ribbons=$suggestAll
 EVs: 248 HP / 172 Def / 88 Spe
 Ability: Honey Gather
 Bold Nature
@@ -73,7 +77,7 @@ Bold Nature
 - Struggle Bug
 
 
-Vespiquen  @ Master Ball
+Vespiquen @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -82,7 +86,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250207
+.MetDate=20250620
+.Ribbons=$suggestAll
 EVs: 248 HP / 172 Def / 88 Spe
 Ability: Pressure
 Bold Nature
@@ -91,7 +96,7 @@ Bold Nature
 - Protect
 
 
-Cherubi  @ Master Ball
+Cherubi @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -100,7 +105,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230106
+.MetDate=20240320
+.Ribbons=$suggestAll
 EVs: 252 SpA / 4 SpD / 252 Spe
 Ability: Chlorophyll
 Timid Nature

@@ -1,5 +1,5 @@
 .bt 
-Bisharp  @ Master Ball
+Bisharp @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -8,7 +8,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230912
+.MetDate=20240907
+.Ribbons=$suggestAll
 EVs: 4 HP / 252 Atk / 252 Spe
 Ability: Defiant
 Jolly Nature
@@ -17,7 +18,7 @@ Jolly Nature
 - Psycho Cut
 
 
-Bouffalant  @ Master Ball
+Bouffalant @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -26,7 +27,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20231208
+.MetDate=20240803
+.Ribbons=$suggestAll
 EVs: 252 HP / 156 SpD / 100 Spe
 Ability: Sap Sipper
 Careful Nature
@@ -35,7 +37,7 @@ Careful Nature
 - Facade
 
 
-Rufflet  @ Master Ball
+Rufflet @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -44,7 +46,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20251102
+.MetDate=20230604
+.Ribbons=$suggestAll
 EVs: 252 Atk / 4 SpD / 252 Spe
 Ability: Hustle
 Jolly Nature
@@ -54,7 +57,7 @@ Jolly Nature
 - U-turn
 
 
-Braviary  @ Master Ball
+Braviary @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -63,7 +66,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230614
+.MetDate=20230921
+.Ribbons=$suggestAll
 EVs: 252 Atk / 4 SpD / 252 Spe
 Ability: Defiant
 Jolly Nature
@@ -72,7 +76,7 @@ Jolly Nature
 - Tailwind
 
 
-Vullaby  @ Master Ball
+Vullaby @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -81,7 +85,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20231010
+.MetDate=20230723
+.Ribbons=$suggestAll
 EVs: 236 Atk / 76 Def / 196 Spe
 Ability: Weak Armor
 Adamant Nature
@@ -91,7 +96,7 @@ Adamant Nature
 - Defog
 
 
-Mandibuzz  @ Master Ball
+Mandibuzz @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -100,7 +105,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230317
+.MetDate=20230315
+.Ribbons=$suggestAll
 EVs: 252 HP / 4 Def / 252 SpD
 Ability: Overcoat
 Careful Nature

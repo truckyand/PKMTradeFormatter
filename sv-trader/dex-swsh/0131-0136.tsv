@@ -1,5 +1,5 @@
 .bt 
-Lapras  @ Master Ball
+Lapras @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -8,7 +8,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250727
+.MetDate=20240428
+.Ribbons=$suggestAll
 EVs: 244 HP / 252 SpA / 12 Spe
 Ability: Water Absorb
 Gigantamax: Yes
@@ -18,7 +19,7 @@ Modest Nature
 - Ice Beam
 
 
-Ditto  @ Master Ball
+Ditto @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -27,13 +28,14 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230820
+.MetDate=20230728
+.Ribbons=$suggestAll
 EVs: 252 HP / 4 Atk / 252 Def
 Ability: Imposter
 Jolly Nature
 
 
-Eevee  @ Master Ball
+Eevee @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -42,7 +44,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240322
+.MetDate=20250610
+.Ribbons=$suggestAll
 EVs: 4 HP / 252 SpA / 252 Spe
 Ability: Anticipation
 Timid Nature
@@ -52,7 +55,7 @@ Timid Nature
 - Stored Power
 
 
-Vaporeon  @ Master Ball
+Vaporeon @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -61,7 +64,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240815
+.MetDate=20250406
+.Ribbons=$suggestAll
 EVs: 252 HP / 252 Def / 4 Spe
 Ability: Water Absorb
 Bold Nature
@@ -70,7 +74,7 @@ Bold Nature
 - Protect
 
 
-Jolteon  @ Master Ball
+Jolteon @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -79,7 +83,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230319
+.MetDate=20241101
+.Ribbons=$suggestAll
 EVs: 4 HP / 252 SpA / 252 Spe
 Ability: Volt Absorb
 Timid Nature
@@ -88,7 +93,7 @@ Timid Nature
 - Thunderbolt
 
 
-Flareon  @ Master Ball
+Flareon @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -97,7 +102,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20231115
+.MetDate=20251114
+.Ribbons=$suggestAll
 EVs: 252 Atk / 4 Def / 252 Spe
 Ability: Flash Fire
 Adamant Nature

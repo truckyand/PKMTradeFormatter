@@ -1,5 +1,5 @@
 .bt 
-Magmortar  @ Master Ball
+Magmortar @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -8,7 +8,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250226
+.MetDate=20240520
+.Ribbons=$suggestAll
 EVs: 4 HP / 252 SpA / 252 Spe
 Ability: Vital Spirit
 Timid Nature
@@ -17,7 +18,7 @@ Timid Nature
 - Focus Blast
 
 
-Togekiss  @ Master Ball
+Togekiss @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -26,7 +27,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230807
+.MetDate=20230128
+.Ribbons=$suggestAll
 EVs: 4 HP / 252 SpA / 252 Spe
 Ability: Serene Grace
 Timid Nature
@@ -35,7 +37,7 @@ Timid Nature
 - Flamethrower
 
 
-Leafeon  @ Master Ball
+Leafeon @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -44,7 +46,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230127
+.MetDate=20240607
+.Ribbons=$suggestAll
 EVs: 252 Atk / 4 Def / 252 Spe
 Ability: Chlorophyll
 Jolly Nature
@@ -53,7 +56,7 @@ Jolly Nature
 - Double-Edge
 
 
-Glaceon  @ Master Ball
+Glaceon @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -62,7 +65,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240613
+.MetDate=20230301
+.Ribbons=$suggestAll
 EVs: 4 Def / 252 SpA / 252 Spe
 Ability: Ice Body
 Modest Nature
@@ -71,7 +75,7 @@ Modest Nature
 - Shadow Ball
 
 
-Mamoswine  @ Master Ball
+Mamoswine @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -80,7 +84,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230425
+.MetDate=20240523
+.Ribbons=$suggestAll
 EVs: 252 Atk / 4 Def / 252 Spe
 Ability: Thick Fat
 Jolly Nature
@@ -89,7 +94,7 @@ Jolly Nature
 - Ice Shard
 
 
-Porygon-z  @ Master Ball
+Porygon-z @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -98,7 +103,8 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240501
+.MetDate=20250512
+.Ribbons=$suggestAll
 EVs: 252 SpA / 4 SpD / 252 Spe
 Ability: Adaptability
 Timid Nature
