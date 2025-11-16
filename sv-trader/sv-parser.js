@@ -111,7 +111,7 @@ for (let i = 0; i < data.length; i += chunkSize) {
 
 			// Finalize data
 			const metDate = randomDate();
-			const holdItem = ' @ Master Ball';
+			const holdItem = '@ Master Ball';
 			const pokeBall_Wanted = "Luxury Ball";
 			const pokeBall = pkmgg_pkm && pkmgg_pkm.legal_pokeballs.includes(pokeBall_Wanted) ? pokeBall_Wanted : pkmgg_pkm.legal_pokeballs[0];
 			const is_shiny = pkmgg_pkm && (pkmgg_pkm.shiny_locked === true) ? 'No' : 'Yes';
