@@ -1,4 +1,5 @@
-.bt Volcarona @ Master Ball
+.bt 
+Volcarona  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -7,7 +8,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20241019
+.MetDate=20241104
 EVs: 252 HP / 4 Def / 252 Spe
 Ability: Flame Body
 Timid Nature
@@ -15,7 +16,8 @@ Timid Nature
 - Flamethrower
 - Bug Buzz
 
-Cobalion @ Master Ball
+# is_legendary
+Cobalion  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -24,7 +26,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240107
+.MetDate=20240518
 EVs: 4 HP / 252 Atk / 252 Spe
 Ability: Justified
 Jolly Nature
@@ -32,7 +34,8 @@ Jolly Nature
 - Sacred Sword
 - Volt Switch
 
-Terrakion @ Master Ball
+# is_legendary
+Terrakion  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -41,7 +44,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230907
+.MetDate=20250325
 EVs: 252 Atk / 4 Def / 252 Spe
 Ability: Justified
 Jolly Nature
@@ -49,7 +52,8 @@ Jolly Nature
 - Stone Edge
 - Sacred Sword
 
-Virizion @ Master Ball
+# is_legendary
+Virizion  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -58,7 +62,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20241107
+.MetDate=20230910
 EVs: 252 Atk / 4 SpD / 252 Spe
 Ability: Justified
 Jolly Nature
@@ -66,7 +70,8 @@ Jolly Nature
 - Sacred Sword
 - Grassy Glide
 
-Bunnelby @ Master Ball
+
+Bunnelby  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -75,7 +80,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250804
+.MetDate=20240219
 EVs: 252 Atk / 4 SpD / 252 Spe
 Ability: Huge Power
 Adamant Nature
@@ -84,7 +89,8 @@ Adamant Nature
 - Bounce
 - Stone Edge
 
-Diggersby @ Master Ball
+
+Diggersby  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -93,7 +99,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20251009
+.MetDate=20251209
 EVs: 252 Atk / 4 SpD / 252 Spe
 Ability: Huge Power
 Adamant Nature

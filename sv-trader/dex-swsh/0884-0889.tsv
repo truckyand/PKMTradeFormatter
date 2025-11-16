@@ -1,4 +1,5 @@
-.bt Duraludon @ Master Ball
+.bt 
+Duraludon  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -7,7 +8,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230904
+.MetDate=20230108
 EVs: 4 HP / 252 SpA / 252 Spe
 Ability: Stalwart
 Gigantamax: Yes
@@ -16,7 +17,8 @@ Modest Nature
 - Draco Meteor
 - Dark Pulse
 
-Dreepy @ Master Ball
+
+Dreepy  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -25,7 +27,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250119
+.MetDate=20231105
 EVs: 4 HP / 252 SpA / 252 Spe
 Ability: Infiltrator
 Timid Nature
@@ -34,7 +36,8 @@ Timid Nature
 - Sucker Punch
 - Protect
 
-Drakloak @ Master Ball
+
+Drakloak  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -43,7 +46,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250709
+.MetDate=20231004
 EVs: 4 HP / 252 SpA / 252 Spe
 Ability: Infiltrator
 Timid Nature
@@ -52,7 +55,8 @@ Timid Nature
 - Thunderbolt
 - Fire Blast
 
-Dragapult @ Master Ball
+
+Dragapult  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -61,7 +65,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250803
+.MetDate=20230714
 EVs: 4 HP / 252 SpA / 252 Spe
 Ability: Infiltrator
 Timid Nature
@@ -69,7 +73,8 @@ Timid Nature
 - Shadow Ball
 - Thunderbolt
 
-Zacian @ Master Ball
+# is_legendary
+Zacian  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -78,7 +83,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250115
+.MetDate=20230328
 EVs: 4 HP / 252 Atk / 252 Spe
 Ability: Intrepid Sword
 Jolly Nature
@@ -86,7 +91,8 @@ Jolly Nature
 - Swords Dance
 - Iron Head
 
-Zamazenta @ Master Ball
+# is_legendary
+Zamazenta  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -95,7 +101,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230703
+.MetDate=20250215
 EVs: 252 Atk / 4 Def / 252 Spe
 Ability: Dauntless Shield
 Jolly Nature

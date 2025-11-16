@@ -1,4 +1,5 @@
-.bt Bisharp @ Master Ball
+.bt 
+Bisharp  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -7,7 +8,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230323
+.MetDate=20230912
 EVs: 4 HP / 252 Atk / 252 Spe
 Ability: Defiant
 Jolly Nature
@@ -15,7 +16,8 @@ Jolly Nature
 - Sucker Punch
 - Psycho Cut
 
-Bouffalant @ Master Ball
+
+Bouffalant  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -24,7 +26,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20241208
+.MetDate=20231208
 EVs: 252 HP / 156 SpD / 100 Spe
 Ability: Sap Sipper
 Careful Nature
@@ -32,7 +34,8 @@ Careful Nature
 - Swords Dance
 - Facade
 
-Rufflet @ Master Ball
+
+Rufflet  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -41,7 +44,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240105
+.MetDate=20251102
 EVs: 252 Atk / 4 SpD / 252 Spe
 Ability: Hustle
 Jolly Nature
@@ -50,7 +53,8 @@ Jolly Nature
 - Protect
 - U-turn
 
-Braviary @ Master Ball
+
+Braviary  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -59,7 +63,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240322
+.MetDate=20230614
 EVs: 252 Atk / 4 SpD / 252 Spe
 Ability: Defiant
 Jolly Nature
@@ -67,7 +71,8 @@ Jolly Nature
 - Close Combat
 - Tailwind
 
-Vullaby @ Master Ball
+
+Vullaby  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -76,7 +81,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20231110
+.MetDate=20231010
 EVs: 236 Atk / 76 Def / 196 Spe
 Ability: Weak Armor
 Adamant Nature
@@ -85,7 +90,8 @@ Adamant Nature
 - U-turn
 - Defog
 
-Mandibuzz @ Master Ball
+
+Mandibuzz  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -94,7 +100,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230502
+.MetDate=20230317
 EVs: 252 HP / 4 Def / 252 SpD
 Ability: Overcoat
 Careful Nature

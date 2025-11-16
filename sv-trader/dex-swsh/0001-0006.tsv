@@ -1,4 +1,5 @@
-.bt Bulbasaur @ Master Ball
+.bt 
+Bulbasaur  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -7,7 +8,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250506
+.MetDate=20230211
 EVs: 4 HP / 252 SpA / 252 Spe
 Ability: Chlorophyll
 Timid Nature
@@ -16,7 +17,8 @@ Timid Nature
 - Weather Ball
 - Growth
 
-Ivysaur @ Master Ball
+
+Ivysaur  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -25,7 +27,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20231127
+.MetDate=20240224
 EVs: 4 HP / 252 SpA / 252 Spe
 Ability: Chlorophyll
 Timid Nature
@@ -34,7 +36,8 @@ Timid Nature
 - Weather Ball
 - Growth
 
-Venusaur @ Master Ball
+
+Venusaur  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -43,7 +46,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250506
+.MetDate=20240817
 EVs: 4 HP / 252 SpA / 252 Spe
 Ability: Chlorophyll
 Gigantamax: Yes
@@ -52,7 +55,8 @@ Timid Nature
 - Synthesis
 - Weather Ball
 
-Charmander @ Master Ball
+
+Charmander  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -61,7 +65,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240427
+.MetDate=20241007
 EVs: 4 HP / 252 SpA / 252 Spe
 Ability: Solar Power
 Timid Nature
@@ -70,7 +74,8 @@ Timid Nature
 - Ancient Power
 - Will-O-Wisp
 
-Charmeleon @ Master Ball
+
+Charmeleon  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -79,7 +84,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250623
+.MetDate=20230218
 EVs: 4 HP / 252 SpA / 252 Spe
 Ability: Solar Power
 Timid Nature
@@ -88,7 +93,8 @@ Timid Nature
 - Ancient Power
 - Will-O-Wisp
 
-Charizard @ Master Ball
+
+Charizard  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -97,7 +103,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250218
+.MetDate=20231203
 EVs: 4 HP / 252 Atk / 252 Spe
 Ability: Blaze
 Gigantamax: Yes

@@ -1,4 +1,5 @@
-.bt Alakazam @ Master Ball
+.bt 
+Alakazam  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -7,7 +8,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230628
+.MetDate=20230712
 EVs: 4 Def / 252 SpA / 252 Spe
 Ability: Magic Guard
 Timid Nature
@@ -15,7 +16,8 @@ Timid Nature
 - Focus Blast
 - Shadow Ball
 
-Machop @ Master Ball
+
+Machop  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -24,7 +26,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250319
+.MetDate=20251223
 EVs: 252 HP / 252 Atk / 4 Def
 Ability: Guts
 Adamant Nature
@@ -33,7 +35,8 @@ Adamant Nature
 - Facade
 - Bullet Punch
 
-Machoke @ Master Ball
+
+Machoke  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -42,7 +45,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240318
+.MetDate=20241108
 EVs: 252 HP / 252 Atk / 4 Def
 Ability: Guts
 Adamant Nature
@@ -51,7 +54,8 @@ Adamant Nature
 - Facade
 - Bullet Punch
 
-Machamp @ Master Ball
+
+Machamp  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -60,7 +64,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20251005
+.MetDate=20240207
 EVs: 252 HP / 252 Atk / 4 Def
 Ability: Guts
 Gigantamax: Yes
@@ -69,7 +73,8 @@ Adamant Nature
 - Knock Off
 - Facade
 
-Tentacool @ Master Ball
+
+Tentacool  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -78,7 +83,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230405
+.MetDate=20241014
 EVs: 252 HP / 112 Def / 144 Spe
 Ability: Clear Body
 Timid Nature
@@ -87,7 +92,8 @@ Timid Nature
 - Haze
 - Sludge Bomb
 
-Tentacruel @ Master Ball
+
+Tentacruel  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -96,7 +102,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20251119
+.MetDate=20231016
 EVs: 252 HP / 112 Def / 144 Spe
 Ability: Clear Body
 Timid Nature

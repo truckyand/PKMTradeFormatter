@@ -1,4 +1,5 @@
-.bt Dubwool @ Master Ball
+.bt 
+Dubwool  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -7,7 +8,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250205
+.MetDate=20250810
 EVs: 104 HP / 252 Def / 152 Spe
 Ability: Fluffy
 Impish Nature
@@ -15,7 +16,8 @@ Impish Nature
 - Body Press
 - Thunder Wave
 
-Chewtle @ Master Ball
+
+Chewtle  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -24,7 +26,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20241225
+.MetDate=20250309
 EVs: 252 Atk / 4 Def / 252 Spe
 Ability: Swift Swim
 Adamant Nature
@@ -33,7 +35,8 @@ Adamant Nature
 - Body Slam
 - Protect
 
-Drednaw @ Master Ball
+
+Drednaw  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -42,7 +45,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250102
+.MetDate=20241005
 EVs: 252 Atk / 4 Def / 252 Spe
 Ability: Swift Swim
 Gigantamax: Yes
@@ -51,7 +54,8 @@ Adamant Nature
 - Stone Edge
 - Superpower
 
-Yamper @ Master Ball
+
+Yamper  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -60,7 +64,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250607
+.MetDate=20231116
 EVs: 4 HP / 252 Atk / 252 Spe
 Ability: Ball Fetch
 Jolly Nature
@@ -69,7 +73,8 @@ Jolly Nature
 - Fire Fang
 - Crunch
 
-Boltund @ Master Ball
+
+Boltund  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -78,7 +83,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20251227
+.MetDate=20250502
 EVs: 4 HP / 252 Atk / 252 Spe
 Ability: Strong Jaw
 Jolly Nature
@@ -86,7 +91,8 @@ Jolly Nature
 - Thunder Fang
 - Fire Fang
 
-Rolycoly @ Master Ball
+
+Rolycoly  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -95,7 +101,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230122
+.MetDate=20230805
 EVs: 248 HP / 8 Def / 252 SpD
 Ability: Heatproof
 Sassy Nature

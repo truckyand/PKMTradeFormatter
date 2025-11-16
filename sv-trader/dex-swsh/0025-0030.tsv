@@ -1,4 +1,5 @@
-.bt Pikachu @ Master Ball
+.bt 
+Pikachu  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -7,7 +8,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230226
+.MetDate=20250406
 EVs: 4 HP / 252 SpA / 252 Spe
 Ability: Lightning Rod
 Gigantamax: Yes
@@ -16,7 +17,8 @@ Timid Nature
 - Volt Switch
 - Surf
 
-Raichu @ Master Ball
+
+Raichu  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -25,7 +27,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250613
+.MetDate=20250322
 EVs: 4 HP / 252 SpA / 252 Spe
 Ability: Lightning Rod
 Timid Nature
@@ -33,7 +35,8 @@ Timid Nature
 - Nasty Plot
 - Grass Knot
 
-Sandshrew @ Master Ball
+
+Sandshrew  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -42,7 +45,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250821
+.MetDate=20241124
 EVs: 252 HP / 4 Atk / 252 Spe
 Ability: Sand Rush
 Jolly Nature
@@ -51,7 +54,8 @@ Jolly Nature
 - Rapid Spin
 - Stealth Rock
 
-Sandslash @ Master Ball
+
+Sandslash  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -60,7 +64,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240815
+.MetDate=20230420
 EVs: 252 HP / 4 Atk / 252 Spe
 Ability: Sand Rush
 Jolly Nature
@@ -68,7 +72,8 @@ Jolly Nature
 - Protect
 - Rapid Spin
 
-Nidoran-f @ Master Ball
+
+Nidoran-f  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -77,7 +82,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20241115
+.MetDate=20230126
 EVs: 60 Atk / 180 Def / 196 SpD / 28 Spe
 Ability: Poison Point
 Impish Nature
@@ -86,7 +91,8 @@ Impish Nature
 - Poison Jab
 - Thief
 
-Nidorina @ Master Ball
+
+Nidorina  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -95,7 +101,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230708
+.MetDate=20250724
 EVs: 60 Atk / 180 Def / 196 SpD / 28 Spe
 Ability: Poison Point
 Impish Nature

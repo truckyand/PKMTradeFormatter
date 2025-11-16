@@ -1,4 +1,5 @@
-.bt Exeggutor @ Master Ball
+.bt 
+Exeggutor  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -7,7 +8,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20231026
+.MetDate=20230807
 EVs: 252 SpA / 4 SpD / 252 Spe
 Ability: Chlorophyll
 Modest Nature
@@ -15,7 +16,8 @@ Modest Nature
 - Psyshock
 - Sleep Powder
 
-Darmanitan @ Master Ball
+
+Darmanitan  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -24,7 +26,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250124
+.MetDate=20240416
 EVs: 252 HP / 252 Atk / 4 Def
 Ability: Rock Head
 Brave Nature
@@ -33,7 +35,8 @@ Brave Nature
 - Fire Punch
 - Swords Dance
 
-Cubone @ Master Ball
+
+Cubone  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -42,7 +45,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20231212
+.MetDate=20250614
 EVs: 252 HP / 252 Atk / 4 Def
 Ability: Rock Head
 Brave Nature
@@ -51,7 +54,8 @@ Brave Nature
 - Fire Punch
 - Swords Dance
 
-Marowak @ Master Ball
+
+Marowak  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -60,7 +64,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240807
+.MetDate=20240912
 EVs: 252 HP / 252 Atk / 4 Def
 Ability: Rock Head
 Brave Nature
@@ -68,7 +72,8 @@ Brave Nature
 - Double-Edge
 - Fire Punch
 
-Hitmonlee @ Master Ball
+
+Hitmonlee  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -77,7 +82,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20231223
+.MetDate=20231015
 EVs: 252 Atk / 4 SpD / 252 Spe
 Ability: Reckless
 Jolly Nature
@@ -85,7 +90,8 @@ Jolly Nature
 - Blaze Kick
 - Rapid Spin
 
-Hitmonchan @ Master Ball
+
+Hitmonchan  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -94,7 +100,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250204
+.MetDate=20240113
 EVs: 252 Atk / 4 SpD / 252 Spe
 Ability: Iron Fist
 Adamant Nature

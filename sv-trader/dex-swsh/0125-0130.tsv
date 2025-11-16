@@ -1,4 +1,5 @@
-.bt Electabuzz @ Master Ball
+.bt 
+Electabuzz  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -7,7 +8,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230209
+.MetDate=20230404
 EVs: 4 HP / 252 SpA / 252 Spe
 Ability: Vital Spirit
 Timid Nature
@@ -16,7 +17,8 @@ Timid Nature
 - Focus Blast
 - Substitute
 
-Magmar @ Master Ball
+
+Magmar  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -25,7 +27,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250906
+.MetDate=20231209
 EVs: 4 Atk / 252 SpA / 252 Spe
 Ability: Vital Spirit
 Hasty Nature
@@ -34,7 +36,8 @@ Hasty Nature
 - Will-O-Wisp
 - Substitute
 
-Pinsir @ Master Ball
+
+Pinsir  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -43,7 +46,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20251008
+.MetDate=20250626
 EVs: 252 Atk / 4 Def / 252 Spe
 Ability: Mold Breaker
 Jolly Nature
@@ -51,7 +54,8 @@ Jolly Nature
 - X-Scissor
 - Earthquake
 
-Tauros @ Master Ball
+
+Tauros  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -60,7 +64,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250122
+.MetDate=20240725
 EVs: 252 Atk / 4 SpA / 252 Spe
 Ability: Sheer Force
 Naive Nature
@@ -68,7 +72,8 @@ Naive Nature
 - Fire Blast
 - Work Up
 
-Magikarp @ Master Ball
+
+Magikarp  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -77,7 +82,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230305
+.MetDate=20240413
 EVs: 4 HP / 252 Atk / 252 Spe
 Ability: Rattled
 Jolly Nature
@@ -85,7 +90,8 @@ Jolly Nature
 - Hydro Pump
 - Splash
 
-Gyarados @ Master Ball
+
+Gyarados  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -94,7 +100,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20231020
+.MetDate=20230617
 EVs: 4 HP / 252 Atk / 252 Spe
 Ability: Moxie
 Jolly Nature

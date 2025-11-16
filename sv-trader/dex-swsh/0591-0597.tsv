@@ -1,4 +1,5 @@
-.bt Amoonguss @ Master Ball
+.bt 
+Amoonguss  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -7,7 +8,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240922
+.MetDate=20241005
 EVs: 248 HP / 168 Def / 92 SpD
 Ability: Regenerator
 Bold Nature
@@ -15,7 +16,8 @@ Bold Nature
 - Giga Drain
 - Clear Smog
 
-Frillish @ Master Ball
+
+Frillish  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -24,7 +26,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250517
+.MetDate=20230616
 EVs: 252 HP / 196 Def / 60 Spe
 Ability: Water Absorb
 Bold Nature
@@ -33,7 +35,8 @@ Bold Nature
 - Will-O-Wisp
 - Taunt
 
-Jellicent @ Master Ball
+
+Jellicent  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -42,7 +45,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240405
+.MetDate=20240119
 EVs: 252 HP / 196 Def / 60 Spe
 Ability: Water Absorb
 Bold Nature
@@ -50,7 +53,8 @@ Bold Nature
 - Strength Sap
 - Will-O-Wisp
 
-Joltik @ Master Ball
+
+Joltik  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -59,7 +63,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230803
+.MetDate=20231026
 EVs: 4 HP / 252 SpA / 252 Spe
 Ability: Compound Eyes
 Timid Nature
@@ -68,7 +72,8 @@ Timid Nature
 - Volt Switch
 - Thunderbolt
 
-Galvantula @ Master Ball
+
+Galvantula  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -77,7 +82,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250106
+.MetDate=20250203
 EVs: 4 HP / 252 SpA / 252 Spe
 Ability: Compound Eyes
 Timid Nature
@@ -85,7 +90,8 @@ Timid Nature
 - Bug Buzz
 - Volt Switch
 
-Ferroseed @ Master Ball
+
+Ferroseed  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -94,7 +100,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240414
+.MetDate=20251014
 EVs: 252 HP / 4 Def / 252 SpD
 Ability: Iron Barbs
 Careful Nature

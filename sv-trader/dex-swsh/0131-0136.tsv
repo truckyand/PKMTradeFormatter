@@ -1,4 +1,5 @@
-.bt Lapras @ Master Ball
+.bt 
+Lapras  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -7,7 +8,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20231015
+.MetDate=20250727
 EVs: 244 HP / 252 SpA / 12 Spe
 Ability: Water Absorb
 Gigantamax: Yes
@@ -16,7 +17,8 @@ Modest Nature
 - Sparkling Aria
 - Ice Beam
 
-Ditto @ Master Ball
+
+Ditto  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -25,12 +27,13 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250126
+.MetDate=20230820
 EVs: 252 HP / 4 Atk / 252 Def
 Ability: Imposter
 Jolly Nature
 
-Eevee @ Master Ball
+
+Eevee  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -39,7 +42,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240804
+.MetDate=20240322
 EVs: 4 HP / 252 SpA / 252 Spe
 Ability: Anticipation
 Timid Nature
@@ -48,7 +51,8 @@ Timid Nature
 - Shadow Ball
 - Stored Power
 
-Vaporeon @ Master Ball
+
+Vaporeon  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -57,7 +61,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250428
+.MetDate=20240815
 EVs: 252 HP / 252 Def / 4 Spe
 Ability: Water Absorb
 Bold Nature
@@ -65,7 +69,8 @@ Bold Nature
 - Wish
 - Protect
 
-Jolteon @ Master Ball
+
+Jolteon  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -74,7 +79,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250109
+.MetDate=20230319
 EVs: 4 HP / 252 SpA / 252 Spe
 Ability: Volt Absorb
 Timid Nature
@@ -82,7 +87,8 @@ Timid Nature
 - Volt Switch
 - Thunderbolt
 
-Flareon @ Master Ball
+
+Flareon  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -91,7 +97,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240408
+.MetDate=20231115
 EVs: 252 Atk / 4 Def / 252 Spe
 Ability: Flash Fire
 Adamant Nature

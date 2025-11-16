@@ -1,4 +1,5 @@
-.bt Hakamo-o @ Master Ball
+.bt 
+Hakamo-o  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -7,7 +8,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250119
+.MetDate=20230819
 EVs: 4 HP / 252 Atk / 252 Spe
 Ability: Bulletproof
 Adamant Nature
@@ -16,7 +17,8 @@ Adamant Nature
 - Earthquake
 - Brick Break
 
-Kommo-o @ Master Ball
+
+Kommo-o  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -25,7 +27,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250511
+.MetDate=20231009
 EVs: 4 HP / 252 SpA / 252 Spe
 Ability: Overcoat
 Timid Nature
@@ -33,7 +35,8 @@ Timid Nature
 - Clangorous Soul
 - Flash Cannon
 
-Grookey @ Master Ball
+
+Grookey  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -42,7 +45,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230811
+.MetDate=20250217
 EVs: 252 HP / 252 Atk / 4 Spe
 Ability: Grassy Surge
 Adamant Nature
@@ -51,7 +54,8 @@ Adamant Nature
 - Grassy Glide
 - Drain Punch
 
-Thwackey @ Master Ball
+
+Thwackey  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -60,7 +64,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230717
+.MetDate=20240406
 EVs: 252 HP / 252 Atk / 4 Spe
 Ability: Grassy Surge
 Adamant Nature
@@ -69,7 +73,8 @@ Adamant Nature
 - Grassy Glide
 - Drain Punch
 
-Rillaboom @ Master Ball
+
+Rillaboom  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -78,7 +83,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20231111
+.MetDate=20250705
 EVs: 252 Atk / 4 SpD / 252 Spe
 Ability: Grassy Surge
 Gigantamax: Yes
@@ -87,7 +92,8 @@ Jolly Nature
 - Knock Off
 - U-turn
 
-Scorbunny @ Master Ball
+
+Scorbunny  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -96,7 +102,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230109
+.MetDate=20230519
 EVs: 4 HP / 252 Atk / 252 Spe
 Ability: Libero
 Jolly Nature

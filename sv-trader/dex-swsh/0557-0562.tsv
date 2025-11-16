@@ -1,4 +1,5 @@
-.bt Dwebble @ Master Ball
+.bt 
+Dwebble  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -7,7 +8,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250818
+.MetDate=20240601
 EVs: 252 Atk / 4 SpD / 252 Spe
 Ability: Sturdy
 Jolly Nature
@@ -16,7 +17,8 @@ Jolly Nature
 - Earthquake
 - Knock Off
 
-Crustle @ Master Ball
+
+Crustle  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -25,7 +27,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250211
+.MetDate=20240622
 EVs: 252 Atk / 4 SpD / 252 Spe
 Ability: Sturdy
 Jolly Nature
@@ -33,7 +35,8 @@ Jolly Nature
 - Stone Edge
 - Earthquake
 
-Scraggy @ Master Ball
+
+Scraggy  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -42,7 +45,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20231010
+.MetDate=20230909
 EVs: 252 HP / 152 Atk / 16 Def / 60 SpD / 28 Spe
 Ability: Intimidate
 Impish Nature
@@ -51,7 +54,8 @@ Impish Nature
 - Power-Up Punch
 - Protect
 
-Scrafty @ Master Ball
+
+Scrafty  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -60,7 +64,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240327
+.MetDate=20240411
 EVs: 252 HP / 152 Atk / 16 Def / 60 SpD / 28 Spe
 Ability: Intimidate
 Impish Nature
@@ -68,7 +72,8 @@ Impish Nature
 - Close Combat
 - Throat Chop
 
-Sigilyph @ Master Ball
+
+Sigilyph  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -77,7 +82,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230602
+.MetDate=20230108
 EVs: 252 SpA / 4 SpD / 252 Spe
 Ability: Magic Guard
 Timid Nature
@@ -85,7 +90,8 @@ Timid Nature
 - Heat Wave
 - Energy Ball
 
-Yamask @ Master Ball
+
+Yamask  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -94,7 +100,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250313
+.MetDate=20241213
 EVs: 252 HP / 252 Def / 4 SpD
 Ability: Wandering Spirit
 Impish Nature

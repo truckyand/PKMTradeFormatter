@@ -1,4 +1,5 @@
-.bt Vanillish @ Master Ball
+.bt 
+Vanillish  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -7,7 +8,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240926
+.MetDate=20250725
 EVs: 4 HP / 252 SpA / 252 Spe
 Ability: Snow Cloak
 Timid Nature
@@ -16,7 +17,8 @@ Timid Nature
 - Icy Wind
 - Sheer Cold
 
-Vanilluxe @ Master Ball
+
+Vanilluxe  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -25,7 +27,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250313
+.MetDate=20231212
 EVs: 4 HP / 252 SpA / 252 Spe
 Ability: Snow Warning
 Timid Nature
@@ -33,7 +35,8 @@ Timid Nature
 - Freeze-Dry
 - Icy Wind
 
-Emolga @ Master Ball
+
+Emolga  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -42,7 +45,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20241203
+.MetDate=20231214
 EVs: 248 HP / 8 Def / 252 Spe
 Ability: Motor Drive
 Jolly Nature
@@ -50,7 +53,8 @@ Jolly Nature
 - U-turn
 - Roost
 
-Karrablast @ Master Ball
+
+Karrablast  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -59,7 +63,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20231004
+.MetDate=20240126
 EVs: 236 Atk / 76 Def / 196 Spe
 Ability: No Guard
 Jolly Nature
@@ -68,7 +72,8 @@ Jolly Nature
 - Drill Run
 - Poison Jab
 
-Escavalier @ Master Ball
+
+Escavalier  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -77,7 +82,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20251218
+.MetDate=20241220
 EVs: 252 HP / 252 Atk / 4 SpD
 Ability: Overcoat
 Adamant Nature
@@ -85,7 +90,8 @@ Adamant Nature
 - Iron Head
 - Drill Run
 
-Foongus @ Master Ball
+
+Foongus  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -94,7 +100,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230325
+.MetDate=20250308
 EVs: 248 HP / 168 Def / 92 SpD
 Ability: Regenerator
 Bold Nature

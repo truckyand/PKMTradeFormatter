@@ -1,4 +1,5 @@
-.bt Garbodor @ Master Ball
+.bt 
+Garbodor  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -7,7 +8,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20231022
+.MetDate=20231217
 EVs: 252 HP / 4 Def / 252 SpD
 Ability: Aftermath
 Gigantamax: Yes
@@ -16,7 +17,8 @@ Careful Nature
 - Spikes
 - Pain Split
 
-Zorua @ Master Ball
+
+Zorua  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -25,7 +27,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230126
+.MetDate=20240513
 EVs: 252 SpA / 4 SpD / 252 Spe
 Ability: Illusion
 Timid Nature
@@ -34,7 +36,8 @@ Timid Nature
 - Substitute
 - Sludge Bomb
 
-Zoroark @ Master Ball
+
+Zoroark  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -43,7 +46,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250818
+.MetDate=20230610
 EVs: 252 SpA / 4 SpD / 252 Spe
 Ability: Illusion
 Timid Nature
@@ -51,7 +54,8 @@ Timid Nature
 - Dark Pulse
 - Focus Blast
 
-Minccino @ Master Ball
+
+Minccino  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -60,7 +64,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240323
+.MetDate=20240415
 EVs: 252 Atk / 4 Def / 252 Spe
 Ability: Skill Link
 Jolly Nature
@@ -69,7 +73,8 @@ Jolly Nature
 - U-turn
 - Tail Slap
 
-Cinccino @ Master Ball
+
+Cinccino  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -78,7 +83,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250712
+.MetDate=20240706
 EVs: 252 Atk / 4 Def / 252 Spe
 Ability: Skill Link
 Jolly Nature
@@ -86,7 +91,8 @@ Jolly Nature
 - Rock Blast
 - Bullet Seed
 
-Gothita @ Master Ball
+
+Gothita  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -95,7 +101,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20241107
+.MetDate=20250928
 EVs: 252 HP / 252 Def / 4 Spe
 Ability: Shadow Tag
 Bold Nature

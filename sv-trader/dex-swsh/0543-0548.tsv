@@ -1,4 +1,5 @@
-.bt Venipede @ Master Ball
+.bt 
+Venipede  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -7,7 +8,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20231213
+.MetDate=20250409
 EVs: 244 HP / 12 Def / 252 Spe
 Ability: Speed Boost
 Jolly Nature
@@ -16,7 +17,8 @@ Jolly Nature
 - Protect
 - Toxic
 
-Whirlipede @ Master Ball
+
+Whirlipede  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -25,7 +27,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250716
+.MetDate=20250207
 EVs: 244 HP / 12 Def / 252 Spe
 Ability: Speed Boost
 Jolly Nature
@@ -34,7 +36,8 @@ Jolly Nature
 - Protect
 - Toxic
 
-Scolipede @ Master Ball
+
+Scolipede  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -43,7 +46,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240524
+.MetDate=20230411
 EVs: 252 Atk / 4 Def / 252 Spe
 Ability: Speed Boost
 Jolly Nature
@@ -51,7 +54,8 @@ Jolly Nature
 - Megahorn
 - Poison Jab
 
-Cottonee @ Master Ball
+
+Cottonee  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -60,7 +64,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230504
+.MetDate=20250421
 EVs: 252 HP / 4 SpA / 252 Spe
 Ability: Prankster
 Timid Nature
@@ -69,7 +73,8 @@ Timid Nature
 - Energy Ball
 - Protect
 
-Whimsicott @ Master Ball
+
+Whimsicott  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -78,7 +83,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230111
+.MetDate=20251221
 EVs: 4 HP / 252 SpA / 252 Spe
 Ability: Prankster
 Timid Nature
@@ -86,7 +91,8 @@ Timid Nature
 - Tailwind
 - Taunt
 
-Petilil @ Master Ball
+
+Petilil  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -95,7 +101,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240302
+.MetDate=20230923
 EVs: 4 Def / 252 SpA / 252 Spe
 Ability: Chlorophyll
 Timid Nature

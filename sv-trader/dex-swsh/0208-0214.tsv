@@ -1,4 +1,5 @@
-.bt Steelix @ Master Ball
+.bt 
+Steelix  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -7,7 +8,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240320
+.MetDate=20230124
 EVs: 252 HP / 208 Atk / 48 SpD
 Ability: Sturdy
 Brave Nature
@@ -15,7 +16,8 @@ Brave Nature
 - Gyro Ball
 - Earthquake
 
-Meowstic @ Master Ball
+
+Meowstic  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -24,7 +26,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230828
+.MetDate=20230806
 EVs: 4 Def / 252 SpA / 252 Spe
 Ability: Infiltrator
 Timid Nature
@@ -32,7 +34,8 @@ Timid Nature
 - Thunderbolt
 - Nasty Plot
 
-Qwilfish @ Master Ball
+
+Qwilfish  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -41,7 +44,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240612
+.MetDate=20230218
 EVs: 252 Atk / 4 Def / 252 Spe
 Ability: Swift Swim
 Adamant Nature
@@ -49,7 +52,8 @@ Adamant Nature
 - Waterfall
 - Poison Jab
 
-Scizor @ Master Ball
+
+Scizor  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -58,7 +62,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230205
+.MetDate=20231116
 EVs: 252 HP / 252 Atk / 4 SpD
 Ability: Technician
 Adamant Nature
@@ -66,7 +70,8 @@ Adamant Nature
 - Superpower
 - Bullet Punch
 
-Shuckle @ Master Ball
+
+Shuckle  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -75,7 +80,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230223
+.MetDate=20241013
 EVs: 248 HP / 252 Def / 8 SpD
 Ability: Contrary
 Bold Nature
@@ -83,7 +88,8 @@ Bold Nature
 - Shell Smash
 - Knock Off
 
-Heracross @ Master Ball
+
+Heracross  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -92,7 +98,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20241101
+.MetDate=20231107
 EVs: 252 Atk / 4 Def / 252 Spe
 Ability: Guts
 Jolly Nature

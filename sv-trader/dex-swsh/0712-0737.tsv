@@ -1,4 +1,5 @@
-.bt Bergmite @ Master Ball
+.bt 
+Bergmite  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -7,7 +8,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240910
+.MetDate=20251108
 EVs: 252 HP / 88 Atk / 168 Def
 Ability: Ice Body
 Impish Nature
@@ -16,7 +17,8 @@ Impish Nature
 - Rapid Spin
 - Stone Edge
 
-Avalugg @ Master Ball
+
+Avalugg  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -25,7 +27,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20251217
+.MetDate=20250903
 EVs: 252 HP / 88 Atk / 168 Def
 Ability: Ice Body
 Impish Nature
@@ -33,7 +35,8 @@ Impish Nature
 - Recover
 - Rapid Spin
 
-Noibat @ Master Ball
+
+Noibat  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -42,7 +45,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250108
+.MetDate=20230210
 EVs: 252 SpA / 4 SpD / 252 Spe
 Ability: Infiltrator
 Timid Nature
@@ -51,7 +54,8 @@ Timid Nature
 - Roost
 - U-turn
 
-Noivern @ Master Ball
+
+Noivern  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -60,7 +64,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250507
+.MetDate=20240828
 EVs: 252 SpA / 4 SpD / 252 Spe
 Ability: Infiltrator
 Timid Nature
@@ -68,7 +72,8 @@ Timid Nature
 - Draco Meteor
 - Roost
 
-Grubbin @ Master Ball
+
+Grubbin  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -77,7 +82,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230910
+.MetDate=20240304
 EVs: 140 HP / 20 Atk / 156 Def / 156 SpD
 Ability: Swarm
 Relaxed Nature
@@ -86,7 +91,8 @@ Relaxed Nature
 - X-Scissor
 - Acrobatics
 
-Charjabug @ Master Ball
+
+Charjabug  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -95,7 +101,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230704
+.MetDate=20240127
 EVs: 252 HP / 4 Atk / 252 Def
 Ability: Battery
 Impish Nature

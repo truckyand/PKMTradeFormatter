@@ -1,4 +1,5 @@
-.bt Cufant @ Master Ball
+.bt 
+Cufant  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -7,7 +8,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240223
+.MetDate=20251004
 EVs: 252 HP / 252 Atk / 4 SpD
 Ability: Heavy Metal
 Adamant Nature
@@ -16,7 +17,8 @@ Adamant Nature
 - Power Whip
 - Stomping Tantrum
 
-Copperajah @ Master Ball
+
+Copperajah  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -25,7 +27,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230803
+.MetDate=20250817
 EVs: 252 HP / 252 Atk / 4 SpD
 Ability: Heavy Metal
 Gigantamax: Yes
@@ -34,7 +36,8 @@ Adamant Nature
 - Heat Crash
 - Power Whip
 
-Dracozolt @ Master Ball
+
+Dracozolt  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -43,7 +46,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240125
+.MetDate=20231028
 EVs: 252 Atk / 4 SpD / 252 Spe
 Ability: Hustle
 Jolly Nature
@@ -51,7 +54,8 @@ Jolly Nature
 - Dragon Claw
 - Fire Fang
 
-Arctozolt @ Master Ball
+
+Arctozolt  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -60,7 +64,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240208
+.MetDate=20230820
 EVs: 252 Atk / 4 SpA / 252 Spe
 Ability: Volt Absorb
 Jolly Nature
@@ -68,7 +72,8 @@ Jolly Nature
 - Icicle Crash
 - Low Kick
 
-Dracovish @ Master Ball
+
+Dracovish  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -77,7 +82,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240225
+.MetDate=20230811
 EVs: 4 HP / 252 Atk / 252 Spe
 Ability: Strong Jaw
 Jolly Nature
@@ -85,7 +90,8 @@ Jolly Nature
 - Fishious Rend
 - Psychic Fangs
 
-Arctovish @ Master Ball
+
+Arctovish  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -94,7 +100,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230223
+.MetDate=20250912
 EVs: 252 HP / 252 Atk / 4 Spe
 Ability: Water Absorb
 Brave Nature

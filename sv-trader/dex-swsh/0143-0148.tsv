@@ -1,4 +1,5 @@
-.bt Snorlax @ Master Ball
+.bt 
+Snorlax  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -7,7 +8,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230127
+.MetDate=20241207
 EVs: 252 HP / 4 Def / 252 SpD
 Ability: Gluttony
 Gigantamax: Yes
@@ -16,7 +17,8 @@ Sassy Nature
 - Heat Crash
 - Curse
 
-Articuno @ Master Ball
+# is_legendary
+Articuno  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -25,7 +27,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20241225
+.MetDate=20240526
 EVs: 252 SpA / 4 SpD / 252 Spe
 Ability: Pressure
 Timid Nature
@@ -33,7 +35,8 @@ Timid Nature
 - Roost
 - Hurricane
 
-Zapdos @ Master Ball
+# is_legendary
+Zapdos  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -42,7 +45,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240527
+.MetDate=20230109
 EVs: 4 HP / 252 SpA / 252 Spe
 Ability: Pressure
 Timid Nature
@@ -50,7 +53,8 @@ Timid Nature
 - Hurricane
 - Volt Switch
 
-Moltres @ Master Ball
+# is_legendary
+Moltres  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -59,7 +63,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250707
+.MetDate=20230114
 EVs: 4 Def / 252 SpA / 252 Spe
 Ability: Pressure
 Timid Nature
@@ -67,7 +71,8 @@ Timid Nature
 - Hurricane
 - Will-O-Wisp
 
-Dratini @ Master Ball
+
+Dratini  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -76,7 +81,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230416
+.MetDate=20230421
 EVs: 4 HP / 252 Atk / 252 Spe
 Ability: Shed Skin
 Jolly Nature
@@ -85,7 +90,8 @@ Jolly Nature
 - Iron Tail
 - Fire Blast
 
-Dragonair @ Master Ball
+
+Dragonair  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -94,7 +100,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20241025
+.MetDate=20250306
 EVs: 252 HP / 4 Def / 252 SpD
 Ability: Marvel Scale
 Careful Nature

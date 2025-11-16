@@ -1,4 +1,5 @@
-.bt Morelull @ Master Ball
+.bt 
+Morelull  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -7,7 +8,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20231121
+.MetDate=20230917
 EVs: 36 HP / 236 Def / 76 SpA / 156 SpD
 Ability: Effect Spore
 Bold Nature
@@ -16,7 +17,8 @@ Bold Nature
 - Giga Drain
 - Strength Sap
 
-Shiinotic @ Master Ball
+
+Shiinotic  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -25,7 +27,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250810
+.MetDate=20240312
 EVs: 252 HP / 252 Def
 Ability: Effect Spore
 Bold Nature
@@ -33,7 +35,8 @@ Bold Nature
 - Giga Drain
 - Leech Seed
 
-Salandit @ Master Ball
+
+Salandit  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -42,7 +45,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20251208
+.MetDate=20241219
 EVs: 4 Def / 252 SpA / 252 Spe
 Ability: Corrosion
 Timid Nature
@@ -51,7 +54,8 @@ Timid Nature
 - Nasty Plot
 - Dragon Pulse
 
-Salazzle @ Master Ball
+
+Salazzle  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -60,7 +64,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240108
+.MetDate=20230716
 EVs: 4 Def / 252 SpA / 252 Spe
 Ability: Corrosion
 Timid Nature
@@ -68,7 +72,8 @@ Timid Nature
 - Sludge Wave
 - Nasty Plot
 
-Stufful @ Master Ball
+
+Stufful  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -77,7 +82,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20231217
+.MetDate=20230416
 EVs: 252 Atk / 4 Def / 252 Spe
 Ability: Fluffy
 Adamant Nature
@@ -86,7 +91,8 @@ Adamant Nature
 - Earthquake
 - Thunder Punch
 
-Bewear @ Master Ball
+
+Bewear  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -95,7 +101,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230924
+.MetDate=20231021
 EVs: 252 Atk / 4 Def / 252 Spe
 Ability: Fluffy
 Adamant Nature

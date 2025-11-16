@@ -1,4 +1,5 @@
-.bt Heatmor @ Master Ball
+.bt 
+Heatmor  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -7,7 +8,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240211
+.MetDate=20241127
 EVs: 252 Atk / 4 SpD / 252 Spe
 Ability: Flash Fire
 Jolly Nature
@@ -15,7 +16,8 @@ Jolly Nature
 - Sucker Punch
 - Thunder Punch
 
-Durant @ Master Ball
+
+Durant  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -24,7 +26,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20231201
+.MetDate=20240910
 EVs: 56 HP / 200 Atk / 252 Spe
 Ability: Hustle
 Jolly Nature
@@ -32,7 +34,8 @@ Jolly Nature
 - X-Scissor
 - Stone Edge
 
-Deino @ Master Ball
+
+Deino  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -41,7 +44,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240721
+.MetDate=20231116
 EVs: 252 SpA / 4 SpD / 252 Spe
 Ability: Hustle
 Timid Nature
@@ -50,7 +53,8 @@ Timid Nature
 - Substitute
 - Nasty Plot
 
-Zweilous @ Master Ball
+
+Zweilous  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -59,7 +63,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240117
+.MetDate=20230504
 EVs: 252 SpA / 4 SpD / 252 Spe
 Ability: Hustle
 Timid Nature
@@ -68,7 +72,8 @@ Timid Nature
 - Substitute
 - Nasty Plot
 
-Hydreigon @ Master Ball
+
+Hydreigon  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -77,7 +82,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240126
+.MetDate=20250416
 EVs: 252 SpA / 4 SpD / 252 Spe
 Ability: Levitate
 Timid Nature
@@ -85,7 +90,8 @@ Timid Nature
 - Dark Pulse
 - Flash Cannon
 
-Larvesta @ Master Ball
+
+Larvesta  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -94,7 +100,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20231021
+.MetDate=20250923
 EVs: 252 HP / 4 Def / 252 Spe
 Ability: Flame Body
 Timid Nature

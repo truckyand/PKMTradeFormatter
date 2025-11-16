@@ -1,4 +1,5 @@
-.bt Wynaut @ Master Ball
+.bt 
+Wynaut  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -7,7 +8,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250801
+.MetDate=20250719
 EVs: 156 HP / 132 Def / 132 SpD / 12 Spe
 Ability: Shadow Tag
 Bold Nature
@@ -15,7 +16,8 @@ Bold Nature
 - Splash
 - Charm
 
-Snorunt @ Master Ball
+
+Snorunt  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -24,7 +26,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230722
+.MetDate=20250510
 EVs: 174 HP / 84 Def / 252 Spe
 Ability: Moody
 Timid Nature
@@ -33,7 +35,8 @@ Timid Nature
 - Ice Beam
 - Shadow Ball
 
-Glalie @ Master Ball
+
+Glalie  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -42,7 +45,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250109
+.MetDate=20231003
 EVs: 174 HP / 84 Def / 252 Spe
 Ability: Moody
 Timid Nature
@@ -50,7 +53,8 @@ Timid Nature
 - Substitute
 - Freeze-Dry
 
-Spheal @ Master Ball
+
+Spheal  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -59,7 +63,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240111
+.MetDate=20231001
 EVs: 248 HP / 8 Def / 252 SpD
 Ability: Oblivious
 Calm Nature
@@ -68,7 +72,8 @@ Calm Nature
 - Surf
 - Protect
 
-Sealeo @ Master Ball
+
+Sealeo  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -77,7 +82,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20241122
+.MetDate=20230921
 EVs: 248 HP / 8 Def / 252 SpD
 Ability: Oblivious
 Calm Nature
@@ -86,7 +91,8 @@ Calm Nature
 - Surf
 - Protect
 
-Walrein @ Master Ball
+
+Walrein  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -95,7 +101,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230316
+.MetDate=20240620
 EVs: 248 HP / 8 Def / 252 SpD
 Ability: Oblivious
 Calm Nature

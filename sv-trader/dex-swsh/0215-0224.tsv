@@ -1,4 +1,5 @@
-.bt Sneasel @ Master Ball
+.bt 
+Sneasel  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -7,7 +8,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250928
+.MetDate=20230513
 EVs: 252 Atk / 4 SpD / 252 Spe
 Ability: Keen Eye
 Jolly Nature
@@ -16,7 +17,8 @@ Jolly Nature
 - Throat Chop
 - Low Kick
 
-Swinub @ Master Ball
+
+Swinub  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -25,7 +27,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250708
+.MetDate=20240818
 EVs: 252 Atk / 4 Def / 252 Spe
 Ability: Thick Fat
 Jolly Nature
@@ -34,7 +36,8 @@ Jolly Nature
 - Ice Shard
 - Rock Slide
 
-Piloswine @ Master Ball
+
+Piloswine  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -43,7 +46,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230312
+.MetDate=20230317
 EVs: 252 Atk / 4 Def / 252 Spe
 Ability: Thick Fat
 Jolly Nature
@@ -52,7 +55,8 @@ Jolly Nature
 - Ice Shard
 - Stone Edge
 
-Corsola @ Master Ball
+
+Corsola  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -61,7 +65,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250714
+.MetDate=20251001
 EVs: 252 HP / 252 Def / 4 SpD
 Ability: Regenerator
 Bold Nature
@@ -69,7 +73,8 @@ Bold Nature
 - Ancient Power
 - Scald
 
-Remoraid @ Master Ball
+
+Remoraid  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -78,7 +83,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240310
+.MetDate=20231016
 EVs: 252 HP / 252 SpA / 4 SpD
 Ability: Sniper
 Quiet Nature
@@ -87,7 +92,8 @@ Quiet Nature
 - Ice Beam
 - Psychic
 
-Octillery @ Master Ball
+
+Octillery  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -96,7 +102,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230107
+.MetDate=20230924
 EVs: 252 HP / 252 SpA / 4 SpD
 Ability: Sniper
 Quiet Nature

@@ -1,4 +1,5 @@
-.bt Perrserker @ Master Ball
+.bt 
+Perrserker  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -7,7 +8,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20231205
+.MetDate=20240117
 EVs: 8 HP / 248 Atk / 252 Spe
 Ability: Tough Claws
 Adamant Nature
@@ -15,7 +16,8 @@ Adamant Nature
 - Iron Head
 - Throat Chop
 
-Cursola @ Master Ball
+
+Cursola  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -24,7 +26,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240420
+.MetDate=20250827
 EVs: 208 HP / 252 SpA / 48 Spe
 Ability: Perish Body
 Modest Nature
@@ -32,7 +34,8 @@ Modest Nature
 - Ice Beam
 - Earth Power
 
-Sirfetchd @ Master Ball
+
+Sirfetchd  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -41,7 +44,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20241228
+.MetDate=20230712
 EVs: 252 Atk / 4 Def / 252 Spe
 Ability: Scrappy
 Jolly Nature
@@ -49,7 +52,8 @@ Jolly Nature
 - Close Combat
 - Poison Jab
 
-Mr-rime @ Master Ball
+
+Mr-rime  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -58,7 +62,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230307
+.MetDate=20251127
 EVs: 252 HP / 212 Def / 8 SpA / 36 Spe
 Ability: Screen Cleaner
 Bold Nature
@@ -66,7 +70,8 @@ Bold Nature
 - Slack Off
 - Freeze-Dry
 
-Runerigus @ Master Ball
+
+Runerigus  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -75,7 +80,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250125
+.MetDate=20240617
 EVs: 252 HP / 252 Def / 4 SpD
 Ability: Wandering Spirit
 Impish Nature
@@ -83,7 +88,8 @@ Impish Nature
 - Toxic Spikes
 - Earthquake
 
-Milcery @ Master Ball
+
+Milcery  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -92,7 +98,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250816
+.MetDate=20240703
 EVs: 252 HP / 252 Def / 4 SpA
 Ability: Aroma Veil
 Gigantamax: Yes

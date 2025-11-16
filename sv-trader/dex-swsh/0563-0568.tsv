@@ -1,4 +1,5 @@
-.bt Cofagrigus @ Master Ball
+.bt 
+Cofagrigus  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -7,7 +8,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20231113
+.MetDate=20250704
 EVs: 252 HP / 252 Def / 4 SpA
 Ability: Mummy
 Bold Nature
@@ -15,7 +16,8 @@ Bold Nature
 - Shadow Ball
 - Protect
 
-Tirtouga @ Master Ball
+
+Tirtouga  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -24,7 +26,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250421
+.MetDate=20230502
 EVs: 252 Atk / 4 Def / 252 Spe
 Ability: Solid Rock
 Naughty Nature
@@ -33,7 +35,8 @@ Naughty Nature
 - Aqua Jet
 - Hydro Pump
 
-Carracosta @ Master Ball
+
+Carracosta  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -42,7 +45,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230314
+.MetDate=20231006
 EVs: 252 Atk / 4 Def / 252 Spe
 Ability: Solid Rock
 Naughty Nature
@@ -50,7 +53,8 @@ Naughty Nature
 - Stone Edge
 - Aqua Jet
 
-Archen @ Master Ball
+
+Archen  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -59,7 +63,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250115
+.MetDate=20240803
 EVs: 252 Atk / 4 SpA / 252 Spe
 Ability: Defeatist
 Adamant Nature
@@ -68,7 +72,8 @@ Adamant Nature
 - Earthquake
 - U-turn
 
-Archeops @ Master Ball
+
+Archeops  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -77,7 +82,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230725
+.MetDate=20230501
 EVs: 252 Atk / 4 SpA / 252 Spe
 Ability: Defeatist
 Adamant Nature
@@ -85,7 +90,8 @@ Adamant Nature
 - Stone Edge
 - Earthquake
 
-Trubbish @ Master Ball
+
+Trubbish  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -94,7 +100,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240128
+.MetDate=20240121
 EVs: 252 HP / 4 Def / 252 SpD
 Ability: Aftermath
 Careful Nature

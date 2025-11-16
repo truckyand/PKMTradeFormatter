@@ -1,4 +1,5 @@
-.bt Crawdaunt @ Master Ball
+.bt 
+Crawdaunt  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -7,7 +8,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250911
+.MetDate=20230915
 EVs: 252 HP / 252 Atk / 4 Def
 Ability: Adaptability
 Brave Nature
@@ -15,7 +16,8 @@ Brave Nature
 - Knock Off
 - Aqua Jet
 
-Baltoy @ Master Ball
+
+Baltoy  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -24,7 +26,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250623
+.MetDate=20240717
 EVs: 252 HP / 120 Def / 136 Spe
 Ability: Levitate
 Bold Nature
@@ -33,7 +35,8 @@ Bold Nature
 - Psychic
 - Earth Power
 
-Claydol @ Master Ball
+
+Claydol  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -42,7 +45,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230822
+.MetDate=20240325
 EVs: 252 HP / 120 Def / 136 Spe
 Ability: Levitate
 Bold Nature
@@ -50,7 +53,8 @@ Bold Nature
 - Stealth Rock
 - Psychic
 
-Lileep @ Master Ball
+
+Lileep  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -59,7 +63,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240828
+.MetDate=20240215
 EVs: 252 HP / 4 Def / 252 SpD
 Ability: Storm Drain
 Careful Nature
@@ -68,7 +72,8 @@ Careful Nature
 - Giga Drain
 - Rock Slide
 
-Cradily @ Master Ball
+
+Cradily  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -77,7 +82,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250804
+.MetDate=20230217
 EVs: 252 HP / 4 Def / 252 SpD
 Ability: Storm Drain
 Careful Nature
@@ -85,7 +90,8 @@ Careful Nature
 - Recover
 - Giga Drain
 
-Anorith @ Master Ball
+
+Anorith  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -94,7 +100,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20231118
+.MetDate=20250909
 EVs: 252 HP / 92 Atk / 164 Spe
 Ability: Battle Armor
 Adamant Nature

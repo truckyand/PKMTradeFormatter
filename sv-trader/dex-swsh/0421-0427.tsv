@@ -1,4 +1,5 @@
-.bt Cherrim @ Master Ball
+.bt 
+Cherrim  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -7,7 +8,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250820
+.MetDate=20230919
 EVs: 252 SpA / 4 SpD / 252 Spe
 Ability: Flower Gift
 Timid Nature
@@ -15,7 +16,8 @@ Timid Nature
 - Pollen Puff
 - Dazzling Gleam
 
-Shellos @ Master Ball
+
+Shellos  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -24,7 +26,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20231011
+.MetDate=20230111
 EVs: 244 HP / 252 Def / 12 SpA
 Ability: Storm Drain
 Modest Nature
@@ -33,7 +35,8 @@ Modest Nature
 - Clear Smog
 - Earth Power
 
-Gastrodon @ Master Ball
+
+Gastrodon  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -42,7 +45,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230727
+.MetDate=20231118
 EVs: 244 HP / 252 Def / 12 SpA
 Ability: Storm Drain
 Modest Nature
@@ -50,7 +53,8 @@ Modest Nature
 - Recover
 - Clear Smog
 
-Drifloon @ Master Ball
+
+Drifloon  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -59,7 +63,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240120
+.MetDate=20230903
 EVs: 252 Def / 4 SpA / 252 Spe
 Ability: Aftermath
 Bold Nature
@@ -68,7 +72,8 @@ Bold Nature
 - Will-O-Wisp
 - Hex
 
-Drifblim @ Master Ball
+
+Drifblim  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -77,7 +82,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240925
+.MetDate=20240805
 EVs: 252 Def / 4 SpA / 252 Spe
 Ability: Aftermath
 Bold Nature
@@ -85,7 +90,8 @@ Bold Nature
 - Strength Sap
 - Will-O-Wisp
 
-Buneary @ Master Ball
+
+Buneary  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -94,7 +100,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240228
+.MetDate=20240415
 EVs: 252 Atk / 4 SpD / 252 Spe
 Ability: Klutz
 Jolly Nature

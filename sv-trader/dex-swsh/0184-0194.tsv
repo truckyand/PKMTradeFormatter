@@ -1,4 +1,5 @@
-.bt Azumarill @ Master Ball
+.bt 
+Azumarill  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -7,7 +8,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250120
+.MetDate=20250413
 EVs: 244 HP / 252 Atk / 4 Def / 4 SpD / 4 Spe
 Ability: Huge Power
 Adamant Nature
@@ -15,7 +16,8 @@ Adamant Nature
 - Aqua Jet
 - Play Rough
 
-Sudowoodo @ Master Ball
+
+Sudowoodo  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -24,7 +26,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230509
+.MetDate=20250612
 EVs: 252 Atk / 4 Def / 252 Spe
 Ability: Rock Head
 Adamant Nature
@@ -32,7 +34,8 @@ Adamant Nature
 - Earthquake
 - Sucker Punch
 
-Politoed @ Master Ball
+
+Politoed  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -41,7 +44,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240720
+.MetDate=20241118
 EVs: 220 HP / 148 Def / 84 SpA / 52 SpD / 4 Spe
 Ability: Drizzle
 Calm Nature
@@ -49,7 +52,8 @@ Calm Nature
 - Ice Beam
 - Encore
 
-Pumpkaboo @ Master Ball
+
+Pumpkaboo  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -58,7 +62,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20251113
+.MetDate=20240328
 EVs: 252 HP / 252 Def / 4 SpD
 Ability: Frisk
 Bold Nature
@@ -67,7 +71,8 @@ Bold Nature
 - Foul Play
 - Leech Seed
 
-Gourgeist @ Master Ball
+
+Gourgeist  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -76,7 +81,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20251106
+.MetDate=20250112
 EVs: 152 HP / 132 Def / 224 Spe
 Ability: Frisk
 Jolly Nature
@@ -84,7 +89,8 @@ Jolly Nature
 - Leech Seed
 - Will-O-Wisp
 
-Wooper @ Master Ball
+
+Wooper  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -93,7 +99,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230809
+.MetDate=20230109
 EVs: 252 HP / 252 Def / 4 SpD
 Ability: Unaware
 Relaxed Nature

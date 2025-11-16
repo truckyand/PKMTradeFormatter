@@ -1,4 +1,5 @@
-.bt Eternatus @ Master Ball
+.bt # is_legendary
+Eternatus  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -7,7 +8,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240227
+.MetDate=20240703
 EVs: 4 HP / 252 SpA / 252 Spe
 Ability: Pressure
 Timid Nature
@@ -15,16 +16,17 @@ Timid Nature
 - Substitute
 - Flamethrower
 
-Kubfu @ Master Ball
-Shiny: Yes
+# is_legendary
+Kubfu  @ Master Ball
+Shiny: No
 OT: trucky
 OTGender: Female
 TID: 331778
 SID: 2401
-Ball: Luxury Ball
+Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20251207
+.MetDate=20250802
 EVs: 4 HP / 252 Atk / 252 Spe
 Ability: Inner Focus
 Jolly Nature
@@ -32,23 +34,25 @@ Jolly Nature
 - Close Combat
 - Fire Punch
 
-Zarude @ Master Ball
-Shiny: Yes
+# is_legendary
+Zarude  @ Master Ball
+Shiny: No
 OT: trucky
 OTGender: Female
 TID: 331778
 SID: 2401
-Ball: Luxury Ball
+Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230607
+.MetDate=20251217
 EVs: 6 HP / 252 Atk / 252 Spe
 Ability: Leaf Guard
 Jolly Nature
 - Jungle Healing
 - Darkest Lariat
 
-Regieleki @ Master Ball
+# is_legendary
+Regieleki  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -57,7 +61,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250517
+.MetDate=20230120
 EVs: 4 Atk / 252 SpA / 252 Spe
 Ability: Transistor
 Rash Nature
@@ -65,7 +69,8 @@ Rash Nature
 - Volt Switch
 - Thunderbolt
 
-Regidrago @ Master Ball
+# is_legendary
+Regidrago  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -74,7 +79,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250327
+.MetDate=20251228
 EVs: 252 Atk / 4 Def / 252 Spe
 Ability: Dragon’s Maw
 Jolly Nature
@@ -82,8 +87,9 @@ Jolly Nature
 - Fire Fang
 - Substitute
 
-Glastrier @ Master Ball
-Shiny: Yes
+# is_legendary
+Glastrier  @ Master Ball
+Shiny: No
 OT: trucky
 OTGender: Female
 TID: 331778
@@ -91,7 +97,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250619
+.MetDate=20240622
 EVs: 252 HP / 252 Atk / 4 SpD
 Ability: Chilling Neigh
 Adamant Nature

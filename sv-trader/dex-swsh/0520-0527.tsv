@@ -1,4 +1,5 @@
-.bt Tranquill @ Master Ball
+.bt 
+Tranquill  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -7,7 +8,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250105
+.MetDate=20241215
 EVs: 252 Atk / 4 Def / 252 Spe
 Ability: Super Luck
 Adamant Nature
@@ -16,7 +17,8 @@ Adamant Nature
 - U-turn
 - Facade
 
-Unfezant @ Master Ball
+
+Unfezant  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -25,7 +27,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240507
+.MetDate=20240425
 EVs: 252 Atk / 4 Def / 252 Spe
 Ability: Super Luck
 Adamant Nature
@@ -33,7 +35,8 @@ Adamant Nature
 - Hypnosis
 - U-turn
 
-Roggenrola @ Master Ball
+
+Roggenrola  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -42,7 +45,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250126
+.MetDate=20240426
 EVs: 252 HP / 4 Def / 252 SpD
 Ability: Weak Armor
 Careful Nature
@@ -51,7 +54,8 @@ Careful Nature
 - Earthquake
 - Protect
 
-Boldore @ Master Ball
+
+Boldore  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -60,7 +64,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230409
+.MetDate=20240419
 EVs: 252 HP / 4 Def / 252 SpD
 Ability: Weak Armor
 Careful Nature
@@ -69,7 +73,8 @@ Careful Nature
 - Earthquake
 - Protect
 
-Gigalith @ Master Ball
+
+Gigalith  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -78,7 +83,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240525
+.MetDate=20251021
 EVs: 252 HP / 4 Def / 252 SpD
 Ability: Sand Stream
 Careful Nature
@@ -86,7 +91,8 @@ Careful Nature
 - Stone Edge
 - Earthquake
 
-Woobat @ Master Ball
+
+Woobat  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -95,7 +101,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250524
+.MetDate=20241019
 EVs: 4 HP / 252 SpA / 252 Spe
 Ability: Simple
 Timid Nature

@@ -1,4 +1,5 @@
-.bt Carkol @ Master Ball
+.bt 
+Carkol  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -7,7 +8,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250406
+.MetDate=20250908
 EVs: 248 HP / 8 Def / 252 SpD
 Ability: Flame Body
 Sassy Nature
@@ -16,7 +17,8 @@ Sassy Nature
 - Flamethrower
 - Scald
 
-Coalossal @ Master Ball
+
+Coalossal  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -25,7 +27,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230522
+.MetDate=20240601
 EVs: 248 HP / 8 Def / 252 SpD
 Ability: Flame Body
 Gigantamax: Yes
@@ -34,7 +36,8 @@ Sassy Nature
 - Stealth Rock
 - Flamethrower
 
-Applin @ Master Ball
+
+Applin  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -43,7 +46,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230821
+.MetDate=20250401
 EVs: 252 Atk / 4 Def / 252 Spe
 Ability: Bulletproof
 Adamant Nature
@@ -52,7 +55,8 @@ Adamant Nature
 - Sucker Punch
 - Recycle
 
-Flapple @ Master Ball
+
+Flapple  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -61,7 +65,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240328
+.MetDate=20230410
 EVs: 252 Atk / 4 Def / 252 Spe
 Ability: Hustle
 Gigantamax: Yes
@@ -70,7 +74,8 @@ Adamant Nature
 - Outrage
 - Dragon Dance
 
-Appletun @ Master Ball
+
+Appletun  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -79,7 +84,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250205
+.MetDate=20230608
 EVs: 248 HP / 8 SpA / 252 SpD
 Ability: Thick Fat
 Gigantamax: Yes
@@ -88,7 +93,8 @@ Calm Nature
 - Recover
 - Leech Seed
 
-Silicobra @ Master Ball
+
+Silicobra  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -97,7 +103,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20251023
+.MetDate=20230806
 EVs: 4 HP / 252 Atk / 252 Spe
 Ability: Sand Spit
 Adamant Nature

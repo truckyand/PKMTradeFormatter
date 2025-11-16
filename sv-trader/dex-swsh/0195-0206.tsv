@@ -1,4 +1,5 @@
-.bt Quagsire @ Master Ball
+.bt 
+Quagsire  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -7,7 +8,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20241207
+.MetDate=20240915
 EVs: 252 HP / 252 Def / 4 SpD
 Ability: Unaware
 Relaxed Nature
@@ -15,7 +16,8 @@ Relaxed Nature
 - Recover
 - Scald
 
-Espeon @ Master Ball
+
+Espeon  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -24,7 +26,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250226
+.MetDate=20230906
 EVs: 4 HP / 252 SpA / 252 Spe
 Ability: Magic Bounce
 Timid Nature
@@ -32,7 +34,8 @@ Timid Nature
 - Morning Sun
 - Dazzling Gleam
 
-Umbreon @ Master Ball
+
+Umbreon  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -41,7 +44,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230604
+.MetDate=20230308
 EVs: 252 HP / 4 Def / 252 SpD
 Ability: Synchronize
 Calm Nature
@@ -49,7 +52,8 @@ Calm Nature
 - Wish
 - Protect
 
-Slowking @ Master Ball
+
+Slowking  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -58,7 +62,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240128
+.MetDate=20230117
 EVs: 248 HP / 252 Def / 8 SpD
 Ability: Regenerator
 Bold Nature
@@ -66,7 +70,8 @@ Bold Nature
 - Psyshock
 - Calm Mind
 
-Wobbuffet @ Master Ball
+
+Wobbuffet  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -75,7 +80,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250817
+.MetDate=20230320
 EVs: 252 HP / 252 Def / 4 SpD
 Ability: Shadow Tag
 Bold Nature
@@ -83,7 +88,8 @@ Bold Nature
 - Counter
 - Mirror Coat
 
-Dunsparce @ Master Ball
+
+Dunsparce  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -92,7 +98,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250818
+.MetDate=20230426
 EVs: 252 HP / 36 Atk / 220 Spe
 Ability: Serene Grace
 Adamant Nature

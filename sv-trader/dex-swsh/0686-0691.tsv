@@ -1,4 +1,5 @@
-.bt Inkay @ Master Ball
+.bt 
+Inkay  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -7,7 +8,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20251114
+.MetDate=20230520
 EVs: 12 HP / 244 Atk / 12 Def / 236 Spe
 Ability: Contrary
 Jolly Nature
@@ -16,7 +17,8 @@ Jolly Nature
 - Psycho Cut
 - Rest
 
-Malamar @ Master Ball
+
+Malamar  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -25,7 +27,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230923
+.MetDate=20240121
 EVs: 252 HP / 4 Def / 252 SpD
 Ability: Contrary
 Careful Nature
@@ -33,7 +35,8 @@ Careful Nature
 - Throat Chop
 - Rest
 
-Binacle @ Master Ball
+
+Binacle  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -42,7 +45,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230602
+.MetDate=20240721
 EVs: 252 Atk / 4 SpA / 252 Spe
 Ability: Tough Claws
 Naive Nature
@@ -51,7 +54,8 @@ Naive Nature
 - Liquidation
 - Grass Knot
 
-Barbaracle @ Master Ball
+
+Barbaracle  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -60,7 +64,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20251120
+.MetDate=20250308
 EVs: 252 Atk / 4 SpA / 252 Spe
 Ability: Tough Claws
 Naive Nature
@@ -68,7 +72,8 @@ Naive Nature
 - Stone Edge
 - Liquidation
 
-Skrelp @ Master Ball
+
+Skrelp  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -77,7 +82,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20231226
+.MetDate=20250819
 EVs: 228 HP / 252 SpA / 28 Spe
 Ability: Adaptability
 Modest Nature
@@ -86,7 +91,8 @@ Modest Nature
 - Scald
 - Toxic Spikes
 
-Dragalge @ Master Ball
+
+Dragalge  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -95,7 +101,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240414
+.MetDate=20231107
 EVs: 228 HP / 252 SpA / 28 Spe
 Ability: Adaptability
 Modest Nature

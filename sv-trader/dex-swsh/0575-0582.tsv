@@ -1,4 +1,5 @@
-.bt Gothorita @ Master Ball
+.bt 
+Gothorita  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -7,7 +8,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230219
+.MetDate=20240914
 EVs: 252 HP / 252 Def / 4 Spe
 Ability: Shadow Tag
 Bold Nature
@@ -16,7 +17,8 @@ Bold Nature
 - Stored Power
 - Rest
 
-Gothitelle @ Master Ball
+
+Gothitelle  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -25,7 +27,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250424
+.MetDate=20230510
 EVs: 252 HP / 252 Def / 4 Spe
 Ability: Shadow Tag
 Bold Nature
@@ -33,7 +35,8 @@ Bold Nature
 - Cosmic Power
 - Stored Power
 
-Solosis @ Master Ball
+
+Solosis  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -42,7 +45,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230321
+.MetDate=20251111
 EVs: 252 HP / 252 Def / 4 SpD
 Ability: Magic Guard
 Quiet Nature
@@ -51,7 +54,8 @@ Quiet Nature
 - Thunder
 - Calm Mind
 
-Duosion @ Master Ball
+
+Duosion  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -60,7 +64,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240807
+.MetDate=20230511
 EVs: 252 HP / 252 Def / 4 SpD
 Ability: Magic Guard
 Quiet Nature
@@ -69,7 +73,8 @@ Quiet Nature
 - Thunder
 - Calm Mind
 
-Reuniclus @ Master Ball
+
+Reuniclus  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -78,7 +83,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250502
+.MetDate=20241123
 EVs: 252 HP / 252 Def / 4 Spe
 Ability: Magic Guard
 Bold Nature
@@ -86,7 +91,8 @@ Bold Nature
 - Calm Mind
 - Psyshock
 
-Vanillite @ Master Ball
+
+Vanillite  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -95,7 +101,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20241010
+.MetDate=20240719
 EVs: 4 HP / 252 SpA / 252 Spe
 Ability: Snow Cloak
 Timid Nature

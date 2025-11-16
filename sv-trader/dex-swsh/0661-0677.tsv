@@ -1,4 +1,5 @@
-.bt Fletchling @ Master Ball
+.bt 
+Fletchling  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -7,7 +8,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240818
+.MetDate=20230202
 EVs: 252 Atk / 4 Def / 252 Spe
 Ability: Gale Wings
 Adamant Nature
@@ -16,7 +17,8 @@ Adamant Nature
 - U-turn
 - Steel Wing
 
-Fletchinder @ Master Ball
+
+Fletchinder  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -25,7 +27,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240818
+.MetDate=20250320
 EVs: 252 Atk / 4 Def / 252 Spe
 Ability: Gale Wings
 Adamant Nature
@@ -34,7 +36,8 @@ Adamant Nature
 - U-turn
 - Steel Wing
 
-Talonflame @ Master Ball
+
+Talonflame  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -43,7 +46,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250701
+.MetDate=20250221
 EVs: 252 Atk / 4 Def / 252 Spe
 Ability: Gale Wings
 Adamant Nature
@@ -51,7 +54,8 @@ Adamant Nature
 - Flare Blitz
 - U-turn
 
-Pancham @ Master Ball
+
+Pancham  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -60,7 +64,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20231121
+.MetDate=20250415
 EVs: 252 Atk / 4 SpD / 252 Spe
 Ability: Iron Fist
 Adamant Nature
@@ -69,7 +73,8 @@ Adamant Nature
 - Drain Punch
 - Thunder Punch
 
-Pangoro @ Master Ball
+
+Pangoro  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -78,7 +83,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230122
+.MetDate=20251203
 EVs: 252 Atk / 4 SpD / 252 Spe
 Ability: Iron Fist
 Adamant Nature
@@ -86,7 +91,8 @@ Adamant Nature
 - Darkest Lariat
 - Drain Punch
 
-Espurr @ Master Ball
+
+Espurr  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -95,7 +101,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250108
+.MetDate=20250419
 EVs: 4 Def / 252 SpA / 252 Spe
 Ability: Infiltrator
 Timid Nature

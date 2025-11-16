@@ -1,13 +1,14 @@
-.bt Silvally @ Master Ball
+.bt # is_legendary
+Silvally  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
 TID: 331778
 SID: 2401
-Ball: Luxury Ball
+Ball: Poke Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230113
+.MetDate=20250428
 EVs: 4 HP / 252 Atk / 252 Spe
 Ability: RKS System
 Jolly Nature
@@ -15,7 +16,8 @@ Jolly Nature
 - Explosion
 - Double-Edge
 
-Turtonator @ Master Ball
+
+Turtonator  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -24,7 +26,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20231025
+.MetDate=20240427
 EVs: 252 SpA / 4 SpD / 252 Spe
 Ability: Shell Armor
 Timid Nature
@@ -32,7 +34,8 @@ Timid Nature
 - Shell Smash
 - Draco Meteor
 
-Togedemaru @ Master Ball
+
+Togedemaru  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -41,7 +44,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250523
+.MetDate=20240316
 EVs: 252 Atk / 4 Def / 252 Spe
 Ability: Lightning Rod
 Jolly Nature
@@ -49,7 +52,8 @@ Jolly Nature
 - Zing Zap
 - Iron Head
 
-Drampa @ Master Ball
+
+Drampa  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -58,7 +62,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230517
+.MetDate=20231109
 EVs: 140 HP / 252 SpA / 116 Spe
 Ability: Sap Sipper
 Modest Nature
@@ -66,7 +70,8 @@ Modest Nature
 - Hyper Voice
 - Fire Blast
 
-Dhelmise @ Master Ball
+
+Dhelmise  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -75,7 +80,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230205
+.MetDate=20251007
 EVs: 52 HP / 252 Atk / 204 Spe
 Ability: Steelworker
 Adamant Nature
@@ -83,7 +88,8 @@ Adamant Nature
 - Anchor Shot
 - Rapid Spin
 
-Jangmo-o @ Master Ball
+
+Jangmo-o  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -92,7 +98,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20251002
+.MetDate=20240509
 EVs: 4 HP / 252 Atk / 252 Spe
 Ability: Bulletproof
 Adamant Nature

@@ -1,4 +1,5 @@
-.bt Cubchoo @ Master Ball
+.bt 
+Cubchoo  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -7,7 +8,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20251014
+.MetDate=20251209
 EVs: 76 HP / 196 Atk / 36 SpA / 196 Spe
 Ability: Slush Rush
 Naive Nature
@@ -16,7 +17,8 @@ Naive Nature
 - Play Rough
 - Surf
 
-Beartic @ Master Ball
+
+Beartic  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -25,7 +27,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20251207
+.MetDate=20230226
 EVs: 252 Atk / 4 SpD / 252 Spe
 Ability: Slush Rush
 Jolly Nature
@@ -33,7 +35,8 @@ Jolly Nature
 - Superpower
 - Throat Chop
 
-Cryogonal @ Master Ball
+
+Cryogonal  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -42,7 +45,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250209
+.MetDate=20250501
 EVs: 248 HP / 8 SpA / 52 SpD / 200 Spe
 Ability: Levitate
 Timid Nature
@@ -50,7 +53,8 @@ Timid Nature
 - Recover
 - Ice Beam
 
-Shelmet @ Master Ball
+
+Shelmet  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -59,7 +63,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240428
+.MetDate=20240402
 EVs: 252 HP
 Ability: Hydration
 Bold Nature
@@ -68,7 +72,8 @@ Bold Nature
 - Guard Swap
 - Recover
 
-Accelgor @ Master Ball
+
+Accelgor  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -77,7 +82,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250409
+.MetDate=20240809
 EVs: 252 SpA / 4 SpD / 252 Spe
 Ability: Sticky Hold
 Timid Nature
@@ -85,7 +90,8 @@ Timid Nature
 - Focus Blast
 - Energy Ball
 
-Stunfisk @ Master Ball
+
+Stunfisk  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -94,7 +100,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20251201
+.MetDate=20240208
 EVs: 252 HP / 252 Def / 4 SpD
 Ability: Static
 Bold Nature

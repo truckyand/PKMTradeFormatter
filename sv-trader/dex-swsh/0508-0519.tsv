@@ -1,4 +1,5 @@
-.bt Stoutland @ Master Ball
+.bt 
+Stoutland  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -7,7 +8,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20231128
+.MetDate=20251116
 EVs: 252 Atk / 4 SpD / 252 Spe
 Ability: Scrappy
 Adamant Nature
@@ -15,7 +16,8 @@ Adamant Nature
 - Facade
 - Superpower
 
-Purrloin @ Master Ball
+
+Purrloin  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -24,7 +26,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240916
+.MetDate=20231114
 EVs: 4 HP / 252 SpA / 252 Spe
 Ability: Prankster
 Timid Nature
@@ -33,7 +35,8 @@ Timid Nature
 - Encore
 - Copycat
 
-Liepard @ Master Ball
+
+Liepard  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -42,7 +45,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230508
+.MetDate=20241106
 EVs: 4 HP / 252 SpA / 252 Spe
 Ability: Prankster
 Timid Nature
@@ -50,7 +53,8 @@ Timid Nature
 - Dark Pulse
 - Encore
 
-Munna @ Master Ball
+
+Munna  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -59,7 +63,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250602
+.MetDate=20250716
 EVs: 128 HP / 252 SpA / 36 SpD / 92 Spe
 Ability: Synchronize
 Modest Nature
@@ -68,7 +72,8 @@ Modest Nature
 - Moonlight
 - Healing Wish
 
-Musharna @ Master Ball
+
+Musharna  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -77,7 +82,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230122
+.MetDate=20240712
 EVs: 128 HP / 252 SpA / 36 SpD / 92 Spe
 Ability: Synchronize
 Modest Nature
@@ -85,7 +90,8 @@ Modest Nature
 - Dazzling Gleam
 - Moonlight
 
-Pidove @ Master Ball
+
+Pidove  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -94,7 +100,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230825
+.MetDate=20240419
 EVs: 252 Atk / 4 Def / 252 Spe
 Ability: Super Luck
 Adamant Nature

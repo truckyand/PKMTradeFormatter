@@ -1,4 +1,5 @@
-.bt Centiskorch @ Master Ball
+.bt 
+Centiskorch  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -7,7 +8,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250215
+.MetDate=20231109
 EVs: 252 Atk / 4 SpD / 252 Spe
 Ability: White Smoke
 Gigantamax: Yes
@@ -16,7 +17,8 @@ Adamant Nature
 - Leech Life
 - Power Whip
 
-Clobbopus @ Master Ball
+
+Clobbopus  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -25,7 +27,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250101
+.MetDate=20240523
 EVs: 252 HP / 4 Def / 252 SpD
 Ability: Technician
 Careful Nature
@@ -34,7 +36,8 @@ Careful Nature
 - Soak
 - Rest
 
-Grapploct @ Master Ball
+
+Grapploct  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -43,7 +46,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250313
+.MetDate=20250918
 EVs: 252 HP / 4 Def / 252 SpD
 Ability: Technician
 Careful Nature
@@ -51,7 +54,8 @@ Careful Nature
 - Power-Up Punch
 - Soak
 
-Sinistea @ Master Ball
+
+Sinistea  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -60,7 +64,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240812
+.MetDate=20250412
 EVs: 252 SpA / 4 SpD / 252 Spe
 Ability: Weak Armor
 Modest Nature
@@ -69,7 +73,8 @@ Modest Nature
 - Stored Power
 - Giga Drain
 
-Polteageist @ Master Ball
+
+Polteageist  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -78,7 +83,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250624
+.MetDate=20250924
 EVs: 252 SpA / 4 SpD / 252 Spe
 Ability: Weak Armor
 Modest Nature
@@ -86,7 +91,8 @@ Modest Nature
 - Shadow Ball
 - Stored Power
 
-Hatenna @ Master Ball
+
+Hatenna  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -95,7 +101,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240603
+.MetDate=20240212
 EVs: 252 HP / 252 Def / 4 SpA
 Ability: Magic Bounce
 Bold Nature

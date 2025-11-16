@@ -1,4 +1,5 @@
-.bt Metagross @ Master Ball
+.bt 
+Metagross  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -7,7 +8,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250525
+.MetDate=20230323
 EVs: 4 HP / 250 Atk / 252 Spe
 Ability: Clear Body
 Jolly Nature
@@ -15,7 +16,8 @@ Jolly Nature
 - Ice Punch
 - Earthquake
 
-Regirock @ Master Ball
+# is_legendary
+Regirock  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -24,7 +26,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250228
+.MetDate=20230916
 EVs: 252 HP / 252 SpD
 Ability: Clear Body
 Impish Nature
@@ -32,7 +34,8 @@ Impish Nature
 - Rock Slide
 - Drain Punch
 
-Regice @ Master Ball
+# is_legendary
+Regice  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -41,7 +44,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20251013
+.MetDate=20250520
 EVs: 252 HP / 252 SpA / 4 SpD
 Ability: Clear Body
 Modest Nature
@@ -49,7 +52,8 @@ Modest Nature
 - Ice Beam
 - Focus Blast
 
-Registeel @ Master Ball
+# is_legendary
+Registeel  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -58,7 +62,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250524
+.MetDate=20251225
 EVs: 252 HP / 4 Atk / 252 SpD
 Ability: Clear Body
 Careful Nature
@@ -66,7 +70,8 @@ Careful Nature
 - Earthquake
 - Iron Head
 
-Shinx @ Master Ball
+
+Shinx  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -75,7 +80,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250323
+.MetDate=20251108
 EVs: 252 Atk / 4 SpD / 252 Spe
 Ability: Guts
 Jolly Nature
@@ -84,7 +89,8 @@ Jolly Nature
 - Ice Fang
 - Volt Switch
 
-Luxio @ Master Ball
+
+Luxio  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -93,7 +99,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20251227
+.MetDate=20250720
 EVs: 252 Atk / 4 SpD / 252 Spe
 Ability: Guts
 Jolly Nature

@@ -1,4 +1,5 @@
-.bt Clauncher @ Master Ball
+.bt 
+Clauncher  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -7,7 +8,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230221
+.MetDate=20230801
 EVs: 252 SpA / 4 SpD / 252 Spe
 Ability: Mega Launcher
 Modest Nature
@@ -16,7 +17,8 @@ Modest Nature
 - Protect
 - Aura Sphere
 
-Clawitzer @ Master Ball
+
+Clawitzer  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -25,7 +27,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240616
+.MetDate=20241118
 EVs: 252 SpA / 4 SpD / 252 Spe
 Ability: Mega Launcher
 Modest Nature
@@ -33,7 +35,8 @@ Modest Nature
 - Ice Beam
 - Dark Pulse
 
-Helioptile @ Master Ball
+
+Helioptile  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -42,7 +45,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230704
+.MetDate=20240518
 EVs: 4 Def / 252 SpA / 252 Spe
 Ability: Dry Skin
 Timid Nature
@@ -50,7 +53,8 @@ Timid Nature
 - Protect
 - Thunderbolt
 
-Heliolisk @ Master Ball
+
+Heliolisk  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -59,7 +63,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240511
+.MetDate=20250701
 EVs: 4 Def / 252 SpA / 252 Spe
 Ability: Dry Skin
 Timid Nature
@@ -67,7 +71,8 @@ Timid Nature
 - Hyper Voice
 - Thunderbolt
 
-Tyrunt @ Master Ball
+
+Tyrunt  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -76,7 +81,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230402
+.MetDate=20230516
 EVs: 4 HP / 252 Atk / 252 Spe
 Ability: Sturdy
 Adamant Nature
@@ -85,7 +90,8 @@ Adamant Nature
 - Earthquake
 - Superpower
 
-Tyrantrum @ Master Ball
+
+Tyrantrum  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -94,7 +100,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230114
+.MetDate=20240708
 EVs: 4 HP / 252 Atk / 252 Spe
 Ability: Rock Head
 Adamant Nature

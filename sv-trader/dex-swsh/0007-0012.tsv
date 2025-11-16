@@ -1,4 +1,5 @@
-.bt Squirtle @ Master Ball
+.bt 
+Squirtle  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -7,7 +8,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230123
+.MetDate=20240913
 EVs: 4 HP / 252 Atk / 252 Spe
 Ability: Rain Dish
 Adamant Nature
@@ -16,7 +17,8 @@ Adamant Nature
 - Ice Punch
 - Zen Headbutt
 
-Wartortle @ Master Ball
+
+Wartortle  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -25,7 +27,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230826
+.MetDate=20250714
 EVs: 4 HP / 252 Atk / 252 Spe
 Ability: Rain Dish
 Adamant Nature
@@ -34,7 +36,8 @@ Adamant Nature
 - Ice Punch
 - Zen Headbutt
 
-Blastoise @ Master Ball
+
+Blastoise  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -43,7 +46,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240521
+.MetDate=20230221
 EVs: 252 Atk / 4 Def / 252 Spe
 Ability: Torrent
 Gigantamax: Yes
@@ -52,7 +55,8 @@ Adamant Nature
 - Liquidation
 - Ice Punch
 
-Caterpie @ Master Ball
+
+Caterpie  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -61,7 +65,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240718
+.MetDate=20230226
 EVs: 252 SpA / 4 SpD / 252 Spe
 Ability: Run Away
 Timid Nature
@@ -70,7 +74,8 @@ Timid Nature
 - String Shot
 - Tackle
 
-Metapod @ Master Ball
+
+Metapod  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -79,7 +84,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20251117
+.MetDate=20231110
 EVs: 252 SpA / 4 SpD / 252 Spe
 Ability: Shed Skin
 Timid Nature
@@ -88,7 +93,8 @@ Timid Nature
 - String Shot
 - Tackle
 
-Butterfree @ Master Ball
+
+Butterfree  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -97,7 +103,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240113
+.MetDate=20231006
 EVs: 252 SpA / 4 SpD / 252 Spe
 Ability: Tinted Lens
 Gigantamax: Yes

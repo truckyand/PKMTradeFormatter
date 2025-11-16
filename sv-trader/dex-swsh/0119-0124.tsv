@@ -1,4 +1,5 @@
-.bt Seaking @ Master Ball
+.bt 
+Seaking  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -7,7 +8,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250404
+.MetDate=20231221
 EVs: 64 HP / 252 Atk / 192 Spe
 Ability: Lightning Rod
 Adamant Nature
@@ -15,7 +16,8 @@ Adamant Nature
 - Facade
 - Drill Run
 
-Staryu @ Master Ball
+
+Staryu  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -24,7 +26,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250324
+.MetDate=20250505
 EVs: 252 HP / 4 SpA / 252 Spe
 Ability: Natural Cure
 Timid Nature
@@ -33,7 +35,8 @@ Timid Nature
 - Protect
 - Psychic
 
-Starmie @ Master Ball
+
+Starmie  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -42,7 +45,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20241004
+.MetDate=20230525
 EVs: 252 HP / 4 SpA / 252 Spe
 Ability: Natural Cure
 Timid Nature
@@ -50,7 +53,8 @@ Timid Nature
 - Rapid Spin
 - Recover
 
-Mr-mime @ Master Ball
+
+Mr-mime  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -59,7 +63,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20231207
+.MetDate=20240617
 Ability: Filter
 EVs: 4 Def / 252 SpA / 252 Spe
 Timid Nature
@@ -68,7 +72,8 @@ Timid Nature
 - Trick
 - Healing Wish
 
-Scyther @ Master Ball
+
+Scyther  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -77,7 +82,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250806
+.MetDate=20240201
 EVs: 4 HP / 252 Atk / 252 Spe
 Ability: Technician
 Jolly Nature
@@ -85,7 +90,8 @@ Jolly Nature
 - Quick Attack
 - Dual Wingbeat
 
-Jynx @ Master Ball
+
+Jynx  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -94,7 +100,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20251026
+.MetDate=20251025
 EVs: 4 Def / 252 SpA / 252 Spe
 Ability: Dry Skin
 Timid Nature

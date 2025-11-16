@@ -1,4 +1,5 @@
-.bt Mudbray @ Master Ball
+.bt 
+Mudbray  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -7,7 +8,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240806
+.MetDate=20230421
 EVs: 4 HP / 252 Atk / 252 Spe
 Ability: Stamina
 Adamant Nature
@@ -16,7 +17,8 @@ Adamant Nature
 - Rock Slide
 - Close Combat
 
-Mudsdale @ Master Ball
+
+Mudsdale  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -25,7 +27,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230911
+.MetDate=20250617
 EVs: 4 HP / 252 Atk / 252 Spe
 Ability: Stamina
 Adamant Nature
@@ -33,7 +35,8 @@ Adamant Nature
 - Heavy Slam
 - Rock Slide
 
-Dewpider @ Master Ball
+
+Dewpider  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -42,7 +45,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20251019
+.MetDate=20230812
 EVs: 252 HP / 252 Atk / 4 Def
 Ability: Water Bubble
 Brave Nature
@@ -51,7 +54,8 @@ Brave Nature
 - Bug Bite
 - Protect
 
-Araquanid @ Master Ball
+
+Araquanid  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -60,7 +64,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250121
+.MetDate=20241227
 EVs: 252 HP / 252 Atk / 4 Def
 Ability: Water Bubble
 Brave Nature
@@ -68,7 +72,8 @@ Brave Nature
 - Sticky Web
 - Wide Guard
 
-Fomantis @ Master Ball
+
+Fomantis  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -77,7 +82,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240315
+.MetDate=20250920
 EVs: 248 HP / 252 Def / 8 SpA
 Ability: Contrary
 Bold Nature
@@ -86,7 +91,8 @@ Bold Nature
 - Aromatherapy
 - Synthesis
 
-Lurantis @ Master Ball
+
+Lurantis  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -95,7 +101,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230925
+.MetDate=20230915
 EVs: 248 HP / 252 Def / 8 SpA
 Ability: Contrary
 Bold Nature

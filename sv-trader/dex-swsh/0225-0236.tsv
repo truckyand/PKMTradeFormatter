@@ -1,4 +1,5 @@
-.bt Delibird @ Master Ball
+.bt 
+Delibird  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -7,7 +8,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20231014
+.MetDate=20241214
 EVs: 252 SpA / 4 SpD / 252 Spe
 Ability: Vital Spirit
 Timid Nature
@@ -15,7 +16,8 @@ Timid Nature
 - Rapid Spin
 - Icy Wind
 
-Mantine @ Master Ball
+
+Mantine  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -24,7 +26,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250119
+.MetDate=20230816
 EVs: 252 HP / 120 SpD / 136 Spe
 Ability: Water Absorb
 Calm Nature
@@ -32,7 +34,8 @@ Calm Nature
 - Haze
 - Scald
 
-Skarmory @ Master Ball
+
+Skarmory  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -41,7 +44,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230711
+.MetDate=20240428
 EVs: 252 HP / 252 Def / 4 SpD
 Ability: Sturdy
 Bold Nature
@@ -49,7 +52,8 @@ Bold Nature
 - Spikes
 - Whirlwind
 
-Kingdra @ Master Ball
+
+Kingdra  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -58,7 +62,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230204
+.MetDate=20231122
 EVs: 4 HP / 252 SpA / 252 Spe
 Ability: Swift Swim
 Modest Nature
@@ -66,7 +70,8 @@ Modest Nature
 - Surf
 - Draco Meteor
 
-Porygon2 @ Master Ball
+
+Porygon2  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -75,7 +80,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20251228
+.MetDate=20250712
 EVs: 252 HP / 252 SpA / 4 SpD
 Ability: Analytic
 Quiet Nature
@@ -83,7 +88,8 @@ Quiet Nature
 - Thunderbolt
 - Shadow Ball
 
-Tyrogue @ Master Ball
+
+Tyrogue  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -92,7 +98,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230521
+.MetDate=20250515
 EVs: 252 Atk / 4 SpD / 252 Spe
 Ability: Steadfast
 Jolly Nature

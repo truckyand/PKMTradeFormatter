@@ -1,4 +1,5 @@
-.bt Weavile @ Master Ball
+.bt 
+Weavile  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -7,7 +8,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250502
+.MetDate=20230425
 EVs: 252 Atk / 4 SpD / 252 Spe
 Ability: Pressure
 Jolly Nature
@@ -15,7 +16,8 @@ Jolly Nature
 - Ice Shard
 - Throat Chop
 
-Magnezone @ Master Ball
+
+Magnezone  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -24,7 +26,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250912
+.MetDate=20230505
 EVs: 252 SpA / 4 SpD / 252 Spe
 Ability: Magnet Pull
 Timid Nature
@@ -32,7 +34,8 @@ Timid Nature
 - Flash Cannon
 - Volt Switch
 
-Lickilicky @ Master Ball
+
+Lickilicky  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -41,7 +44,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230520
+.MetDate=20250316
 EVs: 168 HP / 252 Atk / 4 Def / 84 Spe
 Ability: Cloud Nine
 Adamant Nature
@@ -49,7 +52,8 @@ Adamant Nature
 - Facade
 - Knock Off
 
-Rhyperior @ Master Ball
+
+Rhyperior  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -58,7 +62,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230821
+.MetDate=20250403
 EVs: 4 HP / 252 Atk / 252 SpD
 Ability: Solid Rock
 Brave Nature
@@ -66,7 +70,8 @@ Brave Nature
 - Earthquake
 - Stone Edge
 
-Tangrowth @ Master Ball
+
+Tangrowth  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -75,7 +80,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20241013
+.MetDate=20230504
 EVs: 252 HP / 4 Def / 252 SpD
 Ability: Regenerator
 Sassy Nature
@@ -83,7 +88,8 @@ Sassy Nature
 - Knock Off
 - Earthquake
 
-Electivire @ Master Ball
+
+Electivire  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -92,7 +98,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230703
+.MetDate=20241205
 EVs: 4 Atk / 252 SpA / 252 Spe
 Ability: Motor Drive
 Hasty Nature

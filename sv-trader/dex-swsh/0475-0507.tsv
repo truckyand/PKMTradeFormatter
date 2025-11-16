@@ -1,4 +1,5 @@
-.bt Gallade @ Master Ball
+.bt 
+Gallade  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -7,7 +8,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20241126
+.MetDate=20240615
 EVs: 252 Atk / 4 SpD / 252 Spe
 Ability: Justified
 Jolly Nature
@@ -15,7 +16,8 @@ Jolly Nature
 - Close Combat
 - Knock Off
 
-Dusknoir @ Master Ball
+
+Dusknoir  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -24,7 +26,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250408
+.MetDate=20241113
 EVs: 212 HP / 252 Atk / 44 Spe
 Ability: Frisk
 Adamant Nature
@@ -32,7 +34,8 @@ Adamant Nature
 - Shadow Sneak
 - Ice Punch
 
-Froslass @ Master Ball
+
+Froslass  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -41,7 +44,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240713
+.MetDate=20240511
 EVs: 4 Def / 252 SpA / 252 Spe
 Ability: Cursed Body
 Timid Nature
@@ -49,7 +52,8 @@ Timid Nature
 - Spikes
 - Icy Wind
 
-Rotom @ Master Ball
+
+Rotom  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -58,7 +62,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20251201
+.MetDate=20251228
 EVs: 252 SpA / 4 SpD / 252 Spe
 Ability: Levitate
 Timid Nature
@@ -66,7 +70,8 @@ Timid Nature
 - Shadow Ball
 - Volt Switch
 
-Lillipup @ Master Ball
+
+Lillipup  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -75,7 +80,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230710
+.MetDate=20240605
 EVs: 252 Atk / 4 SpD / 252 Spe
 Ability: Run Away
 Adamant Nature
@@ -84,7 +89,8 @@ Adamant Nature
 - Fire Fang
 - Crunch
 
-Herdier @ Master Ball
+
+Herdier  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -93,7 +99,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20251222
+.MetDate=20251205
 EVs: 252 Atk / 4 SpD / 252 Spe
 Ability: Scrappy
 Adamant Nature

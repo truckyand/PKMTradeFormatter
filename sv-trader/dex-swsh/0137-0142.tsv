@@ -1,4 +1,5 @@
-.bt Porygon @ Master Ball
+.bt 
+Porygon  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -7,7 +8,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240814
+.MetDate=20250502
 EVs: 252 HP / 252 SpA / 4 SpD
 Ability: Analytic
 Quiet Nature
@@ -16,7 +17,45 @@ Quiet Nature
 - Shadow Ball
 - Protect
 
-Omanyte @ Master Ball
+
+Omanyte  @ Master Ball
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Luxury Ball
+Language: English
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+.MetDate=20240810
+EVs: 76 HP / 196 SpA / 236 Spe
+Ability: Shell Armor
+Modest Nature
+- Shell Smash
+- Hydro Pump
+- Ice Beam
+- Earth Power
+
+
+Omastar  @ Master Ball
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Luxury Ball
+Language: English
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+.MetDate=20250615
+EVs: 4 HP / 252 SpA / 252 Spe
+Ability: Swift Swim
+Timid Nature
+- Shell Smash
+- Earth Power
+- Ice Beam
+
+
+Kabuto  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -26,41 +65,6 @@ Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 .MetDate=20250405
-EVs: 76 HP / 196 SpA / 236 Spe
-Ability: Shell Armor
-Modest Nature
-- Shell Smash
-- Hydro Pump
-- Ice Beam
-- Earth Power
-
-Omastar @ Master Ball
-Shiny: Yes
-OT: trucky
-OTGender: Female
-TID: 331778
-SID: 2401
-Ball: Luxury Ball
-Language: English
-IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230928
-EVs: 4 HP / 252 SpA / 252 Spe
-Ability: Swift Swim
-Timid Nature
-- Shell Smash
-- Earth Power
-- Ice Beam
-
-Kabuto @ Master Ball
-Shiny: Yes
-OT: trucky
-OTGender: Female
-TID: 331778
-SID: 2401
-Ball: Luxury Ball
-Language: English
-IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240924
 EVs: 116 HP / 196 Atk / 196 Def
 Ability: Battle Armor
 Adamant Nature
@@ -69,7 +73,8 @@ Adamant Nature
 - Stone Edge
 - Waterfall
 
-Kabutops @ Master Ball
+
+Kabutops  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -78,7 +83,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240721
+.MetDate=20250825
 EVs: 252 Atk / 4 Def / 252 Spe
 Ability: Swift Swim
 Jolly Nature
@@ -86,7 +91,8 @@ Jolly Nature
 - Stone Edge
 - Knock Off
 
-Aerodactyl @ Master Ball
+
+Aerodactyl  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -95,7 +101,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250411
+.MetDate=20231206
 EVs: 252 Atk / 4 SpD / 252 Spe
 Ability: Unnerve
 Adamant Nature

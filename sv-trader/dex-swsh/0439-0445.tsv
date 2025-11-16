@@ -1,4 +1,5 @@
-.bt Mime-jr @ Master Ball
+.bt 
+Mime-jr  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -7,7 +8,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250213
+.MetDate=20230515
 EVs: 4 HP / 252 SpA / 252 Spe
 Ability: Soundproof
 Timid Nature
@@ -16,7 +17,8 @@ Timid Nature
 - Pound
 - Protect
 
-Happiny @ Master Ball
+
+Happiny  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -25,7 +27,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230625
+.MetDate=20240726
 EVs: 252 HP / 252 Def / 4 SpD
 Ability: Natural Cure
 Bold Nature
@@ -34,7 +36,8 @@ Bold Nature
 - Protect
 - Aromatherapy
 
-Spiritomb @ Master Ball
+
+Spiritomb  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -43,7 +46,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240212
+.MetDate=20250504
 EVs: 248 HP / 252 Def / 8 SpD
 Ability: Pressure
 Bold Nature
@@ -51,7 +54,8 @@ Bold Nature
 - Dark Pulse
 - Rest
 
-Gible @ Master Ball
+
+Gible  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -60,7 +64,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240209
+.MetDate=20240418
 EVs: 4 HP / 252 Atk / 252 Spe
 Ability: Rough Skin
 Jolly Nature
@@ -69,7 +73,8 @@ Jolly Nature
 - Earthquake
 - Stone Edge
 
-Gabite @ Master Ball
+
+Gabite  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -78,7 +83,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230416
+.MetDate=20240817
 EVs: 4 HP / 252 Atk / 252 Spe
 Ability: Rough Skin
 Jolly Nature
@@ -87,7 +92,8 @@ Jolly Nature
 - Earthquake
 - Stone Edge
 
-Garchomp @ Master Ball
+
+Garchomp  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -96,7 +102,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250103
+.MetDate=20250525
 EVs: 4 HP / 252 Atk / 252 Spe
 Ability: Rough Skin
 Jolly Nature

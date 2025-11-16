@@ -1,4 +1,5 @@
-.bt Raboot @ Master Ball
+.bt 
+Raboot  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -7,7 +8,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250821
+.MetDate=20240120
 EVs: 4 HP / 252 Atk / 252 Spe
 Ability: Libero
 Jolly Nature
@@ -16,7 +17,8 @@ Jolly Nature
 - High Jump Kick
 - U-turn
 
-Cinderace @ Master Ball
+
+Cinderace  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -25,7 +27,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240805
+.MetDate=20240416
 EVs: 4 HP / 252 Atk / 252 Spe
 Ability: Libero
 Gigantamax: Yes
@@ -34,7 +36,8 @@ Jolly Nature
 - Pyro Ball
 - High Jump Kick
 
-Sobble @ Master Ball
+
+Sobble  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -43,7 +46,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230106
+.MetDate=20231220
 EVs: 252 SpA / 4 SpD / 252 Spe
 Ability: Sniper
 Timid Nature
@@ -52,7 +55,8 @@ Timid Nature
 - Ice Shard
 - U-turn
 
-Drizzile @ Master Ball
+
+Drizzile  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -61,7 +65,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230524
+.MetDate=20250608
 EVs: 252 SpA / 4 SpD / 252 Spe
 Ability: Sniper
 Timid Nature
@@ -70,7 +74,8 @@ Timid Nature
 - Ice Shard
 - U-turn
 
-Inteleon @ Master Ball
+
+Inteleon  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -79,7 +84,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240916
+.MetDate=20240613
 EVs: 252 SpA / 4 SpD / 252 Spe
 Ability: Sniper
 Gigantamax: Yes
@@ -88,7 +93,8 @@ Timid Nature
 - Ice Beam
 - Air Slash
 
-Skwovet @ Master Ball
+
+Skwovet  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -97,7 +103,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230916
+.MetDate=20250221
 EVs: 4 HP / 156 Atk / 84 Def / 140 SpD / 124 Spe
 Ability: Cheek Pouch
 Adamant Nature

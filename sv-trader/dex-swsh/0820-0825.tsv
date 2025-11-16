@@ -1,4 +1,5 @@
-.bt Greedent @ Master Ball
+.bt 
+Greedent  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -7,7 +8,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230124
+.MetDate=20241027
 EVs: 4 HP / 156 Atk / 84 Def / 140 SpD / 124 Spe
 Ability: Cheek Pouch
 Adamant Nature
@@ -15,7 +16,8 @@ Adamant Nature
 - Body Slam
 - Fire Fang
 
-Rookidee @ Master Ball
+
+Rookidee  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -24,7 +26,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230222
+.MetDate=20251002
 EVs: 252 HP / 32 Def / 136 SpD / 88 Spe
 Ability: Keen Eye
 Careful Nature
@@ -33,7 +35,8 @@ Careful Nature
 - U-turn
 - Protect
 
-Corvisquire @ Master Ball
+
+Corvisquire  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -42,7 +45,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240602
+.MetDate=20230812
 EVs: 252 HP / 32 Def / 136 SpD / 88 Spe
 Ability: Keen Eye
 Careful Nature
@@ -51,7 +54,8 @@ Careful Nature
 - U-turn
 - Protect
 
-Corviknight @ Master Ball
+
+Corviknight  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -60,7 +64,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250910
+.MetDate=20230620
 EVs: 252 HP / 32 Def / 136 SpD / 88 Spe
 Ability: Mirror Armor
 Gigantamax: Yes
@@ -69,7 +73,8 @@ Careful Nature
 - Roost
 - Iron Head
 
-Blipbug @ Master Ball
+
+Blipbug  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -78,7 +83,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240217
+.MetDate=20241102
 EVs: 252 HP / 252 Def / 4 SpD
 Ability: Compound Eyes
 Bold Nature
@@ -87,7 +92,8 @@ Bold Nature
 - Struggle Bug
 - Sticky Web
 
-Dottler @ Master Ball
+
+Dottler  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -96,7 +102,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250723
+.MetDate=20251024
 EVs: 252 HP / 252 Def / 4 SpD
 Ability: Compound Eyes
 Bold Nature

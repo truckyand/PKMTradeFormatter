@@ -1,4 +1,5 @@
-.bt Munchlax @ Master Ball
+.bt 
+Munchlax  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -7,7 +8,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20250302
+.MetDate=20230305
 EVs: 236 Atk / 36 Def / 236 SpD
 Ability: Thick Fat
 Adamant Nature
@@ -16,7 +17,8 @@ Adamant Nature
 - Curse
 - Recycle
 
-Riolu @ Master Ball
+
+Riolu  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -25,7 +27,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20231018
+.MetDate=20230805
 EVs: 252 Atk / 4 SpD / 252 Spe
 Ability: Prankster
 Adamant Nature
@@ -34,7 +36,8 @@ Adamant Nature
 - Earthquake
 - Drain Punch
 
-Lucario @ Master Ball
+
+Lucario  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -43,7 +46,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20230908
+.MetDate=20250122
 EVs: 252 Atk / 4 SpD / 252 Spe
 Ability: Justified
 Adamant Nature
@@ -51,7 +54,8 @@ Adamant Nature
 - Bullet Punch
 - Close Combat
 
-Hippopotas @ Master Ball
+
+Hippopotas  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -60,7 +64,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20241204
+.MetDate=20250113
 EVs: 252 HP / 8 Atk / 72 Def / 176 SpD
 Ability: Sand Stream
 Impish Nature
@@ -69,7 +73,8 @@ Impish Nature
 - Stealth Rock
 - Whirlwind
 
-Hippowdon @ Master Ball
+
+Hippowdon  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -78,7 +83,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240424
+.MetDate=20250306
 EVs: 252 HP / 8 Atk / 72 Def / 176 SpD
 Ability: Sand Stream
 Impish Nature
@@ -86,7 +91,8 @@ Impish Nature
 - Slack Off
 - Stealth Rock
 
-Skorupi @ Master Ball
+
+Skorupi  @ Master Ball
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -95,7 +101,7 @@ SID: 2401
 Ball: Luxury Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-.MetDate=20240808
+.MetDate=20250513
 EVs: 252 Atk / 4 SpD / 252 Spe
 Ability: Sniper
 Jolly Nature
