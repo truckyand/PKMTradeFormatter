@@ -1,1 +1,25 @@
 Cannot find meta_set for 0032 Nidoran-m
+
+
+ Urshifu is legendary, ignore.
+ Articuno is legendary, ignore.
+ Zapdos is legendary, ignore.
+ Moltres is legendary, ignore.
+ Regirock is legendary, ignore.
+ Regice is legendary, ignore.
+ Registeel is legendary, ignore.
+✅ Cobalion is legendary, ignore.
+✅ Terrakion is legendary, ignore.
+✅ Virizion is legendary, ignore.
+✔️ Type: Null is legendary, ignore.
+ Silvally is legendary, ignore.
+ Zacian is legendary, ignore.
+ Zamazenta is legendary, ignore.
+ Eternatus is legendary, ignore.
+ Kubfu is legendary, ignore.
+ Zarude is legendary, ignore.
+ Regieleki is legendary, ignore.
+ Regidrago is legendary, ignore.
+ Glastrier is legendary, ignore.
+ Spectrier is legendary, ignore.
+ Calyrex is legendary, ignore.
