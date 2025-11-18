@@ -7,15 +7,16 @@ TID: 331778
 SID: 2401
 Ball: Poke Ball
 Language: English
-IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+IVs: 6IV
 .MetDate=20240818
 .Ribbons=$suggestAll
 EVs: 4 HP / 252 Atk / 252 Spe
 Ability: RKS System
-Jolly Nature
-- Parting Shot
-- Explosion
-- Double-Edge
+Adamant Nature
+- Tri Attack
+- X-Scissor
+- Iron Head
+- Take Down
 
 
 Turtonator @ Big Nugget

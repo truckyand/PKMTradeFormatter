@@ -96,7 +96,7 @@ Bold Nature
 - Recover
 
 # is_legendary
-Type-null @ Big Nugget
+Type: Null @ Big Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -104,12 +104,13 @@ TID: 331778
 SID: 2401
 Ball: Poke Ball
 Language: English
-IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+IVs: 6IV
 .MetDate=20240213
 .Ribbons=$suggestAll
 EVs: 252 HP / 8 Def / 248 SpD
 Ability: Battle Armor
-Careful Nature
-- U-turn
-- Crush Claw
-- Rest
+Adamant Nature
+- Tri Attack
+- X-Scissor
+- Iron Head
+- Take Down

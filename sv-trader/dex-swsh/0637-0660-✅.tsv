@@ -26,15 +26,16 @@ TID: 331778
 SID: 2401
 Ball: Luxury Ball
 Language: English
-IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+IVs: 20 HP / 4 Atk / 31 Def / 31 SpA / 12 SpD / 31 Spe
 .MetDate=20230908
 .Ribbons=$suggestAll
 EVs: 4 HP / 252 Atk / 252 Spe
 Ability: Justified
 Jolly Nature
-- Stealth Rock
 - Sacred Sword
-- Volt Switch
+- Swords Dance
+- Iron Head
+- Close Combat
 
 # is_legendary
 Terrakion @ Big Nugget
@@ -45,15 +46,16 @@ TID: 331778
 SID: 2401
 Ball: Luxury Ball
 Language: English
-IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+IVs: 6IV
 .MetDate=20250121
 .Ribbons=$suggestAll
 EVs: 252 Atk / 4 Def / 252 Spe
 Ability: Justified
 Jolly Nature
+- Sacred Sword
 - Swords Dance
 - Stone Edge
-- Sacred Sword
+- Close Combat
 
 # is_legendary
 Virizion @ Big Nugget
@@ -64,15 +66,16 @@ TID: 331778
 SID: 2401
 Ball: Luxury Ball
 Language: English
-IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+IVs: 6IV
 .MetDate=20240618
 .Ribbons=$suggestAll
 EVs: 252 Atk / 4 SpD / 252 Spe
 Ability: Justified
-Jolly Nature
-- Swords Dance
+Adamant Nature
 - Sacred Sword
-- Grassy Glide
+- Swords Dance
+- Leaf Blade
+- Close Combat
 
 
 Bunnelby @ Big Nugget
