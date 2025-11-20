@@ -1,0 +1,1519 @@
+Articuno
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Master Ball
+Language: English
+IVs: 6IV
+.Ribbons=$suggestAll
+EVs: 252 SpA / 4 SpD / 252 Spe
+Ability: Pressure
+Shiny: Yes
+Timid Nature
+- Substitute
+- Roost
+- Hurricane
+- Ice Beam
+
+Articuno-Galar
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Master Ball
+Language: English
+IVs: 6IV
+.Ribbons=$suggestAll
+EVs: 4 Def / 252 SpA / 252 Spe
+Ability: Competitive
+Shiny: Yes
+Timid Nature
+- Freezing Glare
+- Calm Mind
+- Hurricane
+- Recover
+
+Zapdos
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Master Ball
+Language: English
+IVs: 6IV
+.Ribbons=$suggestAll
+EVs: 4 HP / 252 SpA / 252 Spe
+Ability: Pressure
+Shiny: Yes
+Timid Nature
+- Thunderbolt
+- Hurricane
+- Volt Switch
+- Heat Wave
+
+Zapdos-Galar
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Master Ball
+Language: English
+IVs: 6IV
+.Ribbons=$suggestAll
+EVs: 252 Atk / 4 SpD / 252 Spe
+Ability: Defiant
+Shiny: Yes
+Jolly Nature
+- Thunderous Kick
+- Brave Bird
+- U-turn
+- Stomping Tantrum
+
+Moltres
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Master Ball
+Language: English
+IVs: 6IV
+.Ribbons=$suggestAll
+EVs: 4 Def / 252 SpA / 252 Spe
+Ability: Pressure
+Shiny: Yes
+Timid Nature
+- Fire Blast
+- Hurricane
+- Will-O-Wisp
+- Roost
+
+Moltres-Galar
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Master Ball
+Language: English
+IVs: 6IV
+.Ribbons=$suggestAll
+EVs: 252 SpA / 4 SpD / 252 Spe
+Ability: Berserk
+Shiny: Yes
+Timid Nature
+- Nasty Plot
+- Fiery Wrath
+- Hurricane
+- Substitute
+
+Mewtwo
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Master Ball
+Language: English
+IVs: 6IV
+.Ribbons=$suggestAll
+EVs: 4 HP / 252 SpA / 252 Spe
+Ability: Unnerve
+Shiny: Yes
+Timid Nature
+- Nasty Plot
+- Ice Beam
+- Fire Blast
+- Psystrike
+
+Mew
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Master Ball
+Language: English
+IVs: 6IV
+.Ribbons=$suggestAll
+EVs: 252 HP / 4 Atk / 252 Spe
+Ability: Synchronize
+Shiny: Yes
+Jolly Nature
+- Stealth Rock
+- Spikes
+- Taunt
+- Flare Blitz
+
+Raikou
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Master Ball
+Language: English
+IVs: 6IV
+.Ribbons=$suggestAll
+EVs: 4 Def / 252 SpA / 252 Spe
+Ability: Pressure
+Shiny: Yes
+Modest Nature
+- Scald
+- Thunderbolt
+- Shadow Ball
+- Volt Switch
+
+Entei
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Master Ball
+Language: English
+IVs: 6IV
+.Ribbons=$suggestAll
+EVs: 252 Atk / 4 Def / 252 Spe
+Ability: Pressure
+Shiny: Yes
+Adamant Nature
+- Sacred Fire
+- Extreme Speed
+- Stone Edge
+- Flare Blitz
+
+Suicune
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Master Ball
+Language: English
+IVs: 6IV
+.Ribbons=$suggestAll
+EVs: 252 HP / 252 Def / 4 SpA
+Ability: Pressure
+Shiny: Yes
+Bold Nature
+- Calm Mind
+- Rest
+- Scald
+- Sleep Talk
+
+Lugia
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Master Ball
+Language: English
+IVs: 6IV
+.Ribbons=$suggestAll
+EVs: 252 HP / 252 Def / 4 SpA
+Ability: Multiscale
+Shiny: Yes
+Bold Nature
+- Recover
+- Calm Mind
+- Aeroblast
+- Psyshock
+
+Ho-Oh
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Master Ball
+Language: English
+IVs: 6IV
+.Ribbons=$suggestAll
+EVs: 252 HP / 252 Atk
+Ability: Regenerator
+Shiny: Yes
+Adamant Nature
+- Sacred Fire
+- Dual Wingbeat
+- Recover
+- Earthquake
+
+Celebi
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Cherish Ball
+Language: English
+IVs: 6IV
+.Ribbons=$suggestAll
+EVs: 4 HP / 252 SpA / 252 Spe
+Ability: Natural Cure
+Shiny: Yes
+Timid Nature
+- Nasty Plot
+- Expanding Force
+- Giga Drain
+- Recover
+
+Regirock
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Master Ball
+Language: English
+IVs: 6IV
+.Ribbons=$suggestAll
+EVs: 252 HP / 252 SpD
+Ability: Clear Body
+Shiny: Yes
+Impish Nature
+- Stealth Rock
+- Rock Slide
+- Drain Punch
+- Protect
+
+Regice
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Master Ball
+Language: English
+IVs: 6IV
+.Ribbons=$suggestAll
+EVs: 252 HP / 252 SpA / 4 SpD
+Ability: Clear Body
+Shiny: Yes
+Modest Nature
+- Thunder Wave
+- Ice Beam
+- Focus Blast
+- Thunderbolt
+
+Registeel
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Master Ball
+Language: English
+IVs: 6IV
+.Ribbons=$suggestAll
+EVs: 252 HP / 4 Atk / 252 SpD
+Ability: Clear Body
+Shiny: Yes
+Careful Nature
+- Curse
+- Earthquake
+- Iron Head
+- Protect
+
+Latias (F)
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Master Ball
+Language: English
+IVs: 6IV
+.Ribbons=$suggestAll
+EVs: 4 HP / 252 Def / 252 Spe
+Ability: Levitate
+Shiny: Yes
+Timid Nature
+- Calm Mind
+- Recover
+- Stored Power
+- Dragon Pulse
+
+Latios (M)
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Master Ball
+Language: English
+IVs: 6IV
+.Ribbons=$suggestAll
+EVs: 4 Atk / 252 SpA / 252 Spe
+Ability: Levitate
+Shiny: Yes
+Timid Nature
+- Psyshock
+- Calm Mind
+- Dragon Pulse
+- Recover
+
+Kyogre
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Master Ball
+Language: English
+IVs: 6IV
+.Ribbons=$suggestAll
+EVs: 4 Def / 252 SpA / 252 Spe
+Ability: Drizzle
+Shiny: Yes
+Modest Nature
+- Thunder
+- Calm Mind
+- Origin Pulse
+- Ice Beam
+
+Groudon
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Master Ball
+Language: English
+IVs: 6IV
+.Ribbons=$suggestAll
+EVs: 4 HP / 252 Atk / 252 Spe
+Ability: Drought
+Shiny: Yes
+Jolly Nature
+- Heat Crash
+- Swords Dance
+- Precipice Blades
+- Rock Tomb
+
+Rayquaza
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Master Ball
+Language: English
+IVs: 6IV
+.Ribbons=$suggestAll
+EVs: 252 Atk / 4 Def / 252 Spe
+Ability: Air Lock
+Shiny: Yes
+Adamant Nature
+- Dragon Ascent
+- Dragon Dance
+- Extreme Speed
+- Earthquake
+
+Jirachi
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Cherish Ball
+Language: English
+IVs: 6IV
+.Ribbons=$suggestAll
+EVs: 248 HP / 188 SpD / 72 Spe
+Ability: Serene Grace
+Shiny: Yes
+Careful Nature
+- Wish
+- Protect
+- U-turn
+- Iron Head
+
+Uxie
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Master Ball
+Language: English
+IVs: 6IV
+.Ribbons=$suggestAll
+EVs: 252 HP / 40 Def / 216 Spe
+Ability: Levitate
+Shiny: Yes
+Timid Nature
+- Stealth Rock
+- Psyshock
+- Yawn
+- U-turn
+
+Mesprit
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Master Ball
+Language: English
+IVs: 6IV
+.Ribbons=$suggestAll
+EVs: 252 SpA / 4 SpD / 252 Spe
+Ability: Levitate
+Shiny: Yes
+Timid Nature
+- Stealth Rock
+- Psychic
+- Thunder
+- Energy Ball
+
+Azelf
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Master Ball
+Language: English
+IVs: 6IV
+.Ribbons=$suggestAll
+EVs: 4 Def / 252 SpA / 252 Spe
+Ability: Levitate
+Shiny: Yes
+Timid Nature
+- Nasty Plot
+- Psyshock
+- Fire Blast
+- Dazzling Gleam
+
+Dialga
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Master Ball
+Language: English
+IVs: 6IV
+.Ribbons=$suggestAll
+EVs: 252 HP / 252 SpA / 4 Spe
+Ability: Pressure
+Shiny: Yes
+Modest Nature
+- Stealth Rock
+- Draco Meteor
+- Fire Blast
+- Thunder
+
+Palkia
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Master Ball
+Language: English
+IVs: 6IV
+.Ribbons=$suggestAll
+EVs: 4 Atk / 252 SpA / 252 Spe
+Ability: Pressure
+Shiny: Yes
+Modest Nature
+- Hydro Pump
+- Spacial Rend
+- Thunder
+- Fire Blast
+
+Heatran (M)
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Master Ball
+Language: English
+IVs: 6IV
+.Ribbons=$suggestAll
+EVs: 252 HP / 176 SpD / 80 Spe
+Ability: Flash Fire
+Shiny: Yes
+Calm Nature
+- Lava Plume
+- Will-O-Wisp
+- Protect
+- Stealth Rock
+
+Regigigas
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Master Ball
+Language: English
+IVs: 6IV
+.Ribbons=$suggestAll
+EVs: 252 HP / 252 Atk / 4 Def
+Ability: Slow Start
+Shiny: Yes
+Adamant Nature
+- Substitute
+- Knock Off
+- Thunder Wave
+- Drain Punch
+
+Giratina-Origin
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Master Ball
+Language: English
+IVs: 6IV
+.Ribbons=$suggestAll
+EVs: 252 HP / 252 SpA / 4 SpD
+Ability: Levitate
+Shiny: Yes
+Modest Nature
+- Defog
+- Hex
+- Dragon Pulse
+- Thunder Wave
+
+Giratina-Origin
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Master Ball
+Language: English
+IVs: 6IV
+.Ribbons=$suggestAll
+EVs: 252 HP / 252 SpA / 4 SpD
+Ability: Levitate
+Shiny: Yes
+Modest Nature
+- Defog
+- Hex
+- Dragon Pulse
+- Thunder Wave
+
+Cresselia (F)
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Master Ball
+Language: English
+IVs: 6IV
+.Ribbons=$suggestAll
+EVs: 252 HP / 252 Def / 4 SpA
+Ability: Levitate
+Shiny: Yes
+Bold Nature
+- Moonlight
+- Psyshock
+- Moonblast
+- Calm Mind
+
+Cobalion
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Master Ball
+Language: English
+IVs: 6IV
+.Ribbons=$suggestAll
+EVs: 4 HP / 252 Atk / 252 Spe
+Ability: Justified
+Shiny: Yes
+Jolly Nature
+- Stealth Rock
+- Sacred Sword
+- Volt Switch
+- Iron Head
+
+Terrakion
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Master Ball
+Language: English
+IVs: 6IV
+.Ribbons=$suggestAll
+EVs: 252 Atk / 4 Def / 252 Spe
+Ability: Justified
+Shiny: Yes
+Jolly Nature
+- Swords Dance
+- Stone Edge
+- Sacred Sword
+- Earthquake
+
+Virizion
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Master Ball
+Language: English
+IVs: 6IV
+.Ribbons=$suggestAll
+EVs: 252 Atk / 4 SpD / 252 Spe
+Ability: Justified
+Shiny: Yes
+Jolly Nature
+- Swords Dance
+- Sacred Sword
+- Grassy Glide
+- Stone Edge
+
+Tornadus (M)
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Master Ball
+Language: English
+IVs: 6IV
+.Ribbons=$suggestAll
+EVs: 4 HP / 252 SpA / 252 Spe
+Ability: Defiant
+Shiny: Yes
+Hasty Nature
+- Hurricane
+- Heat Wave
+- U-turn
+- Grass Knot
+
+Tornadus-Therian (M)
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Master Ball
+Language: English
+IVs: 6IV
+.Ribbons=$suggestAll
+EVs: 252 HP / 4 Def / 252 Spe
+Ability: Regenerator
+Shiny: Yes
+Timid Nature
+- Hurricane
+- Taunt
+- U-turn
+- Focus Blast
+
+Thundurus (M)
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Master Ball
+Language: English
+IVs: 6IV
+.Ribbons=$suggestAll
+EVs: 4 Def / 252 SpA / 252 Spe
+Ability: Prankster
+Shiny: Yes
+Timid Nature
+- Nasty Plot
+- Thunderbolt
+- Substitute
+- Focus Blast
+
+Thundurus-Therian (M)
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Master Ball
+Language: English
+IVs: 6IV
+.Ribbons=$suggestAll
+EVs: 4 Def / 252 SpA / 252 Spe
+Ability: Volt Absorb
+Shiny: Yes
+Timid Nature
+- Nasty Plot
+- Thunderbolt
+- Volt Switch
+- Focus Blast
+
+Reshiram
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Master Ball
+Language: English
+IVs: 6IV
+.Ribbons=$suggestAll
+EVs: 104 HP / 252 SpA / 152 Spe
+Ability: Turboblaze
+Shiny: Yes
+Modest Nature
+- Blue Flare
+- Draco Meteor
+- Focus Blast
+- Ancient Power
+
+Zekrom
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Master Ball
+Language: English
+IVs: 6IV
+.Ribbons=$suggestAll
+EVs: 4 HP / 252 Atk / 252 Spe
+Ability: Teravolt
+Shiny: Yes
+Jolly Nature
+- Dragon Dance
+- Bolt Strike
+- Outrage
+- Substitute
+
+Landorus (M)
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Master Ball
+Language: English
+IVs: 6IV
+.Ribbons=$suggestAll
+EVs: 4 Atk / 252 SpA / 252 Spe
+Ability: Sheer Force
+Shiny: Yes
+Timid Nature
+- Earth Power
+- Sludge Bomb
+- Focus Blast
+- Protect
+
+Landorus-Therian (M)
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Master Ball
+Language: English
+IVs: 6IV
+.Ribbons=$suggestAll
+EVs: 232 Atk / 68 Def / 208 Spe
+Ability: Intimidate
+Shiny: Yes
+Jolly Nature
+- Earthquake
+- U-turn
+- Stone Edge
+- Stealth Rock
+
+Kyurem
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Master Ball
+Language: English
+IVs: 6IV
+.Ribbons=$suggestAll
+EVs: 4 Def / 252 SpA / 252 Spe
+Ability: Pressure
+Shiny: Yes
+Timid Nature
+- Ice Beam
+- Substitute
+- Earth Power
+- Draco Meteor
+
+Genesect
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Cherish Ball
+Language: English
+IVs: 6IV
+.Ribbons=$suggestAll
+EVs: 252 Atk / 4 SpD / 252 Spe
+Ability: Download
+Shiny: Yes
+Jolly Nature
+- U-turn
+- Iron Head
+- Extreme Speed
+- Explosion
+
+Genesect @ Douse Drive
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Master Ball
+Language: English
+IVs: 6IV
+.Ribbons=$suggestAll
+EVs: 252 Atk / 4 SpD / 252 Spe
+Ability: Download
+Shiny: Yes
+Jolly Nature
+- U-turn
+- Iron Head
+- Extreme Speed
+- Explosion
+
+Genesect @ Shock Drive
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Master Ball
+Language: English
+IVs: 6IV
+.Ribbons=$suggestAll
+EVs: 252 Atk / 4 SpD / 252 Spe
+Ability: Download
+Shiny: Yes
+Jolly Nature
+- U-turn
+- Iron Head
+- Extreme Speed
+- Explosion
+
+Genesect @ Burn Drive
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Master Ball
+Language: English
+IVs: 6IV
+.Ribbons=$suggestAll
+EVs: 252 Atk / 4 SpD / 252 Spe
+Ability: Download
+Shiny: Yes
+Jolly Nature
+- U-turn
+- Iron Head
+- Extreme Speed
+- Explosion
+
+Genesect @ Chill Drive
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Master Ball
+Language: English
+IVs: 6IV
+.Ribbons=$suggestAll
+EVs: 252 Atk / 4 SpD / 252 Spe
+Ability: Download
+Shiny: Yes
+Jolly Nature
+- U-turn
+- Iron Head
+- Extreme Speed
+- Explosion
+
+Xerneas
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Master Ball
+Language: English
+IVs: 6IV
+.Ribbons=$suggestAll
+EVs: 168 Def / 252 SpA / 88 Spe
+Ability: Fairy Aura
+Shiny: Yes
+Modest Nature
+- Geomancy
+- Draining Kiss
+- Thunder
+- Focus Blast
+
+Yveltal
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Master Ball
+Language: English
+IVs: 6IV
+.Ribbons=$suggestAll
+EVs: 4 HP / 252 SpA / 252 Spe
+Ability: Dark Aura
+Shiny: Yes
+Modest Nature
+- Foul Play
+- Dark Pulse
+- Oblivion Wing
+- U-turn
+
+Zygarde
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Master Ball
+Language: English
+IVs: 6IV
+.Ribbons=$suggestAll
+EVs: 12 HP / 216 Atk / 48 SpD / 232 Spe
+Ability: Power Construct
+Shiny: Yes
+Adamant Nature
+- Dragon Dance
+- Thousand Arrows
+- Substitute
+- Protect
+
+Zygarde-10%
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Master Ball
+Language: English
+IVs: 6IV
+.Ribbons=$suggestAll
+EVs: 4 HP / 252 Atk / 252 Spe
+Ability: Power Construct
+Shiny: Yes
+Jolly Nature
+- Outrage
+- Thousand Arrows
+- Iron Tail
+- Superpower
+
+Zygarde-10%-C
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Master Ball
+Language: English
+IVs: 6IV
+.Ribbons=$suggestAll
+Shiny: Yes
+Ability: Power Construct
+EVs: 252 Atk / 252 SpD / 4 Spe
+Calm Nature
+- High Horsepower
+- Earthquake
+- Hyper Voice
+- Thousand Waves
+
+Zygarde-50%-C
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Master Ball
+Language: English
+IVs: 6IV
+.Ribbons=$suggestAll
+Shiny: Yes
+Ability: Power Construct
+EVs: 252 Atk / 252 Def / 4 SpD
+Lonely Nature
+- Dragon Pulse
+- Dragon Dance
+- Dragon Breath
+- Thousand Waves
+
+Diancie
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Cherish Ball
+Language: English
+IVs: 6IV
+.Ribbons=$suggestAll
+EVs: 252 SpA / 4 SpD / 252 Spe
+Ability: Clear Body
+Shiny: Yes
+Hasty Nature
+- Stealth Rock
+- Moonblast
+- Diamond Storm
+- Earth Power
+
+Type: Null
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Poke Ball
+Language: English
+IVs: 6IV
+.Ribbons=$suggestAll
+EVs: 252 HP / 8 Def / 248 SpD
+Ability: Battle Armor
+Shiny: Yes
+Careful Nature
+- U-turn
+- Crush Claw
+- Rest
+- Sleep Talk
+
+Silvally
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Poke Ball
+Language: English
+IVs: 6IV
+.Ribbons=$suggestAll
+EVs: 4 HP / 252 Atk / 252 Spe
+Ability: RKS System
+Shiny: Yes
+Jolly Nature
+- Parting Shot
+- Explosion
+- Double-Edge
+- Shadow Claw
+
+
+Silvally @ Fighting Memory
+EVs: 4 HP / 252 Atk / 252 Spe
+Ability: RKS System
+Shiny: Yes
+Jolly Nature
+- Parting Shot
+- Explosion
+- Double-Edge
+- Shadow Claw
+
+Silvally @ Flying Memory
+EVs: 4 HP / 252 Atk / 252 Spe
+Ability: RKS System
+Shiny: Yes
+Jolly Nature
+- Parting Shot
+- Explosion
+- Double-Edge
+- Shadow Claw
+
+Silvally @ Poison Memory
+EVs: 4 HP / 252 Atk / 252 Spe
+Ability: RKS System
+Shiny: Yes
+Jolly Nature
+- Parting Shot
+- Explosion
+- Double-Edge
+- Shadow Claw
+
+Silvally @ Ground Memory
+EVs: 4 HP / 252 Atk / 252 Spe
+Ability: RKS System
+Shiny: Yes
+Jolly Nature
+- Parting Shot
+- Explosion
+- Double-Edge
+- Shadow Claw
+
+Silvally @ Rock Memory
+EVs: 4 HP / 252 Atk / 252 Spe
+Ability: RKS System
+Shiny: Yes
+Jolly Nature
+- Parting Shot
+- Explosion
+- Double-Edge
+- Shadow Claw
+
+Silvally @ Bug Memory
+EVs: 4 HP / 252 Atk / 252 Spe
+Ability: RKS System
+Shiny: Yes
+Jolly Nature
+- Parting Shot
+- Explosion
+- Double-Edge
+- Shadow Claw
+
+Silvally @ Ghost Memory
+EVs: 4 HP / 252 Atk / 252 Spe
+Ability: RKS System
+Shiny: Yes
+Jolly Nature
+- Parting Shot
+- Explosion
+- Double-Edge
+- Shadow Claw
+
+Silvally @ Steel Memory
+EVs: 4 HP / 252 Atk / 252 Spe
+Ability: RKS System
+Shiny: Yes
+Jolly Nature
+- Parting Shot
+- Explosion
+- Double-Edge
+- Shadow Claw
+
+Silvally @ Fire Memory
+EVs: 4 HP / 252 Atk / 252 Spe
+Ability: RKS System
+Shiny: Yes
+Jolly Nature
+- Parting Shot
+- Explosion
+- Double-Edge
+- Shadow Claw
+
+Silvally @ Water Memory
+EVs: 4 HP / 252 Atk / 252 Spe
+Ability: RKS System
+Shiny: Yes
+Jolly Nature
+- Parting Shot
+- Explosion
+- Double-Edge
+- Shadow Claw
+
+Silvally @ Grass Memory
+EVs: 4 HP / 252 Atk / 252 Spe
+Ability: RKS System
+Shiny: Yes
+Jolly Nature
+- Parting Shot
+- Explosion
+- Double-Edge
+- Shadow Claw
+
+Silvally @ Electric Memory
+EVs: 4 HP / 252 Atk / 252 Spe
+Ability: RKS System
+Shiny: Yes
+Jolly Nature
+- Parting Shot
+- Explosion
+- Double-Edge
+- Shadow Claw
+
+Silvally @ Psychic Memory
+EVs: 4 HP / 252 Atk / 252 Spe
+Ability: RKS System
+Shiny: Yes
+Jolly Nature
+- Parting Shot
+- Explosion
+- Double-Edge
+- Shadow Claw
+
+Silvally @ Ice Memory
+EVs: 4 HP / 252 Atk / 252 Spe
+Ability: RKS System
+Shiny: Yes
+Jolly Nature
+- Parting Shot
+- Explosion
+- Double-Edge
+- Shadow Claw
+
+Silvally @ Dragon Memory
+EVs: 4 HP / 252 Atk / 252 Spe
+Ability: RKS System
+Shiny: Yes
+Jolly Nature
+- Parting Shot
+- Explosion
+- Double-Edge
+- Shadow Claw
+
+Silvally @ Dark Memory
+EVs: 4 HP / 252 Atk / 252 Spe
+Ability: RKS System
+Shiny: Yes
+Jolly Nature
+- Parting Shot
+- Explosion
+- Double-Edge
+- Shadow Claw
+
+Silvally @ Fairy Memory
+EVs: 4 HP / 252 Atk / 252 Spe
+Ability: RKS System
+Shiny: Yes
+Jolly Nature
+- Parting Shot
+- Explosion
+- Double-Edge
+- Shadow Claw
+
+Tapu Koko
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Master Ball
+Language: English
+IVs: 6IV
+.Ribbons=$suggestAll
+EVs: 252 SpA / 4 SpD / 252 Spe
+Ability: Electric Surge
+Shiny: Yes
+Timid Nature
+- Thunderbolt
+- Dazzling Gleam
+- Volt Switch
+- Nature’s Madness
+
+Tapu Lele
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Master Ball
+Language: English
+IVs: 6IV
+.Ribbons=$suggestAll
+EVs: 252 SpA / 4 SpD / 252 Spe
+Ability: Psychic Surge
+Shiny: Yes
+Timid Nature
+- Thunderbolt
+- Moonblast
+- Psyshock
+- Focus Blast
+
+Tapu Bulu
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Master Ball
+Language: English
+IVs: 6IV
+.Ribbons=$suggestAll
+EVs: 84 HP / 248 Atk / 176 Spe
+Ability: Grassy Surge
+Shiny: Yes
+Adamant Nature
+- Wood Hammer
+- Horn Leech
+- Superpower
+- Stone Edge
+
+Tapu Fini
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Master Ball
+Language: English
+IVs: 6IV
+.Ribbons=$suggestAll
+EVs: 248 HP / 16 Def / 12 SpA / 40 SpD / 192 Spe
+Ability: Misty Surge
+Shiny: Yes
+Calm Nature
+- Protect
+- Moonblast
+- Scald
+- Taunt
+
+Solgaleo
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Master Ball
+Language: English
+IVs: 6IV
+.Ribbons=$suggestAll
+EVs: 252 Atk / 4 SpD / 252 Spe
+Ability: Full Metal Body
+Shiny: Yes
+Jolly Nature
+- Sunsteel Strike
+- Earthquake
+- Stone Edge
+- Flare Blitz
+
+Lunala
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Master Ball
+Language: English
+IVs: 6IV
+.Ribbons=$suggestAll
+EVs: 4 HP / 252 SpA / 252 Spe
+Ability: Shadow Shield
+Shiny: Yes
+Timid Nature
+- Moongeist Beam
+- Expanding Force
+- Moonlight
+- Focus Blast
+
+Necrozma
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Master Ball
+Language: English
+IVs: 6IV
+.Ribbons=$suggestAll
+EVs: 252 HP / 252 Def / 4 SpA
+Ability: Prism Armor
+Shiny: Yes
+Modest Nature
+- Photon Geyser
+- Heat Wave
+- Calm Mind
+- Moonlight
+
+Magearna-Original
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Cherish Ball
+Language: English
+IVs: 6IV
+.Ribbons=$suggestAll
+EVs: 248 HP / 224 SpD / 36 Spe
+Ability: Soul-Heart
+Sassy Nature
+- Volt Switch
+- Fleur Cannon
+- Focus Blast
+- Flash Cannon
+
+Zeraora
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Master Ball
+Language: English
+IVs: 6IV
+.Ribbons=$suggestAll
+EVs: 4 HP / 252 Atk / 252 Spe
+Ability: Volt Absorb
+Shiny: Yes
+Naive Nature
+- Plasma Fists
+- Close Combat
+- Grass Knot
+- Volt Switch
+
+Meltan
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Cherish Ball
+Language: English
+IVs: 6IV
+.Ribbons=$suggestAll
+EVs: 4 HP / 252 SpA / 252 Spe
+Ability: Magnet Pull
+Shiny: Yes
+Modest Nature
+- Flash Cannon
+- Thunder Wave
+- Thunderbolt
+- Protect
+
+Melmetal
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Cherish Ball
+Language: English
+IVs: 6IV
+.Ribbons=$suggestAll
+EVs: 244 HP / 252 Atk / 12 Spe
+Ability: Iron Fist
+Shiny: Yes
+Adamant Nature
+- Double Iron Bash
+- Ice Punch
+- Thunder Punch
+- Superpower
+
+Zacian
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Master Ball
+Language: English
+IVs: 6IV
+.Ribbons=$suggestAll
+EVs: 4 HP / 252 Atk / 252 Spe
+Ability: Intrepid Sword
+Shiny: Yes
+Jolly Nature
+- Sacred Sword
+- Swords Dance
+- Iron Head
+- Play Rough
+
+Zamazenta
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Master Ball
+Language: English
+IVs: 6IV
+.Ribbons=$suggestAll
+EVs: 252 Atk / 4 Def / 252 Spe
+Ability: Dauntless Shield
+Shiny: Yes
+Jolly Nature
+- Close Combat
+- Iron Head
+- Wild Charge
+- Crunch
+
+Eternatus
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Master Ball
+Language: English
+IVs: 6IV
+.Ribbons=$suggestAll
+EVs: 4 HP / 252 SpA / 252 Spe
+Ability: Pressure
+Shiny: Yes
+Timid Nature
+- Recover
+- Substitute
+- Flamethrower
+- Dynamax Cannon
+
+Regieleki
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Master Ball
+Language: English
+IVs: 6IV
+.Ribbons=$suggestAll
+EVs: 4 Atk / 252 SpA / 252 Spe
+Ability: Transistor
+Shiny: Yes
+Rash Nature
+- Rising Voltage
+- Volt Switch
+- Thunderbolt
+- Explosion
+
+Regidrago
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Master Ball
+Language: English
+IVs: 6IV
+.Ribbons=$suggestAll
+EVs: 252 Atk / 4 Def / 252 Spe
+Ability: Dragon’s Maw
+Shiny: Yes
+Jolly Nature
+- Dragon Claw
+- Fire Fang
+- Substitute
+- Dragon Dance

@@ -1,0 +1,283 @@
+
+# It cannot enter the HOME app.
+Victini
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Master Ball
+Language: English
+IVs: 6IV
+.Ribbons=$suggestAll
+EVs: 252 Atk / 4 SpD / 252 Spe
+Ability: Victory Star
+Jolly Nature
+- V-create
+- Wild Charge
+- U-turn
+- Brick Break
+
+# I wasn't able to create a Keldeo from that set.
+Keldeo
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Master Ball
+Language: English
+IVs: 6IV
+.Ribbons=$suggestAll
+EVs: 252 SpA / 4 SpD / 252 Spe
+Ability: Justified
+Timid Nature
+- Hydro Pump
+- Secret Sword
+- Scald
+- Icy Wind
+
+
+Keldeo-Resolute
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Master Ball
+Language: English
+IVs: 6IV
+.Ribbons=$suggestAll
+EVs: 252 SpA / 4 SpD / 252 Spe
+Ability: Justified
+Timid Nature
+- Hydro Pump
+- Secret Sword
+- Scald
+- Icy Wind
+
+Volcanion
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Cherish Ball
+Language: English
+IVs: 6IV
+.Ribbons=$suggestAll
+EVs: 4 Def / 252 SpA / 252 Spe
+Ability: Water Absorb
+Timid Nature
+- Substitute
+- Steam Eruption
+- Flamethrower
+- Earth Power
+
+# It cannot enter the HOME app.
+Cosmog
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Ultra Ball
+Language: English
+IVs: 6IV
+.Ribbons=$suggestAll
+Ability: Unaware
+Level: 5
+Docile Nature
+- Splash
+- Teleport
+
+# It cannot enter the HOME app.
+Cosmoem
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Ultra Ball
+Language: English
+IVs: 6IV
+.Ribbons=$suggestAll
+Ability: Sturdy
+Level: 43
+Docile Nature
+- Splash
+- Teleport
+- Cosmic Power
+
+# It cannot enter the HOME app.
+Magearna
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Cherish Ball
+Language: English
+IVs: 6IV
+.Ribbons=$suggestAll
+EVs: 248 HP / 28 Def / 224 SpA / 8 SpD
+Ability: Soul-Heart
+Modest Nature
+- Calm Mind
+- Pain Split
+- Fleur Cannon
+- Flash Cannon
+
+# It cannot enter the HOME app.
+Marshadow
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Poke Ball
+Language: English
+IVs: 6IV
+.Ribbons=$suggestAll
+EVs: 252 Atk / 4 Def / 252 Spe
+Ability: Technician
+Jolly Nature
+- Spectral Thief
+- Close Combat
+- Shadow Sneak
+- Rock Tomb
+#####
+
+
+
+Kubfu (M)
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Poke Ball
+Language: English
+IVs: 6IV
+.Ribbons=$suggestAll
+EVs: 4 HP / 252 Atk / 252 Spe
+Ability: Inner Focus
+Level: 10
+Jolly Nature
+- Thunder Punch
+- Close Combat
+- Fire Punch
+- U-turn
+
+Urshifu (M)
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Poke Ball
+Language: English
+IVs: 6IV
+.Ribbons=$suggestAll
+EVs: 4 HP / 252 Atk / 252 Spe
+Ability: Unseen Fist
+Gigantamax: Yes
+Jolly Nature
+- Wicked Blow
+- Close Combat
+- Sucker Punch
+- U-turn
+
+Urshifu-Rapid-Strike (M)
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Poke Ball
+Language: English
+IVs: 6IV
+.Ribbons=$suggestAll
+EVs: 4 HP / 252 Atk / 252 Spe
+Ability: Unseen Fist
+Gigantamax: Yes
+Jolly Nature
+- Surging Strikes
+- Close Combat
+- Fire Punch
+- U-turn
+
+Zarude-Dada
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Cherish Ball
+Language: English
+IVs: 6IV
+.Ribbons=$suggestAll
+EVs: 6 HP / 252 Atk / 252 Spe
+Ability: Leaf Guard
+Jolly Nature
+- Jungle Healing
+- Darkest Lariat
+- U-turn
+- Power Whip
+
+Zarude
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Cherish Ball
+Language: English
+EVs: 6 HP / 252 Atk / 252 Spe
+Ability: Leaf Guard
+Jolly Nature
+- Jungle Healing
+- Darkest Lariat
+- U-turn
+- Power Whip
+
+Glastrier
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Master Ball
+Language: English
+IVs: 6IV
+.Ribbons=$suggestAll
+EVs: 252 HP / 252 Atk / 4 SpD
+Ability: Chilling Neigh
+Adamant Nature
+- Avalanche
+- Close Combat
+- High Horsepower
+- Crunch
+
+
+Spectrier
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Master Ball
+Language: English
+IVs: 6IV
+.Ribbons=$suggestAll
+EVs: 4 Def / 252 SpA / 252 Spe
+Ability: Grim Neigh
+Timid Nature
+- Shadow Ball
+- Will-O-Wisp
+- Substitute
+- Nasty Plot
+
+
+
+Calyrex
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Master Ball
+Language: English
+IVs: 6IV
+.Ribbons=$suggestAll
+EVs: 252 HP / 252 Def / 4 SpD
+Ability: Unnerve
+Bold Nature
+- Calm Mind
+- Protect
+- Stored Power
+- Leech Seed

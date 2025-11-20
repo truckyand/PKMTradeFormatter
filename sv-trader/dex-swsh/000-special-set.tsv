@@ -1,0 +1,55 @@
+
+Lycanroc
+Lycanroc-Midnight
+Lycanroc-Dusk
+
+Alcremie
+Alcremie-Ruby Cream
+Alcremie-Matcha Cream
+Alcremie-Mint Cream
+Alcremie-Lemon Cream
+Alcremie-Salted Cream
+
+Alcremie-Ruby Swirl
+Alcremie-Caramel Swirl
+Alcremie-Rainbow Swirl
+
+Silvally
+Silvally-Fighting
+Silvally-Flying
+Silvally-Poison
+Silvally-Ground
+Silvally-Rock
+Silvally-Bug
+Silvally-Ghost
+Silvally-Steel
+Silvally-Fire
+Silvally-Water
+Silvally-Grass
+Silvally-Electric
+Silvally-Psychic
+Silvally-Ice
+Silvally-Dragon
+Silvally-Dark
+Silvally-Fairy
+
+
+
+# WORKING #
+Zeraora
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Cherish Ball
+Language: English
+IVs: 6IV
+.Ribbons=$suggestAll
+EVs: 4 HP / 252 Atk / 252 Spe
+Ability: Volt Absorb
+Shiny: Yes
+Naive Nature
+- Plasma Fists
+- Close Combat
+- Grass Knot
+- Volt Switch
