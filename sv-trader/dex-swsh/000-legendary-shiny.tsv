@@ -736,23 +736,6 @@ Modest Nature
 - Focus Blast
 - Ancient Power
 
-Zekrom
-OT: trucky
-OTGender: Female
-TID: 331778
-SID: 2401
-Ball: Master Ball
-Language: English
-IVs: 6IV
-.Ribbons=$suggestAll
-EVs: 4 HP / 252 Atk / 252 Spe
-Ability: Teravolt
-Shiny: Yes
-Jolly Nature
-- Dragon Dance
-- Bolt Strike
-- Outrage
-- Substitute
 
 Landorus (M)
 OT: trucky
@@ -789,6 +772,25 @@ Jolly Nature
 - U-turn
 - Stone Edge
 - Stealth Rock
+
+
+Zekrom
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Master Ball
+Language: English
+IVs: 6IV
+.Ribbons=$suggestAll
+EVs: 4 HP / 252 Atk / 252 Spe
+Ability: Teravolt
+Shiny: Yes
+Jolly Nature
+- Dragon Dance
+- Bolt Strike
+- Outrage
+- Substitute
 
 Kyurem
 OT: trucky
@@ -1302,6 +1304,8 @@ Calm Nature
 - Moonblast
 - Scald
 - Taunt
+
+# DONE - here 
 
 Solgaleo
 OT: trucky
