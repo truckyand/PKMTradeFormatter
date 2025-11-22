@@ -1,5 +1,5 @@
 .bt 
-Dwebble @ Big Nugget
+Dwebble @ Wishing Piece
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -19,7 +19,7 @@ Jolly Nature
 - Knock Off
 
 
-Crustle @ Big Nugget
+Crustle @ Wishing Piece
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -38,7 +38,7 @@ Jolly Nature
 - Earthquake
 
 
-Scraggy @ Big Nugget
+Scraggy @ Wishing Piece
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -58,7 +58,7 @@ Impish Nature
 - Protect
 
 
-Scrafty @ Big Nugget
+Scrafty @ Wishing Piece
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -77,7 +77,7 @@ Impish Nature
 - Throat Chop
 
 
-Sigilyph @ Big Nugget
+Sigilyph @ Wishing Piece
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -96,21 +96,22 @@ Timid Nature
 - Energy Ball
 
 
-Yamask @ Big Nugget
+Yamask @ Wishing Piece
 Shiny: Yes
 OT: trucky
 OTGender: Female
 TID: 331778
 SID: 2401
-Ball: Luxury Ball
-Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 .MetDate=20231125
+.MetLocation=162
+.MetLevel=17
+.Version=44
 .Ribbons=$suggestAll
 EVs: 252 HP / 252 Def / 4 SpD
 Ability: Wandering Spirit
 Impish Nature
 - Protect
-- Toxic Spikes
-- Earthquake
-- Will-O-Wisp
+- Haze
+- Night Shade
+- Disable
