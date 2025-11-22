@@ -63,4 +63,41 @@ IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 4 HP / 252 Spe / 252 Atk
 
 
+Sport Ball
+
+
+
+.bt 
+Tyrunt (F) @ Sport Ball
+Shiny: Yes
+Alpha: Yes
+OT: trucky
+OTGender: Female
+TID: 758975
+SID: 4118
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+EVs: 4 HP / 252 Spe / 252 Atk
+
+
+Aerodactyl (F) @ Sport Ball
+Shiny: Yes
+Alpha: Yes
+OT: trucky
+OTGender: Female
+TID: 758975
+SID: 4118
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+EVs: 4 HP / 252 Spe / 252 Atk
+
+
+Amaura (F) @ Sport Ball
+Shiny: Yes
+Alpha: Yes
+OT: trucky
+OTGender: Female
+TID: 758975
+SID: 4118
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+EVs: 4 HP / 252 Spe / 252 Atk
+
 
