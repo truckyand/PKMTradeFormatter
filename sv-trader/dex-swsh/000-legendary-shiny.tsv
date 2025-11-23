@@ -1468,25 +1468,26 @@ Jolly Nature
 - Wild Charge
 - Crunch
 
-Eternatus
+Eternatus @ Wishing Piece
 OT: trucky
 OTGender: Female
 TID: 331778
 SID: 2401
-Ball: Master Ball
+Ball: Cherish Ball
 Language: English
 IVs: 6IV
 .Ribbons=$suggestAll
+.MetLevel=100
 EVs: 4 HP / 252 SpA / 252 Spe
 Ability: Pressure
 Shiny: Yes
 Timid Nature
-- Recover
-- Substitute
-- Flamethrower
+- Eternabeam
 - Dynamax Cannon
+- Sludge Bomb
+- Flamethrower
 
-Regieleki
+Regieleki @ Wishing Piece
 OT: trucky
 OTGender: Female
 TID: 331778
@@ -1504,7 +1505,7 @@ Rash Nature
 - Thunderbolt
 - Explosion
 
-Regidrago
+Regidrago @ Wishing Piece
 OT: trucky
 OTGender: Female
 TID: 331778
