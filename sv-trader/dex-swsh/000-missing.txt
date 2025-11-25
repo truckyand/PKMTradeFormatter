@@ -1,0 +1,2492 @@
+# is_legendary
+Mewtwo
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Luxury Ball
+Language: English
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+.MetDate=20240412
+.Ribbons=$suggestAll
+EVs: 4 HP / 252 SpA / 252 Spe
+Ability: Unnerve
+Shiny: Yes
+Timid Nature
+- Nasty Plot
+- Ice Beam
+- Fire Blast
+- Psystrike
+
+# is_legendary
+Mew
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Luxury Ball
+Language: English
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+.MetDate=20230903
+.Ribbons=$suggestAll
+EVs: 252 HP / 4 Atk / 252 Spe
+Ability: Synchronize
+Shiny: Yes
+Jolly Nature
+- Stealth Rock
+- Spikes
+- Taunt
+- Flare Blitz
+
+# is_legendary
+Raikou
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Luxury Ball
+Language: English
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+.MetDate=20231216
+.Ribbons=$suggestAll
+EVs: 4 Def / 252 SpA / 252 Spe
+Ability: Pressure
+Shiny: Yes
+Modest Nature
+- Scald
+- Thunderbolt
+- Shadow Ball
+- Volt Switch
+
+# is_legendary
+Entei
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Luxury Ball
+Language: English
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+.MetDate=20220416
+.Ribbons=$suggestAll
+EVs: 252 Atk / 4 Def / 252 Spe
+Ability: Pressure
+Shiny: Yes
+Adamant Nature
+- Sacred Fire
+- Extreme Speed
+- Stone Edge
+- Flare Blitz
+
+# is_legendary
+Suicune
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Luxury Ball
+Language: English
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+.MetDate=20230706
+.Ribbons=$suggestAll
+EVs: 252 HP / 252 Def / 4 SpA
+Ability: Pressure
+Shiny: Yes
+Bold Nature
+- Calm Mind
+- Rest
+- Scald
+- Sleep Talk
+
+# is_legendary
+Lugia
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Luxury Ball
+Language: English
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+.MetDate=20240117
+.Ribbons=$suggestAll
+EVs: 252 HP / 252 Def / 4 SpA
+Ability: Multiscale
+Shiny: Yes
+Bold Nature
+- Recover
+- Calm Mind
+- Aeroblast
+- Psyshock
+
+# is_legendary
+Ho-Oh
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Luxury Ball
+Language: English
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+.MetDate=20230617
+.Ribbons=$suggestAll
+EVs: 252 HP / 252 Atk
+Ability: Regenerator
+Shiny: Yes
+Adamant Nature
+- Sacred Fire
+- Dual Wingbeat
+- Recover
+- Earthquake
+
+# is_legendary
+Celebi
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Luxury Ball
+Language: English
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+.MetDate=20240122
+.Ribbons=$suggestAll
+EVs: 4 HP / 252 SpA / 252 Spe
+Ability: Natural Cure
+Shiny: Yes
+Timid Nature
+- Nasty Plot
+- Expanding Force
+- Giga Drain
+- Recover
+
+Treecko (M)
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Luxury Ball
+Language: English
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+.MetDate=20230216
+.Ribbons=$suggestAll
+EVs: 4 Def / 252 SpA / 252 Spe
+Ability: Overgrow
+Level: 1
+Shiny: Yes
+Timid Nature
+- Leaf Storm
+- Synthesis
+- Protect
+- Leech Seed
+
+Grovyle (M)
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Luxury Ball
+Language: English
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+.MetDate=20230214
+.Ribbons=$suggestAll
+EVs: 4 Def / 252 SpA / 252 Spe
+Ability: Overgrow
+Level: 16
+Shiny: Yes
+Timid Nature
+- Leaf Storm
+- Synthesis
+- Protect
+- Leech Seed
+
+Sceptile (M)
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Luxury Ball
+Language: English
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+.MetDate=20230726
+.Ribbons=$suggestAll
+EVs: 4 Def / 252 SpA / 252 Spe
+Ability: Overgrow
+Shiny: Yes
+Timid Nature
+- Leaf Storm
+- Dragon Pulse
+- Protect
+- Leech Seed
+
+Torchic (M)
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Luxury Ball
+Language: English
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+.MetDate=20240822
+.Ribbons=$suggestAll
+EVs: 252 Atk / 4 Def / 252 Spe
+Ability: Speed Boost
+Level: 1
+Shiny: Yes
+Adamant Nature
+- Swords Dance
+- Rock Slide
+- Low Kick
+- Flame Charge
+
+Combusken (M)
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Luxury Ball
+Language: English
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+.MetDate=20230110
+.Ribbons=$suggestAll
+EVs: 252 Atk / 4 Def / 252 Spe
+Ability: Speed Boost
+Level: 16
+Shiny: Yes
+Adamant Nature
+- Swords Dance
+- Flare Blitz
+- Low Kick
+- Rock Slide
+
+Blaziken (M)
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Luxury Ball
+Language: English
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+.MetDate=20230926
+.Ribbons=$suggestAll
+EVs: 252 Atk / 4 Def / 252 Spe
+Ability: Speed Boost
+Shiny: Yes
+Adamant Nature
+- Swords Dance
+- Flare Blitz
+- Close Combat
+- Stone Edge
+
+Mudkip (M)
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Luxury Ball
+Language: English
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+.MetDate=20231226
+.Ribbons=$suggestAll
+EVs: 252 HP / 252 Def / 4 SpD
+Ability: Torrent
+Level: 1
+Shiny: Yes
+Relaxed Nature
+- Protect
+- Ice Beam
+- Scald
+- Yawn
+
+Marshtomp (M)
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Luxury Ball
+Language: English
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+.MetDate=20230425
+.Ribbons=$suggestAll
+EVs: 252 HP / 252 Def / 4 SpD
+Ability: Torrent
+Level: 16
+Shiny: Yes
+Relaxed Nature
+- Stealth Rock
+- Earthquake
+- Scald
+- Protect
+
+Swampert (M)
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Luxury Ball
+Language: English
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+.MetDate=20230417
+.Ribbons=$suggestAll
+EVs: 252 HP / 252 Def / 4 SpD
+Ability: Damp
+Shiny: Yes
+Relaxed Nature
+- Stealth Rock
+- Earthquake
+- Scald
+- Flip Turn
+
+# is_legendary
+Latias (F)
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Luxury Ball
+Language: English
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+.MetDate=20231105
+.Ribbons=$suggestAll
+EVs: 4 HP / 252 Def / 252 Spe
+Ability: Levitate
+Shiny: Yes
+Timid Nature
+- Calm Mind
+- Recover
+- Stored Power
+- Dragon Pulse
+
+# is_legendary
+Latios (M)
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Luxury Ball
+Language: English
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+.MetDate=20221216
+.Ribbons=$suggestAll
+EVs: 4 Atk / 252 SpA / 252 Spe
+Ability: Levitate
+Shiny: Yes
+Timid Nature
+- Psyshock
+- Calm Mind
+- Dragon Pulse
+- Recover
+
+# is_legendary
+Kyogre
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Luxury Ball
+Language: English
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+.MetDate=20230312
+.Ribbons=$suggestAll
+EVs: 4 Def / 252 SpA / 252 Spe
+Ability: Drizzle
+Shiny: Yes
+Modest Nature
+- Thunder
+- Calm Mind
+- Origin Pulse
+- Ice Beam
+
+# is_legendary
+Groudon
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Luxury Ball
+Language: English
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+.MetDate=20221203
+.Ribbons=$suggestAll
+EVs: 4 HP / 252 Atk / 252 Spe
+Ability: Drought
+Shiny: Yes
+Jolly Nature
+- Heat Crash
+- Swords Dance
+- Precipice Blades
+- Rock Tomb
+
+# is_legendary
+Rayquaza
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Luxury Ball
+Language: English
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+.MetDate=20220913
+.Ribbons=$suggestAll
+EVs: 252 Atk / 4 Def / 252 Spe
+Ability: Air Lock
+Shiny: Yes
+Adamant Nature
+- Dragon Ascent
+- Dragon Dance
+- Extreme Speed
+- Earthquake
+
+# is_legendary
+Jirachi
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Luxury Ball
+Language: English
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+.MetDate=20220321
+.Ribbons=$suggestAll
+EVs: 248 HP / 188 SpD / 72 Spe
+Ability: Serene Grace
+Shiny: Yes
+Careful Nature
+- Wish
+- Protect
+- U-turn
+- Iron Head
+
+# is_legendary
+Uxie
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Luxury Ball
+Language: English
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+.MetDate=20241110
+.Ribbons=$suggestAll
+EVs: 252 HP / 40 Def / 216 Spe
+Ability: Levitate
+Shiny: Yes
+Timid Nature
+- Stealth Rock
+- Psyshock
+- Yawn
+- U-turn
+
+# is_legendary
+Mesprit
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Luxury Ball
+Language: English
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+.MetDate=20240726
+.Ribbons=$suggestAll
+EVs: 252 SpA / 4 SpD / 252 Spe
+Ability: Levitate
+Shiny: Yes
+Timid Nature
+- Stealth Rock
+- Psychic
+- Thunder
+- Energy Ball
+
+# is_legendary
+Azelf
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Luxury Ball
+Language: English
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+.MetDate=20240627
+.Ribbons=$suggestAll
+EVs: 4 Def / 252 SpA / 252 Spe
+Ability: Levitate
+Shiny: Yes
+Timid Nature
+- Nasty Plot
+- Psyshock
+- Fire Blast
+- Dazzling Gleam
+
+# is_legendary
+Dialga
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Luxury Ball
+Language: English
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+.MetDate=20220420
+.Ribbons=$suggestAll
+EVs: 252 HP / 252 SpA / 4 Spe
+Ability: Pressure
+Shiny: Yes
+Modest Nature
+- Stealth Rock
+- Draco Meteor
+- Fire Blast
+- Thunder
+
+# is_legendary
+Palkia
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Luxury Ball
+Language: English
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+.MetDate=20240814
+.Ribbons=$suggestAll
+EVs: 4 Atk / 252 SpA / 252 Spe
+Ability: Pressure
+Shiny: Yes
+Modest Nature
+- Hydro Pump
+- Spacial Rend
+- Thunder
+- Fire Blast
+
+# is_legendary
+Heatran (M)
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Luxury Ball
+Language: English
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+.MetDate=20230406
+.Ribbons=$suggestAll
+EVs: 252 HP / 176 SpD / 80 Spe
+Ability: Flash Fire
+Shiny: Yes
+Calm Nature
+- Lava Plume
+- Will-O-Wisp
+- Protect
+- Stealth Rock
+
+# is_legendary
+Regigigas
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Luxury Ball
+Language: English
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+.MetDate=20220423
+.Ribbons=$suggestAll
+EVs: 252 HP / 252 Atk / 4 Def
+Ability: Slow Start
+Shiny: Yes
+Adamant Nature
+- Substitute
+- Knock Off
+- Thunder Wave
+- Drain Punch
+
+# is_legendary
+Giratina
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Luxury Ball
+Language: English
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+.MetDate=20240120
+.Ribbons=$suggestAll
+EVs: 252 HP / 252 SpA / 4 SpD
+Ability: Levitate
+Shiny: Yes
+Modest Nature
+- Defog
+- Hex
+- Dragon Pulse
+- Thunder Wave
+
+# is_legendary
+Giratina-Origin
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Luxury Ball
+Language: English
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+.MetDate=20220114
+.Ribbons=$suggestAll
+EVs: 252 HP / 252 SpA / 4 SpD
+Ability: Levitate
+Shiny: Yes
+Modest Nature
+- Defog
+- Hex
+- Dragon Pulse
+- Thunder Wave
+
+# is_legendary
+Cresselia (F)
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Luxury Ball
+Language: English
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+.MetDate=20241025
+.Ribbons=$suggestAll
+EVs: 252 HP / 252 Def / 4 SpA
+Ability: Levitate
+Shiny: Yes
+Bold Nature
+- Moonlight
+- Psyshock
+- Moonblast
+- Calm Mind
+
+# is_legendary
+Victini
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Luxury Ball
+Language: English
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+.MetDate=20220604
+.Ribbons=$suggestAll
+EVs: 252 Atk / 4 SpD / 252 Spe
+Ability: Victory Star
+Jolly Nature
+- V-create
+- Wild Charge
+- U-turn
+- Brick Break
+
+Basculin (F)
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Luxury Ball
+Language: English
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+.MetDate=20220507
+.Ribbons=$suggestAll
+EVs: 252 Atk / 4 SpA / 252 Spe
+Ability: Adaptability
+Shiny: Yes
+Naive Nature
+- Waterfall
+- Aqua Jet
+- Ice Beam
+- Superpower
+
+Basculin-Blue (F)
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Luxury Ball
+Language: English
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+.MetDate=20240328
+.Ribbons=$suggestAll
+EVs: 252 Atk / 4 SpA / 252 Spe
+Ability: Adaptability
+Shiny: Yes
+Naive Nature
+- Waterfall
+- Aqua Jet
+- Ice Beam
+- Superpower
+
+Darmanitan (M)
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Luxury Ball
+Language: English
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+.MetDate=20231221
+.Ribbons=$suggestAll
+EVs: 252 Atk / 4 SpD / 252 Spe
+Ability: Sheer Force
+Shiny: Yes
+Jolly Nature
+- Flare Blitz
+- U-turn
+- Earthquake
+- Rock Slide
+
+Darmanitan-Galar (M)
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Luxury Ball
+Language: English
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+.MetDate=20240128
+.Ribbons=$suggestAll
+EVs: 252 Atk / 4 SpD / 252 Spe
+Ability: Gorilla Tactics
+Shiny: Yes
+Jolly Nature
+- Icicle Crash
+- U-turn
+- Earthquake
+- Flare Blitz
+
+# is_legendary
+Tornadus (M)
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Luxury Ball
+Language: English
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+.MetDate=20240916
+.Ribbons=$suggestAll
+EVs: 4 HP / 252 SpA / 252 Spe
+Ability: Defiant
+Shiny: Yes
+Hasty Nature
+- Hurricane
+- Heat Wave
+- U-turn
+- Grass Knot
+
+# is_legendary
+Tornadus-Therian (M)
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Luxury Ball
+Language: English
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+.MetDate=20240622
+.Ribbons=$suggestAll
+EVs: 252 HP / 4 Def / 252 Spe
+Ability: Regenerator
+Shiny: Yes
+Timid Nature
+- Hurricane
+- Taunt
+- U-turn
+- Focus Blast
+
+# is_legendary
+Thundurus (M)
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Luxury Ball
+Language: English
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+.MetDate=20240805
+.Ribbons=$suggestAll
+EVs: 4 Def / 252 SpA / 252 Spe
+Ability: Prankster
+Shiny: Yes
+Timid Nature
+- Nasty Plot
+- Thunderbolt
+- Substitute
+- Focus Blast
+
+# is_legendary
+Thundurus-Therian (M)
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Luxury Ball
+Language: English
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+.MetDate=20240815
+.Ribbons=$suggestAll
+EVs: 4 Def / 252 SpA / 252 Spe
+Ability: Volt Absorb
+Shiny: Yes
+Timid Nature
+- Nasty Plot
+- Thunderbolt
+- Volt Switch
+- Focus Blast
+
+# is_legendary
+Reshiram
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Luxury Ball
+Language: English
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+.MetDate=20240726
+.Ribbons=$suggestAll
+EVs: 104 HP / 252 SpA / 152 Spe
+Ability: Turboblaze
+Shiny: Yes
+Modest Nature
+- Blue Flare
+- Draco Meteor
+- Focus Blast
+- Ancient Power
+
+# is_legendary
+Zekrom
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Luxury Ball
+Language: English
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+.MetDate=20240924
+.Ribbons=$suggestAll
+EVs: 4 HP / 252 Atk / 252 Spe
+Ability: Teravolt
+Shiny: Yes
+Jolly Nature
+- Dragon Dance
+- Bolt Strike
+- Outrage
+- Substitute
+
+# is_legendary
+Landorus (M)
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Luxury Ball
+Language: English
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+.MetDate=20220720
+.Ribbons=$suggestAll
+EVs: 4 Atk / 252 SpA / 252 Spe
+Ability: Sheer Force
+Shiny: Yes
+Timid Nature
+- Earth Power
+- Sludge Bomb
+- Focus Blast
+- Protect
+
+# is_legendary
+Landorus-Therian (M)
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Luxury Ball
+Language: English
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+.MetDate=20230125
+.Ribbons=$suggestAll
+EVs: 232 Atk / 68 Def / 208 Spe
+Ability: Intimidate
+Shiny: Yes
+Jolly Nature
+- Earthquake
+- U-turn
+- Stone Edge
+- Stealth Rock
+
+# is_legendary
+Kyurem
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Luxury Ball
+Language: English
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+.MetDate=20231114
+.Ribbons=$suggestAll
+EVs: 4 Def / 252 SpA / 252 Spe
+Ability: Pressure
+Shiny: Yes
+Timid Nature
+- Ice Beam
+- Substitute
+- Earth Power
+- Draco Meteor
+
+# is_legendary
+Keldeo
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Luxury Ball
+Language: English
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+.MetDate=20240825
+.Ribbons=$suggestAll
+EVs: 252 SpA / 4 SpD / 252 Spe
+Ability: Justified
+Timid Nature
+- Hydro Pump
+- Secret Sword
+- Scald
+- Icy Wind
+
+# is_legendary
+Keldeo-Resolute
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Luxury Ball
+Language: English
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+.MetDate=20240415
+.Ribbons=$suggestAll
+EVs: 252 SpA / 4 SpD / 252 Spe
+Ability: Justified
+Timid Nature
+- Hydro Pump
+- Secret Sword
+- Scald
+- Icy Wind
+
+# is_legendary
+Genesect
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Luxury Ball
+Language: English
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+.MetDate=20230211
+.Ribbons=$suggestAll
+EVs: 252 Atk / 4 SpD / 252 Spe
+Ability: Download
+Shiny: Yes
+Jolly Nature
+- U-turn
+- Iron Head
+- Extreme Speed
+- Explosion
+
+# is_legendary
+Genesect-Water
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Luxury Ball
+Language: English
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+.MetDate=20230111
+.Ribbons=$suggestAll
+EVs: 252 Atk / 4 SpD / 252 Spe
+Ability: Download
+Shiny: Yes
+Jolly Nature
+- U-turn
+- Iron Head
+- Extreme Speed
+- Explosion
+
+# is_legendary
+Genesect-Electric
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Luxury Ball
+Language: English
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+.MetDate=20231124
+.Ribbons=$suggestAll
+EVs: 252 Atk / 4 SpD / 252 Spe
+Ability: Download
+Shiny: Yes
+Jolly Nature
+- U-turn
+- Iron Head
+- Extreme Speed
+- Explosion
+
+# is_legendary
+Genesect-Fire
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Luxury Ball
+Language: English
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+.MetDate=20240828
+.Ribbons=$suggestAll
+EVs: 252 Atk / 4 SpD / 252 Spe
+Ability: Download
+Shiny: Yes
+Jolly Nature
+- U-turn
+- Iron Head
+- Extreme Speed
+- Explosion
+
+# is_legendary
+Genesect-Ice
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Luxury Ball
+Language: English
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+.MetDate=20240911
+.Ribbons=$suggestAll
+EVs: 252 Atk / 4 SpD / 252 Spe
+Ability: Download
+Shiny: Yes
+Jolly Nature
+- U-turn
+- Iron Head
+- Extreme Speed
+- Explosion
+
+Meowstic (F)
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Luxury Ball
+Language: English
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+.MetDate=20240610
+.Ribbons=$suggestAll
+EVs: 4 Def / 252 SpA / 252 Spe
+Ability: Infiltrator
+Shiny: Yes
+Timid Nature
+- Expanding Force
+- Thunderbolt
+- Nasty Plot
+- Energy Ball
+
+Meowstic-F (F)
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Luxury Ball
+Language: English
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+.MetDate=20230924
+.Ribbons=$suggestAll
+EVs: 4 Def / 252 SpA / 252 Spe
+Ability: Infiltrator
+Shiny: Yes
+Timid Nature
+- Expanding Force
+- Thunderbolt
+- Nasty Plot
+- Energy Ball
+
+Aegislash (M)
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Luxury Ball
+Language: English
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+.MetDate=20220426
+.Ribbons=$suggestAll
+EVs: 252 HP / 4 Def / 252 SpD
+Ability: Stance Change
+Shiny: Yes
+Careful Nature
+- King’s Shield
+- Swords Dance
+- Iron Head
+- Sacred Sword
+
+Pumpkaboo (M)
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Luxury Ball
+Language: English
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+.MetDate=20240918
+.Ribbons=$suggestAll
+EVs: 252 HP / 252 Def / 4 SpD
+Ability: Frisk
+Level: 1
+Shiny: Yes
+Bold Nature
+- Will-O-Wisp
+- Protect
+- Foul Play
+- Leech Seed
+
+Pumpkaboo-Small (M)
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Luxury Ball
+Language: English
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+.MetDate=20240715
+.Ribbons=$suggestAll
+EVs: 252 HP / 252 Def / 4 SpD
+Ability: Frisk
+Level: 1
+Shiny: Yes
+Bold Nature
+- Will-O-Wisp
+- Protect
+- Foul Play
+- Leech Seed
+
+Pumpkaboo-Large (M)
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Luxury Ball
+Language: English
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+.MetDate=20241125
+.Ribbons=$suggestAll
+EVs: 252 HP / 252 Def / 4 SpD
+Ability: Frisk
+Level: 1
+Shiny: Yes
+Bold Nature
+- Will-O-Wisp
+- Protect
+- Foul Play
+- Leech Seed
+
+Pumpkaboo-Super (M)
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Luxury Ball
+Language: English
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+.MetDate=20220218
+.Ribbons=$suggestAll
+EVs: 252 HP / 252 Def / 4 SpD
+Ability: Frisk
+Level: 1
+Shiny: Yes
+Bold Nature
+- Will-O-Wisp
+- Protect
+- Foul Play
+- Leech Seed
+
+Gourgeist (M)
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Luxury Ball
+Language: English
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+.MetDate=20240425
+.Ribbons=$suggestAll
+EVs: 152 HP / 132 Def / 224 Spe
+Ability: Frisk
+Shiny: Yes
+Jolly Nature
+- Substitute
+- Leech Seed
+- Will-O-Wisp
+- Phantom Force
+
+Gourgeist-Small (M)
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Luxury Ball
+Language: English
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+.MetDate=20221019
+.Ribbons=$suggestAll
+EVs: 152 HP / 132 Def / 224 Spe
+Ability: Frisk
+Shiny: Yes
+Jolly Nature
+- Substitute
+- Leech Seed
+- Will-O-Wisp
+- Phantom Force
+
+Gourgeist-Large (M)
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Luxury Ball
+Language: English
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+.MetDate=20221102
+.Ribbons=$suggestAll
+EVs: 72 HP / 252 Def / 184 Spe
+Ability: Frisk
+Shiny: Yes
+Impish Nature
+- Protect
+- Foul Play
+- Will-O-Wisp
+- Leech Seed
+
+Gourgeist-Super (M)
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Luxury Ball
+Language: English
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+.MetDate=20230921
+.Ribbons=$suggestAll
+EVs: 252 HP / 252 Def / 4 SpD
+Ability: Frisk
+Shiny: Yes
+Bold Nature
+- Will-O-Wisp
+- Protect
+- Foul Play
+- Leech Seed
+
+# is_legendary
+Xerneas
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Luxury Ball
+Language: English
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+.MetDate=20230218
+.Ribbons=$suggestAll
+EVs: 168 Def / 252 SpA / 88 Spe
+Ability: Fairy Aura
+Shiny: Yes
+Modest Nature
+- Geomancy
+- Draining Kiss
+- Thunder
+- Focus Blast
+
+# is_legendary
+Yveltal
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Luxury Ball
+Language: English
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+.MetDate=20230522
+.Ribbons=$suggestAll
+EVs: 4 HP / 252 SpA / 252 Spe
+Ability: Dark Aura
+Shiny: Yes
+Modest Nature
+- Foul Play
+- Dark Pulse
+- Oblivion Wing
+- U-turn
+
+# is_legendary
+Zygarde
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Luxury Ball
+Language: English
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+.MetDate=20220112
+.Ribbons=$suggestAll
+EVs: 12 HP / 216 Atk / 48 SpD / 232 Spe
+Ability: Power Construct
+Shiny: Yes
+Adamant Nature
+- Dragon Dance
+- Thousand Arrows
+- Substitute
+- Protect
+
+# is_legendary
+Zygarde-10%
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Luxury Ball
+Language: English
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+.MetDate=20220603
+.Ribbons=$suggestAll
+EVs: 4 HP / 252 Atk / 252 Spe
+Ability: Power Construct
+Shiny: Yes
+Jolly Nature
+- Outrage
+- Thousand Arrows
+- Iron Tail
+- Superpower
+
+# is_legendary
+Zygarde-10%-C
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Luxury Ball
+Language: English
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+.MetDate=20230725
+.Ribbons=$suggestAll
+Shiny: Yes
+Ability: Power Construct
+EVs: 252 Atk / 252 SpD / 4 Spe
+Calm Nature
+- High Horsepower
+- Earthquake
+- Hyper Voice
+- Thousand Waves
+
+# is_legendary
+Zygarde-50%-C
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Luxury Ball
+Language: English
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+.MetDate=20240220
+.Ribbons=$suggestAll
+Shiny: Yes
+Ability: Power Construct
+EVs: 252 Atk / 252 Def / 4 SpD
+Lonely Nature
+- Dragon Pulse
+- Dragon Dance
+- Dragon Breath
+- Thousand Waves
+
+# is_legendary
+Diancie
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Luxury Ball
+Language: English
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+.MetDate=20230913
+.Ribbons=$suggestAll
+EVs: 252 SpA / 4 SpD / 252 Spe
+Ability: Clear Body
+Shiny: Yes
+Hasty Nature
+- Stealth Rock
+- Moonblast
+- Diamond Storm
+- Earth Power
+
+# is_legendary
+Volcanion
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Luxury Ball
+Language: English
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+.MetDate=20230909
+.Ribbons=$suggestAll
+EVs: 4 Def / 252 SpA / 252 Spe
+Ability: Water Absorb
+Timid Nature
+- Substitute
+- Steam Eruption
+- Flamethrower
+- Earth Power
+
+Rowlet (M)
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Luxury Ball
+Language: English
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+.MetDate=20240707
+.Ribbons=$suggestAll
+EVs: 4 HP / 252 SpA / 252 Spe
+Ability: Long Reach
+Level: 1
+Shiny: Yes
+Jolly Nature
+- Shadow Claw
+- Leaf Blade
+- Brave Bird
+- Synthesis
+
+Dartrix (M)
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Luxury Ball
+Language: English
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+.MetDate=20230416
+.Ribbons=$suggestAll
+EVs: 4 HP / 252 SpA / 252 Spe
+Ability: Long Reach
+Level: 17
+Shiny: Yes
+Jolly Nature
+- Shadow Claw
+- Leaf Blade
+- Brave Bird
+- Synthesis
+
+Decidueye (M)
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Luxury Ball
+Language: English
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+.MetDate=20220507
+.Ribbons=$suggestAll
+EVs: 4 HP / 252 SpA / 252 Spe
+Ability: Overgrow
+Shiny: Yes
+Timid Nature
+- Nasty Plot
+- Shadow Ball
+- Leaf Storm
+- Synthesis
+
+Litten (M)
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Luxury Ball
+Language: English
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+.MetDate=20230125
+.Ribbons=$suggestAll
+EVs: 252 HP / 4 Atk / 252 SpD
+Ability: Intimidate
+Level: 1
+Shiny: Yes
+Careful Nature
+- Fake Out
+- Parting Shot
+- Will-O-Wisp
+- Flare Blitz
+
+Torracat (M)
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Luxury Ball
+Language: English
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+.MetDate=20230505
+.Ribbons=$suggestAll
+EVs: 252 HP / 4 Atk / 252 SpD
+Ability: Intimidate
+Level: 17
+Shiny: Yes
+Careful Nature
+- Fake Out
+- Parting Shot
+- Will-O-Wisp
+- Flare Blitz
+
+Incineroar (M)
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Luxury Ball
+Language: English
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+.MetDate=20220806
+.Ribbons=$suggestAll
+EVs: 248 HP / 108 Def / 84 SpD / 68 Spe
+Ability: Intimidate
+Shiny: Yes
+Careful Nature
+- Flare Blitz
+- Fake Out
+- Parting Shot
+- Will-O-Wisp
+
+Popplio (F)
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Luxury Ball
+Language: English
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+.MetDate=20221128
+.Ribbons=$suggestAll
+EVs: 252 HP / 252 Def / 4 SpD
+Ability: Torrent
+Level: 1
+Shiny: Yes
+Bold Nature
+- Scald
+- Moonblast
+- Protect
+- Icy Wind
+
+Brionne (F)
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Luxury Ball
+Language: English
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+.MetDate=20240725
+.Ribbons=$suggestAll
+EVs: 252 HP / 252 Def / 4 SpD
+Ability: Torrent
+Level: 17
+Shiny: Yes
+Bold Nature
+- Scald
+- Moonblast
+- Protect
+- Icy Wind
+
+Primarina (F)
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Luxury Ball
+Language: English
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+.MetDate=20230714
+.Ribbons=$suggestAll
+EVs: 252 HP / 252 SpA / 4 SpD
+Ability: Torrent
+Shiny: Yes
+Modest Nature
+- Ice Beam
+- Moonblast
+- Sparkling Aria
+- Psychic
+
+Lycanroc (M)
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Luxury Ball
+Language: English
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+.MetDate=20220618
+.Ribbons=$suggestAll
+EVs: 252 Atk / 4 Def / 252 Spe
+Ability: Steadfast
+Shiny: Yes
+Jolly Nature
+- Swords Dance
+- Stone Edge
+- Brick Break
+- Accelerock
+
+Lycanroc-Midnight (M)
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Luxury Ball
+Language: English
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+.MetDate=20240110
+.Ribbons=$suggestAll
+EVs: 252 Atk / 4 Def / 252 Spe
+Ability: No Guard
+Shiny: Yes
+Jolly Nature
+- Swords Dance
+- Stone Edge
+- Brick Break
+- Fire Fang
+
+Lycanroc-Dusk (M)
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Luxury Ball
+Language: English
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+.MetDate=20220811
+.Ribbons=$suggestAll
+EVs: 252 Atk / 4 Def / 252 Spe
+Ability: Tough Claws
+Shiny: Yes
+Jolly Nature
+- Swords Dance
+- Stone Edge
+- Fire Fang
+- Sucker Punch
+
+Wishiwashi (F)
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Luxury Ball
+Language: English
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+.MetDate=20220604
+.Ribbons=$suggestAll
+EVs: 252 HP / 4 Def / 252 SpA
+Ability: Schooling
+Shiny: Yes
+Quiet Nature
+- Hydro Pump
+- Ice Beam
+- Earthquake
+- U-turn
+
+Mimikyu (M)
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Luxury Ball
+Language: English
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+.MetDate=20240926
+.Ribbons=$suggestAll
+EVs: 252 Atk / 4 SpD / 252 Spe
+Ability: Disguise
+Shiny: Yes
+Jolly Nature
+- Swords Dance
+- Shadow Claw
+- Play Rough
+- Shadow Sneak
+
+# is_legendary
+Tapu-Koko
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Luxury Ball
+Language: English
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+.MetDate=20240226
+.Ribbons=$suggestAll
+EVs: 252 SpA / 4 SpD / 252 Spe
+Ability: Electric Surge
+Shiny: Yes
+Timid Nature
+- Thunderbolt
+- Dazzling Gleam
+- Volt Switch
+- Nature’s Madness
+
+# is_legendary
+Tapu-Lele
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Luxury Ball
+Language: English
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+.MetDate=20220311
+.Ribbons=$suggestAll
+EVs: 252 SpA / 4 SpD / 252 Spe
+Ability: Psychic Surge
+Shiny: Yes
+Timid Nature
+- Thunderbolt
+- Moonblast
+- Psyshock
+- Focus Blast
+
+# is_legendary
+Tapu-Bulu
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Luxury Ball
+Language: English
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+.MetDate=20230706
+.Ribbons=$suggestAll
+EVs: 84 HP / 248 Atk / 176 Spe
+Ability: Grassy Surge
+Shiny: Yes
+Adamant Nature
+- Wood Hammer
+- Horn Leech
+- Superpower
+- Stone Edge
+
+# is_legendary
+Tapu-Fini
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Luxury Ball
+Language: English
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+.MetDate=20240926
+.Ribbons=$suggestAll
+EVs: 248 HP / 16 Def / 12 SpA / 40 SpD / 192 Spe
+Ability: Misty Surge
+Shiny: Yes
+Calm Nature
+- Protect
+- Moonblast
+- Scald
+- Taunt
+
+# is_legendary
+Cosmog
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Luxury Ball
+Language: English
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+.MetDate=20230608
+.Ribbons=$suggestAll
+Ability: Unaware
+Level: 5
+Docile Nature
+- Splash
+- Teleport
+
+# is_legendary
+Cosmoem
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Luxury Ball
+Language: English
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+.MetDate=20220911
+.Ribbons=$suggestAll
+Ability: Sturdy
+Level: 43
+Docile Nature
+- Splash
+- Teleport
+- Cosmic Power
+
+# is_legendary
+Solgaleo
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Luxury Ball
+Language: English
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+.MetDate=20221019
+.Ribbons=$suggestAll
+EVs: 252 Atk / 4 SpD / 252 Spe
+Ability: Full Metal Body
+Shiny: Yes
+Jolly Nature
+- Sunsteel Strike
+- Earthquake
+- Stone Edge
+- Flare Blitz
+
+# is_legendary
+Lunala
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Luxury Ball
+Language: English
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+.MetDate=20220201
+.Ribbons=$suggestAll
+EVs: 4 HP / 252 SpA / 252 Spe
+Ability: Shadow Shield
+Shiny: Yes
+Timid Nature
+- Moongeist Beam
+- Expanding Force
+- Moonlight
+- Focus Blast
+
+Nihilego
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Luxury Ball
+Language: English
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+.MetDate=20221201
+.Ribbons=$suggestAll
+EVs: 4 Def / 252 SpA / 252 Spe
+Ability: Beast Boost
+Shiny: Yes
+Timid Nature
+- Stealth Rock
+- Sludge Wave
+- Protect
+- Power Gem
+
+Buzzwole
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Luxury Ball
+Language: English
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+.MetDate=20221018
+.Ribbons=$suggestAll
+EVs: 252 HP / 252 Atk / 4 SpD
+Ability: Beast Boost
+Shiny: Yes
+Impish Nature
+- Drain Punch
+- Bulk Up
+- Ice Punch
+- Leech Life
+
+Pheromosa
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Luxury Ball
+Language: English
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+.MetDate=20220503
+.Ribbons=$suggestAll
+EVs: 252 Atk / 4 SpA / 252 Spe
+Ability: Beast Boost
+Shiny: Yes
+Naive Nature
+- U-turn
+- Low Kick
+- Ice Beam
+- Throat Chop
+
+Xurkitree
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Luxury Ball
+Language: English
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+.MetDate=20230506
+.Ribbons=$suggestAll
+EVs: 252 SpA / 4 SpD / 252 Spe
+Ability: Beast Boost
+Shiny: Yes
+Timid Nature
+- Thunderbolt
+- Volt Switch
+- Energy Ball
+- Hypnosis
+
+Celesteela
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Luxury Ball
+Language: English
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+.MetDate=20221101
+.Ribbons=$suggestAll
+EVs: 248 HP / 28 Def / 232 SpD
+Ability: Beast Boost
+Shiny: Yes
+Sassy Nature
+- Leech Seed
+- Protect
+- Heavy Slam
+- Flamethrower
+
+Kartana
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Luxury Ball
+Language: English
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+.MetDate=20221015
+.Ribbons=$suggestAll
+EVs: 252 Atk / 4 SpD / 252 Spe
+Ability: Beast Boost
+Shiny: Yes
+Jolly Nature
+- Leaf Blade
+- Sacred Sword
+- Smart Strike
+- Giga Impact
+
+Guzzlord
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Luxury Ball
+Language: English
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+.MetDate=20230725
+.Ribbons=$suggestAll
+EVs: 76 Def / 252 SpA / 180 Spe
+Ability: Beast Boost
+Shiny: Yes
+Modest Nature
+- Draco Meteor
+- Dark Pulse
+- Fire Blast
+- Sludge Bomb
+
+# is_legendary
+Necrozma
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Luxury Ball
+Language: English
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+.MetDate=20220602
+.Ribbons=$suggestAll
+EVs: 252 HP / 252 Def / 4 SpA
+Ability: Prism Armor
+Shiny: Yes
+Modest Nature
+- Photon Geyser
+- Heat Wave
+- Calm Mind
+- Moonlight
+
+# is_legendary
+Magearna
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Luxury Ball
+Language: English
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+.MetDate=20241101
+.Ribbons=$suggestAll
+EVs: 248 HP / 28 Def / 224 SpA / 8 SpD
+Ability: Soul-Heart
+Modest Nature
+- Calm Mind
+- Pain Split
+- Fleur Cannon
+- Flash Cannon
+
+# is_legendary
+Magearna-Original
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Luxury Ball
+Language: English
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+.MetDate=20230108
+.Ribbons=$suggestAll
+EVs: 248 HP / 224 SpD / 36 Spe
+Ability: Soul-Heart
+Sassy Nature
+- Volt Switch
+- Fleur Cannon
+- Focus Blast
+- Flash Cannon
+
+# is_legendary
+Marshadow
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Luxury Ball
+Language: English
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+.MetDate=20221118
+.Ribbons=$suggestAll
+EVs: 252 Atk / 4 Def / 252 Spe
+Ability: Technician
+Jolly Nature
+- Spectral Thief
+- Close Combat
+- Shadow Sneak
+- Rock Tomb
+
+Poipole
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Luxury Ball
+Language: English
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+.MetDate=20220709
+.Ribbons=$suggestAll
+EVs: 252 SpA / 4 SpD / 252 Spe
+Ability: Beast Boost
+Level: 40
+Shiny: Yes
+Timid Nature
+- Dragon Pulse
+- Sludge Wave
+- Nasty Plot
+- Substitute
+
+Naganadel
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Luxury Ball
+Language: English
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+.MetDate=20240903
+.Ribbons=$suggestAll
+EVs: 252 SpA / 4 SpD / 252 Spe
+Ability: Beast Boost
+Shiny: Yes
+Timid Nature
+- Draco Meteor
+- Sludge Wave
+- Nasty Plot
+- Fire Blast
+
+Stakataka
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Luxury Ball
+Language: English
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+.MetDate=20220114
+.Ribbons=$suggestAll
+EVs: 252 HP / 252 Atk / 4 SpD
+Ability: Beast Boost
+Shiny: Yes
+Brave Nature
+- Trick Room
+- Gyro Ball
+- Stone Edge
+- Earthquake
+
+Blacephalon
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Luxury Ball
+Language: English
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+.MetDate=20240804
+.Ribbons=$suggestAll
+EVs: 252 SpA / 4 SpD / 252 Spe
+Ability: Beast Boost
+Shiny: Yes
+Timid Nature
+- Fire Blast
+- Shadow Ball
+- Psyshock
+- Trick
+
+# is_legendary
+Zeraora
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Luxury Ball
+Language: English
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+.MetDate=20220917
+.Ribbons=$suggestAll
+EVs: 4 HP / 252 Atk / 252 Spe
+Ability: Volt Absorb
+Shiny: Yes
+Naive Nature
+- Plasma Fists
+- Close Combat
+- Grass Knot
+- Volt Switch
+
+# is_legendary
+Meltan
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Luxury Ball
+Language: English
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+.MetDate=20230826
+.Ribbons=$suggestAll
+EVs: 4 HP / 252 SpA / 252 Spe
+Ability: Magnet Pull
+Shiny: Yes
+Modest Nature
+- Flash Cannon
+- Thunder Wave
+- Thunderbolt
+- Protect
+
+# is_legendary
+Melmetal
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Luxury Ball
+Language: English
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+.MetDate=20230503
+.Ribbons=$suggestAll
+EVs: 244 HP / 252 Atk / 12 Spe
+Ability: Iron Fist
+Shiny: Yes
+Adamant Nature
+- Double Iron Bash
+- Ice Punch
+- Thunder Punch
+- Superpower
+
+Toxtricity (M)
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Luxury Ball
+Language: English
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+.MetDate=20230827
+.Ribbons=$suggestAll
+EVs: 4 HP / 252 SpA / 252 Spe
+Ability: Punk Rock
+Gigantamax: Yes
+Shiny: Yes
+Timid Nature
+- Overdrive
+- Boomburst
+- Sludge Wave
+- Volt Switch
+
+Toxtricity-Low-Key (M)
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Luxury Ball
+Language: English
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+.MetDate=20220114
+.Ribbons=$suggestAll
+EVs: 4 HP / 252 SpA / 252 Spe
+Ability: Punk Rock
+Gigantamax: Yes
+Shiny: Yes
+Timid Nature
+- Overdrive
+- Boomburst
+- Sludge Wave
+- Volt Switch
+
+Eiscue (M)
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Luxury Ball
+Language: English
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+.MetDate=20221025
+.Ribbons=$suggestAll
+EVs: 4 HP / 252 Atk / 252 Spe
+Ability: Ice Face
+Shiny: Yes
+Jolly Nature
+- Belly Drum
+- Icicle Spear
+- Reversal
+- Liquidation
+
+Indeedee (M)
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Luxury Ball
+Language: English
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+.MetDate=20240304
+.Ribbons=$suggestAll
+EVs: 252 SpA / 4 SpD / 252 Spe
+Ability: Psychic Surge
+Shiny: Yes
+Timid Nature
+- Expanding Force
+- Dazzling Gleam
+- Mystical Fire
+- Trick
+
+Indeedee-F (F)
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Luxury Ball
+Language: English
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+.MetDate=20240710
+.Ribbons=$suggestAll
+EVs: 252 HP / 200 Def / 56 Spe
+Ability: Psychic Surge
+Shiny: Yes
+Calm Nature
+- Expanding Force
+- Follow Me
+- Helping Hand
+- Protect
+
+Morpeko (M)
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Luxury Ball
+Language: English
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+.MetDate=20220628
+.Ribbons=$suggestAll
+EVs: 252 Atk / 4 Def / 252 Spe
+Ability: Hunger Switch
+Shiny: Yes
+Adamant Nature
+- Aura Wheel
+- Brick Break
+- Crunch
+- Fire Fang
+
+# is_legendary
+Urshifu (M)
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Luxury Ball
+Language: English
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+.MetDate=20221218
+.Ribbons=$suggestAll
+EVs: 4 HP / 252 Atk / 252 Spe
+Ability: Unseen Fist
+Gigantamax: Yes
+Jolly Nature
+- Wicked Blow
+- Close Combat
+- Sucker Punch
+- U-turn
+
+# is_legendary
+Urshifu-Rapid-Strike (M)
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Luxury Ball
+Language: English
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+.MetDate=20240607
+.Ribbons=$suggestAll
+EVs: 4 HP / 252 Atk / 252 Spe
+Ability: Unseen Fist
+Gigantamax: Yes
+Jolly Nature
+- Surging Strikes
+- Close Combat
+- Fire Punch
+- U-turn
