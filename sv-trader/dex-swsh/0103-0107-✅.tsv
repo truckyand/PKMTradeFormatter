@@ -18,24 +18,43 @@ Modest Nature
 - Sleep Powder
 
 
-Darmanitan @ Wishing Piece
+Darmanitan-Zen (F)
 Shiny: Yes
 OT: trucky
 OTGender: Female
 TID: 331778
 SID: 2401
-Ball: Luxury Ball
+Ball: Beast Ball
 Language: English
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 .MetDate=20250504
 .Ribbons=$suggestAll
 EVs: 252 HP / 252 Atk / 4 Def
-Ability: Rock Head
-Brave Nature
-- Bonemerang
-- Double-Edge
-- Fire Punch
-- Swords Dance
+Ability: Sheer Force
+Jolly Nature
+- Flare Blitz
+- U-turn
+- Earthquake
+- Rock Slide
+
+Darmanitan-Galar-Zen (F) @ Wishing Piece
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Beast Ball
+Language: English
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+.MetDate=20250504
+.Ribbons=$suggestAll
+EVs: 252 Atk / 4 SpD / 252 Spe
+Ability: Gorilla Tactics
+Jolly Nature
+- Icicle Crash
+- U-turn
+- Earthquake
+- Flare Blitz
 
 
 Cubone @ Wishing Piece

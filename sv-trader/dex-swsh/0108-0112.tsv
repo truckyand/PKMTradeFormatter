@@ -51,11 +51,11 @@ IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 .MetDate=20230726
 .Ribbons=$suggestAll
 EVs: 252 HP / 152 Def / 96 SpD / 4 Spe
-Ability: Levitate
+Ability: Schooling
 Bold Nature
-- Sludge Bomb
-- Will-O-Wisp
-- Pain Split
+- Ice Beam
+- Waterfall
+- Mist
 
 
 Weezing @ Wishing Piece
