@@ -1,5 +1,5 @@
 .bt 
-Ponyta @ Wishing Piece
+Ponyta-Galar @ Wishing Piece
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -19,7 +19,7 @@ Adamant Nature
 - Wild Charge
 
 
-Rapidash @ Wishing Piece
+Rapidash-Galar @ Wishing Piece
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -36,9 +36,10 @@ Jolly Nature
 - Swords Dance
 - Zen Headbutt
 - Play Rough
+- High Horsepower
 
 
-Slowpoke @ Wishing Piece
+Slowpoke-Galar @ Wishing Piece
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -50,15 +51,15 @@ IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 .MetDate=20240626
 .Ribbons=$suggestAll
 EVs: 252 HP / 4 Def / 252 SpA
-Ability: Regenerator
+Ability: Gluttony
 Modest Nature
+- Calm Mind
 - Psyshock
-- Protect
 - Flamethrower
-- Scald
+- Slack Off
 
 
-Slowbro @ Wishing Piece
+Slowbro-Galar @ Wishing Piece
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -70,14 +71,15 @@ IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 .MetDate=20230912
 .Ribbons=$suggestAll
 EVs: 252 HP / 4 Def / 252 SpA
-Ability: Regenerator
+Ability: Own Tempo
 Modest Nature
-- Scald
-- Slack Off
-- Fire Blast
+- Nasty Plot
+- Shell Side Arm
+- Psychic
+- Flamethrower
 
 
-Magnemite @ Wishing Piece
+Magnemite @ Everstone
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -97,7 +99,7 @@ Timid Nature
 - Thunder Wave
 
 
-Magneton @ Wishing Piece
+Magneton @ Everstone
 Shiny: Yes
 OT: trucky
 OTGender: Female
