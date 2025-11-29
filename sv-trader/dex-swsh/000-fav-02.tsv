@@ -1,0 +1,101 @@
+.bt 
+Guzzlord @ Wishing Piece
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Luxury Ball
+Language: English
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+.MetDate=20230725
+.Ribbons=$suggestAll
+EVs: 76 Def / 252 SpA / 180 Spe
+Ability: Beast Boost
+Shiny: Yes
+Modest Nature
+- Draco Meteor
+- Dark Pulse
+- Fire Blast
+- Sludge Bomb
+
+Poipole @ Wishing Piece
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Poke Ball
+Language: English
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+.MetDate=20220709
+.Ribbons=$suggestAll
+EVs: 252 SpA / 4 SpD / 252 Spe
+Ability: Beast Boost
+Level: 40
+Shiny: Yes
+Timid Nature
+- Dragon Pulse
+- Sludge Wave
+- Nasty Plot
+- Substitute
+
+Naganadel @ Wishing Piece
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Poke Ball
+Language: English
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+.MetDate=20240903
+.Ribbons=$suggestAll
+EVs: 252 SpA / 4 SpD / 252 Spe
+Ability: Beast Boost
+Shiny: Yes
+Timid Nature
+- Draco Meteor
+- Sludge Wave
+- Nasty Plot
+- Fire Blast
+
+Stakataka @ Wishing Piece
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Luxury Ball
+Language: English
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+.MetDate=20220114
+.Ribbons=$suggestAll
+EVs: 252 HP / 252 Atk / 4 SpD
+Ability: Beast Boost
+Shiny: Yes
+Brave Nature
+- Trick Room
+- Gyro Ball
+- Stone Edge
+- Earthquake
+
+Blacephalon @ Wishing Piece
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Luxury Ball
+Language: English
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+.MetDate=20240804
+.Ribbons=$suggestAll
+EVs: 252 SpA / 4 SpD / 252 Spe
+Ability: Beast Boost
+Shiny: Yes
+Timid Nature
+- Fire Blast
+- Shadow Ball
+- Psyshock
+- Trick
