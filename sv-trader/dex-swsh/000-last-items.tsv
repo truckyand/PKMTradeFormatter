@@ -1,0 +1,32 @@
+.bt Abra @ Wishing Piece
+Level: 15
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Luxury Ball
+Language: English
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+.MetDate=20241105
+.Ribbons=$suggestAll
+EVs: 4 Def / 252 SpA / 252 Spe
+Ability: Magic Guard
+Timid Nature
+- Psychic
+- Calm Mind
+- Protect
+- Shadow Ball
+
+
+Nidoran-M (F)
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Beast Ball
+Language: English
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+.Ribbons=$suggestAll
+EVs: 60 Atk / 180 Def / 196 SpD / 28 Spe
