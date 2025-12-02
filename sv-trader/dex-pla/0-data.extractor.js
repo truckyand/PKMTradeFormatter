@@ -46,6 +46,7 @@ const LEGAL_BALLS = [
 const { SPECIES_raw } = require('./0-data.1');
 const { MOVESET_raw } = require('./0-data.2');
 const { LEGAL_raw } = require('./0-data.3');
+const e = require('express');
 
 console.log(`SPECIES entries: ${Object.keys(SPECIES_raw).length}`);
 console.log(`MOVESET entries: ${Object.keys(MOVESET_raw).length}`);
@@ -87,7 +88,7 @@ for (let i = 0; i < SPECIES.length; i += chunkSize) {
 
         let name = item.key;
         try {
-            
+
             let pkmData = MOVESET_raw[name];
             let moveset = pkmData ? pkmData['Legal Moveset']['Good Nature'] : null;
 
@@ -98,29 +99,41 @@ for (let i = 0; i < SPECIES.length; i += chunkSize) {
 
             // Finalize data
             let metDate = randomDate();
-            let holdItem = '@ Big Nugget';
+            let holdItem = ' @ Master Ball';
             let pokeBall_Wanted = "Gigaton Ball";
             let pokeBall = LEGAL_BALLS.includes(pokeBall_Wanted) ? pokeBall_Wanted : LEGAL_BALLS[0];
-            let is_legendary = LEGENDARIES_MYTHICAL.includes(name) ? "# is_legendary" : "";
+            let is_legendary = LEGENDARIES_MYTHICAL.includes(name);
+            let legendary = is_legendary ? "# is_legendary" : "";
+            let is_alpha = 'Yes';
             let is_shiny = 'Yes'; // LEGENDARIES_MYTHICAL.includes(name) ? 'No' : 'Yes';
             let nature = moveset.nature ? `${moveset.nature} Nature` : null;
             let ability = moveset.ability ? `Ability: ${moveset.ability}` : null;
             let moves = moveset.moves ? moveset.moves.map(m => `- ${m}`).join('\n') : null;
             let ivs = moveset.ivs;
-            let evs = moveset.evs;
             let ivs_str = ivs ? `${ivs.hp} HP / ${ivs.atk} Atk / ${ivs.def} Def / ${ivs.spa} Spa / ${ivs.spd} SpD / ${ivs.spe} Spe` : "6IV";
-            let evs_str = evs ? `${evs.hp} HP / ${evs.atk} Atk / ${evs.def} Def / ${evs.spa} Spa / ${evs.spd} SpD / ${evs.spe} Spe` : "252 HP / 252 Atk / 4 Spe";
+            let evs = moveset.evs;
+            let evs_str = '252 HP / 252 Atk / 4 Spe';
+            if (evs) {
+                if (evs.hp === 0 && evs.atk === 0 && evs.def === 0 && evs.spa === 0 && evs.spd === 0 && evs.spe === 0)
+                    ;// All EVs are 0, use default;
+                else
+                    evs_str = evs ? `${evs.hp} HP / ${evs.atk} Atk / ${evs.def} Def / ${evs.spa} Spa / ${evs.spd} SpD / ${evs.spe} Spe` : "252 HP / 252 Atk / 4 Spe";
+            }
+            if (is_legendary) {
+                pokeBall = null;
+                is_alpha = null;
+                //is_shiny = null;
+            }
 
-            content += `${is_legendary}\n`;
+            content += `${legendary}\n`;
             content += `${name} ${holdItem}\n`;
-            content += `Shiny: ${is_shiny}\n`;
-            content += `Alpha: Yes\n`;
+            if(is_shiny) content += `Shiny: ${is_shiny}\n`;
+            if(is_alpha) content += `Alpha: Yes\n`;
             content += `OT: trucky\n`;
             content += `OTGender: Female\n`;
             content += `TID: 093590\n`;
             content += `SID: 2017\n`;
-            content += `Ball: ${pokeBall}\n`;
-            content += `Language: English\n`;
+            if (pokeBall) content += `Ball: ${pokeBall}\n`;
             if (ability) content += `${ability}\n`;
             content += `IVs: ${ivs_str}\n`;
             content += `EVs: ${evs_str}\n`;
