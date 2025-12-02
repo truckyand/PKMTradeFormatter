@@ -1,0 +1,119 @@
+.bt 
+Ambipom  @ Master Ball
+Shiny: Yes
+Alpha: Yes
+OT: trucky
+OTGender: Female
+TID: 093590
+SID: 2017
+Ball: Gigaton Ball
+Ability: Pickup
+IVs: 31 HP / 31 Atk / 31 Def / 31 Spa / 31 SpD / 31 Spe
+EVs: 252 HP / 252 Atk / 4 Spe
+Jolly Nature
+.MetDate=20241117
+.Ribbons=$suggestAll
+- Double Hit
+- Iron Tail
+- Double-Edge
+- Mud Bomb
+
+
+Magikarp  @ Master Ball
+Shiny: Yes
+Alpha: Yes
+OT: trucky
+OTGender: Female
+TID: 093590
+SID: 2017
+Ball: Gigaton Ball
+Ability: Swift Swim
+IVs: 31 HP / 31 Atk / 31 Def / 31 Spa / 31 SpD / 31 Spe
+EVs: 252 HP / 252 Atk / 4 Spe
+Adamant Nature
+.MetDate=20251209
+.Ribbons=$suggestAll
+- Splash
+- 
+- 
+- 
+
+
+Gyarados  @ Master Ball
+Shiny: Yes
+Alpha: Yes
+OT: trucky
+OTGender: Female
+TID: 093590
+SID: 2017
+Ball: Gigaton Ball
+Ability: Intimidate
+IVs: 31 HP / 31 Atk / 31 Def / 31 Spa / 31 SpD / 31 Spe
+EVs: 252 HP / 252 Atk / 4 Spe
+Adamant Nature
+.MetDate=20231119
+.Ribbons=$suggestAll
+- Hydro Pump
+- Hyper Beam
+- Aqua Tail
+- Hurricane
+
+
+Shellos  @ Master Ball
+Shiny: Yes
+Alpha: Yes
+OT: trucky
+OTGender: Female
+TID: 093590
+SID: 2017
+Ball: Gigaton Ball
+Ability: Storm Drain
+IVs: 31 HP / 31 Atk / 31 Def / 31 Spa / 31 SpD / 31 Spe
+EVs: 252 HP / 252 Atk / 4 Spe
+Bold Nature
+.MetDate=20231012
+.Ribbons=$suggestAll
+- Mud Bomb
+- Earth Power
+- Recover
+- Ancient Power
+
+
+Gastrodon  @ Master Ball
+Shiny: Yes
+Alpha: Yes
+OT: trucky
+OTGender: Female
+TID: 093590
+SID: 2017
+Ball: Gigaton Ball
+Ability: Storm Drain
+IVs: 31 HP / 31 Atk / 31 Def / 31 Spa / 31 SpD / 31 Spe
+EVs: 252 HP / 252 Atk / 4 Spe
+Bold Nature
+.MetDate=20250121
+.Ribbons=$suggestAll
+- Mud Bomb
+- Earth Power
+- Recover
+- Hydro Pump
+
+
+Qwilfish-Hisui  @ Master Ball
+Shiny: Yes
+Alpha: Yes
+OT: trucky
+OTGender: Female
+TID: 093590
+SID: 2017
+Ball: Gigaton Ball
+Ability: Swift Swim
+IVs: 31 HP / 31 Atk / 31 Def / 31 Spa / 31 SpD / 31 Spe
+EVs: 252 HP / 252 Atk / 4 Spe
+Adamant Nature
+.MetDate=20251211
+.Ribbons=$suggestAll
+- Double-Edge
+- Self-Destruct
+- Poison Jab
+- Aqua Tail

@@ -1,0 +1,119 @@
+.bt 
+Leafeon  @ Master Ball
+Shiny: Yes
+Alpha: Yes
+OT: trucky
+OTGender: Female
+TID: 093590
+SID: 2017
+Ball: Gigaton Ball
+Ability: Leaf Guard
+IVs: 31 HP / 31 Atk / 31 Def / 31 Spa / 31 SpD / 31 Spe
+EVs: 252 HP / 252 Atk / 4 Spe
+Adamant Nature
+.MetDate=20240421
+.Ribbons=$suggestAll
+- Double-Edge
+- Mimic
+- Leaf Blade
+- Calm Mind
+
+
+Glaceon  @ Master Ball
+Shiny: Yes
+Alpha: Yes
+OT: trucky
+OTGender: Female
+TID: 093590
+SID: 2017
+Ball: Gigaton Ball
+Ability: Snow Cloak
+IVs: 31 HP / 31 Atk / 31 Def / 31 Spa / 31 SpD / 31 Spe
+EVs: 252 HP / 252 Atk / 4 Spe
+Modest Nature
+.MetDate=20230801
+.Ribbons=$suggestAll
+- Double-Edge
+- Mimic
+- Ice Beam
+- Calm Mind
+
+
+Sylveon  @ Master Ball
+Shiny: Yes
+Alpha: Yes
+OT: trucky
+OTGender: Female
+TID: 093590
+SID: 2017
+Ball: Gigaton Ball
+Ability: Cute Charm
+IVs: 31 HP / 31 Atk / 31 Def / 31 Spa / 31 SpD / 31 Spe
+EVs: 252 HP / 252 Atk / 4 Spe
+Modest Nature
+.MetDate=20250515
+.Ribbons=$suggestAll
+- Double-Edge
+- Mimic
+- Play Rough
+- Calm Mind
+
+
+Zubat  @ Master Ball
+Shiny: Yes
+Alpha: Yes
+OT: trucky
+OTGender: Female
+TID: 093590
+SID: 2017
+Ball: Gigaton Ball
+Ability: Inner Focus
+IVs: 31 HP / 31 Atk / 31 Def / 31 Spa / 31 SpD / 31 Spe
+EVs: 252 HP / 252 Atk / 4 Spe
+Adamant Nature
+.MetDate=20230212
+.Ribbons=$suggestAll
+- Gust
+- Hypnosis
+- Bite
+- Air Cutter
+
+
+Golbat  @ Master Ball
+Shiny: Yes
+Alpha: Yes
+OT: trucky
+OTGender: Female
+TID: 093590
+SID: 2017
+Ball: Gigaton Ball
+Ability: Inner Focus
+IVs: 31 HP / 31 Atk / 31 Def / 31 Spa / 31 SpD / 31 Spe
+EVs: 252 HP / 252 Atk / 4 Spe
+Adamant Nature
+.MetDate=20230721
+.Ribbons=$suggestAll
+- Cross Poison
+- Air Slash
+- Bite
+- Air Cutter
+
+
+Crobat  @ Master Ball
+Shiny: Yes
+Alpha: Yes
+OT: trucky
+OTGender: Female
+TID: 093590
+SID: 2017
+Ball: Gigaton Ball
+Ability: Inner Focus
+IVs: 31 HP / 31 Atk / 31 Def / 31 Spa / 31 SpD / 31 Spe
+EVs: 252 HP / 252 Atk / 4 Spe
+Adamant Nature
+.MetDate=20241010
+.Ribbons=$suggestAll
+- Cross Poison
+- Air Slash
+- Leech Life
+- Air Cutter

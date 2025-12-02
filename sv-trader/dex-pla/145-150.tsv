@@ -1,0 +1,119 @@
+.bt 
+Walrein  @ Master Ball
+Shiny: Yes
+Alpha: Yes
+OT: trucky
+OTGender: Female
+TID: 093590
+SID: 2017
+Ball: Gigaton Ball
+Ability: Thick Fat
+IVs: 31 HP / 31 Atk / 31 Def / 31 Spa / 31 SpD / 31 Spe
+EVs: 252 HP / 252 Atk / 4 Spe
+Bold Nature
+.MetDate=20231124
+.Ribbons=$suggestAll
+- Liquidation
+- Ice Beam
+- Blizzard
+- Rest
+
+
+Remoraid  @ Master Ball
+Shiny: Yes
+Alpha: Yes
+OT: trucky
+OTGender: Female
+TID: 093590
+SID: 2017
+Ball: Gigaton Ball
+Ability: Hustle
+IVs: 31 HP / 31 Atk / 31 Def / 31 Spa / 31 SpD / 31 Spe
+EVs: 252 HP / 252 Atk / 4 Spe
+Modest Nature
+.MetDate=20230720
+.Ribbons=$suggestAll
+- Ice Beam
+- Hydro Pump
+- Charge Beam
+- Water Pulse
+
+
+Octillery  @ Master Ball
+Shiny: Yes
+Alpha: Yes
+OT: trucky
+OTGender: Female
+TID: 093590
+SID: 2017
+Ball: Gigaton Ball
+Ability: Suction Cups
+IVs: 31 HP / 31 Atk / 31 Def / 31 Spa / 31 SpD / 31 Spe
+EVs: 252 HP / 252 Atk / 4 Spe
+Modest Nature
+.MetDate=20250104
+.Ribbons=$suggestAll
+- Water Pulse
+- Ice Beam
+- Hydro Pump
+- Hyper Beam
+
+
+Skorupi  @ Master Ball
+Shiny: Yes
+Alpha: Yes
+OT: trucky
+OTGender: Female
+TID: 093590
+SID: 2017
+Ball: Gigaton Ball
+Ability: Battle Armor
+IVs: 31 HP / 31 Atk / 31 Def / 31 Spa / 31 SpD / 31 Spe
+EVs: 252 HP / 252 Atk / 4 Spe
+Adamant Nature
+.MetDate=20250926
+.Ribbons=$suggestAll
+- Swords Dance
+- X-Scissor
+- Venoshock
+- Cross Poison
+
+
+Drapion  @ Master Ball
+Shiny: Yes
+Alpha: Yes
+OT: trucky
+OTGender: Female
+TID: 093590
+SID: 2017
+Ball: Gigaton Ball
+Ability: Battle Armor
+IVs: 31 HP / 31 Atk / 31 Def / 31 Spa / 31 SpD / 31 Spe
+EVs: 252 HP / 252 Atk / 4 Spe
+Adamant Nature
+.MetDate=20250502
+.Ribbons=$suggestAll
+- Swords Dance
+- X-Scissor
+- Crunch
+- Cross Poison
+
+
+Growlithe-Hisui  @ Master Ball
+Shiny: Yes
+Alpha: Yes
+OT: trucky
+OTGender: Female
+TID: 093590
+SID: 2017
+Ball: Gigaton Ball
+Ability: Intimidate
+IVs: 31 HP / 31 Atk / 31 Def / 31 Spa / 31 SpD / 31 Spe
+EVs: 252 HP / 252 Atk / 0 Def / 0 Spa / 4 SpD / 0 Spe
+Adamant Nature
+.MetDate=20240219
+.Ribbons=$suggestAll
+- Rock Slide
+- Crunch
+- Double-Edge
+- Fire Fang

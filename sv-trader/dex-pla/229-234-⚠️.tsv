@@ -1,0 +1,107 @@
+.bt # is_legendary
+Regigigas  @ Master Ball
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 093590
+SID: 2017
+Ability: Slow Start
+IVs: 31 HP / 31 Atk / 31 Def / 31 Spa / 31 SpD / 31 Spe
+EVs: 252 HP / 252 Atk / 4 Spe
+Adamant Nature
+.MetDate=20241128
+.Ribbons=$suggestAll
+- Zen Headbutt
+- Iron Head
+- Crush Grip
+- Giga Impact
+
+# is_legendary
+Cresselia  @ Master Ball
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 093590
+SID: 2017
+Ability: Levitate
+IVs: 31 HP / 31 Atk / 31 Def / 31 Spa / 31 SpD / 31 Spe
+EVs: 252 HP / 252 Atk / 4 Spe
+Bold Nature
+.MetDate=20230101
+.Ribbons=$suggestAll
+- Recover
+- Psychic
+- Moonblast
+- Lunar Blessing
+
+# is_legendary
+Thundurus  @ Master Ball
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 093590
+SID: 2017
+Ability: Prankster
+IVs: 31 HP / 31 Atk / 31 Def / 31 Spa / 31 SpD / 31 Spe
+EVs: 252 HP / 252 Atk / 4 Spe
+Timid Nature
+.MetDate=20231104
+.Ribbons=$suggestAll
+- Wildbolt Storm
+- Extrasensory
+- Crunch
+- Thunder
+
+# is_legendary
+Tornadus  @ Master Ball
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 093590
+SID: 2017
+Ability: Prankster
+IVs: 31 HP / 31 Atk / 31 Def / 31 Spa / 31 SpD / 31 Spe
+EVs: 252 HP / 252 Atk / 4 Spe
+Timid Nature
+.MetDate=20230318
+.Ribbons=$suggestAll
+- Rock Smash
+- Hyper Beam
+- Hurricane
+- Nasty Plot
+
+# is_legendary
+Landorus  @ Master Ball
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 093590
+SID: 2017
+Ability: Sand Force
+IVs: 31 HP / 31 Atk / 31 Def / 31 Spa / 31 SpD / 31 Spe
+EVs: 252 HP / 252 Atk / 4 Spe
+Timid Nature
+.MetDate=20250225
+.Ribbons=$suggestAll
+- Sandsear Storm
+- Extrasensory
+- Crunch
+- Earth Power
+
+# is_legendary
+Enamorus  @ Master Ball
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 093590
+SID: 2017
+Ability: Healer
+IVs: 31 HP / 31 Atk / 31 Def / 31 Spa / 31 SpD / 31 Spe
+EVs: 252 HP / 252 Atk / 4 Spe
+Timid Nature
+.MetDate=20230312
+.Ribbons=$suggestAll
+- Springtide Storm
+- Extrasensory
+- Crunch
+- Moonblast

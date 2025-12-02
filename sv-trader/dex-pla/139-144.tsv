@@ -1,0 +1,119 @@
+.bt 
+Spiritomb  @ Master Ball
+Shiny: Yes
+Alpha: Yes
+OT: trucky
+OTGender: Female
+TID: 093590
+SID: 2017
+Ball: Gigaton Ball
+Ability: Pressure
+IVs: 31 HP / 31 Atk / 31 Def / 31 Spa / 31 SpD / 31 Spe
+EVs: 252 HP / 252 Atk / 4 Spe
+Bold Nature
+.MetDate=20230724
+.Ribbons=$suggestAll
+- Extrasensory
+- Dark Pulse
+- Shadow Ball
+- Nasty Plot
+
+
+Murkrow  @ Master Ball
+Shiny: Yes
+Alpha: Yes
+OT: trucky
+OTGender: Female
+TID: 093590
+SID: 2017
+Ball: Gigaton Ball
+Ability: Super Luck
+IVs: 31 HP / 31 Atk / 31 Def / 31 Spa / 31 SpD / 31 Spe
+EVs: 252 HP / 252 Atk / 4 Spe
+Adamant Nature
+.MetDate=20231224
+.Ribbons=$suggestAll
+- Night Slash
+- Air Slash
+- Nasty Plot
+- Dark Pulse
+
+
+Honchkrow  @ Master Ball
+Shiny: Yes
+Alpha: Yes
+OT: trucky
+OTGender: Female
+TID: 093590
+SID: 2017
+Ball: Gigaton Ball
+Ability: Super Luck
+IVs: 31 HP / 31 Atk / 31 Def / 31 Spa / 31 SpD / 31 Spe
+EVs: 252 HP / 252 Atk / 4 Spe
+Adamant Nature
+.MetDate=20230306
+.Ribbons=$suggestAll
+- Brave Bird
+- Air Slash
+- Nasty Plot
+- Dark Pulse
+
+
+Unown-A  @ Master Ball
+Shiny: Yes
+Alpha: Yes
+OT: trucky
+OTGender: Female
+TID: 093590
+SID: 2017
+Ball: Gigaton Ball
+Ability: Levitate
+IVs: 31 HP / 31 Atk / 31 Def / 31 Spa / 31 SpD / 31 Spe
+EVs: 252 HP / 252 Atk / 4 Spe
+Modest Nature
+.MetDate=20230902
+.Ribbons=$suggestAll
+- Hidden Power
+- 
+- 
+- 
+
+
+Spheal  @ Master Ball
+Shiny: Yes
+Alpha: Yes
+OT: trucky
+OTGender: Female
+TID: 093590
+SID: 2017
+Ball: Gigaton Ball
+Ability: Thick Fat
+IVs: 31 HP / 31 Atk / 31 Def / 31 Spa / 31 SpD / 31 Spe
+EVs: 252 HP / 252 Atk / 4 Spe
+Bold Nature
+.MetDate=20230118
+.Ribbons=$suggestAll
+- Liquidation
+- Ice Beam
+- Blizzard
+- Rest
+
+
+Sealeo  @ Master Ball
+Shiny: Yes
+Alpha: Yes
+OT: trucky
+OTGender: Female
+TID: 093590
+SID: 2017
+Ball: Gigaton Ball
+Ability: Thick Fat
+IVs: 31 HP / 31 Atk / 31 Def / 31 Spa / 31 SpD / 31 Spe
+EVs: 252 HP / 252 Atk / 4 Spe
+Bold Nature
+.MetDate=20240317
+.Ribbons=$suggestAll
+- Liquidation
+- Ice Beam
+- Blizzard
+- Rest

@@ -1,0 +1,119 @@
+.bt 
+Arcanine-Hisui  @ Master Ball
+Shiny: Yes
+Alpha: Yes
+OT: trucky
+OTGender: Female
+TID: 093590
+SID: 2017
+Ball: Gigaton Ball
+Ability: Intimidate
+IVs: 31 HP / 31 Atk / 31 Def / 31 Spa / 31 SpD / 31 Spe
+EVs: 252 HP / 252 Atk / 0 Def / 0 Spa / 4 SpD / 0 Spe
+Adamant Nature
+.MetDate=20230203
+.Ribbons=$suggestAll
+- Rock Slide
+- Crunch
+- Double-Edge
+- Fire Fang
+
+
+Glameow  @ Master Ball
+Shiny: Yes
+Alpha: Yes
+OT: trucky
+OTGender: Female
+TID: 093590
+SID: 2017
+Ball: Gigaton Ball
+Ability: Limber
+IVs: 31 HP / 31 Atk / 31 Def / 31 Spa / 31 SpD / 31 Spe
+EVs: 252 HP / 252 Atk / 4 Spe
+Adamant Nature
+.MetDate=20240111
+.Ribbons=$suggestAll
+- Night Slash
+- Play Rough
+- Double-Edge
+- Slash
+
+
+Purugly  @ Master Ball
+Shiny: Yes
+Alpha: Yes
+OT: trucky
+OTGender: Female
+TID: 093590
+SID: 2017
+Ball: Gigaton Ball
+Ability: Thick Fat
+IVs: 31 HP / 31 Atk / 31 Def / 31 Spa / 31 SpD / 31 Spe
+EVs: 252 HP / 252 Atk / 4 Spe
+Adamant Nature
+.MetDate=20241120
+.Ribbons=$suggestAll
+- Night Slash
+- Play Rough
+- Double-Edge
+- Slash
+
+
+Machop  @ Master Ball
+Shiny: Yes
+Alpha: Yes
+OT: trucky
+OTGender: Female
+TID: 093590
+SID: 2017
+Ball: Gigaton Ball
+Ability: Guts
+IVs: 31 HP / 31 Atk / 31 Def / 31 Spa / 31 SpD / 31 Spe
+EVs: 252 HP / 252 Atk / 4 Spe
+Adamant Nature
+.MetDate=20250222
+.Ribbons=$suggestAll
+- Mach Punch
+- Bulk Up
+- Bullet Punch
+- Double Hit
+
+
+Machoke  @ Master Ball
+Shiny: Yes
+Alpha: Yes
+OT: trucky
+OTGender: Female
+TID: 093590
+SID: 2017
+Ball: Gigaton Ball
+Ability: Guts
+IVs: 31 HP / 31 Atk / 31 Def / 31 Spa / 31 SpD / 31 Spe
+EVs: 252 HP / 252 Atk / 4 Spe
+Adamant Nature
+.MetDate=20240609
+.Ribbons=$suggestAll
+- Mach Punch
+- Bulk Up
+- Double-Edge
+- Close Combat
+
+
+Machamp  @ Master Ball
+Shiny: Yes
+Alpha: Yes
+OT: trucky
+OTGender: Female
+TID: 093590
+SID: 2017
+Ball: Gigaton Ball
+Ability: Guts
+IVs: 31 HP / 31 Atk / 31 Def / 31 Spa / 31 SpD / 31 Spe
+EVs: 252 HP / 252 Atk / 4 Spe
+Adamant Nature
+.MetDate=20230503
+.Ribbons=$suggestAll
+- Close Combat
+- Bulk Up
+- Drain Punch
+- Double-Edge

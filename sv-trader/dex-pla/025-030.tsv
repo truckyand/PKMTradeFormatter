@@ -1,0 +1,119 @@
+.bt 
+Eevee  @ Master Ball
+Shiny: Yes
+Alpha: Yes
+OT: trucky
+OTGender: Female
+TID: 093590
+SID: 2017
+Ball: Gigaton Ball
+Ability: Run Away
+IVs: 31 HP / 31 Atk / 31 Def / 31 Spa / 31 SpD / 31 Spe
+EVs: 252 HP / 252 Atk / 4 Spe
+Adamant Nature
+.MetDate=20241012
+.Ribbons=$suggestAll
+- Tackle
+- Quick Attack
+- Swift
+- 
+
+
+Vaporeon  @ Master Ball
+Shiny: Yes
+Alpha: Yes
+OT: trucky
+OTGender: Female
+TID: 093590
+SID: 2017
+Ball: Gigaton Ball
+Ability: Water Absorb
+IVs: 31 HP / 31 Atk / 31 Def / 31 Spa / 31 SpD / 31 Spe
+EVs: 252 HP / 252 Atk / 4 Spe
+Bold Nature
+.MetDate=20250301
+.Ribbons=$suggestAll
+- Double-Edge
+- Mimic
+- Aqua Tail
+- Calm Mind
+
+
+Jolteon  @ Master Ball
+Shiny: Yes
+Alpha: Yes
+OT: trucky
+OTGender: Female
+TID: 093590
+SID: 2017
+Ball: Gigaton Ball
+Ability: Volt Absorb
+IVs: 31 HP / 31 Atk / 31 Def / 31 Spa / 31 SpD / 31 Spe
+EVs: 252 HP / 252 Atk / 4 Spe
+Timid Nature
+.MetDate=20230610
+.Ribbons=$suggestAll
+- Double-Edge
+- Mimic
+- Thunderbolt
+- Calm Mind
+
+
+Flareon  @ Master Ball
+Shiny: Yes
+Alpha: Yes
+OT: trucky
+OTGender: Female
+TID: 093590
+SID: 2017
+Ball: Gigaton Ball
+Ability: Flash Fire
+IVs: 31 HP / 31 Atk / 31 Def / 31 Spa / 31 SpD / 31 Spe
+EVs: 252 HP / 252 Atk / 4 Spe
+Adamant Nature
+.MetDate=20230201
+.Ribbons=$suggestAll
+- Baby-Doll Eyes
+- Mimic
+- Flamethrower
+- Calm Mind
+
+
+Espeon  @ Master Ball
+Shiny: Yes
+Alpha: Yes
+OT: trucky
+OTGender: Female
+TID: 093590
+SID: 2017
+Ball: Gigaton Ball
+Ability: Synchronize
+IVs: 31 HP / 31 Atk / 31 Def / 31 Spa / 31 SpD / 31 Spe
+EVs: 252 HP / 252 Atk / 4 Spe
+Modest Nature
+.MetDate=20230113
+.Ribbons=$suggestAll
+- Double-Edge
+- Mimic
+- Psychic
+- Calm Mind
+
+
+Umbreon  @ Master Ball
+Shiny: Yes
+Alpha: Yes
+OT: trucky
+OTGender: Female
+TID: 093590
+SID: 2017
+Ball: Gigaton Ball
+Ability: Synchronize
+IVs: 31 HP / 31 Atk / 31 Def / 31 Spa / 31 SpD / 31 Spe
+EVs: 252 HP / 252 Atk / 4 Spe
+Calm Nature
+.MetDate=20230716
+.Ribbons=$suggestAll
+- Double-Edge
+- Mimic
+- Dark Pulse
+- Calm Mind

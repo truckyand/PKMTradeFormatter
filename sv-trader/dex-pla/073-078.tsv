@@ -1,0 +1,119 @@
+.bt 
+Scizor  @ Master Ball
+Shiny: Yes
+Alpha: Yes
+OT: trucky
+OTGender: Female
+TID: 093590
+SID: 2017
+Ball: Gigaton Ball
+Ability: Technician
+IVs: 31 HP / 31 Atk / 31 Def / 31 Spa / 31 SpD / 31 Spe
+EVs: 252 HP / 252 Atk / 4 Spe
+Adamant Nature
+.MetDate=20250914
+.Ribbons=$suggestAll
+- X-Scissor
+- Close Combat
+- Bullet Punch
+- Iron Head
+
+
+Kleavor  @ Master Ball
+Shiny: Yes
+Alpha: Yes
+OT: trucky
+OTGender: Female
+TID: 093590
+SID: 2017
+Ball: Gigaton Ball
+Ability: Sheer Force
+IVs: 31 HP / 31 Atk / 31 Def / 31 Spa / 31 SpD / 31 Spe
+EVs: 252 HP / 252 Atk / 4 Spe
+Adamant Nature
+.MetDate=20240209
+.Ribbons=$suggestAll
+- Air Slash
+- Swords Dance
+- Aerial Ace
+- Double Hit
+
+
+Heracross  @ Master Ball
+Shiny: Yes
+Alpha: Yes
+OT: trucky
+OTGender: Female
+TID: 093590
+SID: 2017
+Ball: Gigaton Ball
+Ability: Guts
+IVs: 31 HP / 31 Atk / 31 Def / 31 Spa / 31 SpD / 31 Spe
+EVs: 252 HP / 252 Atk / 4 Spe
+Adamant Nature
+.MetDate=20250602
+.Ribbons=$suggestAll
+- Slash
+- Swords Dance
+- Double-Edge
+- Aerial Ace
+
+
+Mime Jr.  @ Master Ball
+Shiny: Yes
+Alpha: Yes
+OT: trucky
+OTGender: Female
+TID: 093590
+SID: 2017
+Ball: Gigaton Ball
+Ability: Filter
+IVs: 31 HP / 31 Atk / 31 Def / 31 Spa / 31 SpD / 31 Spe
+EVs: 252 HP / 252 Atk / 4 Spe
+Modest Nature
+.MetDate=20240406
+.Ribbons=$suggestAll
+- Mimic
+- Hypnosis
+- Iron Defense
+- Zen Headbutt
+
+
+Mr. Mime  @ Master Ball
+Shiny: Yes
+Alpha: Yes
+OT: trucky
+OTGender: Female
+TID: 093590
+SID: 2017
+Ball: Gigaton Ball
+Ability: Filter
+IVs: 31 HP / 31 Atk / 31 Def / 31 Spa / 31 SpD / 31 Spe
+EVs: 252 HP / 252 Atk / 4 Spe
+Timid Nature
+.MetDate=20231023
+.Ribbons=$suggestAll
+- Mimic
+- Hypnosis
+- Iron Defense
+- Zen Headbutt
+
+
+Aipom  @ Master Ball
+Shiny: Yes
+Alpha: Yes
+OT: trucky
+OTGender: Female
+TID: 093590
+SID: 2017
+Ball: Gigaton Ball
+Ability: Pickup
+IVs: 31 HP / 31 Atk / 31 Def / 31 Spa / 31 SpD / 31 Spe
+EVs: 252 HP / 252 Atk / 4 Spe
+Jolly Nature
+.MetDate=20250804
+.Ribbons=$suggestAll
+- Double Hit
+- Iron Tail
+- Swift
+- Mud Bomb
