@@ -1,13 +1,13 @@
 const fs = require('fs');
 
 const srcFile = '../swsh.json';
-const metasetFile = '../pkmgg_sorted_swsh_pokemon.json';
+const metasetFile = '../pkmgg_sorted_pla_pokemon.json';
 const FILE_PREFIX = '';
 const LEGENDARY_ONLY = false;
 
 // Define chunk size and output directory
 const chunkSize = 6;
-const outputDir = './dex-swsh';
+const outputDir = './dex-pla';
 
 //
 //
