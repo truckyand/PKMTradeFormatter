@@ -1,5 +1,5 @@
 .bt 
-Bastiodon  @ Master Ball
+Bronzong  @ Master Ball
 Shiny: Yes
 Alpha: Yes
 OT: trucky
@@ -7,113 +7,113 @@ OTGender: Female
 TID: 093590
 SID: 2017
 Ball: Gigaton Ball
-Ability: Sturdy
+Ability: Levitate
+IVs: 31 HP / 31 Atk / 31 Def / 31 Spa / 31 SpD / 31 Spe
+EVs: 252 HP / 252 Atk / 4 Spe
+Bold Nature
+.MetDate=20240712
+.Ribbons=$suggestAll
+- Hypnosis
+- Flash Cannon
+- Extrasensory
+- Hex
+
+
+Elekid  @ Master Ball
+Shiny: Yes
+Alpha: Yes
+OT: trucky
+OTGender: Female
+TID: 093590
+SID: 2017
+Ball: Gigaton Ball
+Ability: Static
+IVs: 31 HP / 31 Atk / 31 Def / 31 Spa / 31 SpD / 31 Spe
+EVs: 252 HP / 252 Atk / 4 Spe
+Modest Nature
+.MetDate=20251104
+.Ribbons=$suggestAll
+- Thunder Punch
+- Thunderbolt
+- Thunder
+- Thunder Wave
+
+
+Electabuzz  @ Everstone
+Shiny: Yes
+Alpha: Yes
+OT: trucky
+OTGender: Female
+TID: 093590
+SID: 2017
+Ball: Gigaton Ball
+Ability: Static
+IVs: 31 HP / 31 Atk / 31 Def / 31 Spa / 31 SpD / 31 Spe
+EVs: 252 HP / 252 Atk / 4 Spe
+Modest Nature
+.MetDate=20230511
+.Ribbons=$suggestAll
+- Thunder Punch
+- Thunderbolt
+- Thunder
+- Thunder Wave
+
+
+Electivire  @ Master Ball
+Shiny: Yes
+Alpha: Yes
+OT: trucky
+OTGender: Female
+TID: 093590
+SID: 2017
+Ball: Gigaton Ball
+Ability: Motor Drive
+IVs: 31 HP / 31 Atk / 31 Def / 31 Spa / 31 SpD / 31 Spe
+EVs: 252 HP / 252 Atk / 4 Spe
+Modest Nature
+.MetDate=20230123
+.Ribbons=$suggestAll
+- Thunder Punch
+- Thunderbolt
+- Thunder
+- Thunder Wave
+
+
+Gligar  @ Master Ball
+Shiny: Yes
+Alpha: Yes
+OT: trucky
+OTGender: Female
+TID: 093590
+SID: 2017
+Ball: Gigaton Ball
+Ability: Sand Veil
 IVs: 31 HP / 31 Atk / 31 Def / 31 Spa / 31 SpD / 31 Spe
 EVs: 252 HP / 252 Atk / 4 Spe
 Adamant Nature
-.MetDate=20241110
+.MetDate=20230104
 .Ribbons=$suggestAll
-- Iron Head
+- Slash
+- Poison Jab
+- X-Scissor
+- Mud Bomb
+
+
+Gliscor @ Everstone
+Shiny: Yes
+Alpha: Yes
+OT: trucky
+OTGender: Female
+TID: 093590
+SID: 2017
+Ball: Gigaton Ball
+Ability: Sand Veil
+IVs: 31 HP / 31 Atk / 31 Def / 31 Spa / 31 SpD / 31 Spe
+EVs: 252 HP / 252 Atk / 4 Spe
+Adamant Nature
+.MetDate=20230917
+.Ribbons=$suggestAll
+- X-Scissor
 - Earth Power
-- Stealth Rock
-- Double-Edge
-
-
-Swinub  @ Master Ball
-Shiny: Yes
-Alpha: Yes
-OT: trucky
-OTGender: Female
-TID: 093590
-SID: 2017
-Ball: Gigaton Ball
-Ability: Oblivious
-IVs: 31 HP / 31 Atk / 31 Def / 31 Spa / 31 SpD / 31 Spe
-EVs: 252 HP / 252 Atk / 4 Spe
-Adamant Nature
-.MetDate=20250717
-.Ribbons=$suggestAll
-- High Horsepower
-- Ancient Power
-- Blizzard
-- Icicle Crash
-
-
-Piloswine  @ Master Ball
-Shiny: Yes
-Alpha: Yes
-OT: trucky
-OTGender: Female
-TID: 093590
-SID: 2017
-Ball: Gigaton Ball
-Ability: Oblivious
-IVs: 31 HP / 31 Atk / 31 Def / 31 Spa / 31 SpD / 31 Spe
-EVs: 252 HP / 252 Atk / 4 Spe
-Adamant Nature
-.MetDate=20230209
-.Ribbons=$suggestAll
-- High Horsepower
-- Ancient Power
-- Blizzard
-- Double-Edge
-
-
-Mamoswine  @ Master Ball
-Shiny: Yes
-Alpha: Yes
-OT: trucky
-OTGender: Female
-TID: 093590
-SID: 2017
-Ball: Gigaton Ball
-Ability: Oblivious
-IVs: 31 HP / 31 Atk / 31 Def / 31 Spa / 31 SpD / 31 Spe
-EVs: 252 HP / 252 Atk / 4 Spe
-Adamant Nature
-.MetDate=20230705
-.Ribbons=$suggestAll
-- High Horsepower
-- Ancient Power
-- Blizzard
-- Double-Edge
-
-
-Bergmite  @ Master Ball
-Shiny: Yes
-Alpha: Yes
-OT: trucky
-OTGender: Female
-TID: 093590
-SID: 2017
-Ball: Gigaton Ball
-Ability: Own Tempo
-IVs: 31 HP / 31 Atk / 31 Def / 31 Spa / 31 SpD / 31 Spe
-EVs: 252 HP / 252 Atk / 4 Spe
-Adamant Nature
-.MetDate=20240819
-.Ribbons=$suggestAll
-- Iron Defense
-- Crunch
-- Blizzard
-- Double-Edge
-
-
-Avalugg-Hisui  @ Master Ball
-Shiny: Yes
-Alpha: Yes
-OT: trucky
-OTGender: Female
-TID: 093590
-SID: 2017
-Ball: Gigaton Ball
-Ability: Strong Jaw
-IVs: 31 HP / 31 Atk / 31 Def / 31 Spa / 31 SpD / 31 Spe
-EVs: 252 HP / 252 Atk / 4 Spe
-Adamant Nature
-.MetDate=20230726
-.Ribbons=$suggestAll
-- Mountain Gale
-- Blizzard
-- Double-Edge
-- Earth Power
+- Swords Dance
+- Poison Jab
