@@ -10,14 +10,8 @@ Ball: Gigaton Ball
 Ability: Run Away
 IVs: 31 HP / 31 Atk / 31 Def / 31 Spa / 31 SpD / 31 Spe
 EVs: 252 HP / 252 Atk / 4 Spe
-Adamant Nature
 .MetDate=20241012
 .Ribbons=$suggestAll
-- Tackle
-- Quick Attack
-- Swift
-- 
-
 
 Vaporeon  @ Master Ball
 Shiny: Yes
