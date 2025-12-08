@@ -88,9 +88,8 @@ Modest Nature
 - Water Pulse
 - Acid Armor
 
-# is_legendary
-Manaphy  @ Master Ball
-Shiny: Yes
+# work
+Phione  @ Master Ball
 OT: trucky
 OTGender: Female
 TID: 093590
@@ -98,9 +97,21 @@ SID: 2017
 Ability: Hydration
 IVs: 31 HP / 31 Atk / 31 Def / 31 Spa / 31 SpD / 31 Spe
 EVs: 252 HP / 252 Atk / 4 Spe
-Modest Nature
+.MetDate=20250218
+.Ribbons=$suggestAll
+
+# is_legendary
+Manaphy
+OT: trucky
+OTGender: Female
+TID: 093590
+SID: 2017
+Ability: Hydration
+IVs: 31 HP / 31 Atk / 31 Def / 31 Spa / 31 SpD / 31 Spe
+EVs: 252 HP / 252 Atk / 4 Spe
 .MetDate=20240220
 .Ribbons=$suggestAll
+Modest Nature
 - Energy Ball
 - Moonblast
 - Hydro Pump
