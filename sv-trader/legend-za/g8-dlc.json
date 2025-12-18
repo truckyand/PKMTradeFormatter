@@ -1,0 +1,1532 @@
+[
+    {
+        "name": "Mankey",
+        "pokedexNumber": "1",
+        "habitat": "",
+        "isMegaEvolution": "",
+        "isAlphaSpecimen": "",
+        "isFinalEvolution": "",
+        "isDLC": "/",
+        "showCheckbox": "/"
+    },
+    {
+        "name": "Primeape",
+        "pokedexNumber": "2",
+        "habitat": "",
+        "isMegaEvolution": "",
+        "isAlphaSpecimen": "",
+        "isFinalEvolution": "",
+        "isDLC": "/",
+        "showCheckbox": "/"
+    },
+    {
+        "name": "Annihilape",
+        "pokedexNumber": "3",
+        "habitat": "",
+        "isMegaEvolution": "",
+        "isAlphaSpecimen": "",
+        "isFinalEvolution": "/",
+        "isDLC": "/",
+        "showCheckbox": "/"
+    },
+    {
+        "name": "Meowth",
+        "pokedexNumber": "4",
+        "habitat": "",
+        "isMegaEvolution": "",
+        "isAlphaSpecimen": "",
+        "isFinalEvolution": "",
+        "isDLC": "/",
+        "showCheckbox": "/"
+    },
+    {
+        "name": "Alolan Meowth",
+        "pokedexNumber": "4.1",
+        "habitat": "",
+        "isMegaEvolution": "",
+        "isAlphaSpecimen": "",
+        "isFinalEvolution": "",
+        "isDLC": "/",
+        "showCheckbox": "/"
+    },
+    {
+        "name": "Galarian Meowth",
+        "pokedexNumber": "4.2",
+        "habitat": "",
+        "isMegaEvolution": "",
+        "isAlphaSpecimen": "",
+        "isFinalEvolution": "",
+        "isDLC": "/",
+        "showCheckbox": "/"
+    },
+    {
+        "name": "Persian",
+        "pokedexNumber": "5",
+        "habitat": "",
+        "isMegaEvolution": "",
+        "isAlphaSpecimen": "",
+        "isFinalEvolution": "/",
+        "isDLC": "/",
+        "showCheckbox": "/"
+    },
+    {
+        "name": "Alolan Persian",
+        "pokedexNumber": "5.1",
+        "habitat": "",
+        "isMegaEvolution": "",
+        "isAlphaSpecimen": "",
+        "isFinalEvolution": "/",
+        "isDLC": "/",
+        "showCheckbox": "/"
+    },
+    {
+        "name": "Perrserker",
+        "pokedexNumber": "6",
+        "habitat": "",
+        "isMegaEvolution": "",
+        "isAlphaSpecimen": "",
+        "isFinalEvolution": "/",
+        "isDLC": "/",
+        "showCheckbox": "/"
+    },
+    {
+        "name": "Farfetch'd",
+        "pokedexNumber": "7",
+        "habitat": "",
+        "isMegaEvolution": "",
+        "isAlphaSpecimen": "",
+        "isFinalEvolution": "/",
+        "isDLC": "/",
+        "showCheckbox": "/"
+    },
+    {
+        "name": "Galarian Farfetch'd",
+        "pokedexNumber": "7.1",
+        "habitat": "",
+        "isMegaEvolution": "",
+        "isAlphaSpecimen": "",
+        "isFinalEvolution": "",
+        "isDLC": "/",
+        "showCheckbox": "/"
+    },
+    {
+        "name": "Sirfetch'd",
+        "pokedexNumber": "8",
+        "habitat": "",
+        "isMegaEvolution": "",
+        "isAlphaSpecimen": "",
+        "isFinalEvolution": "/",
+        "isDLC": "/",
+        "showCheckbox": "/"
+    },
+    {
+        "name": "Cubone",
+        "pokedexNumber": "9",
+        "habitat": "",
+        "isMegaEvolution": "",
+        "isAlphaSpecimen": "",
+        "isFinalEvolution": "",
+        "isDLC": "/",
+        "showCheckbox": "/"
+    },
+    {
+        "name": "Marowak",
+        "pokedexNumber": "10",
+        "habitat": "",
+        "isMegaEvolution": "",
+        "isAlphaSpecimen": "",
+        "isFinalEvolution": "/",
+        "isDLC": "/",
+        "showCheckbox": "/"
+    },
+    {
+        "name": "Alolan Marowak",
+        "pokedexNumber": "10.1",
+        "habitat": "",
+        "isMegaEvolution": "",
+        "isAlphaSpecimen": "",
+        "isFinalEvolution": "/",
+        "isDLC": "/",
+        "showCheckbox": "/"
+    },
+    {
+        "name": "Porygon",
+        "pokedexNumber": "11",
+        "habitat": "",
+        "isMegaEvolution": "",
+        "isAlphaSpecimen": "",
+        "isFinalEvolution": "",
+        "isDLC": "/",
+        "showCheckbox": "/"
+    },
+    {
+        "name": "Porygon2",
+        "pokedexNumber": "12",
+        "habitat": "",
+        "isMegaEvolution": "",
+        "isAlphaSpecimen": "",
+        "isFinalEvolution": "/",
+        "isDLC": "/",
+        "showCheckbox": "/"
+    },
+    {
+        "name": "Porygon-Z",
+        "pokedexNumber": "13",
+        "habitat": "",
+        "isMegaEvolution": "",
+        "isAlphaSpecimen": "",
+        "isFinalEvolution": "/",
+        "isDLC": "/",
+        "showCheckbox": "/"
+    },
+    {
+        "name": "Capsakid",
+        "pokedexNumber": "14",
+        "habitat": "",
+        "isMegaEvolution": "",
+        "isAlphaSpecimen": "",
+        "isFinalEvolution": "",
+        "isDLC": "/",
+        "showCheckbox": "/"
+    },
+    {
+        "name": "Scovillain",
+        "pokedexNumber": "15",
+        "habitat": "",
+        "isMegaEvolution": "",
+        "isAlphaSpecimen": "",
+        "isFinalEvolution": "/",
+        "isDLC": "/",
+        "showCheckbox": "/"
+    },
+    {
+        "name": "Tinkatink",
+        "pokedexNumber": "16",
+        "habitat": "",
+        "isMegaEvolution": "",
+        "isAlphaSpecimen": "",
+        "isFinalEvolution": "",
+        "isDLC": "/",
+        "showCheckbox": "/"
+    },
+    {
+        "name": "Tinkatuff",
+        "pokedexNumber": "17",
+        "habitat": "",
+        "isMegaEvolution": "",
+        "isAlphaSpecimen": "",
+        "isFinalEvolution": "",
+        "isDLC": "/",
+        "showCheckbox": "/"
+    },
+    {
+        "name": "Tinkaton",
+        "pokedexNumber": "18",
+        "habitat": "",
+        "isMegaEvolution": "",
+        "isAlphaSpecimen": "",
+        "isFinalEvolution": "/",
+        "isDLC": "/",
+        "showCheckbox": "/"
+    },
+    {
+        "name": "Cyclizar",
+        "pokedexNumber": "19",
+        "habitat": "",
+        "isMegaEvolution": "",
+        "isAlphaSpecimen": "",
+        "isFinalEvolution": "/",
+        "isDLC": "/",
+        "showCheckbox": "/"
+    },
+    {
+        "name": "Glimmet",
+        "pokedexNumber": "20",
+        "habitat": "",
+        "isMegaEvolution": "",
+        "isAlphaSpecimen": "",
+        "isFinalEvolution": "",
+        "isDLC": "/",
+        "showCheckbox": "/"
+    },
+    {
+        "name": "Glimmora",
+        "pokedexNumber": "21",
+        "habitat": "",
+        "isMegaEvolution": "",
+        "isAlphaSpecimen": "",
+        "isFinalEvolution": "/",
+        "isDLC": "/",
+        "showCheckbox": "/"
+    },
+    {
+        "name": "Rotom",
+        "pokedexNumber": "22",
+        "habitat": "",
+        "isMegaEvolution": "",
+        "isAlphaSpecimen": "",
+        "isFinalEvolution": "/",
+        "isDLC": "/",
+        "showCheckbox": "/"
+    },
+    {
+        "name": "Heat Rotom",
+        "pokedexNumber": "22",
+        "habitat": "",
+        "isMegaEvolution": "",
+        "isAlphaSpecimen": "",
+        "isFinalEvolution": "/",
+        "isDLC": "/",
+        "showCheckbox": "/"
+    },
+    {
+        "name": "Wash Rotom",
+        "pokedexNumber": "22",
+        "habitat": "",
+        "isMegaEvolution": "",
+        "isAlphaSpecimen": "",
+        "isFinalEvolution": "/",
+        "isDLC": "/",
+        "showCheckbox": "/"
+    },
+    {
+        "name": "Frost Rotom",
+        "pokedexNumber": "22",
+        "habitat": "",
+        "isMegaEvolution": "",
+        "isAlphaSpecimen": "",
+        "isFinalEvolution": "/",
+        "isDLC": "/",
+        "showCheckbox": "/"
+    },
+    {
+        "name": "Fan Rotom",
+        "pokedexNumber": "22",
+        "habitat": "",
+        "isMegaEvolution": "",
+        "isAlphaSpecimen": "",
+        "isFinalEvolution": "/",
+        "isDLC": "/",
+        "showCheckbox": "/"
+    },
+    {
+        "name": "Mow Rotom",
+        "pokedexNumber": "22",
+        "habitat": "",
+        "isMegaEvolution": "",
+        "isAlphaSpecimen": "",
+        "isFinalEvolution": "/",
+        "isDLC": "/",
+        "showCheckbox": "/"
+    },
+    {
+        "name": "Greavard",
+        "pokedexNumber": "23",
+        "habitat": "",
+        "isMegaEvolution": "",
+        "isAlphaSpecimen": "",
+        "isFinalEvolution": "",
+        "isDLC": "/",
+        "showCheckbox": "/"
+    },
+    {
+        "name": "Houndstone",
+        "pokedexNumber": "24",
+        "habitat": "",
+        "isMegaEvolution": "",
+        "isAlphaSpecimen": "",
+        "isFinalEvolution": "/",
+        "isDLC": "/",
+        "showCheckbox": "/"
+    },
+    {
+        "name": "Sandygast",
+        "pokedexNumber": "25",
+        "habitat": "",
+        "isMegaEvolution": "",
+        "isAlphaSpecimen": "",
+        "isFinalEvolution": "",
+        "isDLC": "/",
+        "showCheckbox": "/"
+    },
+    {
+        "name": "Palossand",
+        "pokedexNumber": "26",
+        "habitat": "",
+        "isMegaEvolution": "",
+        "isAlphaSpecimen": "",
+        "isFinalEvolution": "/",
+        "isDLC": "/",
+        "showCheckbox": "/"
+    },
+    {
+        "name": "Kecleon",
+        "pokedexNumber": "27",
+        "habitat": "",
+        "isMegaEvolution": "",
+        "isAlphaSpecimen": "",
+        "isFinalEvolution": "/",
+        "isDLC": "/",
+        "showCheckbox": "/"
+    },
+    {
+        "name": "Flamigo",
+        "pokedexNumber": "28",
+        "habitat": "",
+        "isMegaEvolution": "",
+        "isAlphaSpecimen": "",
+        "isFinalEvolution": "/",
+        "isDLC": "/",
+        "showCheckbox": "/"
+    },
+    {
+        "name": "Cryogonal",
+        "pokedexNumber": "29",
+        "habitat": "",
+        "isMegaEvolution": "",
+        "isAlphaSpecimen": "",
+        "isFinalEvolution": "/",
+        "isDLC": "/",
+        "showCheckbox": "/"
+    },
+    {
+        "name": "Dondozo",
+        "pokedexNumber": "30",
+        "habitat": "",
+        "isMegaEvolution": "",
+        "isAlphaSpecimen": "",
+        "isFinalEvolution": "/",
+        "isDLC": "/",
+        "showCheckbox": "/"
+    },
+    {
+        "name": "Tatsugiri (Curly Form)",
+        "pokedexNumber": "31",
+        "habitat": "",
+        "isMegaEvolution": "",
+        "isAlphaSpecimen": "",
+        "isFinalEvolution": "/",
+        "isDLC": "/",
+        "showCheckbox": "/"
+    },
+    {
+        "name": "Tatsugiri (Droopy Form)",
+        "pokedexNumber": "31",
+        "habitat": "",
+        "isMegaEvolution": "",
+        "isAlphaSpecimen": "",
+        "isFinalEvolution": "/",
+        "isDLC": "/",
+        "showCheckbox": "/"
+    },
+    {
+        "name": "Tatsugiri (Stretchy Form)",
+        "pokedexNumber": "31",
+        "habitat": "",
+        "isMegaEvolution": "",
+        "isAlphaSpecimen": "",
+        "isFinalEvolution": "/",
+        "isDLC": "/",
+        "showCheckbox": "/"
+    },
+    {
+        "name": "Frigibax",
+        "pokedexNumber": "32",
+        "habitat": "",
+        "isMegaEvolution": "",
+        "isAlphaSpecimen": "",
+        "isFinalEvolution": "",
+        "isDLC": "/",
+        "showCheckbox": "/"
+    },
+    {
+        "name": "Arctibax",
+        "pokedexNumber": "33",
+        "habitat": "",
+        "isMegaEvolution": "",
+        "isAlphaSpecimen": "",
+        "isFinalEvolution": "",
+        "isDLC": "/",
+        "showCheckbox": "/"
+    },
+    {
+        "name": "Baxcalibur",
+        "pokedexNumber": "34",
+        "habitat": "",
+        "isMegaEvolution": "",
+        "isAlphaSpecimen": "",
+        "isFinalEvolution": "/",
+        "isDLC": "/",
+        "showCheckbox": "/"
+    },
+    {
+        "name": "Gimmighoul",
+        "pokedexNumber": "35",
+        "habitat": "",
+        "isMegaEvolution": "",
+        "isAlphaSpecimen": "",
+        "isFinalEvolution": "",
+        "isDLC": "/",
+        "showCheckbox": "/"
+    },
+    {
+        "name": "Gholdengo",
+        "pokedexNumber": "36",
+        "habitat": "",
+        "isMegaEvolution": "",
+        "isAlphaSpecimen": "",
+        "isFinalEvolution": "/",
+        "isDLC": "/",
+        "showCheckbox": "/"
+    },
+    {
+        "name": "Qwilfish",
+        "pokedexNumber": "37",
+        "habitat": "",
+        "isMegaEvolution": "",
+        "isAlphaSpecimen": "",
+        "isFinalEvolution": "/",
+        "isDLC": "/",
+        "showCheckbox": "/"
+    },
+    {
+        "name": "Hisuian Qwilfish",
+        "pokedexNumber": "37.1",
+        "habitat": "",
+        "isMegaEvolution": "",
+        "isAlphaSpecimen": "",
+        "isFinalEvolution": "",
+        "isDLC": "/",
+        "showCheckbox": "/"
+    },
+    {
+        "name": "Overqwil",
+        "pokedexNumber": "38",
+        "habitat": "",
+        "isMegaEvolution": "",
+        "isAlphaSpecimen": "",
+        "isFinalEvolution": "/",
+        "isDLC": "/",
+        "showCheckbox": "/"
+    },
+    {
+        "name": "Treecko",
+        "pokedexNumber": "39",
+        "habitat": "",
+        "isMegaEvolution": "",
+        "isAlphaSpecimen": "",
+        "isFinalEvolution": "",
+        "isDLC": "/",
+        "showCheckbox": "/"
+    },
+    {
+        "name": "Grovyle",
+        "pokedexNumber": "40",
+        "habitat": "",
+        "isMegaEvolution": "",
+        "isAlphaSpecimen": "",
+        "isFinalEvolution": "",
+        "isDLC": "/",
+        "showCheckbox": "/"
+    },
+    {
+        "name": "Sceptile",
+        "pokedexNumber": "41",
+        "habitat": "",
+        "isMegaEvolution": "",
+        "isAlphaSpecimen": "",
+        "isFinalEvolution": "/",
+        "isDLC": "/",
+        "showCheckbox": "/"
+    },
+    {
+        "name": "Torchic",
+        "pokedexNumber": "42",
+        "habitat": "",
+        "isMegaEvolution": "",
+        "isAlphaSpecimen": "",
+        "isFinalEvolution": "",
+        "isDLC": "/",
+        "showCheckbox": "/"
+    },
+    {
+        "name": "Combusken",
+        "pokedexNumber": "43",
+        "habitat": "",
+        "isMegaEvolution": "",
+        "isAlphaSpecimen": "",
+        "isFinalEvolution": "",
+        "isDLC": "/",
+        "showCheckbox": "/"
+    },
+    {
+        "name": "Blaziken",
+        "pokedexNumber": "44",
+        "habitat": "",
+        "isMegaEvolution": "",
+        "isAlphaSpecimen": "",
+        "isFinalEvolution": "/",
+        "isDLC": "/",
+        "showCheckbox": "/"
+    },
+    {
+        "name": "Mudkip",
+        "pokedexNumber": "45",
+        "habitat": "",
+        "isMegaEvolution": "",
+        "isAlphaSpecimen": "",
+        "isFinalEvolution": "",
+        "isDLC": "/",
+        "showCheckbox": "/"
+    },
+    {
+        "name": "Marshtomp",
+        "pokedexNumber": "46",
+        "habitat": "",
+        "isMegaEvolution": "",
+        "isAlphaSpecimen": "",
+        "isFinalEvolution": "",
+        "isDLC": "/",
+        "showCheckbox": "/"
+    },
+    {
+        "name": "Swampert",
+        "pokedexNumber": "47",
+        "habitat": "",
+        "isMegaEvolution": "",
+        "isAlphaSpecimen": "",
+        "isFinalEvolution": "/",
+        "isDLC": "/",
+        "showCheckbox": "/"
+    },
+    {
+        "name": "Feebas",
+        "pokedexNumber": "48",
+        "habitat": "",
+        "isMegaEvolution": "",
+        "isAlphaSpecimen": "",
+        "isFinalEvolution": "",
+        "isDLC": "/",
+        "showCheckbox": "/"
+    },
+    {
+        "name": "Milotic",
+        "pokedexNumber": "49",
+        "habitat": "",
+        "isMegaEvolution": "",
+        "isAlphaSpecimen": "",
+        "isFinalEvolution": "/",
+        "isDLC": "/",
+        "showCheckbox": "/"
+    },
+    {
+        "name": "Chingling",
+        "pokedexNumber": "50",
+        "habitat": "",
+        "isMegaEvolution": "",
+        "isAlphaSpecimen": "",
+        "isFinalEvolution": "",
+        "isDLC": "/",
+        "showCheckbox": "/"
+    },
+    {
+        "name": "Chimecho",
+        "pokedexNumber": "51",
+        "habitat": "",
+        "isMegaEvolution": "",
+        "isAlphaSpecimen": "",
+        "isFinalEvolution": "/",
+        "isDLC": "/",
+        "showCheckbox": "/"
+    },
+    {
+        "name": "Indeedee-M",
+        "pokedexNumber": "52",
+        "habitat": "",
+        "isMegaEvolution": "",
+        "isAlphaSpecimen": "",
+        "isFinalEvolution": "/",
+        "isDLC": "/",
+        "showCheckbox": "/"
+    },
+    {
+        "name": "Indeedee-F",
+        "pokedexNumber": "52",
+        "habitat": "",
+        "isMegaEvolution": "",
+        "isAlphaSpecimen": "",
+        "isFinalEvolution": "/",
+        "isDLC": "/",
+        "showCheckbox": "/"
+    },
+    {
+        "name": "Purrloin",
+        "pokedexNumber": "53",
+        "habitat": "",
+        "isMegaEvolution": "",
+        "isAlphaSpecimen": "",
+        "isFinalEvolution": "",
+        "isDLC": "/",
+        "showCheckbox": "/"
+    },
+    {
+        "name": "Liepard",
+        "pokedexNumber": "54",
+        "habitat": "",
+        "isMegaEvolution": "",
+        "isAlphaSpecimen": "",
+        "isFinalEvolution": "/",
+        "isDLC": "/",
+        "showCheckbox": "/"
+    },
+    {
+        "name": "Munna",
+        "pokedexNumber": "55",
+        "habitat": "",
+        "isMegaEvolution": "",
+        "isAlphaSpecimen": "",
+        "isFinalEvolution": "",
+        "isDLC": "/",
+        "showCheckbox": "/"
+    },
+    {
+        "name": "Musharna",
+        "pokedexNumber": "56",
+        "habitat": "",
+        "isMegaEvolution": "",
+        "isAlphaSpecimen": "",
+        "isFinalEvolution": "/",
+        "isDLC": "/",
+        "showCheckbox": "/"
+    },
+    {
+        "name": "Throh",
+        "pokedexNumber": "57",
+        "habitat": "",
+        "isMegaEvolution": "",
+        "isAlphaSpecimen": "",
+        "isFinalEvolution": "/",
+        "isDLC": "/",
+        "showCheckbox": "/"
+    },
+    {
+        "name": "Sawk",
+        "pokedexNumber": "58",
+        "habitat": "",
+        "isMegaEvolution": "",
+        "isAlphaSpecimen": "",
+        "isFinalEvolution": "/",
+        "isDLC": "/",
+        "showCheckbox": "/"
+    },
+    {
+        "name": "Yamask",
+        "pokedexNumber": "59",
+        "habitat": "",
+        "isMegaEvolution": "",
+        "isAlphaSpecimen": "",
+        "isFinalEvolution": "",
+        "isDLC": "/",
+        "showCheckbox": "/"
+    },
+    {
+        "name": "Galarian Yamask",
+        "pokedexNumber": "59.1",
+        "habitat": "",
+        "isMegaEvolution": "",
+        "isAlphaSpecimen": "",
+        "isFinalEvolution": "",
+        "isDLC": "/",
+        "showCheckbox": "/"
+    },
+    {
+        "name": "Cofagrigus",
+        "pokedexNumber": "60",
+        "habitat": "",
+        "isMegaEvolution": "",
+        "isAlphaSpecimen": "",
+        "isFinalEvolution": "/",
+        "isDLC": "/",
+        "showCheckbox": "/"
+    },
+    {
+        "name": "Runerigus",
+        "pokedexNumber": "61",
+        "habitat": "",
+        "isMegaEvolution": "",
+        "isAlphaSpecimen": "",
+        "isFinalEvolution": "/",
+        "isDLC": "/",
+        "showCheckbox": "/"
+    },
+    {
+        "name": "Wimpod",
+        "pokedexNumber": "62",
+        "habitat": "",
+        "isMegaEvolution": "",
+        "isAlphaSpecimen": "",
+        "isFinalEvolution": "",
+        "isDLC": "/",
+        "showCheckbox": "/"
+    },
+    {
+        "name": "Golisopod",
+        "pokedexNumber": "63",
+        "habitat": "",
+        "isMegaEvolution": "",
+        "isAlphaSpecimen": "",
+        "isFinalEvolution": "/",
+        "isDLC": "/",
+        "showCheckbox": "/"
+    },
+    {
+        "name": "Nickit",
+        "pokedexNumber": "64",
+        "habitat": "",
+        "isMegaEvolution": "",
+        "isAlphaSpecimen": "",
+        "isFinalEvolution": "",
+        "isDLC": "/",
+        "showCheckbox": "/"
+    },
+    {
+        "name": "Thievul",
+        "pokedexNumber": "65",
+        "habitat": "",
+        "isMegaEvolution": "",
+        "isAlphaSpecimen": "",
+        "isFinalEvolution": "/",
+        "isDLC": "/",
+        "showCheckbox": "/"
+    },
+    {
+        "name": "Clobbopus",
+        "pokedexNumber": "66",
+        "habitat": "",
+        "isMegaEvolution": "",
+        "isAlphaSpecimen": "",
+        "isFinalEvolution": "",
+        "isDLC": "/",
+        "showCheckbox": "/"
+    },
+    {
+        "name": "Grapploct",
+        "pokedexNumber": "67",
+        "habitat": "",
+        "isMegaEvolution": "",
+        "isAlphaSpecimen": "",
+        "isFinalEvolution": "/",
+        "isDLC": "/",
+        "showCheckbox": "/"
+    },
+    {
+        "name": "Mimikyu",
+        "pokedexNumber": "68",
+        "habitat": "",
+        "isMegaEvolution": "",
+        "isAlphaSpecimen": "",
+        "isFinalEvolution": "/",
+        "isDLC": "/",
+        "showCheckbox": "/"
+    },
+    {
+        "name": "Kleavor",
+        "pokedexNumber": "69",
+        "habitat": "",
+        "isMegaEvolution": "",
+        "isAlphaSpecimen": "",
+        "isFinalEvolution": "/",
+        "isDLC": "/",
+        "showCheckbox": "/"
+    },
+    {
+        "name": "Morpeko (Full Belly Mode)",
+        "pokedexNumber": "70",
+        "habitat": "",
+        "isMegaEvolution": "",
+        "isAlphaSpecimen": "",
+        "isFinalEvolution": "/",
+        "isDLC": "/",
+        "showCheckbox": "/"
+    },
+    {
+        "name": "Morpeko (Hangry Mode)",
+        "pokedexNumber": "70",
+        "habitat": "",
+        "isMegaEvolution": "",
+        "isAlphaSpecimen": "",
+        "isFinalEvolution": "/",
+        "isDLC": "/",
+        "showCheckbox": "/"
+    },
+    {
+        "name": "Golett",
+        "pokedexNumber": "71",
+        "habitat": "",
+        "isMegaEvolution": "",
+        "isAlphaSpecimen": "",
+        "isFinalEvolution": "",
+        "isDLC": "/",
+        "showCheckbox": "/"
+    },
+    {
+        "name": "Golurk",
+        "pokedexNumber": "72",
+        "habitat": "",
+        "isMegaEvolution": "",
+        "isAlphaSpecimen": "",
+        "isFinalEvolution": "/",
+        "isDLC": "/",
+        "showCheckbox": "/"
+    },
+    {
+        "name": "Rookidee",
+        "pokedexNumber": "73",
+        "habitat": "",
+        "isMegaEvolution": "",
+        "isAlphaSpecimen": "",
+        "isFinalEvolution": "",
+        "isDLC": "/",
+        "showCheckbox": "/"
+    },
+    {
+        "name": "Corvisquire",
+        "pokedexNumber": "74",
+        "habitat": "",
+        "isMegaEvolution": "",
+        "isAlphaSpecimen": "",
+        "isFinalEvolution": "",
+        "isDLC": "/",
+        "showCheckbox": "/"
+    },
+    {
+        "name": "Corviknight",
+        "pokedexNumber": "75",
+        "habitat": "",
+        "isMegaEvolution": "",
+        "isAlphaSpecimen": "",
+        "isFinalEvolution": "/",
+        "isDLC": "/",
+        "showCheckbox": "/"
+    },
+    {
+        "name": "Igglybuff",
+        "pokedexNumber": "76",
+        "habitat": "",
+        "isMegaEvolution": "",
+        "isAlphaSpecimen": "",
+        "isFinalEvolution": "",
+        "isDLC": "/",
+        "showCheckbox": "/"
+    },
+    {
+        "name": "Jigglypuff",
+        "pokedexNumber": "77",
+        "habitat": "",
+        "isMegaEvolution": "",
+        "isAlphaSpecimen": "",
+        "isFinalEvolution": "",
+        "isDLC": "/",
+        "showCheckbox": "/"
+    },
+    {
+        "name": "Wigglytuff",
+        "pokedexNumber": "78",
+        "habitat": "",
+        "isMegaEvolution": "",
+        "isAlphaSpecimen": "",
+        "isFinalEvolution": "/",
+        "isDLC": "/",
+        "showCheckbox": "/"
+    },
+    {
+        "name": "Fidough",
+        "pokedexNumber": "79",
+        "habitat": "",
+        "isMegaEvolution": "",
+        "isAlphaSpecimen": "",
+        "isFinalEvolution": "",
+        "isDLC": "/",
+        "showCheckbox": "/"
+    },
+    {
+        "name": "Dachsbun",
+        "pokedexNumber": "80",
+        "habitat": "",
+        "isMegaEvolution": "",
+        "isAlphaSpecimen": "",
+        "isFinalEvolution": "/",
+        "isDLC": "/",
+        "showCheckbox": "/"
+    },
+    {
+        "name": "Starly",
+        "pokedexNumber": "81",
+        "habitat": "",
+        "isMegaEvolution": "",
+        "isAlphaSpecimen": "",
+        "isFinalEvolution": "",
+        "isDLC": "/",
+        "showCheckbox": "/"
+    },
+    {
+        "name": "Staravia",
+        "pokedexNumber": "82",
+        "habitat": "",
+        "isMegaEvolution": "",
+        "isAlphaSpecimen": "",
+        "isFinalEvolution": "",
+        "isDLC": "/",
+        "showCheckbox": "/"
+    },
+    {
+        "name": "Staraptor",
+        "pokedexNumber": "83",
+        "habitat": "",
+        "isMegaEvolution": "",
+        "isAlphaSpecimen": "",
+        "isFinalEvolution": "/",
+        "isDLC": "/",
+        "showCheckbox": "/"
+    },
+    {
+        "name": "Spoink",
+        "pokedexNumber": "84",
+        "habitat": "",
+        "isMegaEvolution": "",
+        "isAlphaSpecimen": "",
+        "isFinalEvolution": "",
+        "isDLC": "/",
+        "showCheckbox": "/"
+    },
+    {
+        "name": "Grumpig",
+        "pokedexNumber": "85",
+        "habitat": "",
+        "isMegaEvolution": "",
+        "isAlphaSpecimen": "",
+        "isFinalEvolution": "/",
+        "isDLC": "/",
+        "showCheckbox": "/"
+    },
+    {
+        "name": "Squawkabilly",
+        "pokedexNumber": "86",
+        "habitat": "",
+        "isMegaEvolution": "",
+        "isAlphaSpecimen": "",
+        "isFinalEvolution": "/",
+        "isDLC": "/",
+        "showCheckbox": "/"
+    },
+    {
+        "name": "Crabrawler",
+        "pokedexNumber": "87",
+        "habitat": "",
+        "isMegaEvolution": "",
+        "isAlphaSpecimen": "",
+        "isFinalEvolution": "",
+        "isDLC": "/",
+        "showCheckbox": "/"
+    },
+    {
+        "name": "Crabominable",
+        "pokedexNumber": "88",
+        "habitat": "",
+        "isMegaEvolution": "",
+        "isAlphaSpecimen": "",
+        "isFinalEvolution": "/",
+        "isDLC": "/",
+        "showCheckbox": "/"
+    },
+    {
+        "name": "Nacli",
+        "pokedexNumber": "89",
+        "habitat": "",
+        "isMegaEvolution": "",
+        "isAlphaSpecimen": "",
+        "isFinalEvolution": "",
+        "isDLC": "/",
+        "showCheckbox": "/"
+    },
+    {
+        "name": "Naclstack",
+        "pokedexNumber": "90",
+        "habitat": "",
+        "isMegaEvolution": "",
+        "isAlphaSpecimen": "",
+        "isFinalEvolution": "",
+        "isDLC": "/",
+        "showCheckbox": "/"
+    },
+    {
+        "name": "Garganacl",
+        "pokedexNumber": "91",
+        "habitat": "",
+        "isMegaEvolution": "",
+        "isAlphaSpecimen": "",
+        "isFinalEvolution": "/",
+        "isDLC": "/",
+        "showCheckbox": "/"
+    },
+    {
+        "name": "Gulpin",
+        "pokedexNumber": "92",
+        "habitat": "",
+        "isMegaEvolution": "",
+        "isAlphaSpecimen": "",
+        "isFinalEvolution": "",
+        "isDLC": "/",
+        "showCheckbox": "/"
+    },
+    {
+        "name": "Swalot",
+        "pokedexNumber": "93",
+        "habitat": "",
+        "isMegaEvolution": "",
+        "isAlphaSpecimen": "",
+        "isFinalEvolution": "/",
+        "isDLC": "/",
+        "showCheckbox": "/"
+    },
+    {
+        "name": "Zubat",
+        "pokedexNumber": "94",
+        "habitat": "",
+        "isMegaEvolution": "",
+        "isAlphaSpecimen": "",
+        "isFinalEvolution": "",
+        "isDLC": "/",
+        "showCheckbox": "/"
+    },
+    {
+        "name": "Golbat",
+        "pokedexNumber": "95",
+        "habitat": "",
+        "isMegaEvolution": "",
+        "isAlphaSpecimen": "",
+        "isFinalEvolution": "",
+        "isDLC": "/",
+        "showCheckbox": "/"
+    },
+    {
+        "name": "Crobat",
+        "pokedexNumber": "96",
+        "habitat": "",
+        "isMegaEvolution": "",
+        "isAlphaSpecimen": "",
+        "isFinalEvolution": "/",
+        "isDLC": "/",
+        "showCheckbox": "/"
+    },
+    {
+        "name": "Charcadet",
+        "pokedexNumber": "97",
+        "habitat": "",
+        "isMegaEvolution": "",
+        "isAlphaSpecimen": "",
+        "isFinalEvolution": "",
+        "isDLC": "/",
+        "showCheckbox": "/"
+    },
+    {
+        "name": "Armarouge",
+        "pokedexNumber": "98",
+        "habitat": "",
+        "isMegaEvolution": "",
+        "isAlphaSpecimen": "",
+        "isFinalEvolution": "/",
+        "isDLC": "/",
+        "showCheckbox": "/"
+    },
+    {
+        "name": "Ceruledge",
+        "pokedexNumber": "99",
+        "habitat": "",
+        "isMegaEvolution": "",
+        "isAlphaSpecimen": "",
+        "isFinalEvolution": "/",
+        "isDLC": "/",
+        "showCheckbox": "/"
+    },
+    {
+        "name": "Maschiff",
+        "pokedexNumber": "100",
+        "habitat": "",
+        "isMegaEvolution": "",
+        "isAlphaSpecimen": "",
+        "isFinalEvolution": "",
+        "isDLC": "/",
+        "showCheckbox": "/"
+    },
+    {
+        "name": "Mabosstiff",
+        "pokedexNumber": "101",
+        "habitat": "",
+        "isMegaEvolution": "",
+        "isAlphaSpecimen": "",
+        "isFinalEvolution": "/",
+        "isDLC": "/",
+        "showCheckbox": "/"
+    },
+    {
+        "name": "Toxel",
+        "pokedexNumber": "102",
+        "habitat": "",
+        "isMegaEvolution": "",
+        "isAlphaSpecimen": "",
+        "isFinalEvolution": "",
+        "isDLC": "/",
+        "showCheckbox": "/"
+    },
+    {
+        "name": "Toxtricity (Amped Form)",
+        "pokedexNumber": "103",
+        "habitat": "",
+        "isMegaEvolution": "",
+        "isAlphaSpecimen": "",
+        "isFinalEvolution": "/",
+        "isDLC": "/",
+        "showCheckbox": "/"
+    },
+    {
+        "name": "Toxtricity (Low Key Form)",
+        "pokedexNumber": "103",
+        "habitat": "",
+        "isMegaEvolution": "",
+        "isAlphaSpecimen": "",
+        "isFinalEvolution": "/",
+        "isDLC": "/",
+        "showCheckbox": "/"
+    },
+    {
+        "name": "Shroodle",
+        "pokedexNumber": "104",
+        "habitat": "",
+        "isMegaEvolution": "",
+        "isAlphaSpecimen": "",
+        "isFinalEvolution": "",
+        "isDLC": "/",
+        "showCheckbox": "/"
+    },
+    {
+        "name": "Grafaiai",
+        "pokedexNumber": "105",
+        "habitat": "",
+        "isMegaEvolution": "",
+        "isAlphaSpecimen": "",
+        "isFinalEvolution": "/",
+        "isDLC": "/",
+        "showCheckbox": "/"
+    },
+    {
+        "name": "Zangoose",
+        "pokedexNumber": "106",
+        "habitat": "",
+        "isMegaEvolution": "",
+        "isAlphaSpecimen": "",
+        "isFinalEvolution": "/",
+        "isDLC": "/",
+        "showCheckbox": "/"
+    },
+    {
+        "name": "Seviper",
+        "pokedexNumber": "107",
+        "habitat": "",
+        "isMegaEvolution": "",
+        "isAlphaSpecimen": "",
+        "isFinalEvolution": "/",
+        "isDLC": "/",
+        "showCheckbox": "/"
+    },
+    {
+        "name": "Mime Jr.",
+        "pokedexNumber": "108",
+        "habitat": "",
+        "isMegaEvolution": "",
+        "isAlphaSpecimen": "",
+        "isFinalEvolution": "",
+        "isDLC": "/",
+        "showCheckbox": "/"
+    },
+    {
+        "name": "Mr. Mime",
+        "pokedexNumber": "109",
+        "habitat": "",
+        "isMegaEvolution": "",
+        "isAlphaSpecimen": "",
+        "isFinalEvolution": "/",
+        "isDLC": "/",
+        "showCheckbox": "/"
+    },
+    {
+        "name": "Galarian Mr. Mime",
+        "pokedexNumber": "109.1",
+        "habitat": "",
+        "isMegaEvolution": "",
+        "isAlphaSpecimen": "",
+        "isFinalEvolution": "",
+        "isDLC": "/",
+        "showCheckbox": "/"
+    },
+    {
+        "name": "Mr. Rime",
+        "pokedexNumber": "110",
+        "habitat": "",
+        "isMegaEvolution": "",
+        "isAlphaSpecimen": "",
+        "isFinalEvolution": "/",
+        "isDLC": "/",
+        "showCheckbox": "/"
+    },
+    {
+        "name": "Foongus",
+        "pokedexNumber": "111",
+        "habitat": "",
+        "isMegaEvolution": "",
+        "isAlphaSpecimen": "",
+        "isFinalEvolution": "",
+        "isDLC": "/",
+        "showCheckbox": "/"
+    },
+    {
+        "name": "Amoonguss",
+        "pokedexNumber": "112",
+        "habitat": "",
+        "isMegaEvolution": "",
+        "isAlphaSpecimen": "",
+        "isFinalEvolution": "/",
+        "isDLC": "/",
+        "showCheckbox": "/"
+    },
+    {
+        "name": "Heatran",
+        "pokedexNumber": "113",
+        "habitat": "",
+        "isMegaEvolution": "",
+        "isAlphaSpecimen": "",
+        "isFinalEvolution": "/",
+        "isDLC": "/",
+        "showCheckbox": "/"
+    },
+    {
+        "name": "Volcanion",
+        "pokedexNumber": "114",
+        "habitat": "",
+        "isMegaEvolution": "",
+        "isAlphaSpecimen": "",
+        "isFinalEvolution": "/",
+        "isDLC": "/",
+        "showCheckbox": "/"
+    },
+    {
+        "name": "Cobalion",
+        "pokedexNumber": "115",
+        "habitat": "",
+        "isMegaEvolution": "",
+        "isAlphaSpecimen": "",
+        "isFinalEvolution": "/",
+        "isDLC": "/",
+        "showCheckbox": "/"
+    },
+    {
+        "name": "Terrakion",
+        "pokedexNumber": "116",
+        "habitat": "",
+        "isMegaEvolution": "",
+        "isAlphaSpecimen": "",
+        "isFinalEvolution": "/",
+        "isDLC": "/",
+        "showCheckbox": "/"
+    },
+    {
+        "name": "Virizion",
+        "pokedexNumber": "117",
+        "habitat": "",
+        "isMegaEvolution": "",
+        "isAlphaSpecimen": "",
+        "isFinalEvolution": "/",
+        "isDLC": "/",
+        "showCheckbox": "/"
+    },
+    {
+        "name": "Keldeo",
+        "pokedexNumber": "118",
+        "habitat": "",
+        "isMegaEvolution": "",
+        "isAlphaSpecimen": "",
+        "isFinalEvolution": "/",
+        "isDLC": "/",
+        "showCheckbox": "/"
+    },
+    {
+        "name": "Keldeo (Resolute Form)",
+        "pokedexNumber": "118",
+        "habitat": "",
+        "isMegaEvolution": "",
+        "isAlphaSpecimen": "",
+        "isFinalEvolution": "/",
+        "isDLC": "/",
+        "showCheckbox": "/"
+    },
+    {
+        "name": "Meloetta (Aria Forme)",
+        "pokedexNumber": "119",
+        "habitat": "",
+        "isMegaEvolution": "",
+        "isAlphaSpecimen": "",
+        "isFinalEvolution": "/",
+        "isDLC": "/",
+        "showCheckbox": "/"
+    },
+    {
+        "name": "Meloetta (Pirouette Forme)",
+        "pokedexNumber": "119",
+        "habitat": "",
+        "isMegaEvolution": "",
+        "isAlphaSpecimen": "",
+        "isFinalEvolution": "/",
+        "isDLC": "/",
+        "showCheckbox": "/"
+    },
+    {
+        "name": "Genesect",
+        "pokedexNumber": "120",
+        "habitat": "",
+        "isMegaEvolution": "",
+        "isAlphaSpecimen": "",
+        "isFinalEvolution": "/",
+        "isDLC": "/",
+        "showCheckbox": "/"
+    },
+    {
+        "name": "Hoopa Confined",
+        "pokedexNumber": "121",
+        "habitat": "",
+        "isMegaEvolution": "",
+        "isAlphaSpecimen": "",
+        "isFinalEvolution": "/",
+        "isDLC": "/",
+        "showCheckbox": "/"
+    },
+    {
+        "name": "Hoopa Unbound",
+        "pokedexNumber": "121",
+        "habitat": "",
+        "isMegaEvolution": "",
+        "isAlphaSpecimen": "",
+        "isFinalEvolution": "/",
+        "isDLC": "/",
+        "showCheckbox": ""
+    },
+    {
+        "name": "Marshadow",
+        "pokedexNumber": "122",
+        "habitat": "",
+        "isMegaEvolution": "",
+        "isAlphaSpecimen": "",
+        "isFinalEvolution": "/",
+        "isDLC": "/",
+        "showCheckbox": "/"
+    },
+    {
+        "name": "Meltan",
+        "pokedexNumber": "123",
+        "habitat": "",
+        "isMegaEvolution": "",
+        "isAlphaSpecimen": "",
+        "isFinalEvolution": "",
+        "isDLC": "/",
+        "showCheckbox": "/"
+    },
+    {
+        "name": "Melmetal",
+        "pokedexNumber": "124",
+        "habitat": "",
+        "isMegaEvolution": "",
+        "isAlphaSpecimen": "",
+        "isFinalEvolution": "/",
+        "isDLC": "/",
+        "showCheckbox": "/"
+    },
+    {
+        "name": "Darkrai",
+        "pokedexNumber": "125",
+        "habitat": "",
+        "isMegaEvolution": "",
+        "isAlphaSpecimen": "",
+        "isFinalEvolution": "/",
+        "isDLC": "/",
+        "showCheckbox": "/"
+    },
+    {
+        "name": "Latias",
+        "pokedexNumber": "126",
+        "habitat": "",
+        "isMegaEvolution": "",
+        "isAlphaSpecimen": "",
+        "isFinalEvolution": "/",
+        "isDLC": "/",
+        "showCheckbox": "/"
+    },
+    {
+        "name": "Latios",
+        "pokedexNumber": "127",
+        "habitat": "",
+        "isMegaEvolution": "",
+        "isAlphaSpecimen": "",
+        "isFinalEvolution": "/",
+        "isDLC": "/",
+        "showCheckbox": "/"
+    },
+    {
+        "name": "Kyogre",
+        "pokedexNumber": "128",
+        "habitat": "",
+        "isMegaEvolution": "",
+        "isAlphaSpecimen": "",
+        "isFinalEvolution": "/",
+        "isDLC": "/",
+        "showCheckbox": "/"
+    },
+    {
+        "name": "Groudon",
+        "pokedexNumber": "129",
+        "habitat": "",
+        "isMegaEvolution": "",
+        "isAlphaSpecimen": "",
+        "isFinalEvolution": "/",
+        "isDLC": "/",
+        "showCheckbox": "/"
+    },
+    {
+        "name": "Rayquaza",
+        "pokedexNumber": "130",
+        "habitat": "",
+        "isMegaEvolution": "",
+        "isAlphaSpecimen": "",
+        "isFinalEvolution": "/",
+        "isDLC": "/",
+        "showCheckbox": "/"
+    },
+    {
+        "name": "Magearna",
+        "pokedexNumber": "131",
+        "habitat": "",
+        "isMegaEvolution": "",
+        "isAlphaSpecimen": "",
+        "isFinalEvolution": "/",
+        "isDLC": "/",
+        "showCheckbox": "/"
+    },
+    {
+        "name": "Zeraora",
+        "pokedexNumber": "132",
+        "habitat": "",
+        "isMegaEvolution": "",
+        "isAlphaSpecimen": "",
+        "isFinalEvolution": "/",
+        "isDLC": "/",
+        "showCheckbox": "/"
+    }
+]

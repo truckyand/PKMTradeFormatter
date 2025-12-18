@@ -1,0 +1,273 @@
+.bt Tyranitar @ Hyper Haban Berry
+Shiny: Yes
+Alpha: Yes
+Level: 100
+OT: trucky
+OTGender: Female
+TID: 758975
+SID: 4118
+Ball: Master Ball
+Language: English
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+EVs: 252 HP / 4 Def / 252 SpD
+Careful Nature
+- Stealth Rock
+- Rock Blast
+- Earthquake
+- Thunder Wave
+
+.bt Latias @ Hyper Haban Berry
+Shiny: Yes
+Level: 100
+OT: trucky
+OTGender: Female
+TID: 758975
+SID: 4118
+Ball: Lure Ball
+Language: English
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+EVs: 252 SpA / 4 SpD / 252 Spe 
+Ability: Levitate
+Timid Nature
+- Air Slash
+- Mystical Fire
+- Aura Sphere
+- Dragon Pulse
+
+
+Latios @ Hyper Haban Berry
+Shiny: Yes
+Level: 100
+OT: trucky
+OTGender: Female
+TID: 758975
+SID: 4118
+Ball: Lure Ball
+Language: English
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+EVs: 4 HP / 252 SpA / 252 Spe
+Ability: Levitate
+Timid Nature
+.Moves=$suggestAll
+- Simple Beam
+- Psychic
+- Power Split
+- Memento
+
+
+.t Kyogre @ Hyper Haban Berry
+Shiny: No
+Level: 100
+OT: trucky
+OTGender: Female
+TID: 758975
+SID: 4118
+Ball: Lure Ball
+Language: English
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+EVs: 4 Def / 252 SpA / 252 Spe
+Timid Nature
+- Origin Pulse
+- Blizzard
+- Thunder
+- Protect
+
+
+
+
+
+
+Cobalion @ Exp. Candy XL
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 758975
+SID: 4118
+Ball: Lure Ball
+Ability: Justified
+Sassy Nature
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+EVs: 252 Atk / 4 SpD / 252 Spe
+- Swords Dance
+- Sacred Sword
+- Megahorn
+- Air Slash
+
+
+Terrakion @ Exp. Candy XL
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 758975
+SID: 4118
+Ball: Lure Ball
+Ability: Justified
+Friendship: 255
+Naive Nature
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+EVs: 4 HP / 252 Atk / 252 Spe
+- Swords Dance
+- Sacred Sword
+- Megahorn
+- Rock Slide
+
+
+
+
+Virizion @ Exp. Candy XL
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 758975
+SID: 4118
+Ball: Lure Ball
+Ability: Justified
+Friendship: 255
+Jolly Nature
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+EVs: 252 Atk / 4 SpD / 252 Spe
+- Swords Dance
+- Sacred Sword
+- Megahorn
+- Air Slash
+
+
+
+
+Groudon @ Exp. Candy XL
+OT: trucky
+OTGender: Female
+TID: 758975
+SID: 4118
+Ability: Drought
+Friendship: 255
+Ball: Pure Ball
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+EVs: 4 HP / 252 Atk / 252 Spe
+Impish Nature
+- Precipice Blades
+- Fire Blast
+- Solar Beam
+- Scorching Sands
+
+
+Heatran (M) @ Exp. Candy XL
+OT: trucky
+OTGender: Female
+TID: 758975
+SID: 4118
+Ability: Flash Fire
+Friendship: 255
+Ball: Pure Ball
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+EVs: 252 HP / 252 SpA / 4 SpD
+Bold Nature
+- Magma Storm
+- Flash Cannon
+- Bulldoze
+- Overheat
+
+
+Darkrai @ Exp. Candy XL
+OT: trucky
+OTGender: Female
+TID: 758975
+SID: 4118
+Ability: Bad Dreams
+Friendship: 255
+Ball: Pure Ball
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+EVs: 252 SpA / 4 SpD / 252 Spe
+Careful Nature
+- Dark Void
+- Future Sight
+- Dream Eater
+- Snarl
+
+
+Volcanion @ Exp. Candy XL
+OT: trucky
+OTGender: Female
+TID: 758975
+SID: 4118
+Ability: Water Absorb
+Friendship: 255
+Ball: Pure Ball
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+EVs: 252 HP / 252 SpA / 4 SpD
+Impish Nature
+- Steam Eruption
+- Hydro Pump
+- Haze
+- Overheat
+
+
+
+Meltan @ Exp. Candy XL
+OT: trucky
+OTGender: Female
+TID: 758975
+SID: 4118
+Ability: Magnet Pull
+Friendship: 255
+Ball: Pure Ball
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+EVs: 252 HP / 252 Atk / 4 Def
+Lax Nature
+- Flash Cannon
+- Acid Armor
+- Brutal Swing
+
+
+Melmetal @ Exp. Candy XL
+OT: trucky
+OTGender: Female
+TID: 758975
+SID: 4118
+Ability: Iron Fist
+Friendship: 255
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+EVs: 252 HP / 252 Atk / 4 Def
+Adamant Nature
+- Double Iron Bash
+- Dynamic Punch
+- Discharge
+- Flash Cannon
+
+
+
+Zeraora @ Exp. Candy XL
+OT: trucky
+OTGender: Female
+TID: 758975
+SID: 4118
+Ability: Volt Absorb
+Friendship: 255
+Ball: Master Ball
+EVs: 4 HP / 252 Atk / 252 Spe
+Brave Nature
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+- Plasma Fists
+- Dynamic Punch
+- Electroweb
+- Wild Charge
+
+
+
+
+Hoopa @ Exp. Candy XL
+OT: trucky
+OTGender: Female
+TID: 758975
+SID: 4118
+Ability: Magician
+Friendship: 100
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+EVs: 4 HP / 252 Atk / 252 Spe
+Lonely Nature
+- Hyperspace Hole
+- Psychic
+- Nasty Plot
+- Phantom Force
+
+
