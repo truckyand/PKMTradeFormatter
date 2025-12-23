@@ -15,11 +15,21 @@ function flattenMoves(moves) {
 }
 
 function formatEvs(evs) {
+    const statNames = {
+        hp: 'HP',
+        atk: 'Atk',
+        def: 'Def',
+        spa: 'SpA',
+        spd: 'SpD',
+        spe: 'Spe'
+    };
     const parts = [];
     for (const [stat, value] of Object.entries(evs)) {
-        parts.push(`${value} ${stat.toUpperCase()}`);
+        if (value > 0) {
+            parts.push(`${value} ${statNames[stat] || stat.toUpperCase()}`);
+        }
     }
-    return parts.join(' / ');
+    return `EVs: ${parts.join(' / ')}`;
 }
 
 // Sort Pokemon names by ID from 0000-c.js
@@ -48,8 +58,8 @@ for (const key of sortedNames) {
     output += `Shiny: Yes\n`;
     output += `OT: trucky\n`;
     output += `OTGender: Female\n`;
-    output += `TID: 758975\n`;
-    output += `SID: 4118\n`;
+    output += `TID: 957558\n`;
+    output += `SID: 0162\n`;
     output += `Ball: Master Ball\n`;
     output += `IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA\n`;
     output += `${evs}\n`;
