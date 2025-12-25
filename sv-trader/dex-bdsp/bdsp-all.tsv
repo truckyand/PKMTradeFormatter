@@ -4,12 +4,13 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 240 SpA / 240 Spe
 Modest Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20250421
 
 Ivysaur @ Nugget
 Shiny: Yes
@@ -17,13 +18,14 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 192 HP / 252 SpA / 64 Spe
 Ability: Chlorophyll
 Modest Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20220212
 
 Venusaur @ Nugget
 Shiny: Yes
@@ -31,13 +33,14 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 SpA / 4 SpD / 252 Spe
 Ability: Chlorophyll
 Modest Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20240506
 
 Charmander @ Nugget
 Shiny: Yes
@@ -45,13 +48,14 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 44 HP / 12 Def / 196 SpA / 236 Spe
 Ability: Solar Power
 Timid Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20220925
 
 Charmeleon @ Nugget
 Shiny: Yes
@@ -59,13 +63,14 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 4 Def / 252 SpA / 252 Spe
 Ability: Solar Power
 Modest Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20220914
 
 Charizard @ Nugget
 Shiny: Yes
@@ -73,12 +78,13 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 SpA / 4 SpD / 252 Spe
 Timid Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20240523
 
 Squirtle @ Nugget
 Shiny: Yes
@@ -86,12 +92,13 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 212 Atk / 4 SpD / 252 Spe
 Adamant Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20230312
 
 Wartortle @ Nugget
 Shiny: Yes
@@ -99,12 +106,13 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 176 HP / 252 SpA / 80 Spe
 Modest Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20240926
 
 Blastoise @ Nugget
 Shiny: Yes
@@ -112,12 +120,13 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 4 Def / 252 SpA / 252 Spe
 Modest Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20250727
 
 Butterfree @ Nugget
 Shiny: Yes
@@ -125,12 +134,13 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 4 Def / 252 SpA / 252 Spe
 Timid Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20240517
 
 Weedle @ Nugget
 Shiny: Yes
@@ -138,12 +148,13 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 196 HP / 236 Atk / 36 Def / 36 Spe
 Adamant Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20230717
 
 Kakuna @ Nugget
 Shiny: Yes
@@ -151,12 +162,13 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 HP / 80 Atk / 176 Def
 Impish Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20230809
 
 Beedrill @ Nugget
 Shiny: Yes
@@ -164,12 +176,13 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 Atk / 4 SpD / 252 Spe
 Adamant Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20241120
 
 Pidgeot @ Nugget
 Shiny: Yes
@@ -177,13 +190,14 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 Atk / 4 Def / 252 Spe
 Ability: Tangled Feet
 Jolly Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20231025
 
 Rattata @ Nugget
 Shiny: Yes
@@ -191,13 +205,14 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 228 Atk / 76 SpD / 180 Spe
 Ability: Guts
 Adamant Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20250327
 
 Raticate @ Nugget
 Shiny: Yes
@@ -205,13 +220,14 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 4 HP / 252 Atk / 252 Spe
 Ability: Guts
 Jolly Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20220206
 
 Spearow @ Nugget
 Shiny: Yes
@@ -219,12 +235,13 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 36 HP / 196 Atk / 36 Def / 28 SpA / 196 Spe
 Naive Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20241230
 
 Fearow @ Nugget
 Shiny: Yes
@@ -232,12 +249,13 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 Atk / 4 Def / 252 Spe
 Jolly Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20240903
 
 Ekans @ Nugget
 Shiny: Yes
@@ -245,12 +263,13 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 76 HP / 196 Atk / 4 Def / 4 SpD / 156 Spe
 Adamant Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20220729
 
 Arbok @ Nugget
 Shiny: Yes
@@ -258,12 +277,13 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 HP / 4 Atk / 252 Def
 Impish Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20220102
 
 Pikachu @ Nugget
 Shiny: Yes
@@ -271,12 +291,13 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 Atk / 4 SpA / 252 Spe
 Naughty Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20250426
 
 Raichu @ Nugget
 Shiny: Yes
@@ -284,13 +305,14 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 SpA / 4 SpD / 252 Spe
 Ability: Lightning Rod
 Timid Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20220408
 
 Sandshrew @ Nugget
 Shiny: Yes
@@ -298,12 +320,13 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 196 HP / 76 Def / 196 SpD / 36 Spe
 Impish Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20230902
 
 Sandslash @ Nugget
 Shiny: Yes
@@ -311,13 +334,14 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 Atk / 4 SpD / 252 Spe
 Ability: Sand Rush
 Jolly Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20231216
 
 Nidoqueen @ Nugget
 Shiny: Yes
@@ -325,13 +349,14 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 4 HP / 252 SpA / 252 Spe
 Ability: Sheer Force
 Modest Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20221005
 
 Nidoking @ Nugget
 Shiny: Yes
@@ -339,13 +364,14 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 SpA / 4 SpD / 252 Spe
 Ability: Sheer Force
 Modest Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20220823
 
 Clefairy @ Nugget
 Shiny: Yes
@@ -353,13 +379,14 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 HP / 252 Def / 4 SpD
 Ability: Magic Guard
 Bold Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20220523
 
 Clefable @ Nugget
 Shiny: Yes
@@ -367,13 +394,14 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 HP / 200 Def / 56 SpD
 Ability: Magic Guard
 Calm Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20240604
 
 Vulpix @ Nugget
 Shiny: Yes
@@ -381,13 +409,14 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 52 HP / 196 SpA / 236 Spe
 Ability: Drought
 Timid Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20230301
 
 Ninetales @ Nugget
 Shiny: Yes
@@ -395,13 +424,13 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 SpA / 4 SpD / 252 Spe
 Timid Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
-
+.MetDate=20250808
 
 Wigglytuff @ Nugget
 Shiny: Yes
@@ -409,13 +438,14 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 48 HP / 208 Def / 252 SpD
 Ability: Competitive
 Calm Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20251003
 
 Zubat @ Nugget
 Shiny: Yes
@@ -423,12 +453,13 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 36 HP / 236 Atk / 236 Spe
 Jolly Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20230917
 
 Golbat @ Nugget
 Shiny: Yes
@@ -436,13 +467,14 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 HP / 172 Def / 84 Spe
 Ability: Infiltrator
 Jolly Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20240218
 
 Oddish @ Nugget
 Shiny: Yes
@@ -450,13 +482,14 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 76 HP / 236 Def / 76 SpD / 116 Spe
 Ability: Run Away
 Bold Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20240911
 
 Gloom @ Nugget
 Shiny: Yes
@@ -464,13 +497,14 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 HP / 252 Def / 4 SpD
 Ability: Stench
 Bold Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20230423
 
 Vileplume @ Nugget
 Shiny: Yes
@@ -478,13 +512,14 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 HP / 252 Def / 4 SpD
 Ability: Effect Spore
 Bold Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20220802
 
 Paras @ Nugget
 Shiny: Yes
@@ -492,13 +527,14 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 236 HP / 116 Atk / 156 Def
 Ability: Dry Skin
 Impish Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20220612
 
 Parasect @ Nugget
 Shiny: Yes
@@ -506,13 +542,14 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 248 HP / 8 Def / 252 SpD
 Ability: Dry Skin
 Careful Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20220715
 
 Venonat @ Nugget
 Shiny: Yes
@@ -520,12 +557,13 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 196 HP / 36 Def / 36 SpA / 236 Spe
 Timid Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20230817
 
 Venomoth @ Nugget
 Shiny: Yes
@@ -533,13 +571,14 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 8 HP / 248 SpA / 252 Spe
 Ability: Tinted Lens
 Timid Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20250504
 
 Diglett @ Nugget
 Shiny: Yes
@@ -547,13 +586,14 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 116 HP / 156 Atk / 236 Spe
 Ability: Arena Trap
 Jolly Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20251206
 
 Dugtrio @ Nugget
 Shiny: Yes
@@ -561,13 +601,14 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 244 Atk / 140 SpD / 124 Spe
 Ability: Arena Trap
 Adamant Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20240104
 
 Meowth @ Nugget
 Shiny: Yes
@@ -575,13 +616,14 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 236 Atk / 36 SpA / 36 SpD / 196 Spe
 Ability: Technician
 Naughty Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20230830
 
 Persian @ Nugget
 Shiny: Yes
@@ -589,13 +631,14 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 Atk / 4 SpD / 252 Spe
 Ability: Technician
 Jolly Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20220607
 
 Psyduck @ Nugget
 Shiny: Yes
@@ -603,13 +646,14 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 24 Atk / 240 SpA / 236 Spe
 Ability: Cloud Nine
 Naive Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20220914
 
 Golduck @ Nugget
 Shiny: Yes
@@ -617,13 +661,14 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 SpA / 4 SpD / 252 Spe
 Ability: Cloud Nine
 Timid Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20220814
 
 Mankey @ Nugget
 Shiny: Yes
@@ -631,12 +676,13 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 116 HP / 196 Atk / 196 Spe
 Adamant Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20251121
 
 Primeape @ Nugget
 Shiny: Yes
@@ -644,12 +690,13 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 32 HP / 252 Atk / 224 Spe
 Jolly Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20220614
 
 Growlithe @ Nugget
 Shiny: Yes
@@ -657,12 +704,13 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 196 Atk / 116 SpA / 196 Spe
 Naive Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20221025
 
 Arcanine @ Nugget
 Shiny: Yes
@@ -670,12 +718,13 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 248 HP / 196 Def / 64 Spe
 Bold Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20250605
 
 Poliwag @ Nugget
 Shiny: Yes
@@ -683,12 +732,13 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 36 Def / 200 SpA / 36 SpD / 196 Spe
 Timid Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20251112
 
 Poliwrath @ Nugget
 Shiny: Yes
@@ -696,12 +746,13 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 Atk / 4 Def / 252 Spe
 Jolly Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20250722
 
 Abra @ Nugget
 Shiny: Yes
@@ -709,29 +760,29 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 76 Def / 236 SpA / 196 Spe
 Ability: Magic Guard
 Timid Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20250614
 
-Kadabra @ Everstone
+Kadabra @ Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 4 Def / 252 SpA / 252 Spe
 Ability: Magic Guard
 Timid Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
-
-#
+.MetDate=20250316
 
 Alakazam @ Nugget
 Shiny: Yes
@@ -739,13 +790,14 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 SpA / 4 SpD / 252 Spe
 Ability: Magic Guard
 Timid Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20250420
 
 Machop @ Nugget
 Shiny: Yes
@@ -753,13 +805,14 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 36 HP / 196 Atk / 36 Def / 236 Spe
 Ability: No Guard
 Jolly Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20231211
 
 Machoke @ Nugget
 Shiny: Yes
@@ -767,13 +820,14 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 HP / 252 Def / 4 SpD
 Ability: No Guard
 Impish Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20220418
 
 Machamp @ Nugget
 Shiny: Yes
@@ -781,12 +835,13 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 Atk / 4 Def / 252 Spe
 Adamant Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20231031
 
 Bellsprout @ Nugget
 Shiny: Yes
@@ -794,12 +849,13 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 36 HP / 236 Atk / 36 SpD / 196 Spe
 Jolly Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20230903
 
 Victreebel @ Nugget
 Shiny: Yes
@@ -807,12 +863,13 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 4 Def / 252 SpA / 252 Spe
 Timid Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20220829
 
 Tentacool @ Nugget
 Shiny: Yes
@@ -820,13 +877,14 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 196 HP / 236 Def / 36 SpA / 36 Spe
 Ability: Liquid Ooze
 Calm Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20250728
 
 Tentacruel @ Nugget
 Shiny: Yes
@@ -834,13 +892,14 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 HP / 112 Def / 144 Spe
 Ability: Liquid Ooze
 Timid Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20250306
 
 Geodude @ Nugget
 Shiny: Yes
@@ -848,26 +907,28 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 196 HP / 196 Atk / 36 Def / 36 SpD / 36 Spe
 Ability: Sturdy
 Adamant Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20231006
 
-Golem @ Everstone
+Golem @ Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 12 HP / 252 Atk / 244 Spe
 Adamant Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20241213
 
 Ponyta @ Nugget
 Shiny: Yes
@@ -875,13 +936,14 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 76 Atk / 156 Def / 76 SpD / 196 Spe
 Ability: Flame Body
 Jolly Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20220822
 
 Rapidash @ Nugget
 Shiny: Yes
@@ -889,43 +951,44 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 HP / 4 SpD / 252 Spe
 Ability: Flash Fire
 Jolly Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20251215
 
-
-
-Slowpoke @ Everstone
+Slowpoke @ Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 116 HP / 76 Def / 116 SpA / 196 SpD
 Ability: Regenerator
 Calm Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20230409
 
-Slowbro @ Everstone
+Slowbro @ Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 248 HP / 252 Def / 8 SpA
 Ability: Regenerator
 Relaxed Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20220129
 
 Magnemite @ Nugget
 Shiny: Yes
@@ -933,13 +996,14 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 36 Def / 236 SpA / 236 Spe
 Ability: Sturdy
 Timid Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20240410
 
 Magneton @ Nugget
 Shiny: Yes
@@ -947,13 +1011,14 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 SpA / 4 SpD / 252 Spe
 Ability: Analytic
 Modest Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20240709
 
 Doduo @ Nugget
 Shiny: Yes
@@ -961,13 +1026,14 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 240 Atk / 240 Spe
 Ability: Early Bird
 Naughty Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20221106
 
 Dodrio @ Nugget
 Shiny: Yes
@@ -975,15 +1041,14 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 Atk / 4 Def / 252 Spe
 Ability: Early Bird
 Jolly Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
-
-
+.MetDate=20221021
 
 Seel @ Nugget
 Shiny: Yes
@@ -991,12 +1056,13 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 236 Atk / 36 SpD / 236 Spe
 Adamant Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20250423
 
 Dewgong @ Nugget
 Shiny: Yes
@@ -1004,13 +1070,14 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 HP / 160 SpA / 96 Spe
 Ability: Hydration
 Timid Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20220914
 
 Grimer @ Nugget
 Shiny: Yes
@@ -1018,13 +1085,14 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 196 HP / 196 Atk / 36 Def / 36 SpD
 Ability: Sticky Hold
 Adamant Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20250903
 
 Muk @ Nugget
 Shiny: Yes
@@ -1032,13 +1100,14 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 HP / 80 Def / 176 SpD
 Ability: Sticky Hold
 Careful Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20220709
 
 Shellder @ Nugget
 Shiny: Yes
@@ -1046,13 +1115,14 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 36 HP / 236 Atk / 36 Def / 196 Spe
 Ability: Skill Link
 Jolly Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20230601
 
 Cloyster @ Nugget
 Shiny: Yes
@@ -1060,15 +1130,14 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 Atk / 4 SpA / 252 Spe
 Ability: Skill Link
 Naive Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
-
-
+.MetDate=20220212
 
 Gastly @ Nugget
 Shiny: Yes
@@ -1076,25 +1145,27 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 SpA / 4 SpD / 252 Spe
 Modest Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20231205
 
-Haunter @ Everstone
+Haunter @ Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 SpA / 4 SpD / 252 Spe
 Timid Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20220224
 
 Gengar @ Nugget
 Shiny: Yes
@@ -1102,12 +1173,13 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 SpA / 4 SpD / 252 Spe
 Timid Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20250105
 
 Onix @ Nugget
 Shiny: Yes
@@ -1115,13 +1187,14 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 236 Atk / 76 SpD / 196 Spe
 Ability: Weak Armor
 Jolly Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20220205
 
 Drowzee @ Nugget
 Shiny: Yes
@@ -1129,12 +1202,13 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 212 Atk / 76 Def / 196 SpD / 20 Spe
 Jolly Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20250627
 
 Hypno @ Nugget
 Shiny: Yes
@@ -1142,14 +1216,13 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 HP / 200 Def / 56 SpD
 Calm Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
-
-
+.MetDate=20250320
 
 Krabby @ Nugget
 Shiny: Yes
@@ -1157,13 +1230,14 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 236 Atk / 76 SpD / 196 Spe
 Ability: Sheer Force
 Adamant Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20241016
 
 Kingler @ Nugget
 Shiny: Yes
@@ -1171,12 +1245,13 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 68 HP / 252 Atk / 188 Spe
 Adamant Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20231216
 
 Voltorb @ Nugget
 Shiny: Yes
@@ -1184,13 +1259,14 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 36 HP / 40 Atk / 236 SpA / 196 Spe
 Ability: Static
 Hasty Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20241031
 
 Electrode @ Nugget
 Shiny: Yes
@@ -1198,13 +1274,14 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 Atk / 100 SpA / 156 Spe
 Ability: Static
 Naive Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20230723
 
 Exeggcute @ Nugget
 Shiny: Yes
@@ -1212,12 +1289,13 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 116 HP / 196 SpA / 196 Spe
 Naive Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20250312
 
 Exeggutor @ Nugget
 Shiny: Yes
@@ -1225,15 +1303,13 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 120 HP / 252 SpA / 136 Spe
 Modest Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
-
-
-
+.MetDate=20240412
 
 Cubone @ Nugget
 Shiny: Yes
@@ -1241,12 +1317,13 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 196 HP / 196 Atk / 76 Def / 36 SpD
 Adamant Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20250105
 
 Marowak @ Nugget
 Shiny: Yes
@@ -1254,13 +1331,14 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 Atk / 4 Def / 252 Spe
 Ability: Battle Armor
 Adamant Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20240807
 
 Hitmonlee @ Nugget
 Shiny: Yes
@@ -1268,13 +1346,14 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 48 HP / 252 Atk / 208 Spe
 Ability: Unburden
 Adamant Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20250420
 
 Hitmonchan @ Nugget
 Shiny: Yes
@@ -1282,13 +1361,14 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 HP / 72 Atk / 136 SpD / 48 Spe
 Ability: Iron Fist
 Careful Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20230101
 
 Lickitung @ Nugget
 Shiny: Yes
@@ -1296,13 +1376,14 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 196 HP / 76 Def / 236 SpD
 Ability: Oblivious
 Impish Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20220802
 
 Koffing @ Nugget
 Shiny: Yes
@@ -1310,15 +1391,14 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 36 HP / 196 SpA / 236 Spe
 Ability: Neutralizing Gas
 Timid Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
-
-
+.MetDate=20250605
 
 Weezing @ Nugget
 Shiny: Yes
@@ -1326,13 +1406,14 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 HP / 220 Def / 36 Spe
 Ability: Levitate,Neutralizing Gas
 Bold Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20240705
 
 Rhyhorn @ Nugget
 Shiny: Yes
@@ -1340,13 +1421,14 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 236 Atk / 36 SpD / 236 Spe
 Ability: Rock Head
 Jolly Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20240816
 
 Rhydon @ Nugget
 Shiny: Yes
@@ -1354,12 +1436,13 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 4 HP / 252 Atk / 252 Spe
 Adamant Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20240324
 
 Chansey @ Nugget
 Shiny: Yes
@@ -1367,12 +1450,13 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 HP / 252 Def / 4 SpD
 Bold Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20240227
 
 Tangela @ Nugget
 Shiny: Yes
@@ -1380,13 +1464,14 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 HP / 252 Def / 4 SpD
 Ability: Regenerator
 Bold Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20250508
 
 Kangaskhan @ Nugget
 Shiny: Yes
@@ -1394,15 +1479,14 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 Atk / 4 SpD / 252 Spe
 Ability: Scrappy
 Adamant Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
-
-
+.MetDate=20230805
 
 Horsea @ Nugget
 Shiny: Yes
@@ -1410,12 +1494,13 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 36 Def / 200 SpA / 76 SpD / 196 Spe
 Timid Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20230613
 
 Seadra @ Nugget
 Shiny: Yes
@@ -1423,12 +1508,13 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 SpA / 4 SpD / 252 Spe
 Timid Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20220729
 
 Goldeen @ Nugget
 Shiny: Yes
@@ -1436,12 +1522,13 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 220 Atk / 36 Def / 252 Spe
 Adamant Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20250405
 
 Seaking @ Nugget
 Shiny: Yes
@@ -1449,13 +1536,14 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 Atk / 4 SpD / 252 Spe
 Ability: Lightning Rod
 Jolly Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20240422
 
 Staryu @ Nugget
 Shiny: Yes
@@ -1463,13 +1551,14 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 156 Def / 116 SpA / 236 Spe
 Ability: Analytic
 Timid Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20220725
 
 Starmie @ Nugget
 Shiny: Yes
@@ -1477,15 +1566,14 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 SpA / 4 SpD / 252 Spe
 Ability: Analytic
 Timid Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
-
-
+.MetDate=20230208
 
 Scyther @ Nugget
 Shiny: Yes
@@ -1493,13 +1581,14 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 Atk / 4 Def / 252 Spe
 Ability: Technician
 Jolly Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20250731
 
 Jynx @ Nugget
 Shiny: Yes
@@ -1507,13 +1596,14 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 SpA / 4 SpD / 252 Spe
 Ability: Dry Skin
 Timid Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20250203
 
 Electabuzz @ Nugget
 Shiny: Yes
@@ -1521,12 +1611,13 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 SpA / 4 SpD / 252 Spe
 Timid Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20220424
 
 Magmar @ Nugget
 Shiny: Yes
@@ -1534,12 +1625,13 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 SpA / 4 SpD / 252 Spe
 Modest Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20240930
 
 Pinsir @ Nugget
 Shiny: Yes
@@ -1547,12 +1639,13 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 Atk / 4 SpD / 252 Spe
 Jolly Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20221109
 
 Tauros @ Nugget
 Shiny: Yes
@@ -1560,15 +1653,14 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 Atk / 4 Def / 252 Spe
 Ability: Sheer Force
 Jolly Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
-
-
+.MetDate=20250503
 
 Gyarados @ Nugget
 Shiny: Yes
@@ -1576,13 +1668,14 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 Atk / 4 SpD / 252 Spe
 Ability: Moxie
 Adamant Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20251218
 
 Lapras @ Nugget
 Shiny: Yes
@@ -1590,12 +1683,13 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 248 HP / 8 Def / 252 SpD
 Careful Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20230312
 
 Ditto @ Nugget
 Shiny: Yes
@@ -1603,12 +1697,14 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Poke Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 248 HP / 8 Atk / 252 Def
 Ability: Imposter
 Relaxed Nature
-- Transform
+.Moves=$suggestAll
+.Ribbons=$suggestAll
+.MetDate=20250602
 
 Eevee @ Nugget
 Shiny: Yes
@@ -1616,13 +1712,14 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 240 Atk / 236 Spe
 Ability: Adaptability
 Naughty Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20230314
 
 Vaporeon @ Nugget
 Shiny: Yes
@@ -1630,12 +1727,13 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 HP / 216 Def / 40 SpD
 Calm Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20230207
 
 Jolteon @ Nugget
 Shiny: Yes
@@ -1643,15 +1741,13 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 SpA / 4 SpD / 252 Spe
 Timid Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
-
-
-
+.MetDate=20230123
 
 Flareon @ Nugget
 Shiny: Yes
@@ -1659,12 +1755,13 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 HP / 4 Def / 252 SpD
 Careful Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20230525
 
 Porygon @ Nugget
 Shiny: Yes
@@ -1672,13 +1769,14 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 36 Def / 236 SpA / 196 Spe
 Ability: Download
 Modest Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20250906
 
 Omanyte @ Nugget
 Shiny: Yes
@@ -1686,13 +1784,14 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 76 HP / 196 SpA / 236 Spe
 Ability: Shell Armor
 Modest Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20221103
 
 Omastar @ Nugget
 Shiny: Yes
@@ -1700,13 +1799,14 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 4 Def / 252 SpA / 252 Spe
 Ability: Weak Armor
 Modest Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20240221
 
 Kabuto @ Nugget
 Shiny: Yes
@@ -1714,13 +1814,14 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 116 HP / 36 Atk / 36 Def / 156 SpD / 156 Spe
 Ability: Weak Armor
 Careful Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20230417
 
 Kabutops @ Nugget
 Shiny: Yes
@@ -1728,16 +1829,13 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 Atk / 4 Def / 252 Spe
 Adamant Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
-
-
-#
-# to be continue
+.MetDate=20251119
 
 Aerodactyl @ Nugget
 Shiny: Yes
@@ -1745,13 +1843,14 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 Atk / 4 Def / 252 Spe
 Ability: Unnerve
 Jolly Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20250619
 
 Snorlax @ Nugget
 Shiny: Yes
@@ -1759,13 +1858,14 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 12 HP / 244 Def / 252 SpD
 Ability: Thick Fat
 Careful Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20240415
 
 Articuno @ Nugget
 Shiny: Yes
@@ -1773,12 +1873,13 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 HP / 160 SpD / 96 Spe
 Careful Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20231014
 
 Zapdos @ Nugget
 Shiny: Yes
@@ -1786,13 +1887,14 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 248 HP / 220 Def / 40 Spe
 Ability: Static
 Timid Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20240611
 
 Moltres @ Nugget
 Shiny: Yes
@@ -1800,13 +1902,14 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 88 HP / 168 SpA / 252 Spe
 Ability: Flame Body
 Timid Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20241117
 
 Dratini @ Nugget
 Shiny: Yes
@@ -1814,12 +1917,13 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 28 HP / 244 Atk / 36 SpD / 196 Spe
 Adamant Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20240118
 
 Dragonair @ Nugget
 Shiny: Yes
@@ -1827,12 +1931,13 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 52 HP / 252 Atk / 204 Spe
 Adamant Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20250701
 
 Dragonite @ Nugget
 Shiny: Yes
@@ -1840,13 +1945,14 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 HP / 252 Def / 4 SpD
 Ability: Multiscale
 Relaxed Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20231002
 
 Mewtwo @ Nugget
 Shiny: Yes
@@ -1854,25 +1960,27 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 4 Def / 252 SpA / 252 Spe
 Timid Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20220101
 
 Mew @ Nugget
-Shiny: Yes
+Shiny: No
 OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Poke Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 248 HP / 148 SpD / 112 Spe
 Jolly Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20241118
 
 Chikorita @ Nugget
 Shiny: Yes
@@ -1880,12 +1988,13 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 236 HP / 156 Def / 76 SpD
 Calm Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20240114
 
 Meganium @ Nugget
 Shiny: Yes
@@ -1893,12 +2002,13 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 HP / 252 Def / 4 Spe
 Bold Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20230811
 
 Cyndaquil @ Nugget
 Shiny: Yes
@@ -1906,12 +2016,13 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 44 HP / 24 Atk / 200 SpA / 236 Spe
 Rash Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20250703
 
 Typhlosion @ Nugget
 Shiny: Yes
@@ -1919,12 +2030,13 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 SpA / 4 SpD / 252 Spe
 Timid Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20220723
 
 Totodile @ Nugget
 Shiny: Yes
@@ -1932,12 +2044,13 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 36 HP / 236 Atk / 4 Def / 52 SpD / 172 Spe
 Jolly Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20230206
 
 Feraligatr @ Nugget
 Shiny: Yes
@@ -1945,12 +2058,13 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 28 HP / 252 Atk / 228 Spe
 Adamant Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20220815
 
 Sentret @ Nugget
 Shiny: Yes
@@ -1958,13 +2072,14 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 228 Atk / 4 Def / 236 SpA
 Ability: Keen Eye
 Quiet Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20231109
 
 Furret @ Nugget
 Shiny: Yes
@@ -1972,13 +2087,14 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 4 HP / 252 Atk / 252 Spe
 Ability: Keen Eye
 Jolly Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20220321
 
 Hoothoot @ Nugget
 Shiny: Yes
@@ -1986,12 +2102,13 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 236 SpA / 68 SpD / 196 Spe
 Timid Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20220624
 
 Noctowl @ Nugget
 Shiny: Yes
@@ -1999,12 +2116,13 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 HP / 4 Def / 252 SpD
 Calm Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20240621
 
 Ledyba @ Nugget
 Shiny: Yes
@@ -2012,13 +2130,14 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 196 HP / 36 Def / 36 SpD / 236 Spe
 Ability: Early Bird
 Timid Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20230301
 
 Ledian @ Nugget
 Shiny: Yes
@@ -2026,13 +2145,14 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 152 HP / 104 SpD / 252 Spe
 Ability: Early Bird
 Jolly Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20230108
 
 Spinarak @ Nugget
 Shiny: Yes
@@ -2040,13 +2160,14 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 196 HP / 36 Atk / 196 Def / 36 SpD / 36 Spe
 Ability: Insomnia
 Impish Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20230727
 
 Ariados @ Nugget
 Shiny: Yes
@@ -2054,13 +2175,14 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 248 HP / 8 Def / 252 Spe
 Ability: Insomnia
 Jolly Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20221011
 
 Crobat @ Nugget
 Shiny: Yes
@@ -2068,13 +2190,14 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 Atk / 4 Def / 252 Spe
 Ability: Infiltrator
 Jolly Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20250612
 
 Chinchou @ Nugget
 Shiny: Yes
@@ -2082,12 +2205,13 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 132 Def / 148 SpA / 228 Spe
 Timid Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20241214
 
 Lanturn @ Nugget
 Shiny: Yes
@@ -2095,12 +2219,13 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 40 HP / 172 Def / 16 SpA / 240 SpD / 40 Spe
 Calm Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20220330
 
 Pichu @ Nugget
 Shiny: Yes
@@ -2108,12 +2233,13 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 118 HP / 196 Atk / 196 Spe
 Jolly Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20220206
 
 Cleffa @ Nugget
 Shiny: Yes
@@ -2121,13 +2247,14 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 8 Spe
 Ability: Magic Guard
 Hasty Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20231015
 
 Togepi @ Nugget
 Shiny: Yes
@@ -2135,13 +2262,14 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 236 HP / 196 Atk / 76 Def
 Ability: Serene Grace
 Adamant Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20241122
 
 Togetic @ Nugget
 Shiny: Yes
@@ -2149,13 +2277,14 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 248 HP / 252 Def / 8 SpD
 Ability: Super Luck
 Bold Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20231020
 
 Natu @ Nugget
 Shiny: Yes
@@ -2163,13 +2292,14 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 36 HP / 236 Def / 196 Spe
 Ability: Magic Bounce
 Timid Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20231031
 
 Xatu @ Nugget
 Shiny: Yes
@@ -2177,13 +2307,14 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 HP / 240 Def / 16 Spe
 Ability: Magic Bounce
 Timid Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20241220
 
 Mareep @ Nugget
 Shiny: Yes
@@ -2191,12 +2322,13 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 236 HP / 196 Def / 76 SpD
 Bold Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20220402
 
 Ampharos @ Nugget
 Shiny: Yes
@@ -2204,12 +2336,13 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 4 HP / 252 SpA / 252 Spe
 Modest Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20250316
 
 Bellossom @ Nugget
 Shiny: Yes
@@ -2217,12 +2350,13 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 HP / 72 Def / 184 Spe
 Timid Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20241222
 
 Azumarill @ Nugget
 Shiny: Yes
@@ -2230,13 +2364,14 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 Atk / 4 SpD / 252 Spe
 Ability: Huge Power
 Adamant Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20250331
 
 Sudowoodo @ Nugget
 Shiny: Yes
@@ -2244,13 +2379,14 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 4 HP / 252 Atk / 252 Spe
 Ability: Rock Head
 Adamant Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20220705
 
 Politoed @ Nugget
 Shiny: Yes
@@ -2258,13 +2394,14 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 HP / 120 Def / 76 SpA / 56 Spe
 Ability: Drizzle
 Bold Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20250113
 
 Hoppip @ Nugget
 Shiny: Yes
@@ -2272,12 +2409,13 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 236 HP / 36 Def / 196 Spe
 Jolly Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20251017
 
 Jumpluff @ Nugget
 Shiny: Yes
@@ -2285,12 +2423,13 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 188 Def / 68 SpD / 252 Spe
 Timid Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20231105
 
 Aipom @ Nugget
 Shiny: Yes
@@ -2298,13 +2437,14 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 76 HP / 196 Atk / 236 Spe
 Ability: Pickup
 Jolly Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20220514
 
 Sunkern @ Nugget
 Shiny: Yes
@@ -2312,13 +2452,14 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 200 Atk / 40 Def / 200 SpA / 36 SpD
 Ability: Solar Power
 Brave Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20230117
 
 Sunflora @ Nugget
 Shiny: Yes
@@ -2326,12 +2467,13 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 4 HP / 252 SpA / 252 Spe
 Modest Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20250902
 
 Yanma @ Nugget
 Shiny: Yes
@@ -2339,13 +2481,14 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 4 Def / 252 SpA / 252 Spe
 Ability: Compound Eyes,Speed Boost
 Timid Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20240629
 
 Wooper @ Nugget
 Shiny: Yes
@@ -2353,13 +2496,14 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 236 HP / 76 Atk / 156 Def
 Ability: Water Absorb
 Impish Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20251108
 
 Quagsire @ Nugget
 Shiny: Yes
@@ -2367,13 +2511,14 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 HP / 252 Def / 4 SpD
 Ability: Unaware
 Impish Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20220610
 
 Espeon @ Nugget
 Shiny: Yes
@@ -2381,12 +2526,13 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 HP / 40 SpD / 216 Spe
 Timid Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20230714
 
 Umbreon @ Nugget
 Shiny: Yes
@@ -2394,12 +2540,13 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 HP / 4 Def / 252 SpD
 Calm Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20230314
 
 Murkrow @ Nugget
 Shiny: Yes
@@ -2407,12 +2554,13 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 Atk / 4 SpA / 252 Spe
 Hasty Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20250808
 
 Slowking @ Nugget
 Shiny: Yes
@@ -2420,13 +2568,14 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 248 HP / 252 Def / 8 SpD
 Ability: Regenerator
 Relaxed Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20230509
 
 Wobbuffet @ Nugget
 Shiny: Yes
@@ -2434,12 +2583,13 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 28 HP / 228 Def / 252 SpD
 Calm Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20240628
 
 Girafarig @ Nugget
 Shiny: Yes
@@ -2447,12 +2597,13 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 4 HP / 252 SpA / 252 Spe
 Timid Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20221224
 
 Pineco @ Nugget
 Shiny: Yes
@@ -2460,12 +2611,13 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 196 HP / 76 Atk / 196 Def
 Impish Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20220902
 
 Forretress @ Nugget
 Shiny: Yes
@@ -2473,12 +2625,13 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 HP / 112 Atk / 144 Def
 Relaxed Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20220820
 
 Dunsparce @ Nugget
 Shiny: Yes
@@ -2486,12 +2639,13 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 144 HP / 252 Atk / 36 Def / 76 SpD
 Adamant Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20220801
 
 Gligar @ Nugget
 Shiny: Yes
@@ -2499,12 +2653,13 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 200 HP / 84 Def / 224 Spe
 Jolly Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20220312
 
 Steelix @ Nugget
 Shiny: Yes
@@ -2512,13 +2667,14 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 HP / 4 Atk / 252 SpD
 Ability: Sturdy
 Careful Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20220427
 
 Snubbull @ Nugget
 Shiny: Yes
@@ -2526,12 +2682,13 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 196 HP / 196 Atk / 116 SpD
 Brave Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20220301
 
 Granbull @ Nugget
 Shiny: Yes
@@ -2539,12 +2696,13 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 HP / 212 Def / 44 Spe
 Impish Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20221015
 
 Qwilfish @ Nugget
 Shiny: Yes
@@ -2552,13 +2710,14 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 HP / 4 Atk / 252 Spe
 Ability: Intimidate
 Jolly Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20240607
 
 Scizor @ Nugget
 Shiny: Yes
@@ -2566,13 +2725,14 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 248 HP / 172 Def / 88 SpD
 Ability: Technician
 Impish Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20220202
 
 Shuckle @ Nugget
 Shiny: Yes
@@ -2580,12 +2740,13 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 HP / 252 Def / 4 SpD
 Bold Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20220901
 
 Heracross @ Nugget
 Shiny: Yes
@@ -2593,13 +2754,14 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 Atk / 4 Def / 252 Spe
 Ability: Guts
 Jolly Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20221218
 
 Sneasel @ Nugget
 Shiny: Yes
@@ -2607,12 +2769,13 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 Atk / 4 Def / 252 Spe
 Jolly Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20250722
 
 Teddiursa @ Nugget
 Shiny: Yes
@@ -2620,13 +2783,14 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 36 HP / 196 Atk / 36 Def / 36 SpD / 196 Spe
 Ability: Quick Feet
 Jolly Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20240515
 
 Ursaring @ Nugget
 Shiny: Yes
@@ -2634,13 +2798,14 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 4 HP / 252 Atk / 252 Spe
 Ability: Quick Feet
 Jolly Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20230618
 
 Slugma @ Nugget
 Shiny: Yes
@@ -2648,13 +2813,14 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 196 HP / 196 Def / 118 SpD
 Ability: Flame Body
 Careful Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20250730
 
 Magcargo @ Nugget
 Shiny: Yes
@@ -2662,13 +2828,14 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 HP / 4 Def / 252 SpD
 Ability: Flame Body
 Bold Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20230428
 
 Swinub @ Nugget
 Shiny: Yes
@@ -2676,13 +2843,14 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 116 HP / 196 Atk / 196 Spe
 Ability: Snow Cloak
 Jolly Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20230819
 
 Piloswine @ Nugget
 Shiny: Yes
@@ -2690,13 +2858,14 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 HP / 252 Atk / 4 SpD
 Ability: Thick Fat
 Adamant Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20250603
 
 Corsola @ Nugget
 Shiny: Yes
@@ -2704,13 +2873,14 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 HP / 252 Def / 4 SpD
 Ability: Natural Cure
 Bold Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20220720
 
 Remoraid @ Nugget
 Shiny: Yes
@@ -2718,13 +2888,14 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 240 SpA / 236 Spe
 Ability: Sniper
 Timid Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20250901
 
 Octillery @ Nugget
 Shiny: Yes
@@ -2732,12 +2903,13 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 SpA / 4 SpD / 252 Spe
 Modest Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20251021
 
 Delibird @ Nugget
 Shiny: Yes
@@ -2745,13 +2917,14 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 Atk / 4 SpD / 252 Spe
 Ability: Hustle
 Jolly Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20220711
 
 Mantine @ Nugget
 Shiny: Yes
@@ -2759,13 +2932,14 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 HP / 120 Def / 136 Spe
 Ability: Water Absorb
 Bold Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20230515
 
 Skarmory @ Nugget
 Shiny: Yes
@@ -2773,13 +2947,14 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 HP / 160 Def / 96 Spe
 Ability: Sturdy
 Impish Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20220303
 
 Houndour @ Nugget
 Shiny: Yes
@@ -2787,13 +2962,14 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 200 SpA / 40 SpD / 240 Spe
 Ability: Flash Fire
 Timid Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20230117
 
 Houndoom @ Nugget
 Shiny: Yes
@@ -2801,13 +2977,14 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 100 Atk / 184 SpA / 224 Spe
 Ability: Flash Fire
 Hasty Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20221201
 
 Kingdra @ Nugget
 Shiny: Yes
@@ -2815,12 +2992,13 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 SpA / 4 SpD / 252 Spe
 Modest Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20240527
 
 Phanpy @ Nugget
 Shiny: Yes
@@ -2828,12 +3006,13 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 116 HP / 196 Atk / 116 Def / 36 SpD / 36 Spe
 Impish Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20250919
 
 Donphan @ Nugget
 Shiny: Yes
@@ -2841,12 +3020,13 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 HP / 252 Atk / 4 Spe
 Adamant Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20240928
 
 Porygon2 @ Nugget
 Shiny: Yes
@@ -2854,12 +3034,13 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 248 HP / 8 Def / 252 SpD
 Calm Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20230217
 
 Stantler @ Nugget
 Shiny: Yes
@@ -2867,12 +3048,13 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 4 HP / 252 Atk / 252 Spe
 Jolly Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20230531
 
 Smeargle @ Nugget
 Shiny: Yes
@@ -2880,12 +3062,13 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 4 HP / 252 Def / 252 Spe
 Jolly Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20241205
 
 Tyrogue @ Nugget
 Shiny: Yes
@@ -2893,12 +3076,13 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 236 HP / 236 Atk
 Brave Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20221004
 
 Hitmontop @ Nugget
 Shiny: Yes
@@ -2906,13 +3090,14 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 112 HP / 252 Atk / 144 Spe
 Ability: Technician
 Adamant Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20250523
 
 Smoochum @ Nugget
 Shiny: Yes
@@ -2920,13 +3105,14 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 240 SpA / 236 Spe
 Ability: Forewarn
 Modest Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20250307
 
 Elekid @ Nugget
 Shiny: Yes
@@ -2934,13 +3120,14 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 12 Atk / 236 SpA / 236 Spe
 Ability: Vital Spirit
 Naive Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20230211
 
 Magby @ Nugget
 Shiny: Yes
@@ -2948,13 +3135,18 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 236 Atk / 252 Spe
 Ability: Vital Spirit,Flame Body
 Jolly Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20240605
+
+
+# to be continue
+
 
 Miltank @ Nugget
 Shiny: Yes
@@ -2962,13 +3154,14 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 HP / 252 SpD / 4 Spe
 Ability: Thick Fat,Sap Sipper
 Careful Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20240322
 
 Blissey @ Nugget
 Shiny: Yes
@@ -2976,12 +3169,13 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 HP / 252 Def / 4 SpD
 Bold Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20240727
 
 Raikou @ Nugget
 Shiny: Yes
@@ -2989,12 +3183,13 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 SpA / 4 SpD / 252 Spe
 Timid Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20251005
 
 Entei @ Nugget
 Shiny: Yes
@@ -3002,13 +3197,14 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 Atk / 4 SpD / 252 Spe
 Ability: Inner Focus
 Jolly Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20250206
 
 Suicune @ Nugget
 Shiny: Yes
@@ -3016,12 +3212,13 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 HP / 40 Def / 216 Spe
 Timid Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20220121
 
 Larvitar @ Nugget
 Shiny: Yes
@@ -3029,12 +3226,17 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 36 HP / 244 Atk / 36 Def / 188 Spe
 Adamant Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20220111
+
+
+
+
 
 Tyranitar @ Nugget
 Shiny: Yes
@@ -3042,12 +3244,13 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 HP / 4 Def / 252 SpD
 Careful Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20250913
 
 Lugia @ Nugget
 Shiny: Yes
@@ -3055,13 +3258,14 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 HP / 160 Def / 96 Spe
 Ability: Multiscale
 Bold Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20220724
 
 Celebi @ Nugget
 Shiny: Yes
@@ -3069,12 +3273,13 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 HP / 4 SpD / 252 Spe
 Timid Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20230413
 
 Treecko @ Nugget
 Shiny: Yes
@@ -3082,13 +3287,14 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 36 HP / 236 Atk / 156 Def / 36 Spe
 Ability: Unburden
 Adamant Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20231119
 
 Grovyle @ Nugget
 Shiny: Yes
@@ -3096,13 +3302,14 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 240 HP / 252 Atk / 16 Spe
 Ability: Unburden
 Adamant Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20230423
 
 Sceptile @ Nugget
 Shiny: Yes
@@ -3110,12 +3317,13 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 4 Def / 252 SpA / 252 Spe
 Timid Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20230503
 
 Torchic @ Nugget
 Shiny: Yes
@@ -3123,12 +3331,13 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 36 Atk / 200 SpA / 36 SpD / 236 Spe
 Hasty Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20230101
 
 Combusken @ Nugget
 Shiny: Yes
@@ -3136,13 +3345,14 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 SpA / 4 SpD / 252 Spe
 Ability: Speed Boost
 Timid Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20241117
 
 Blaziken @ Nugget
 Shiny: Yes
@@ -3150,13 +3360,14 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 Atk / 4 SpD / 252 Spe
 Ability: Speed Boost
 Jolly Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20220808
 
 Mudkip @ Nugget
 Shiny: Yes
@@ -3164,12 +3375,13 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 116 HP / 196 Atk / 196 Spe
 Jolly Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20241006
 
 Marshtomp @ Nugget
 Shiny: Yes
@@ -3177,12 +3389,13 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 HP / 4 Atk / 252 SpD
 Careful Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20250318
 
 Swampert @ Nugget
 Shiny: Yes
@@ -3190,13 +3403,14 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 HP / 252 Def / 4 SpD
 Ability: Damp
 Relaxed Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20250317
 
 Poochyena @ Nugget
 Shiny: Yes
@@ -3204,13 +3418,14 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 236 Atk / 36 SpD / 236 Spe
 Ability: Quick Feet
 Jolly Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20220715
 
 Mightyena @ Nugget
 Shiny: Yes
@@ -3218,12 +3433,13 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 248 HP / 116 Atk / 144 Spe
 Adamant Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20250804
 
 Zigzagoon @ Nugget
 Shiny: Yes
@@ -3231,12 +3447,13 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 196 Atk / 28 Def / 28 SpD / 196 Spe
 Adamant Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20230430
 
 Linoone @ Nugget
 Shiny: Yes
@@ -3244,13 +3461,14 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 60 HP / 252 Atk / 196 Spe
 Ability: Gluttony
 Adamant Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20220720
 
 Beautifly @ Nugget
 Shiny: Yes
@@ -3258,12 +3476,13 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 4 Def / 252 SpA / 252 Spe
 Modest Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20241016
 
 Dustox @ Nugget
 Shiny: Yes
@@ -3271,12 +3490,13 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 248 HP / 8 Def / 252 SpD
 Calm Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20240512
 
 Lotad @ Nugget
 Shiny: Yes
@@ -3284,12 +3504,13 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 36 Def / 196 SpA / 36 SpD / 200 Spe
 Timid Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20240605
 
 Ludicolo @ Nugget
 Shiny: Yes
@@ -3297,12 +3518,13 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 SpA / 4 SpD / 252 Spe
 Modest Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20220615
 
 Seedot @ Nugget
 Shiny: Yes
@@ -3310,12 +3532,13 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 40 Atk / 200 SpA / 36 SpD / 200 Spe
 Hasty Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20231101
 
 Shiftry @ Nugget
 Shiny: Yes
@@ -3323,12 +3546,13 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 Atk / 4 Def / 252 Spe
 Adamant Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20251126
 
 Taillow @ Nugget
 Shiny: Yes
@@ -3336,12 +3560,13 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 36 HP / 236 Atk / 236 Spe
 Jolly Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20220407
 
 Swellow @ Nugget
 Shiny: Yes
@@ -3349,12 +3574,13 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 4 HP / 252 Atk / 252 Spe
 Jolly Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20240425
 
 Wingull @ Nugget
 Shiny: Yes
@@ -3362,13 +3588,14 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 36 Def / 236 SpA / 236 Spe
 Ability: Hydration
 Timid Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20230210
 
 Pelipper @ Nugget
 Shiny: Yes
@@ -3376,13 +3603,14 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 248 HP / 252 Def / 8 SpD
 Ability: Drizzle
 Bold Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20250522
 
 Ralts @ Nugget
 Shiny: Yes
@@ -3390,13 +3618,14 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 212 HP / 76 Def / 156 SpD
 Ability: Trace
 Relaxed Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20241212
 
 Gardevoir @ Nugget
 Shiny: Yes
@@ -3404,13 +3633,14 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 SpA / 4 SpD / 252 Spe
 Ability: Trace
 Timid Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20231013
 
 Surskit @ Nugget
 Shiny: Yes
@@ -3418,12 +3648,13 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 20 Def / 200 SpA / 20 SpD / 236 Spe
 Modest Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20250426
 
 Masquerain @ Nugget
 Shiny: Yes
@@ -3431,12 +3662,13 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 4 Def / 252 SpA / 252 Spe
 Timid Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20230917
 
 Shroomish @ Nugget
 Shiny: Yes
@@ -3444,13 +3676,14 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 196 HP / 196 Def / 116 SpD
 Ability: Poison Heal
 Impish Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20251219
 
 Breloom @ Nugget
 Shiny: Yes
@@ -3458,13 +3691,14 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 12 HP / 252 Atk / 244 Spe
 Ability: Poison Heal
 Adamant Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20230425
 
 Slakoth @ Nugget
 Shiny: Yes
@@ -3472,12 +3706,13 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 196 HP / 196 Atk / 36 Def / 76 SpD
 Adamant Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20240428
 
 Vigoroth @ Nugget
 Shiny: Yes
@@ -3485,12 +3720,13 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 16 HP / 240 Atk / 252 Spe
 Jolly Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20241008
 
 Slaking @ Nugget
 Shiny: Yes
@@ -3498,12 +3734,13 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 4 HP / 252 Atk / 252 Spe
 Adamant Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20240125
 
 Nincada @ Nugget
 Shiny: Yes
@@ -3511,12 +3748,13 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 188 HP / 80 Atk / 200 Def / 36 SpD
 Relaxed Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20250209
 
 Shedinja @ Nugget
 Shiny: Yes
@@ -3524,12 +3762,13 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 Atk / 252 Spe
 Lonely Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20230616
 
 Whismur @ Nugget
 Shiny: Yes
@@ -3537,12 +3776,13 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 4 HP / 188 Atk / 92 Def / 188 SpA / 12 SpD
 Brave Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20221116
 
 Exploud @ Nugget
 Shiny: Yes
@@ -3550,13 +3790,14 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 SpA / 4 SpD / 252 Spe
 Ability: Scrappy
 Timid Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20230318
 
 Makuhita @ Nugget
 Shiny: Yes
@@ -3564,12 +3805,13 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 196 Atk / 36 Def / 36 SpD / 236 Spe
 Jolly Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20250818
 
 Hariyama @ Nugget
 Shiny: Yes
@@ -3577,13 +3819,14 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 Atk / 172 Def / 84 Spe
 Ability: Guts
 Adamant Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20241213
 
 Azurill @ Nugget
 Shiny: Yes
@@ -3591,13 +3834,14 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 116 HP / 196 Atk / 36 Def / 116 SpD
 Ability: Huge Power
 Brave Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20241208
 
 Nosepass @ Nugget
 Shiny: Yes
@@ -3605,13 +3849,14 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 196 HP / 236 Def / 36 SpD
 Ability: Magnet Pull
 Impish Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20250918
 
 Skitty @ Nugget
 Shiny: Yes
@@ -3619,13 +3864,14 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 236 Atk / 76 Def / 196 Spe
 Ability: Normalize
 Adamant Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20220927
 
 Delcatty @ Nugget
 Shiny: Yes
@@ -3633,12 +3879,13 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 172 HP / 176 Atk / 160 Spe
 Adamant Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20220713
 
 Sableye @ Nugget
 Shiny: Yes
@@ -3646,13 +3893,14 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 HP / 252 Def / 4 SpD
 Ability: Prankster
 Impish Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20240304
 
 Mawile @ Nugget
 Shiny: Yes
@@ -3660,13 +3908,14 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 92 HP / 252 Atk / 164 Spe
 Ability: Intimidate
 Adamant Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20240206
 
 Aron @ Nugget
 Shiny: Yes
@@ -3674,13 +3923,14 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 36 HP / 196 Atk / 36 Def / 36 SpD / 196 Spe
 Ability: Rock Head
 Adamant Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20230831
 
 Lairon @ Nugget
 Shiny: Yes
@@ -3688,13 +3938,14 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 Atk / 4 SpD / 252 Spe
 Ability: Rock Head
 Adamant Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20241130
 
 Aggron @ Nugget
 Shiny: Yes
@@ -3702,13 +3953,14 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 Atk / 4 Def / 252 Spe
 Ability: Rock Head
 Adamant Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20250603
 
 Medicham @ Nugget
 Shiny: Yes
@@ -3716,12 +3968,13 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 Atk / 4 SpD / 252 Spe
 Jolly Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20250108
 
 Electrike @ Nugget
 Shiny: Yes
@@ -3729,12 +3982,13 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 36 HP / 236 SpA / 236 Spe
 Modest Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20230227
 
 Manectric @ Nugget
 Shiny: Yes
@@ -3742,13 +3996,14 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 SpA / 4 SpD / 252 Spe
 Ability: Lightning Rod
 Timid Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20220713
 
 Plusle @ Nugget
 Shiny: Yes
@@ -3756,12 +4011,13 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 SpA / 4 SpD / 252 Spe
 Timid Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20230416
 
 Minun @ Nugget
 Shiny: Yes
@@ -3769,12 +4025,13 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 HP / 4 SpD / 252 Spe
 Timid Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20240107
 
 Volbeat @ Nugget
 Shiny: Yes
@@ -3782,13 +4039,14 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 248 HP / 8 SpD / 252 Spe
 Ability: Swarm
 Timid Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20221127
 
 Illumise @ Nugget
 Shiny: Yes
@@ -3796,13 +4054,14 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 4 Def / 252 SpA / 252 Spe
 Ability: Tinted Lens
 Timid Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20221211
 
 Roselia @ Nugget
 Shiny: Yes
@@ -3810,12 +4069,13 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 4 HP / 252 SpA / 252 Spe
 Modest Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20250716
 
 Gulpin @ Nugget
 Shiny: Yes
@@ -3823,13 +4083,14 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 196 HP / 12 Def / 252 SpA / 12 SpD / 36 Spe
 Ability: Sticky Hold
 Modest Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20240531
 
 Swalot @ Nugget
 Shiny: Yes
@@ -3837,12 +4098,13 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 4 HP / 252 Def / 252 SpD
 Calm Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20220407
 
 Carvanha @ Nugget
 Shiny: Yes
@@ -3850,13 +4112,14 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 196 Atk / 36 SpD / 236 Spe
 Ability: Speed Boost
 Adamant Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20231014
 
 Sharpedo @ Nugget
 Shiny: Yes
@@ -3864,13 +4127,14 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 Atk / 4 SpD / 252 Spe
 Ability: Speed Boost
 Adamant Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20221111
 
 Wailmer @ Nugget
 Shiny: Yes
@@ -3878,12 +4142,13 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 36 HP / 76 Def / 200 SpA / 196 Spe
 Modest Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20250409
 
 Wailord @ Nugget
 Shiny: Yes
@@ -3891,12 +4156,13 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 28 Atk / 252 SpA / 228 Spe
 Naive Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20220514
 
 Numel @ Nugget
 Shiny: Yes
@@ -3904,12 +4170,13 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 240 SpA / 236 Spe
 Timid Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20240312
 
 Camerupt @ Nugget
 Shiny: Yes
@@ -3917,13 +4184,14 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 40 Atk / 252 SpA / 216 Spe
 Ability: Solid Rock
 Rash Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20250515
 
 Torkoal @ Nugget
 Shiny: Yes
@@ -3931,13 +4199,14 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 248 HP / 252 Def / 8 SpD
 Ability: Drought
 Bold Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20250119
 
 Spoink @ Nugget
 Shiny: Yes
@@ -3945,12 +4214,13 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 196 HP / 116 SpD / 196 Spe
 Timid Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20250509
 
 Grumpig @ Nugget
 Shiny: Yes
@@ -3958,12 +4228,13 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 HP / 80 Def / 176 SpD
 Calm Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20220401
 
 Spinda @ Nugget
 Shiny: Yes
@@ -3971,12 +4242,13 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 HP / 160 Def / 96 SpD
 Calm Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20241024
 
 Trapinch @ Nugget
 Shiny: Yes
@@ -3984,13 +4256,14 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 76 HP / 36 Atk / 236 Def / 116 Spe
 Ability: Arena Trap
 Careful Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20220317
 
 Vibrava @ Nugget
 Shiny: Yes
@@ -3998,12 +4271,13 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 248 HP / 8 Atk / 252 SpD
 Careful Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20220517
 
 Flygon @ Nugget
 Shiny: Yes
@@ -4011,12 +4285,13 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 236 Atk / 20 SpD / 252 Spe
 Jolly Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20250412
 
 Cacnea @ Nugget
 Shiny: Yes
@@ -4024,12 +4299,13 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 36 HP / 236 Atk / 236 Spe
 Adamant Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20230320
 
 Cacturne @ Nugget
 Shiny: Yes
@@ -4037,12 +4313,13 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 Atk / 4 SpD / 252 Spe
 Adamant Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20221222
 
 Swablu @ Nugget
 Shiny: Yes
@@ -4050,12 +4327,13 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 236 HP / 196 Def / 76 SpD
 Impish Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20251223
 
 Altaria @ Nugget
 Shiny: Yes
@@ -4063,12 +4341,13 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 HP / 64 Def / 56 SpD / 136 Spe
 Calm Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20230903
 
 Zangoose @ Nugget
 Shiny: Yes
@@ -4076,12 +4355,13 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 Atk / 4 Def / 252 Spe
 Jolly Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20230506
 
 Seviper @ Nugget
 Shiny: Yes
@@ -4089,12 +4369,13 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 44 HP / 252 Atk / 212 Spe
 Adamant Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20250902
 
 Lunatone @ Nugget
 Shiny: Yes
@@ -4102,12 +4383,13 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 HP / 28 SpD / 228 Spe
 Calm Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20231106
 
 Solrock @ Nugget
 Shiny: Yes
@@ -4115,12 +4397,13 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 HP / 4 Atk / 252 Def
 Impish Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20230811
 
 Barboach @ Nugget
 Shiny: Yes
@@ -4128,13 +4411,14 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 36 HP / 212 Atk / 12 Def / 28 SpD / 196 Spe
 Ability: Anticipation
 Adamant Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20240520
 
 Whiscash @ Nugget
 Shiny: Yes
@@ -4142,13 +4426,14 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 4 HP / 252 Atk / 252 Spe
 Ability: Anticipation
 Adamant Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20220403
 
 Corphish @ Nugget
 Shiny: Yes
@@ -4156,13 +4441,14 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 196 Atk / 76 Def / 236 Spe
 Ability: Adaptability
 Adamant Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20250226
 
 Crawdaunt @ Nugget
 Shiny: Yes
@@ -4170,13 +4456,14 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 Atk / 4 Def / 252 Spe
 Ability: Adaptability
 Adamant Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20250303
 
 Baltoy @ Nugget
 Shiny: Yes
@@ -4184,12 +4471,13 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 196 HP / 236 Def / 36 SpA / 36 SpD
 Bold Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20220220
 
 Claydol @ Nugget
 Shiny: Yes
@@ -4197,12 +4485,13 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 HP / 240 Def / 16 Spe
 Bold Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20220619
 
 Lileep @ Nugget
 Shiny: Yes
@@ -4210,12 +4499,13 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 228 HP / 220 Def / 60 SpD
 Impish Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20240724
 
 Cradily @ Nugget
 Shiny: Yes
@@ -4223,13 +4513,14 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 HP / 252 Def / 4 SpD
 Ability: Storm Drain
 Bold Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20231017
 
 Anorith @ Nugget
 Shiny: Yes
@@ -4237,12 +4528,13 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 236 Atk / 36 Def / 236 Spe
 Adamant Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20250518
 
 Armaldo @ Nugget
 Shiny: Yes
@@ -4250,12 +4542,13 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 HP / 92 Atk / 164 Spe
 Adamant Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20220816
 
 Milotic @ Nugget
 Shiny: Yes
@@ -4263,12 +4556,13 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 HP / 208 Def / 48 Spe
 Bold Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20220904
 
 Kecleon @ Nugget
 Shiny: Yes
@@ -4276,12 +4570,13 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 HP / 4 Def / 252 SpD
 Careful Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20230602
 
 Shuppet @ Nugget
 Shiny: Yes
@@ -4289,12 +4584,13 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 4 HP / 236 Atk / 252 SpA / 12 SpD
 Brave Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20231223
 
 Banette @ Nugget
 Shiny: Yes
@@ -4302,12 +4598,13 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 Atk
 Brave Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20240119
 
 Duskull @ Nugget
 Shiny: Yes
@@ -4315,12 +4612,13 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 196 HP / 116 Atk / 36 Def / 116 SpD
 Relaxed Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20221104
 
 Dusclops @ Nugget
 Shiny: Yes
@@ -4328,12 +4626,13 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 212 HP / 252 Atk / 44 Spe
 Adamant Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20221219
 
 Tropius @ Nugget
 Shiny: Yes
@@ -4341,12 +4640,13 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 HP / 252 Def / 4 SpD
 Bold Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20251005
 
 Chimecho @ Nugget
 Shiny: Yes
@@ -4354,12 +4654,13 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 HP / 252 Def / 4 SpD
 Bold Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20230505
 
 Absol @ Nugget
 Shiny: Yes
@@ -4367,13 +4668,14 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 Atk / 4 SpD / 252 Spe
 Ability: Justified,Super Luck
 Jolly Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20230326
 
 Wynaut @ Nugget
 Shiny: Yes
@@ -4381,12 +4683,13 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 76 HP / 52 Def / 52 SpD / 252 Spe
 Jolly Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20240519
 
 Snorunt @ Nugget
 Shiny: Yes
@@ -4394,12 +4697,13 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 36 Atk / 36 Def / 200 SpA / 40 SpD / 196 Spe
 Naive Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20240618
 
 Glalie @ Nugget
 Shiny: Yes
@@ -4407,12 +4711,13 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 4 HP / 252 Atk / 252 Spe
 Jolly Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20251113
 
 Spheal @ Nugget
 Shiny: Yes
@@ -4420,13 +4725,14 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 36 HP / 196 Def / 76 SpA / 196 SpD
 Ability: Ice Body
 Bold Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20240107
 
 Walrein @ Nugget
 Shiny: Yes
@@ -4434,13 +4740,14 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 120 HP / 252 Atk / 136 Spe
 Ability: Thick Fat,Oblivious
 Adamant Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20241021
 
 Clamperl @ Nugget
 Shiny: Yes
@@ -4448,12 +4755,13 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 HP / 4 Def / 252 SpA
 Quiet Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20220802
 
 Huntail @ Nugget
 Shiny: Yes
@@ -4461,12 +4769,13 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 88 Atk / 200 SpA / 220 Spe
 Naughty Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20231005
 
 Gorebyss @ Nugget
 Shiny: Yes
@@ -4474,12 +4783,13 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 4 HP / 252 SpA / 252 Spe
 Modest Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20250426
 
 Relicanth @ Nugget
 Shiny: Yes
@@ -4487,13 +4797,14 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 Atk / 4 Def / 252 Spe
 Ability: Rock Head
 Adamant Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20230606
 
 Luvdisc @ Nugget
 Shiny: Yes
@@ -4501,12 +4812,13 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 HP / 252 SpA / 4 Spe
 Modest Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20220131
 
 Bagon @ Nugget
 Shiny: Yes
@@ -4514,12 +4826,13 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 236 Atk / 40 Def / 36 SpA / 196 Spe
 Naive Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20250815
 
 Shelgon @ Nugget
 Shiny: Yes
@@ -4527,12 +4840,13 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 28 HP / 252 Atk / 228 Spe
 Adamant Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20220611
 
 Salamence @ Nugget
 Shiny: Yes
@@ -4540,12 +4854,13 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 SpA / 4 SpD / 252 Spe
 Timid Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20220419
 
 Beldum @ Nugget
 Shiny: Yes
@@ -4553,12 +4868,13 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 236 Atk / 236 Def / 38 Spe
 Adamant Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20241123
 
 Metang @ Nugget
 Shiny: Yes
@@ -4566,12 +4882,13 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 HP / 252 Atk / 4 SpD
 Adamant Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20250425
 
 Metagross @ Nugget
 Shiny: Yes
@@ -4579,12 +4896,13 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 HP / 124 Atk / 76 SpD / 56 Spe
 Adamant Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20240920
 
 Regirock @ Nugget
 Shiny: Yes
@@ -4592,12 +4910,13 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 HP / 232 Def / 24 SpD
 Impish Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20251216
 
 Regice @ Nugget
 Shiny: Yes
@@ -4605,12 +4924,13 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 4 Def / 252 SpA / 252 Spe
 Modest Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20220909
 
 Registeel @ Nugget
 Shiny: Yes
@@ -4618,12 +4938,13 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 HP / 4 Def / 252 SpD
 Careful Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20230721
 
 Latias @ Nugget
 Shiny: Yes
@@ -4631,12 +4952,13 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 248 HP / 8 Def / 252 Spe
 Timid Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20220202
 
 Latios @ Nugget
 Shiny: Yes
@@ -4644,12 +4966,13 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 4 Atk / 252 SpA / 252 Spe
 Hasty Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20250629
 
 Kyogre @ Nugget
 Shiny: Yes
@@ -4657,12 +4980,13 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 HP / 252 Def / 4 SpD
 Bold Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20220708
 
 Groudon @ Nugget
 Shiny: Yes
@@ -4670,12 +4994,13 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 240 HP / 252 Atk / 16 Spe
 Adamant Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20230521
 
 Rayquaza @ Nugget
 Shiny: Yes
@@ -4683,12 +5008,13 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 Atk / 4 Def / 252 Spe
 Jolly Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20250224
 
 Jirachi @ Nugget
 Shiny: Yes
@@ -4696,12 +5022,13 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 Atk / 4 SpD / 252 Spe
 Jolly Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20221006
 
 Turtwig @ Nugget
 Shiny: Yes
@@ -4709,12 +5036,13 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 236 HP / 52 Atk / 84 Def / 76 SpD / 28 Spe
 Impish Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20221129
 
 Torterra @ Nugget
 Shiny: Yes
@@ -4722,12 +5050,13 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 Atk / 4 Def / 252 Spe
 Adamant Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20230215
 
 Chimchar @ Nugget
 Shiny: Yes
@@ -4735,12 +5064,13 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 4 HP / 56 Atk / 216 SpA / 4 SpD / 188 Spe
 Hasty Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20230916
 
 Monferno @ Nugget
 Shiny: Yes
@@ -4748,12 +5078,13 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 SpA / 252 Spe
 Hasty Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20241217
 
 Infernape @ Nugget
 Shiny: Yes
@@ -4761,12 +5092,13 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 Atk / 64 SpA / 192 Spe
 Naive Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20250224
 
 Piplup @ Nugget
 Shiny: Yes
@@ -4774,12 +5106,13 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 92 HP / 12 Def / 192 SpA / 200 Spe
 Timid Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20221221
 
 Empoleon @ Nugget
 Shiny: Yes
@@ -4787,12 +5120,13 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 4 Atk / 252 SpA / 252 Spe
 Modest Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20240318
 
 Starly @ Nugget
 Shiny: Yes
@@ -4800,12 +5134,13 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 236 Atk / 36 SpA / 196 Spe
 Naive Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20240716
 
 Staraptor @ Nugget
 Shiny: Yes
@@ -4813,12 +5148,13 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 Atk / 4 Def / 252 Spe
 Adamant Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20231121
 
 Bidoof @ Nugget
 Shiny: Yes
@@ -4826,12 +5162,13 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 204 HP / 236 Atk / 36 Def
 Adamant Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20230328
 
 Bibarel @ Nugget
 Shiny: Yes
@@ -4839,12 +5176,13 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 HP / 252 Atk / 4 Def
 Adamant Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20240917
 
 Kricketot @ Nugget
 Shiny: Yes
@@ -4852,12 +5190,13 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 236 Atk / 36 Def / 236 Spe
 Jolly Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20250306
 
 Kricketune @ Nugget
 Shiny: Yes
@@ -4865,12 +5204,13 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 Atk / 4 Def / 252 Spe
 Adamant Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20240218
 
 Shinx @ Nugget
 Shiny: Yes
@@ -4878,12 +5218,13 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 236 Atk / 244 Def / 4 SpD
 Brave Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20220228
 
 Luxray @ Nugget
 Shiny: Yes
@@ -4891,13 +5232,14 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 HP / 4 Atk / 252 Spe
 Ability: Intimidate
 Jolly Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20240427
 
 Budew @ Nugget
 Shiny: Yes
@@ -4905,12 +5247,13 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 196 HP / 76 Def / 36 SpA / 196 SpD
 Bold Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20250523
 
 Roserade @ Nugget
 Shiny: Yes
@@ -4918,12 +5261,13 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 SpA / 4 SpD / 252 Spe
 Timid Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20230727
 
 Cranidos @ Nugget
 Shiny: Yes
@@ -4931,12 +5275,13 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 60 HP / 236 Atk / 212 Spe
 Adamant Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20221118
 
 Rampardos @ Nugget
 Shiny: Yes
@@ -4944,12 +5289,13 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 4 HP / 252 Atk / 252 Spe
 Jolly Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20220107
 
 Shieldon @ Nugget
 Shiny: Yes
@@ -4957,12 +5303,13 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 196 HP / 20 Atk / 52 Def / 20 SpA / 212 SpD
 Sassy Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20230127
 
 Bastiodon @ Nugget
 Shiny: Yes
@@ -4970,12 +5317,13 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 HP / 8 Atk / 248 SpD
 Impish Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20221025
 
 Vespiquen @ Nugget
 Shiny: Yes
@@ -4983,12 +5331,13 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 HP / 252 Def / 4 SpD
 Bold Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20240110
 
 Pachirisu @ Nugget
 Shiny: Yes
@@ -4996,13 +5345,14 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 HP / 4 SpA / 252 SpD
 Ability: Pickup
 Calm Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20240519
 
 Buizel @ Nugget
 Shiny: Yes
@@ -5010,12 +5360,13 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 236 Atk / 36 SpD / 236 Spe
 Jolly Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20241027
 
 Floatzel @ Nugget
 Shiny: Yes
@@ -5023,12 +5374,13 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 232 HP / 252 Atk / 8 Def / 16 Spe
 Adamant Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20220807
 
 Cherubi @ Nugget
 Shiny: Yes
@@ -5036,12 +5388,13 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 76 HP / 184 SpA / 240 Spe
 Modest Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20220426
 
 Ambipom @ Nugget
 Shiny: Yes
@@ -5049,12 +5402,13 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 Atk / 4 SpD / 252 Spe
 Jolly Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20240130
 
 Drifloon @ Nugget
 Shiny: Yes
@@ -5062,13 +5416,14 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 116 HP / 8 Def / 200 SpA / 8 SpD / 120 Spe
 Ability: Unburden
 Modest Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20231011
 
 Drifblim @ Nugget
 Shiny: Yes
@@ -5076,13 +5431,14 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 12 HP / 244 SpA / 252 Spe
 Ability: Unburden
 Modest Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20220221
 
 Buneary @ Nugget
 Shiny: Yes
@@ -5090,12 +5446,13 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 228 Atk / 4 Def / 236 Spe
 Jolly Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20220123
 
 Lopunny @ Nugget
 Shiny: Yes
@@ -5103,13 +5460,14 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 Atk / 4 SpD / 252 Spe
 Ability: Limber
 Jolly Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20220711
 
 Mismagius @ Nugget
 Shiny: Yes
@@ -5117,12 +5475,13 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 4 HP / 252 SpA / 252 Spe
 Timid Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20231202
 
 Honchkrow @ Nugget
 Shiny: Yes
@@ -5130,12 +5489,13 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 Atk / 4 SpA / 252 Spe
 Naughty Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20250626
 
 Glameow @ Nugget
 Shiny: Yes
@@ -5143,12 +5503,13 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 236 Atk / 20 Def / 236 Spe
 Jolly Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20220819
 
 Purugly @ Nugget
 Shiny: Yes
@@ -5156,12 +5517,13 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 4 HP / 252 Atk / 252 Spe
 Jolly Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20220608
 
 Chingling @ Nugget
 Shiny: Yes
@@ -5169,12 +5531,13 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 236 HP / 36 Def / 236 Spe
 Timid Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20240503
 
 Stunky @ Nugget
 Shiny: Yes
@@ -5182,13 +5545,14 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 12 HP / 252 Atk / 244 Spe
 Ability: Aftermath
 Hasty Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20230601
 
 Skuntank @ Nugget
 Shiny: Yes
@@ -5196,13 +5560,14 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 4 Def / 252 SpA / 252 Spe
 Ability: Aftermath
 Timid Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20231109
 
 Bronzor @ Nugget
 Shiny: Yes
@@ -5210,12 +5575,13 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 220 HP / 8 Atk / 152 Def / 4 SpA / 68 SpD / 12 Spe
 Relaxed Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20220823
 
 Bronzong @ Nugget
 Shiny: Yes
@@ -5223,13 +5589,14 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 HP / 88 Def / 168 SpD
 Ability: Heatproof,Levitate
 Bold Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20230510
 
 Bonsly @ Nugget
 Shiny: Yes
@@ -5237,13 +5604,14 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 116 HP / 196 Atk / 196 Spe
 Ability: Rock Head
 Jolly Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20250308
 
 Happiny @ Nugget
 Shiny: Yes
@@ -5251,13 +5619,14 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 196 HP / 236 Atk / 76 Def
 Ability: Serene Grace
 Adamant Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20230829
 
 Chatot @ Nugget
 Shiny: Yes
@@ -5265,13 +5634,14 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 4 HP / 252 SpA / 252 Spe
 Ability: Tangled Feet
 Timid Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20230401
 
 Spiritomb @ Nugget
 Shiny: Yes
@@ -5279,13 +5649,14 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 HP / 252 Atk / 4 Def
 Ability: Infiltrator
 Adamant Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20251210
 
 Gible @ Nugget
 Shiny: Yes
@@ -5293,12 +5664,13 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 52 HP / 196 Atk / 236 Def / 20 Spe
 Adamant Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20240111
 
 Gabite @ Nugget
 Shiny: Yes
@@ -5306,13 +5678,14 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 HP / 216 Def / 40 Spe
 Ability: Rough Skin
 Jolly Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20220419
 
 Garchomp @ Nugget
 Shiny: Yes
@@ -5320,13 +5693,14 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 Atk / 4 SpD / 252 Spe
 Ability: Rough Skin
 Jolly Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20250401
 
 Munchlax @ Nugget
 Shiny: Yes
@@ -5334,13 +5708,14 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 4 Atk / 252 Def / 252 SpD
 Ability: Thick Fat
 Impish Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20220821
 
 Riolu @ Nugget
 Shiny: Yes
@@ -5348,13 +5723,14 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 196 Atk / 36 Def / 36 SpD / 196 Spe
 Ability: Inner Focus
 Adamant Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20240226
 
 Lucario @ Nugget
 Shiny: Yes
@@ -5362,13 +5738,14 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 Atk / 4 Def / 252 Spe
 Ability: Inner Focus
 Jolly Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20241231
 
 Hippopotas @ Nugget
 Shiny: Yes
@@ -5376,12 +5753,13 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 HP / 164 Atk / 92 Def
 Relaxed Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20241123
 
 Hippowdon @ Nugget
 Shiny: Yes
@@ -5389,12 +5767,13 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 HP / 8 Atk / 248 SpD
 Careful Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20240207
 
 Skorupi @ Nugget
 Shiny: Yes
@@ -5402,13 +5781,14 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 36 HP / 196 Atk / 36 Def / 236 SpD
 Ability: Sniper
 Adamant Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20250604
 
 Drapion @ Nugget
 Shiny: Yes
@@ -5416,12 +5796,13 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 Atk / 4 Def / 252 Spe
 Jolly Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20220105
 
 Croagunk @ Nugget
 Shiny: Yes
@@ -5429,13 +5810,14 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 116 Def / 188 SpA / 196 Spe
 Ability: Dry Skin
 Modest Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20231119
 
 Toxicroak @ Nugget
 Shiny: Yes
@@ -5443,13 +5825,14 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 Atk / 4 SpD / 252 Spe
 Ability: Dry Skin
 Adamant Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20230712
 
 Carnivine @ Nugget
 Shiny: Yes
@@ -5457,12 +5840,13 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 Atk / 4 SpD / 252 Spe
 Jolly Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20230312
 
 Finneon @ Nugget
 Shiny: Yes
@@ -5470,12 +5854,13 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 204 Atk / 44 SpA / 232 Spe
 Jolly Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20240609
 
 Lumineon @ Nugget
 Shiny: Yes
@@ -5483,12 +5868,13 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 HP / 4 Def / 252 Spe
 Timid Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20221105
 
 Mantyke @ Nugget
 Shiny: Yes
@@ -5496,13 +5882,14 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 76 HP / 36 Def / 200 SpA / 196 Spe
 Ability: Water Absorb
 Modest Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20230317
 
 Snover @ Nugget
 Shiny: Yes
@@ -5510,12 +5897,13 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 36 HP / 20 Atk / 36 Def / 180 SpA / 36 SpD / 196 Spe
 Naive Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20240420
 
 Abomasnow @ Nugget
 Shiny: Yes
@@ -5523,12 +5911,13 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 HP / 252 Atk / 4 SpD
 Adamant Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20220626
 
 Weavile @ Nugget
 Shiny: Yes
@@ -5536,12 +5925,13 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 Atk / 4 SpD / 252 Spe
 Jolly Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20250908
 
 Magnezone @ Nugget
 Shiny: Yes
@@ -5549,12 +5939,13 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 4 HP / 252 Def / 252 Spe
 Timid Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20250525
 
 Lickilicky @ Nugget
 Shiny: Yes
@@ -5562,13 +5953,14 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 HP / 4 Def / 252 SpD
 Ability: Oblivious
 Careful Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20250907
 
 Rhyperior @ Nugget
 Shiny: Yes
@@ -5576,13 +5968,14 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 HP / 4 Atk / 252 SpD
 Ability: Solid Rock
 Careful Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20250518
 
 Tangrowth @ Nugget
 Shiny: Yes
@@ -5590,13 +5983,14 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 HP / 4 Def / 252 SpD
 Ability: Regenerator
 Sassy Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20240426
 
 Electivire @ Nugget
 Shiny: Yes
@@ -5604,12 +5998,13 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 40 Atk / 252 SpA / 216 Spe
 Mild Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20250414
 
 Magmortar @ Nugget
 Shiny: Yes
@@ -5617,12 +6012,13 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 SpA / 4 SpD / 252 Spe
 Modest Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20220126
 
 Togekiss @ Nugget
 Shiny: Yes
@@ -5630,13 +6026,14 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 248 HP / 8 Def / 252 Spe
 Ability: Serene Grace
 Timid Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20231210
 
 Yanmega @ Nugget
 Shiny: Yes
@@ -5644,12 +6041,13 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 104 Def / 252 SpA / 152 Spe
 Modest Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20251025
 
 Leafeon @ Nugget
 Shiny: Yes
@@ -5657,13 +6055,14 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 Atk / 4 Def / 252 Spe
 Ability: Chlorophyll
 Jolly Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20230321
 
 Glaceon @ Nugget
 Shiny: Yes
@@ -5671,12 +6070,13 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 4 Def / 252 SpA / 252 Spe
 Modest Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20240401
 
 Gliscor @ Nugget
 Shiny: Yes
@@ -5684,12 +6084,13 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 HP / 4 Atk / 252 Spe
 Jolly Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20250710
 
 Mamoswine @ Nugget
 Shiny: Yes
@@ -5697,13 +6098,14 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 Atk / 4 SpD / 252 Spe
 Ability: Thick Fat
 Adamant Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20230814
 
 Gallade @ Nugget
 Shiny: Yes
@@ -5711,13 +6113,14 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 Atk / 4 SpD / 252 Spe
 Ability: Justified
 Jolly Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20241112
 
 Probopass @ Nugget
 Shiny: Yes
@@ -5725,13 +6128,14 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 HP / 4 Def / 252 SpD
 Ability: Magnet Pull
 Calm Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20220215
 
 Dusknoir @ Nugget
 Shiny: Yes
@@ -5739,13 +6143,14 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 212 HP / 252 Atk / 44 Spe
 Ability: Frisk
 Adamant Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20250827
 
 Froslass @ Nugget
 Shiny: Yes
@@ -5753,13 +6158,14 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 Atk / 4 Def / 252 Spe
 Ability: Cursed Body
 Jolly Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20251014
 
 Uxie @ Nugget
 Shiny: Yes
@@ -5767,12 +6173,13 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 HP / 252 Def / 4 SpD
 Bold Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20220203
 
 Mesprit @ Nugget
 Shiny: Yes
@@ -5780,12 +6187,13 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 4 Def / 252 SpA / 252 Spe
 Timid Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20230505
 
 Azelf @ Nugget
 Shiny: Yes
@@ -5793,12 +6201,13 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 4 HP / 252 SpA / 252 Spe
 Timid Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20221129
 
 Dialga @ Nugget
 Shiny: Yes
@@ -5806,12 +6215,13 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 HP / 240 SpD / 16 Spe
 Calm Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20221118
 
 Palkia @ Nugget
 Shiny: Yes
@@ -5819,12 +6229,13 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 SpA / 4 SpD / 252 Spe
 Timid Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20221204
 
 Heatran @ Nugget
 Shiny: Yes
@@ -5832,12 +6243,13 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 HP / 232 SpD / 24 Spe
 Calm Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20230713
 
 Regigigas @ Nugget
 Shiny: Yes
@@ -5845,13 +6257,14 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 HP / 252 Atk / 252 Def / 252 SpD / 252 Spe
 Ability: Poison Heal
 Adamant Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20240523
 
 Cresselia @ Nugget
 Shiny: Yes
@@ -5859,12 +6272,13 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 HP / 148 SpD / 108 Spe
 Calm Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20241112
 
 Phione @ Nugget
 Shiny: Yes
@@ -5872,12 +6286,13 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 HP / 4 Atk / 252 Spe
 Jolly Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20220530
 
 Manaphy @ Nugget
 Shiny: Yes
@@ -5885,12 +6300,13 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 80 HP / 252 SpA / 176 Spe
 Timid Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20240602
 
 Darkrai @ Nugget
 Shiny: Yes
@@ -5898,10 +6314,11 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Safari Ball
+Ball: Master Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 SpA / 4 SpD / 252 Spe
 Timid Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
+.MetDate=20250126
 
