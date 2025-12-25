@@ -165,6 +165,24 @@ Careful Nature
 .Ribbons=$suggestAll
 .MetDate=20230721
 
+
+Regigigas @ Nugget
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 957558
+SID: 0162
+Ball: Master Ball
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpD / 252 Spe
+Ability: Poison Heal
+Adamant Nature
+.Moves=$suggestAll
+.Ribbons=$suggestAll
+.MetDate=20240523
+
+
+
 Latias @ Nugget
 Shiny: Yes
 OT: trucky
@@ -259,8 +277,6 @@ Jolly Nature
 
 
 
-
-
 Uxie @ Nugget
 Shiny: Yes
 OT: trucky
@@ -345,20 +361,6 @@ Calm Nature
 .Ribbons=$suggestAll
 .MetDate=20230713
 
-Regigigas @ Nugget
-Shiny: Yes
-OT: trucky
-OTGender: Female
-TID: 957558
-SID: 0162
-Ball: Master Ball
-IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-EVs: 252 HP / 252 Atk / 252 Def / 252 SpD / 252 Spe
-Ability: Poison Heal
-Adamant Nature
-.Moves=$suggestAll
-.Ribbons=$suggestAll
-.MetDate=20240523
 
 Cresselia @ Nugget
 Shiny: Yes

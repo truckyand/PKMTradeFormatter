@@ -3145,9 +3145,6 @@ Jolly Nature
 .MetDate=20240605
 
 
-# to be continue
-
-
 Miltank @ Nugget
 Shiny: Yes
 OT: trucky
@@ -3511,8 +3508,6 @@ Calm Nature
 
 
 
-
-
 Lotad @ Nugget
 Shiny: Yes
 OT: trucky
@@ -3569,6 +3564,7 @@ Adamant Nature
 .Ribbons=$suggestAll
 .MetDate=20251126
 
+# not exist
 Taillow @ Nugget
 Shiny: Yes
 OT: trucky
@@ -3698,29 +3694,35 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Master Ball
+Ball: Safari Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 196 HP / 196 Def / 116 SpD
 Ability: Poison Heal
-Impish Nature
-.Moves=$suggestAll
+Hardy Nature
 .Ribbons=$suggestAll
 .MetDate=20251219
+- Mega Drain 
+- Headbutt
+- Poison Powder
+- Worry Seed
 
-Breloom @ Nugget
+Breloom @ Focus Sash
 Shiny: Yes
 OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Master Ball
+Ball: Safari Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 12 HP / 252 Atk / 244 Spe
-Ability: Poison Heal
-Adamant Nature
-.Moves=$suggestAll
+Ability: Effect Spore
+Hardy Nature
 .Ribbons=$suggestAll
 .MetDate=20230425
+- Spore 
+- False Swipe
+- Bullet Seed
+- Force Palm
 
 Slakoth @ Nugget
 Shiny: Yes
@@ -3736,7 +3738,7 @@ Adamant Nature
 .Ribbons=$suggestAll
 .MetDate=20240428
 
-Vigoroth @ Nugget
+Vigoroth @ Everstone
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -3781,14 +3783,13 @@ Relaxed Nature
 
 
 
-
 Shedinja @ Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Master Ball
+Ball: Poke Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 Atk / 252 Spe
 Lonely Nature
@@ -3802,7 +3803,7 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Master Ball
+Ball: Safari Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 4 HP / 188 Atk / 92 Def / 188 SpA / 12 SpD
 Brave Nature
@@ -3816,7 +3817,7 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Master Ball
+Ball: Safari Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 SpA / 4 SpD / 252 Spe
 Ability: Scrappy
@@ -3831,7 +3832,7 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Master Ball
+Ball: Safari Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 196 Atk / 36 Def / 36 SpD / 236 Spe
 Jolly Nature
@@ -3845,7 +3846,7 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Master Ball
+Ball: Safari Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 Atk / 172 Def / 84 Spe
 Ability: Guts
@@ -3860,7 +3861,7 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Master Ball
+Ball: Safari Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 116 HP / 196 Atk / 36 Def / 116 SpD
 Ability: Huge Power
@@ -3872,14 +3873,13 @@ Brave Nature
 
 
 
-
 Nosepass @ Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Master Ball
+Ball: Dusk Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 196 HP / 236 Def / 36 SpD
 Ability: Magnet Pull
@@ -3894,7 +3894,7 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Master Ball
+Ball: Dusk Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 236 Atk / 76 Def / 196 Spe
 Ability: Normalize
@@ -3909,7 +3909,7 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Master Ball
+Ball: Dusk Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 172 HP / 176 Atk / 160 Spe
 Adamant Nature
@@ -3923,7 +3923,7 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Master Ball
+Ball: Dusk Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 HP / 252 Def / 4 SpD
 Ability: Prankster
@@ -3938,7 +3938,7 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Master Ball
+Ball: Dusk Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 92 HP / 252 Atk / 164 Spe
 Ability: Intimidate
@@ -3953,7 +3953,7 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Master Ball
+Ball: Dusk Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 36 HP / 196 Atk / 36 Def / 36 SpD / 196 Spe
 Ability: Rock Head
@@ -3967,13 +3967,13 @@ Adamant Nature
 
 
 
-Lairon @ Nugget
+Lairon @ Everstone
 Shiny: Yes
 OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Master Ball
+Ball: Dusk Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 Atk / 4 SpD / 252 Spe
 Ability: Rock Head
@@ -3988,7 +3988,7 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Master Ball
+Ball: Dusk Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 Atk / 4 Def / 252 Spe
 Ability: Rock Head
@@ -4003,7 +4003,7 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Master Ball
+Ball: Dusk Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 Atk / 4 SpD / 252 Spe
 Jolly Nature
@@ -4017,7 +4017,7 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Master Ball
+Ball: Dusk Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 36 HP / 236 SpA / 236 Spe
 Modest Nature
@@ -4031,7 +4031,7 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Master Ball
+Ball: Dusk Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 SpA / 4 SpD / 252 Spe
 Ability: Lightning Rod
@@ -4046,7 +4046,7 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Master Ball
+Ball: Dusk Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 SpA / 4 SpD / 252 Spe
 Timid Nature
@@ -4058,14 +4058,13 @@ Timid Nature
 
 
 
-
 Minun @ Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Master Ball
+Ball: Dusk Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 HP / 4 SpD / 252 Spe
 Timid Nature
@@ -4079,7 +4078,7 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Master Ball
+Ball: Dusk Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 248 HP / 8 SpD / 252 Spe
 Ability: Swarm
@@ -4094,7 +4093,7 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Master Ball
+Ball: Dusk Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 4 Def / 252 SpA / 252 Spe
 Ability: Tinted Lens
@@ -4109,7 +4108,7 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Master Ball
+Ball: Dusk Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 4 HP / 252 SpA / 252 Spe
 Modest Nature
@@ -4123,7 +4122,7 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Master Ball
+Ball: Dusk Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 196 HP / 12 Def / 252 SpA / 12 SpD / 36 Spe
 Ability: Sticky Hold
@@ -4138,7 +4137,7 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Master Ball
+Ball: Dusk Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 4 HP / 252 Def / 252 SpD
 Calm Nature
@@ -4157,7 +4156,7 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Master Ball
+Ball: Dusk Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 196 Atk / 36 SpD / 236 Spe
 Ability: Speed Boost
@@ -4172,7 +4171,7 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Master Ball
+Ball: Dusk Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 Atk / 4 SpD / 252 Spe
 Ability: Speed Boost
@@ -4187,7 +4186,7 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Master Ball
+Ball: Dusk Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 36 HP / 76 Def / 200 SpA / 196 Spe
 Modest Nature
@@ -4201,7 +4200,7 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Master Ball
+Ball: Dusk Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 28 Atk / 252 SpA / 228 Spe
 Naive Nature
@@ -4215,7 +4214,7 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Master Ball
+Ball: Dusk Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 240 SpA / 236 Spe
 Timid Nature
@@ -4229,7 +4228,7 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Master Ball
+Ball: Dusk Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 40 Atk / 252 SpA / 216 Spe
 Ability: Solid Rock
@@ -4249,7 +4248,7 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Master Ball
+Ball: Dusk Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 248 HP / 252 Def / 8 SpD
 Ability: Drought
@@ -4264,7 +4263,7 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Master Ball
+Ball: Dusk Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 196 HP / 116 SpD / 196 Spe
 Timid Nature
@@ -4278,7 +4277,7 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Master Ball
+Ball: Dusk Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 HP / 80 Def / 176 SpD
 Calm Nature
@@ -4292,7 +4291,7 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Master Ball
+Ball: Dusk Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 HP / 160 Def / 96 SpD
 Calm Nature
@@ -4306,7 +4305,7 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Master Ball
+Ball: Dusk Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 76 HP / 36 Atk / 236 Def / 116 Spe
 Ability: Arena Trap
@@ -4321,7 +4320,7 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Master Ball
+Ball: Dusk Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 248 HP / 8 Atk / 252 SpD
 Careful Nature
@@ -4340,7 +4339,7 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Master Ball
+Ball: Dusk Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 236 Atk / 20 SpD / 252 Spe
 Jolly Nature
@@ -4354,7 +4353,7 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Master Ball
+Ball: Dusk Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 36 HP / 236 Atk / 236 Spe
 Adamant Nature
@@ -4368,7 +4367,7 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Master Ball
+Ball: Dusk Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 Atk / 4 SpD / 252 Spe
 Adamant Nature
@@ -4382,7 +4381,7 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Master Ball
+Ball: Dusk Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 236 HP / 196 Def / 76 SpD
 Impish Nature
@@ -4396,7 +4395,7 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Master Ball
+Ball: Dusk Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 HP / 64 Def / 56 SpD / 136 Spe
 Calm Nature
@@ -4410,7 +4409,7 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Master Ball
+Ball: Dusk Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 Atk / 4 Def / 252 Spe
 Jolly Nature
@@ -4421,14 +4420,13 @@ Jolly Nature
 
 
 
-
 Seviper @ Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Master Ball
+Ball: Dusk Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 44 HP / 252 Atk / 212 Spe
 Adamant Nature
@@ -4442,7 +4440,7 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Master Ball
+Ball: Dusk Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 HP / 28 SpD / 228 Spe
 Calm Nature
@@ -4456,7 +4454,7 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Master Ball
+Ball: Dusk Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 HP / 4 Atk / 252 Def
 Impish Nature
@@ -4470,7 +4468,7 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Master Ball
+Ball: Dusk Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 36 HP / 212 Atk / 12 Def / 28 SpD / 196 Spe
 Ability: Anticipation
@@ -4485,7 +4483,7 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Master Ball
+Ball: Dusk Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 4 HP / 252 Atk / 252 Spe
 Ability: Anticipation
@@ -4500,7 +4498,7 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Master Ball
+Ball: Dusk Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 196 Atk / 76 Def / 236 Spe
 Ability: Adaptability
@@ -4512,6 +4510,10 @@ Adamant Nature
 
 
 
+# to be continue
+
+
+
 
 Crawdaunt @ Nugget
 Shiny: Yes
@@ -4519,7 +4521,7 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Master Ball
+Ball: Dusk Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 Atk / 4 Def / 252 Spe
 Ability: Adaptability
@@ -4534,7 +4536,7 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Master Ball
+Ball: Dusk Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 196 HP / 236 Def / 36 SpA / 36 SpD
 Bold Nature
@@ -4548,7 +4550,7 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Master Ball
+Ball: Dusk Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 HP / 240 Def / 16 Spe
 Bold Nature
@@ -4562,7 +4564,7 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Master Ball
+Ball: Dusk Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 228 HP / 220 Def / 60 SpD
 Impish Nature
@@ -4576,7 +4578,7 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Master Ball
+Ball: Dusk Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 HP / 252 Def / 4 SpD
 Ability: Storm Drain
@@ -4591,7 +4593,7 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Master Ball
+Ball: Dusk Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 236 Atk / 36 Def / 236 Spe
 Adamant Nature
@@ -4609,7 +4611,7 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Master Ball
+Ball: Dusk Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 HP / 92 Atk / 164 Spe
 Adamant Nature
@@ -4623,7 +4625,7 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Master Ball
+Ball: Dusk Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 HP / 208 Def / 48 Spe
 Bold Nature
@@ -4637,7 +4639,7 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Master Ball
+Ball: Dusk Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 HP / 4 Def / 252 SpD
 Careful Nature
@@ -4651,7 +4653,7 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Master Ball
+Ball: Dusk Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 4 HP / 236 Atk / 252 SpA / 12 SpD
 Brave Nature
@@ -4665,7 +4667,7 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Master Ball
+Ball: Dusk Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 Atk
 Brave Nature
@@ -4679,7 +4681,7 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Master Ball
+Ball: Dusk Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 196 HP / 116 Atk / 36 Def / 116 SpD
 Relaxed Nature
@@ -4697,7 +4699,7 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Master Ball
+Ball: Dusk Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 212 HP / 252 Atk / 44 Spe
 Adamant Nature
@@ -4711,7 +4713,7 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Master Ball
+Ball: Dusk Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 HP / 252 Def / 4 SpD
 Bold Nature
@@ -4725,7 +4727,7 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Master Ball
+Ball: Dusk Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 HP / 252 Def / 4 SpD
 Bold Nature
@@ -4739,7 +4741,7 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Master Ball
+Ball: Dusk Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 Atk / 4 SpD / 252 Spe
 Ability: Justified,Super Luck
@@ -4754,7 +4756,7 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Master Ball
+Ball: Dusk Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 76 HP / 52 Def / 52 SpD / 252 Spe
 Jolly Nature
@@ -4768,7 +4770,7 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Master Ball
+Ball: Dusk Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 36 Atk / 36 Def / 200 SpA / 40 SpD / 196 Spe
 Naive Nature
@@ -4786,7 +4788,7 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Master Ball
+Ball: Dusk Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 4 HP / 252 Atk / 252 Spe
 Jolly Nature
@@ -4800,7 +4802,7 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Master Ball
+Ball: Dusk Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 36 HP / 196 Def / 76 SpA / 196 SpD
 Ability: Ice Body
@@ -4815,7 +4817,7 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Master Ball
+Ball: Dusk Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 120 HP / 252 Atk / 136 Spe
 Ability: Thick Fat,Oblivious
@@ -4830,7 +4832,7 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Master Ball
+Ball: Dusk Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 HP / 4 Def / 252 SpA
 Quiet Nature
@@ -4844,7 +4846,7 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Master Ball
+Ball: Dusk Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 88 Atk / 200 SpA / 220 Spe
 Naughty Nature
@@ -4858,7 +4860,7 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Master Ball
+Ball: Dusk Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 4 HP / 252 SpA / 252 Spe
 Modest Nature
@@ -4877,7 +4879,7 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Master Ball
+Ball: Dusk Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 Atk / 4 Def / 252 Spe
 Ability: Rock Head
@@ -4892,7 +4894,7 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Master Ball
+Ball: Dusk Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 HP / 252 SpA / 4 Spe
 Modest Nature
@@ -4906,7 +4908,7 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Master Ball
+Ball: Dusk Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 236 Atk / 40 Def / 36 SpA / 196 Spe
 Naive Nature
@@ -4920,7 +4922,7 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Master Ball
+Ball: Dusk Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 28 HP / 252 Atk / 228 Spe
 Adamant Nature
@@ -4934,7 +4936,7 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Master Ball
+Ball: Dusk Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 SpA / 4 SpD / 252 Spe
 Timid Nature
@@ -4948,7 +4950,7 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Master Ball
+Ball: Dusk Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 236 Atk / 236 Def / 38 Spe
 Adamant Nature
@@ -4967,7 +4969,7 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Master Ball
+Ball: Dusk Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 HP / 252 Atk / 4 SpD
 Adamant Nature
@@ -4981,7 +4983,7 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Master Ball
+Ball: Dusk Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 HP / 124 Atk / 76 SpD / 56 Spe
 Adamant Nature
@@ -4995,7 +4997,7 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Master Ball
+Ball: Dusk Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 HP / 232 Def / 24 SpD
 Impish Nature
@@ -5009,7 +5011,7 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Master Ball
+Ball: Dusk Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 4 Def / 252 SpA / 252 Spe
 Modest Nature
@@ -5023,7 +5025,7 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Master Ball
+Ball: Dusk Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 HP / 4 Def / 252 SpD
 Careful Nature
@@ -5037,7 +5039,7 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Master Ball
+Ball: Dusk Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 248 HP / 8 Def / 252 Spe
 Timid Nature
@@ -5055,7 +5057,7 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Master Ball
+Ball: Dusk Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 4 Atk / 252 SpA / 252 Spe
 Hasty Nature
@@ -5069,7 +5071,7 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Master Ball
+Ball: Dusk Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 HP / 252 Def / 4 SpD
 Bold Nature
@@ -5083,7 +5085,7 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Master Ball
+Ball: Dusk Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 240 HP / 252 Atk / 16 Spe
 Adamant Nature
@@ -5097,7 +5099,7 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Master Ball
+Ball: Dusk Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 Atk / 4 Def / 252 Spe
 Jolly Nature
@@ -5111,7 +5113,7 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Master Ball
+Ball: Dusk Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 Atk / 4 SpD / 252 Spe
 Jolly Nature
@@ -5125,7 +5127,7 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Master Ball
+Ball: Dusk Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 236 HP / 52 Atk / 84 Def / 76 SpD / 28 Spe
 Impish Nature
@@ -5143,7 +5145,7 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Master Ball
+Ball: Dusk Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 Atk / 4 Def / 252 Spe
 Adamant Nature
@@ -5157,7 +5159,7 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Master Ball
+Ball: Dusk Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 4 HP / 56 Atk / 216 SpA / 4 SpD / 188 Spe
 Hasty Nature
@@ -5171,7 +5173,7 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Master Ball
+Ball: Dusk Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 SpA / 252 Spe
 Hasty Nature
@@ -5185,7 +5187,7 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Master Ball
+Ball: Dusk Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 Atk / 64 SpA / 192 Spe
 Naive Nature
@@ -5199,7 +5201,7 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Master Ball
+Ball: Dusk Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 92 HP / 12 Def / 192 SpA / 200 Spe
 Timid Nature
@@ -5213,7 +5215,7 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Master Ball
+Ball: Dusk Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 4 Atk / 252 SpA / 252 Spe
 Modest Nature
@@ -5233,7 +5235,7 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Master Ball
+Ball: Dusk Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 236 Atk / 36 SpA / 196 Spe
 Naive Nature
@@ -5247,7 +5249,7 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Master Ball
+Ball: Dusk Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 Atk / 4 Def / 252 Spe
 Adamant Nature
@@ -5261,7 +5263,7 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Master Ball
+Ball: Dusk Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 204 HP / 236 Atk / 36 Def
 Adamant Nature
@@ -5275,7 +5277,7 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Master Ball
+Ball: Dusk Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 HP / 252 Atk / 4 Def
 Adamant Nature
@@ -5289,7 +5291,7 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Master Ball
+Ball: Dusk Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 236 Atk / 36 Def / 236 Spe
 Jolly Nature
@@ -5303,7 +5305,7 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Master Ball
+Ball: Dusk Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 Atk / 4 Def / 252 Spe
 Adamant Nature
@@ -5322,7 +5324,7 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Master Ball
+Ball: Dusk Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 236 Atk / 244 Def / 4 SpD
 Brave Nature
@@ -5336,7 +5338,7 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Master Ball
+Ball: Dusk Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 HP / 4 Atk / 252 Spe
 Ability: Intimidate
@@ -5351,7 +5353,7 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Master Ball
+Ball: Dusk Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 196 HP / 76 Def / 36 SpA / 196 SpD
 Bold Nature
@@ -5365,7 +5367,7 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Master Ball
+Ball: Dusk Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 SpA / 4 SpD / 252 Spe
 Timid Nature
@@ -5379,7 +5381,7 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Master Ball
+Ball: Dusk Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 60 HP / 236 Atk / 212 Spe
 Adamant Nature
@@ -5393,7 +5395,7 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Master Ball
+Ball: Dusk Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 4 HP / 252 Atk / 252 Spe
 Jolly Nature
@@ -5412,7 +5414,7 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Master Ball
+Ball: Dusk Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 196 HP / 20 Atk / 52 Def / 20 SpA / 212 SpD
 Sassy Nature
@@ -5426,7 +5428,7 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Master Ball
+Ball: Dusk Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 HP / 8 Atk / 248 SpD
 Impish Nature
@@ -5440,7 +5442,7 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Master Ball
+Ball: Dusk Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 HP / 252 Def / 4 SpD
 Bold Nature
@@ -5454,7 +5456,7 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Master Ball
+Ball: Dusk Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 HP / 4 SpA / 252 SpD
 Ability: Pickup
@@ -5469,7 +5471,7 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Master Ball
+Ball: Dusk Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 236 Atk / 36 SpD / 236 Spe
 Jolly Nature
@@ -5483,7 +5485,7 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Master Ball
+Ball: Dusk Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 232 HP / 252 Atk / 8 Def / 16 Spe
 Adamant Nature
@@ -5502,7 +5504,7 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Master Ball
+Ball: Dusk Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 76 HP / 184 SpA / 240 Spe
 Modest Nature
@@ -5516,7 +5518,7 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Master Ball
+Ball: Dusk Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 Atk / 4 SpD / 252 Spe
 Jolly Nature
@@ -5530,7 +5532,7 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Master Ball
+Ball: Dusk Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 116 HP / 8 Def / 200 SpA / 8 SpD / 120 Spe
 Ability: Unburden
@@ -5545,7 +5547,7 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Master Ball
+Ball: Dusk Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 12 HP / 244 SpA / 252 Spe
 Ability: Unburden
@@ -5560,7 +5562,7 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Master Ball
+Ball: Dusk Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 228 Atk / 4 Def / 236 Spe
 Jolly Nature
@@ -5574,7 +5576,7 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Master Ball
+Ball: Dusk Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 Atk / 4 SpD / 252 Spe
 Ability: Limber
@@ -5596,7 +5598,7 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Master Ball
+Ball: Dusk Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 4 HP / 252 SpA / 252 Spe
 Timid Nature
@@ -5610,7 +5612,7 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Master Ball
+Ball: Dusk Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 Atk / 4 SpA / 252 Spe
 Naughty Nature
@@ -5624,7 +5626,7 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Master Ball
+Ball: Dusk Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 236 Atk / 20 Def / 236 Spe
 Jolly Nature
@@ -5638,7 +5640,7 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Master Ball
+Ball: Dusk Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 4 HP / 252 Atk / 252 Spe
 Jolly Nature
@@ -5652,7 +5654,7 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Master Ball
+Ball: Dusk Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 236 HP / 36 Def / 236 Spe
 Timid Nature
@@ -5666,7 +5668,7 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Master Ball
+Ball: Dusk Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 12 HP / 252 Atk / 244 Spe
 Ability: Aftermath
@@ -5686,7 +5688,7 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Master Ball
+Ball: Dusk Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 4 Def / 252 SpA / 252 Spe
 Ability: Aftermath
@@ -5701,7 +5703,7 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Master Ball
+Ball: Dusk Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 220 HP / 8 Atk / 152 Def / 4 SpA / 68 SpD / 12 Spe
 Relaxed Nature
@@ -5715,7 +5717,7 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Master Ball
+Ball: Dusk Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 HP / 88 Def / 168 SpD
 Ability: Heatproof,Levitate
@@ -5730,7 +5732,7 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Master Ball
+Ball: Dusk Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 116 HP / 196 Atk / 196 Spe
 Ability: Rock Head
@@ -5760,7 +5762,7 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Master Ball
+Ball: Dusk Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 4 HP / 252 SpA / 252 Spe
 Ability: Tangled Feet
@@ -5782,7 +5784,7 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Master Ball
+Ball: Dusk Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 HP / 252 Atk / 4 Def
 Ability: Infiltrator
@@ -5797,7 +5799,7 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Master Ball
+Ball: Dusk Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 52 HP / 196 Atk / 236 Def / 20 Spe
 Adamant Nature
@@ -5811,7 +5813,7 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Master Ball
+Ball: Dusk Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 HP / 216 Def / 40 Spe
 Ability: Rough Skin
@@ -5826,7 +5828,7 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Master Ball
+Ball: Dusk Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 Atk / 4 SpD / 252 Spe
 Ability: Rough Skin
@@ -5841,7 +5843,7 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Master Ball
+Ball: Dusk Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 4 Atk / 252 Def / 252 SpD
 Ability: Thick Fat
@@ -5856,7 +5858,7 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Master Ball
+Ball: Dusk Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 196 Atk / 36 Def / 36 SpD / 196 Spe
 Ability: Inner Focus
@@ -5876,7 +5878,7 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Master Ball
+Ball: Dusk Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 Atk / 4 Def / 252 Spe
 Ability: Inner Focus
@@ -5891,7 +5893,7 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Master Ball
+Ball: Dusk Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 HP / 164 Atk / 92 Def
 Relaxed Nature
@@ -5905,7 +5907,7 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Master Ball
+Ball: Dusk Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 HP / 8 Atk / 248 SpD
 Careful Nature
@@ -5919,7 +5921,7 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Master Ball
+Ball: Dusk Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 36 HP / 196 Atk / 36 Def / 236 SpD
 Ability: Sniper
@@ -5934,7 +5936,7 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Master Ball
+Ball: Dusk Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 Atk / 4 Def / 252 Spe
 Jolly Nature
@@ -5948,7 +5950,7 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Master Ball
+Ball: Dusk Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 116 Def / 188 SpA / 196 Spe
 Ability: Dry Skin
@@ -5967,7 +5969,7 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Master Ball
+Ball: Dusk Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 Atk / 4 SpD / 252 Spe
 Ability: Dry Skin
@@ -5982,7 +5984,7 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Master Ball
+Ball: Dusk Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 Atk / 4 SpD / 252 Spe
 Jolly Nature
@@ -5996,7 +5998,7 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Master Ball
+Ball: Dusk Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 204 Atk / 44 SpA / 232 Spe
 Jolly Nature
@@ -6010,7 +6012,7 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Master Ball
+Ball: Dusk Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 HP / 4 Def / 252 Spe
 Timid Nature
@@ -6024,7 +6026,7 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Master Ball
+Ball: Dusk Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 76 HP / 36 Def / 200 SpA / 196 Spe
 Ability: Water Absorb
@@ -6039,7 +6041,7 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Master Ball
+Ball: Dusk Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 36 HP / 20 Atk / 36 Def / 180 SpA / 36 SpD / 196 Spe
 Naive Nature
@@ -6059,7 +6061,7 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Master Ball
+Ball: Dusk Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 HP / 252 Atk / 4 SpD
 Adamant Nature
@@ -6073,7 +6075,7 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Master Ball
+Ball: Dusk Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 Atk / 4 SpD / 252 Spe
 Jolly Nature
@@ -6087,7 +6089,7 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Master Ball
+Ball: Dusk Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 4 HP / 252 Def / 252 Spe
 Timid Nature
@@ -6101,7 +6103,7 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Master Ball
+Ball: Dusk Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 HP / 4 Def / 252 SpD
 Ability: Oblivious
@@ -6116,7 +6118,7 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Master Ball
+Ball: Dusk Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 HP / 4 Atk / 252 SpD
 Ability: Solid Rock
@@ -6131,7 +6133,7 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Master Ball
+Ball: Dusk Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 HP / 4 Def / 252 SpD
 Ability: Regenerator
@@ -6151,7 +6153,7 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Master Ball
+Ball: Dusk Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 40 Atk / 252 SpA / 216 Spe
 Mild Nature
@@ -6165,7 +6167,7 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Master Ball
+Ball: Dusk Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 SpA / 4 SpD / 252 Spe
 Modest Nature
@@ -6179,7 +6181,7 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Master Ball
+Ball: Dusk Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 248 HP / 8 Def / 252 Spe
 Ability: Serene Grace
@@ -6194,7 +6196,7 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Master Ball
+Ball: Dusk Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 104 Def / 252 SpA / 152 Spe
 Modest Nature
@@ -6208,7 +6210,7 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Master Ball
+Ball: Dusk Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 Atk / 4 Def / 252 Spe
 Ability: Chlorophyll
@@ -6223,7 +6225,7 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Master Ball
+Ball: Dusk Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 4 Def / 252 SpA / 252 Spe
 Modest Nature
@@ -6241,7 +6243,7 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Master Ball
+Ball: Dusk Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 HP / 4 Atk / 252 Spe
 Jolly Nature
@@ -6255,7 +6257,7 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Master Ball
+Ball: Dusk Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 Atk / 4 SpD / 252 Spe
 Ability: Thick Fat
@@ -6270,7 +6272,7 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Master Ball
+Ball: Dusk Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 Atk / 4 SpD / 252 Spe
 Ability: Justified
@@ -6285,7 +6287,7 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Master Ball
+Ball: Dusk Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 HP / 4 Def / 252 SpD
 Ability: Magnet Pull
@@ -6300,7 +6302,7 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Master Ball
+Ball: Dusk Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 212 HP / 252 Atk / 44 Spe
 Ability: Frisk
@@ -6315,7 +6317,7 @@ OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Master Ball
+Ball: Dusk Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 Atk / 4 Def / 252 Spe
 Ability: Cursed Body
