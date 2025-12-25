@@ -3267,6 +3267,8 @@ Bold Nature
 .Ribbons=$suggestAll
 .MetDate=20220724
 
+
+# not exist
 Celebi @ Nugget
 Shiny: Yes
 OT: trucky
@@ -3324,6 +3326,10 @@ Timid Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
 .MetDate=20230503
+
+
+
+
 
 Torchic @ Nugget
 Shiny: Yes
@@ -3412,6 +3418,11 @@ Relaxed Nature
 .Ribbons=$suggestAll
 .MetDate=20250317
 
+
+
+
+
+
 Poochyena @ Nugget
 Shiny: Yes
 OT: trucky
@@ -3498,6 +3509,10 @@ Calm Nature
 .Ribbons=$suggestAll
 .MetDate=20240512
 
+
+
+
+
 Lotad @ Nugget
 Shiny: Yes
 OT: trucky
@@ -3581,6 +3596,10 @@ Jolly Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
 .MetDate=20240425
+
+
+
+
 
 Wingull @ Nugget
 Shiny: Yes
@@ -3670,6 +3689,9 @@ Timid Nature
 .Ribbons=$suggestAll
 .MetDate=20230917
 
+
+
+
 Shroomish @ Nugget
 Shiny: Yes
 OT: trucky
@@ -3755,6 +3777,10 @@ Relaxed Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
 .MetDate=20250209
+
+
+
+
 
 Shedinja @ Nugget
 Shiny: Yes
@@ -3842,6 +3868,10 @@ Brave Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
 .MetDate=20241208
+
+
+
+
 
 Nosepass @ Nugget
 Shiny: Yes
@@ -3932,6 +3962,11 @@ Adamant Nature
 .Ribbons=$suggestAll
 .MetDate=20230831
 
+
+
+
+
+
 Lairon @ Nugget
 Shiny: Yes
 OT: trucky
@@ -4018,6 +4053,11 @@ Timid Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
 .MetDate=20230416
+
+
+
+
+
 
 Minun @ Nugget
 Shiny: Yes
@@ -4106,6 +4146,11 @@ Calm Nature
 .Ribbons=$suggestAll
 .MetDate=20220407
 
+
+
+
+
+
 Carvanha @ Nugget
 Shiny: Yes
 OT: trucky
@@ -4193,6 +4238,11 @@ Rash Nature
 .Ribbons=$suggestAll
 .MetDate=20250515
 
+
+
+
+
+
 Torkoal @ Nugget
 Shiny: Yes
 OT: trucky
@@ -4279,6 +4329,11 @@ Careful Nature
 .Ribbons=$suggestAll
 .MetDate=20220517
 
+
+
+
+
+
 Flygon @ Nugget
 Shiny: Yes
 OT: trucky
@@ -4362,6 +4417,10 @@ Jolly Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
 .MetDate=20230506
+
+
+
+
 
 Seviper @ Nugget
 Shiny: Yes
@@ -4450,6 +4509,10 @@ Adamant Nature
 .Ribbons=$suggestAll
 .MetDate=20250226
 
+
+
+
+
 Crawdaunt @ Nugget
 Shiny: Yes
 OT: trucky
@@ -4536,6 +4599,10 @@ Adamant Nature
 .Ribbons=$suggestAll
 .MetDate=20250518
 
+
+
+
+
 Armaldo @ Nugget
 Shiny: Yes
 OT: trucky
@@ -4619,6 +4686,10 @@ Relaxed Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
 .MetDate=20221104
+
+
+
+
 
 Dusclops @ Nugget
 Shiny: Yes
@@ -4704,6 +4775,10 @@ Naive Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
 .MetDate=20240618
+
+
+
+
 
 Glalie @ Nugget
 Shiny: Yes
@@ -4791,6 +4866,11 @@ Modest Nature
 .Ribbons=$suggestAll
 .MetDate=20250426
 
+
+
+
+
+
 Relicanth @ Nugget
 Shiny: Yes
 OT: trucky
@@ -4876,6 +4956,11 @@ Adamant Nature
 .Ribbons=$suggestAll
 .MetDate=20241123
 
+
+
+
+
+
 Metang @ Nugget
 Shiny: Yes
 OT: trucky
@@ -4959,6 +5044,10 @@ Timid Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
 .MetDate=20220202
+
+
+
+
 
 Latios @ Nugget
 Shiny: Yes
@@ -5044,6 +5133,10 @@ Impish Nature
 .Ribbons=$suggestAll
 .MetDate=20221129
 
+
+
+
+
 Torterra @ Nugget
 Shiny: Yes
 OT: trucky
@@ -5128,6 +5221,12 @@ Modest Nature
 .Ribbons=$suggestAll
 .MetDate=20240318
 
+
+
+
+
+
+
 Starly @ Nugget
 Shiny: Yes
 OT: trucky
@@ -5211,6 +5310,11 @@ Adamant Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
 .MetDate=20240218
+
+
+
+
+
 
 Shinx @ Nugget
 Shiny: Yes
@@ -5297,6 +5401,11 @@ Jolly Nature
 .Ribbons=$suggestAll
 .MetDate=20220107
 
+
+
+
+
+
 Shieldon @ Nugget
 Shiny: Yes
 OT: trucky
@@ -5381,6 +5490,11 @@ Adamant Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
 .MetDate=20220807
+
+
+
+
+
 
 Cherubi @ Nugget
 Shiny: Yes
@@ -5469,6 +5583,13 @@ Jolly Nature
 .Ribbons=$suggestAll
 .MetDate=20220711
 
+
+
+
+
+
+
+
 Mismagius @ Nugget
 Shiny: Yes
 OT: trucky
@@ -5553,6 +5674,11 @@ Hasty Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
 .MetDate=20230601
+
+
+
+
+
 
 Skuntank @ Nugget
 Shiny: Yes
@@ -5643,6 +5769,13 @@ Timid Nature
 .Ribbons=$suggestAll
 .MetDate=20230401
 
+
+
+
+
+
+
+
 Spiritomb @ Nugget
 Shiny: Yes
 OT: trucky
@@ -5732,6 +5865,11 @@ Adamant Nature
 .Ribbons=$suggestAll
 .MetDate=20240226
 
+
+
+
+
+
 Lucario @ Nugget
 Shiny: Yes
 OT: trucky
@@ -5819,6 +5957,10 @@ Modest Nature
 .Ribbons=$suggestAll
 .MetDate=20231119
 
+
+
+
+
 Toxicroak @ Nugget
 Shiny: Yes
 OT: trucky
@@ -5904,6 +6046,12 @@ Naive Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
 .MetDate=20240420
+
+
+
+
+
+
 
 Abomasnow @ Nugget
 Shiny: Yes
@@ -5992,6 +6140,11 @@ Sassy Nature
 .Ribbons=$suggestAll
 .MetDate=20240426
 
+
+
+
+
+
 Electivire @ Nugget
 Shiny: Yes
 OT: trucky
@@ -6077,6 +6230,10 @@ Modest Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
 .MetDate=20240401
+
+
+
+
 
 Gliscor @ Nugget
 Shiny: Yes
@@ -6166,6 +6323,10 @@ Jolly Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
 .MetDate=20251014
+
+
+
+
 
 Uxie @ Nugget
 Shiny: Yes
