@@ -14,6 +14,17 @@ function flattenMoves(moves) {
     return flat.slice(0, 4);
 }
 
+function getRandomDate() {
+    const start = new Date('2022-01-01');
+    const end = new Date();
+    const randomTime = start.getTime() + Math.random() * (end.getTime() - start.getTime());
+    const date = new Date(randomTime);
+    const year = date.getFullYear();
+    const month = String(date.getMonth() + 1).padStart(2, '0');
+    const day = String(date.getDate()).padStart(2, '0');
+    return `${year}${month}${day}`;
+}
+
 function formatEvs(evs) {
     const statNames = {
         hp: 'HP',
@@ -69,6 +80,7 @@ for (const key of sortedNames) {
     output += `${nature} Nature\n`;
     output += `.Moves=$suggestAll\n`;
     output += `.Ribbons=$suggestAll\n`;
+    output += `.MetDate=${getRandomDate()}\n`;
     output += '\n';
 }
 

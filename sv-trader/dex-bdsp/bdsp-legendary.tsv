@@ -1,0 +1,68 @@
+
+
+Articuno @ Nugget
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 957558
+SID: 0162
+Ball: Master Ball
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+EVs: 252 HP / 160 SpD / 96 Spe
+Careful Nature
+.Moves=$suggestAll
+.Ribbons=$suggestAll
+
+Zapdos @ Nugget
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 957558
+SID: 0162
+Ball: Master Ball
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+EVs: 248 HP / 220 Def / 40 Spe
+Ability: Static
+Timid Nature
+.Moves=$suggestAll
+.Ribbons=$suggestAll
+
+Moltres @ Nugget
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 957558
+SID: 0162
+Ball: Master Ball
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+EVs: 88 HP / 168 SpA / 252 Spe
+Ability: Flame Body
+Timid Nature
+.Moves=$suggestAll
+.Ribbons=$suggestAll
+
+Mewtwo @ Nugget
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 957558
+SID: 0162
+Ball: Master Ball
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+EVs: 4 Def / 252 SpA / 252 Spe
+Timid Nature
+.Moves=$suggestAll
+.Ribbons=$suggestAll
+
+Mew @ Nugget
+Shiny: No
+OT: trucky
+OTGender: Female
+TID: 957558
+SID: 0162
+Ball: Poke Ball
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+EVs: 248 HP / 148 SpD / 112 Spe
+Jolly Nature
+.Moves=$suggestAll
+.Ribbons=$suggestAll
