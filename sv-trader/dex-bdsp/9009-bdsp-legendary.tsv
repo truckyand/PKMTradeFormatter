@@ -1,5 +1,5 @@
 
-
+#
 Articuno @ Nugget
 Shiny: Yes
 OT: trucky
@@ -13,6 +13,7 @@ Careful Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
 
+#
 Zapdos @ Nugget
 Shiny: Yes
 OT: trucky
@@ -27,6 +28,7 @@ Timid Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
 
+#
 Moltres @ Nugget
 Shiny: Yes
 OT: trucky
@@ -41,6 +43,7 @@ Timid Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
 
+#
 Mewtwo @ Nugget
 Shiny: Yes
 OT: trucky
@@ -54,6 +57,7 @@ Timid Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
 
+#
 Mew @ Nugget
 Shiny: No
 OT: trucky
@@ -68,11 +72,7 @@ Jolly Nature
 .Ribbons=$suggestAll
 
 
-
-
-
-
-
+#
 Raikou @ Nugget
 Shiny: Yes
 OT: trucky
@@ -87,6 +87,7 @@ Timid Nature
 .Ribbons=$suggestAll
 .MetDate=20251005
 
+#
 Entei @ Nugget
 Shiny: Yes
 OT: trucky
@@ -102,6 +103,7 @@ Jolly Nature
 .Ribbons=$suggestAll
 .MetDate=20250206
 
+#
 Suicune @ Nugget
 Shiny: Yes
 OT: trucky
@@ -117,12 +119,7 @@ Timid Nature
 .MetDate=20220121
 
 
-
-
-
-
-
-
+#
 Regirock @ Nugget
 Shiny: Yes
 OT: trucky
@@ -137,6 +134,7 @@ Impish Nature
 .Ribbons=$suggestAll
 .MetDate=20251216
 
+#
 Regice @ Nugget
 Shiny: Yes
 OT: trucky
@@ -151,6 +149,7 @@ Modest Nature
 .Ribbons=$suggestAll
 .MetDate=20220909
 
+#
 Registeel @ Nugget
 Shiny: Yes
 OT: trucky
@@ -165,7 +164,7 @@ Careful Nature
 .Ribbons=$suggestAll
 .MetDate=20230721
 
-
+#
 Regigigas @ Nugget
 Shiny: Yes
 OT: trucky
@@ -182,7 +181,7 @@ Adamant Nature
 .MetDate=20240523
 
 
-
+#
 Latias @ Nugget
 Shiny: Yes
 OT: trucky
@@ -198,9 +197,7 @@ Timid Nature
 .MetDate=20220202
 
 
-
-
-
+#
 Latios @ Nugget
 Shiny: Yes
 OT: trucky
@@ -215,6 +212,7 @@ Hasty Nature
 .Ribbons=$suggestAll
 .MetDate=20250629
 
+#
 Kyogre @ Nugget
 Shiny: Yes
 OT: trucky
@@ -229,6 +227,7 @@ Bold Nature
 .Ribbons=$suggestAll
 .MetDate=20220708
 
+#
 Groudon @ Nugget
 Shiny: Yes
 OT: trucky
@@ -243,6 +242,7 @@ Adamant Nature
 .Ribbons=$suggestAll
 .MetDate=20230521
 
+#
 Rayquaza @ Nugget
 Shiny: Yes
 OT: trucky
@@ -257,6 +257,7 @@ Jolly Nature
 .Ribbons=$suggestAll
 .MetDate=20250224
 
+# ???
 Jirachi @ Nugget
 Shiny: Yes
 OT: trucky
@@ -417,4 +418,151 @@ Timid Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
 .MetDate=20250126
+
+
+
+
+
+
+
+
+
+
+
+
+
+Regirock @ Nugget
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 957558
+SID: 0162
+Ball: Dusk Ball
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+EVs: 252 HP / 232 Def / 24 SpD
+Impish Nature
+.Moves=$suggestAll
+.Ribbons=$suggestAll
+.MetDate=20251216
+
+Regice @ Nugget
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 957558
+SID: 0162
+Ball: Dusk Ball
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+EVs: 4 Def / 252 SpA / 252 Spe
+Modest Nature
+.Moves=$suggestAll
+.Ribbons=$suggestAll
+.MetDate=20220909
+
+Registeel @ Nugget
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 957558
+SID: 0162
+Ball: Dusk Ball
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+EVs: 252 HP / 4 Def / 252 SpD
+Careful Nature
+.Moves=$suggestAll
+.Ribbons=$suggestAll
+.MetDate=20230721
+
+Latias @ Nugget
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 957558
+SID: 0162
+Ball: Dusk Ball
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+EVs: 248 HP / 8 Def / 252 Spe
+Timid Nature
+.Moves=$suggestAll
+.Ribbons=$suggestAll
+.MetDate=20220202
+
+
+
+
+
+Latios @ Nugget
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 957558
+SID: 0162
+Ball: Dusk Ball
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+EVs: 4 Atk / 252 SpA / 252 Spe
+Hasty Nature
+.Moves=$suggestAll
+.Ribbons=$suggestAll
+.MetDate=20250629
+
+Kyogre @ Nugget
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 957558
+SID: 0162
+Ball: Dusk Ball
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+EVs: 252 HP / 252 Def / 4 SpD
+Bold Nature
+.Moves=$suggestAll
+.Ribbons=$suggestAll
+.MetDate=20220708
+
+Groudon @ Nugget
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 957558
+SID: 0162
+Ball: Dusk Ball
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+EVs: 240 HP / 252 Atk / 16 Spe
+Adamant Nature
+.Moves=$suggestAll
+.Ribbons=$suggestAll
+.MetDate=20230521
+
+Rayquaza @ Nugget
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 957558
+SID: 0162
+Ball: Dusk Ball
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+EVs: 252 Atk / 4 Def / 252 Spe
+Jolly Nature
+.Moves=$suggestAll
+.Ribbons=$suggestAll
+.MetDate=20250224
+
+Jirachi @ Nugget
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 957558
+SID: 0162
+Ball: Dusk Ball
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+EVs: 252 Atk / 4 SpD / 252 Spe
+Jolly Nature
+.Moves=$suggestAll
+.Ribbons=$suggestAll
+.MetDate=20221006
+
+
+
+
+
 
