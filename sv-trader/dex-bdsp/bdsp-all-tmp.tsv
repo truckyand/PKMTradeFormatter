@@ -850,7 +850,7 @@ TID: 957558
 SID: 0162
 Ball: Safari Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-EVs: 196 HP / 196 Atk / 36 Def / 36 SpD / 36 Spe
+EVs: 196 HP / 196 Atk / 36 Def
 Ability: Sturdy
 Adamant Nature
 .Moves=$suggestAll

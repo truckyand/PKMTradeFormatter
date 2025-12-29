@@ -1,432 +1,209 @@
 
-#
-Articuno @ Nugget
+
+
+
+
+Grotle @ Rare Candy
+Level: 99
 Shiny: Yes
 OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Master Ball
+Ball: Dusk Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-EVs: 252 HP / 160 SpD / 96 Spe
-Careful Nature
-.Moves=$suggestAll
-.Ribbons=$suggestAll
-
-#
-Zapdos @ Nugget
-Shiny: Yes
-OT: trucky
-OTGender: Female
-TID: 957558
-SID: 0162
-Ball: Master Ball
-IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-EVs: 248 HP / 220 Def / 40 Spe
-Ability: Static
-Timid Nature
-.Moves=$suggestAll
-.Ribbons=$suggestAll
-
-#
-Moltres @ Nugget
-Shiny: Yes
-OT: trucky
-OTGender: Female
-TID: 957558
-SID: 0162
-Ball: Master Ball
-IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-EVs: 88 HP / 168 SpA / 252 Spe
-Ability: Flame Body
-Timid Nature
-.Moves=$suggestAll
-.Ribbons=$suggestAll
-
-#
-Mewtwo @ Nugget
-Shiny: Yes
-OT: trucky
-OTGender: Female
-TID: 957558
-SID: 0162
-Ball: Master Ball
-IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-EVs: 4 Def / 252 SpA / 252 Spe
-Timid Nature
-.Moves=$suggestAll
-.Ribbons=$suggestAll
-
-#
-Mew @ Nugget
-Shiny: No
-OT: trucky
-OTGender: Female
-TID: 957558
-SID: 0162
-Ball: Poke Ball
-IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-EVs: 248 HP / 148 SpD / 112 Spe
-Jolly Nature
-.Moves=$suggestAll
-.Ribbons=$suggestAll
-
-
-#
-Raikou @ Nugget
-Shiny: Yes
-OT: trucky
-OTGender: Female
-TID: 957558
-SID: 0162
-Ball: Master Ball
-IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-EVs: 252 SpA / 4 SpD / 252 Spe
-Timid Nature
-.Moves=$suggestAll
-.Ribbons=$suggestAll
-.MetDate=20251005
-
-#
-Entei @ Nugget
-Shiny: Yes
-OT: trucky
-OTGender: Female
-TID: 957558
-SID: 0162
-Ball: Master Ball
-IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-EVs: 252 Atk / 4 SpD / 252 Spe
-Ability: Inner Focus
-Jolly Nature
-.Moves=$suggestAll
-.Ribbons=$suggestAll
-.MetDate=20250206
-
-#
-Suicune @ Nugget
-Shiny: Yes
-OT: trucky
-OTGender: Female
-TID: 957558
-SID: 0162
-Ball: Master Ball
-IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-EVs: 252 HP / 40 Def / 216 Spe
-Timid Nature
-.Moves=$suggestAll
-.Ribbons=$suggestAll
-.MetDate=20220121
-
-
-#
-Regirock @ Nugget
-Shiny: Yes
-OT: trucky
-OTGender: Female
-TID: 957558
-SID: 0162
-Ball: Master Ball
-IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-EVs: 252 HP / 232 Def / 24 SpD
+EVs: 236 HP / 52 Atk / 84 Def / 76 SpD / 28 Spe
 Impish Nature
-.Moves=$suggestAll
-.Ribbons=$suggestAll
-.MetDate=20251216
-
-#
-Regice @ Nugget
-Shiny: Yes
-OT: trucky
-OTGender: Female
-TID: 957558
-SID: 0162
-Ball: Master Ball
-IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-EVs: 4 Def / 252 SpA / 252 Spe
-Modest Nature
-.Moves=$suggestAll
-.Ribbons=$suggestAll
-.MetDate=20220909
-
-#
-Registeel @ Nugget
-Shiny: Yes
-OT: trucky
-OTGender: Female
-TID: 957558
-SID: 0162
-Ball: Master Ball
-IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-EVs: 252 HP / 4 Def / 252 SpD
-Careful Nature
-.Moves=$suggestAll
-.Ribbons=$suggestAll
-.MetDate=20230721
-
-#
-Regigigas @ Nugget
-Shiny: Yes
-OT: trucky
-OTGender: Female
-TID: 957558
-SID: 0162
-Ball: Master Ball
-IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-EVs: 252 HP / 252 Atk / 252 Def / 252 SpD / 252 Spe
-Ability: Poison Heal
-Adamant Nature
-.Moves=$suggestAll
-.Ribbons=$suggestAll
-.MetDate=20240523
-
-
-#
-Latias @ Nugget
-Shiny: Yes
-OT: trucky
-OTGender: Female
-TID: 957558
-SID: 0162
-Ball: Master Ball
-IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-EVs: 248 HP / 8 Def / 252 Spe
-Timid Nature
-.Moves=$suggestAll
-.Ribbons=$suggestAll
-.MetDate=20220202
-
-
-#
-Latios @ Nugget
-Shiny: Yes
-OT: trucky
-OTGender: Female
-TID: 957558
-SID: 0162
-Ball: Master Ball
-IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-EVs: 4 Atk / 252 SpA / 252 Spe
-Hasty Nature
-.Moves=$suggestAll
-.Ribbons=$suggestAll
-.MetDate=20250629
-
-#
-Kyogre @ Nugget
-Shiny: Yes
-OT: trucky
-OTGender: Female
-TID: 957558
-SID: 0162
-Ball: Master Ball
-IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-EVs: 252 HP / 252 Def / 4 SpD
-Bold Nature
-.Moves=$suggestAll
-.Ribbons=$suggestAll
-.MetDate=20220708
-
-#
-Groudon @ Nugget
-Shiny: Yes
-OT: trucky
-OTGender: Female
-TID: 957558
-SID: 0162
-Ball: Master Ball
-IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-EVs: 240 HP / 252 Atk / 16 Spe
-Adamant Nature
-.Moves=$suggestAll
-.Ribbons=$suggestAll
-.MetDate=20230521
-
-#
-Rayquaza @ Nugget
-Shiny: Yes
-OT: trucky
-OTGender: Female
-TID: 957558
-SID: 0162
-Ball: Master Ball
-IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-EVs: 252 Atk / 4 Def / 252 Spe
-Jolly Nature
-.Moves=$suggestAll
-.Ribbons=$suggestAll
-.MetDate=20250224
-
-
-
-#
-Uxie @ Nugget
-Shiny: Yes
-OT: trucky
-OTGender: Female
-TID: 957558
-SID: 0162
-Ball: Master Ball
-IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-EVs: 252 HP / 252 Def / 4 SpD
-Bold Nature
-.Moves=$suggestAll
-.Ribbons=$suggestAll
-.MetDate=20220203
-
-#
-Mesprit @ Nugget
-Shiny: Yes
-OT: trucky
-OTGender: Female
-TID: 957558
-SID: 0162
-Ball: Master Ball
-IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-EVs: 4 Def / 252 SpA / 252 Spe
-Timid Nature
-.Moves=$suggestAll
-.Ribbons=$suggestAll
-.MetDate=20230505
-
-#
-Azelf @ Nugget
-Shiny: Yes
-OT: trucky
-OTGender: Female
-TID: 957558
-SID: 0162
-Ball: Master Ball
-IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-EVs: 4 HP / 252 SpA / 252 Spe
-Timid Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
 .MetDate=20221129
 
 
-#
-Dialga @ Nugget
+
+
+Staravia @ Rare Candy
+Level: 99
 Shiny: Yes
 OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Master Ball
+Ball: Dusk Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-EVs: 252 HP / 240 SpD / 16 Spe
-Calm Nature
+EVs: 236 Atk / 36 SpA / 196 Spe
+Naive Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
-.MetDate=20221118
+.MetDate=20240716
 
-#
-Palkia @ Nugget
+
+
+Prinplup @ Rare Candy
+Level: 99
 Shiny: Yes
 OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Master Ball
+Ball: Dusk Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-EVs: 252 SpA / 4 SpD / 252 Spe
+EVs: 92 HP / 12 Def / 192 SpA / 200 Spe
 Timid Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
-.MetDate=20221204
+.MetDate=20221221
 
-#
-Heatran @ Nugget
+
+
+
+Luxio @ Rare Candy
+Level: 99
 Shiny: Yes
 OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Master Ball
+Ball: Dusk Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-EVs: 252 HP / 232 SpD / 24 Spe
-Calm Nature
+EVs: 236 Atk / 244 Def / 4 SpD
+Brave Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
-.MetDate=20230713
+.MetDate=20220228
 
 
-Cresselia @ Nugget
+
+
+Magikarp @ Rare Candy
+Level: 99
 Shiny: Yes
 OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Master Ball
-IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-EVs: 252 HP / 148 SpD / 108 Spe
-Calm Nature
-.Moves=$suggestAll
-.Ribbons=$suggestAll
-.MetDate=20241112
-
-
-
-Darkrai @ Nugget
-Shiny: Yes
-OT: trucky
-OTGender: Female
-TID: 957558
-SID: 0162
-Ball: Master Ball
-IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-EVs: 252 SpA / 4 SpD / 252 Spe
-Timid Nature
-.Moves=$suggestAll
-.Ribbons=$suggestAll
-.MetDate=20250126
-
-
-
-#
-Giratina
-Shiny: Yes
-OT: trucky
-OTGender: Female
-TID: 957558
-SID: 0162
-Ball: Master Ball
-Language: English
-IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-EVs: 252 HP / 252 SpA / 4 SpD
-Ability: Pressure
-Naughty Nature
-.Moves=$suggestAll
-.Ribbons=$suggestAll
-.MetDate=20220121
-
-
-# 
-Jirachi @ Nugget
-Shiny: No
-OT: trucky
-OTGender: Female
-TID: 957558
-SID: 0162
-Ball: Poke Ball
+Ball: Safari Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 Atk / 4 SpD / 252 Spe
+Ability: Swift Swim
+Hardy Nature
+.Moves=$suggestAll
+.Ribbons=$suggestAll
+.MetDate=20251218
+.MetLevel=15
+.MetLocation=00222
+
+
+
+#
+
+
+
+Burmy
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 957558
+SID: 0162
+Ball: Dusk Ball
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+EVs: 196 HP / 208 Atk / 80 Def
+Shed Skin Ability
 Jolly Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
-.MetDate=20221006
+.MetDate=20220530
 
 
-
-
-# ???
-Phione @ Nugget
+Wormadam-plant
 Shiny: Yes
 OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Master Ball
+Ball: Dusk Ball
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+EVs: 56 HP / 252 SpA / 200 Spe
+Shed Skin Ability
+Modest Nature
+.Moves=$suggestAll
+.Ribbons=$suggestAll
+.MetDate=20220530
+
+
+
+Wormadam-Sandy
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 957558
+SID: 0162
+Ball: Dusk Ball
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+EVs: 56 HP / 252 SpA / 200 Spe
+Shed Skin Ability
+Modest Nature
+.Moves=$suggestAll
+.Ribbons=$suggestAll
+.MetDate=20220530
+
+
+Wormadam-Trash
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 957558
+SID: 0162
+Ball: Dusk Ball
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+EVs: 56 HP / 252 SpA / 200 Spe
+Shed Skin Ability
+Modest Nature
+.Moves=$suggestAll
+.Ribbons=$suggestAll
+.MetDate=20220530
+
+
+
+#
+
+
+Graveler @ Everstone
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 957558
+SID: 0162
+Ball: Dusk Ball
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+EVs: 196 HP / 196 Atk / 36 Def
+Jolly Nature
+.Moves=$suggestAll
+.Ribbons=$suggestAll
+.MetDate=20220530
+
+
+Mothim @ Choice Scarf
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 957558
+SID: 0162
+Ball: Dusk Ball
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+EVs: 252 SpA / 4 SpD / 252 Spe
+Modest Nature
+.Moves=$suggestAll
+.Ribbons=$suggestAll
+.MetDate=20220530
+
+
+Wurmple
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 957558
+SID: 0162
+Ball: Dusk Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 HP / 4 Atk / 252 Spe
 Jolly Nature
@@ -435,21 +212,249 @@ Jolly Nature
 .MetDate=20220530
 
 
-# ???
-Manaphy @ Nugget
-Shiny: No
+Silcoon
+Shiny: Yes
 OT: trucky
 OTGender: Female
 TID: 957558
 SID: 0162
-Ball: Master Ball
+Ball: Dusk Ball
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-EVs: 80 HP / 252 SpA / 176 Spe
-Timid Nature
+EVs: 252 HP / 4 Atk / 252 Spe
+Jolly Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
-.MetDate=20240602
+.MetDate=20220530
+
+
+Cascoon
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 957558
+SID: 0162
+Ball: Dusk Ball
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+EVs: 252 HP / 4 Atk / 252 Spe
+Jolly Nature
+.Moves=$suggestAll
+.Ribbons=$suggestAll
+.MetDate=20220530
+
+
+Combee
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 957558
+SID: 0162
+Ball: Dusk Ball
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+EVs: 252 HP / 4 Atk / 252 Spe
+Jolly Nature
+.Moves=$suggestAll
+.Ribbons=$suggestAll
+.MetDate=20220530
+
+
+
+#
 
 
 
 
+Cherrim @ Heat Rock
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 957558
+SID: 0162
+Ball: Dusk Ball
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+EVs: 4 HP / 252 SpA / 252 SpD
+Modest Nature
+.Moves=$suggestAll
+.Ribbons=$suggestAll
+.MetDate=20220530
+
+
+Shellos @ Eviolite
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 957558
+SID: 0162
+Ball: Dusk Ball
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+EVs: 228 HP / 4 Def / 100 SpD / 4 Spe
+Bold Nature
+.Moves=$suggestAll
+.Ribbons=$suggestAll
+.MetDate=20220530
+
+
+Gastrodon
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 957558
+SID: 0162
+Ball: Dusk Ball
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+EVs: 252 HP / 252 Def / 4 SpD
+Bold Nature
+.Moves=$suggestAll
+.Ribbons=$suggestAll
+.MetDate=20220530
+
+
+
+Misdreavus
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 957558
+SID: 0162
+Ball: Dusk Ball
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+EVs: 252 HP / 4 Atk / 252 Spe
+Jolly Nature
+.Moves=$suggestAll
+.Ribbons=$suggestAll
+.MetDate=20220530
+
+
+meditite
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 957558
+SID: 0162
+Ball: Dusk Ball
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+EVs: 252 HP / 4 Atk / 252 Spe
+Jolly Nature
+.Moves=$suggestAll
+.Ribbons=$suggestAll
+.MetDate=20220530
+
+Medicham
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 957558
+SID: 0162
+Ball: Dusk Ball
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+EVs: 252 HP / 4 SpD / 252 Spe
+Jolly Nature
+.Moves=$suggestAll
+.Ribbons=$suggestAll
+.MetDate=20220530
+
+
+
+
+# 
+
+
+
+
+
+Mime Jr.
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 957558
+SID: 0162
+Ball: Dusk Ball
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+EVs: 252 SpA / 252 Spe / 4 SpD
+Modest Nature
+.Moves=$suggestAll
+.Ribbons=$suggestAll
+.MetDate=20220530
+
+
+
+Mr. Mime
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 957558
+SID: 0162
+Ball: Dusk Ball
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+EVs: 252 HP / 4 Atk / 252 Spe
+Jolly Nature
+.Moves=$suggestAll
+.Ribbons=$suggestAll
+.MetDate=20220530
+
+
+
+
+
+
+marill
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 957558
+SID: 0162
+Ball: Dusk Ball
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+EVs: 116 HP / 196 Atk / 36 Def / 116 SpD
+Brave Nature
+.Moves=$suggestAll
+.Ribbons=$suggestAll
+.MetDate=20220530
+
+
+
+feebas
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 957558
+SID: 0162
+Ball: Dusk Ball
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+EVs: 252 HP / 4 Atk / 252 Spe
+Jolly Nature
+.Moves=$suggestAll
+.Ribbons=$suggestAll
+.MetDate=20220530
+
+
+
+
+
+Unown-A
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 957558
+SID: 0162
+Ball: Dusk Ball
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+EVs: 252 SpA / 4 SpD / 252 Spe
+Jolly Nature
+.Moves=$suggestAll
+.Ribbons=$suggestAll
+.MetDate=20220530
+
+
+Unown-B
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 957558
+SID: 0162
+Ball: Dusk Ball
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+EVs: 252 SpA / 4 SpD / 252 Spe
+Jolly Nature
+.Moves=$suggestAll
+.Ribbons=$suggestAll
+.MetDate=20220530
