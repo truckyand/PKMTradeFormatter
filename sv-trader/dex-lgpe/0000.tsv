@@ -1,10 +1,7 @@
 Found Partner - OT: trucky, TID: 727928, SID: 2120
 
 
-
-
-.bt Charmander @ Nugget
-Level: 25
+.t Charizard @ Nugget
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -14,13 +11,12 @@ Ability: Blaze
 EVs: 252 Atk / 4 SpD / 252 Spe
 Adamant Nature
 - Flamethrower
-- Slash
-- Dragon Rage
-- Headbutt
+- Fire Spin
+- Fire Punch
+- Wing Attack
 
 
 .t Dragonite @ Nugget
-Level: 35
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -29,12 +25,13 @@ SID: 2120
 Ability: Inner Focus
 EVs: 4 HP / 252 Atk / 252 Spe
 Hardy Nature
-.Moves=$suggestAll
-
+- Flamethrower
+- Fire Blast
+- Dragon Tail
+- Dragon Rage
 
 
 .t Gyarados @ Nugget
-Level: 35
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -44,22 +41,10 @@ EVs: 4 HP / 252 Atk / 252 Spe
 .Moves=$suggestAll
 
 
-
-
-.t Zapdos @ Nugget
-Level: 35
-Shiny: Yes
-OT: trucky
-OTGender: Female
-TID: 727928
-SID: 2120
-EVs: 4 HP / 252 Atk / 252 Spe
-.Moves=$suggestAll
 
 
 
 Snorlax @ Nugget
-Level: 35
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -73,7 +58,6 @@ Adamant Nature
 
 
 Alakazam @ Nugget
-Level: 35
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -88,7 +72,6 @@ Adamant Nature
 
 
 .t Lapras @ Nugget
-Level: 35
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -101,7 +84,6 @@ EVs: 4 HP / 252 Atk / 252 Spe
 
 
 Squirtle @ Nugget
-Level: 25
 Shiny: Yes
 OT: trucky
 OTGender: Female
