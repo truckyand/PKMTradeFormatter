@@ -1,4 +1,4 @@
-Bulbasaur
+.t Bulbasaur
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -10,7 +10,7 @@ EVs: 252 Atk / 252 Spe / 4 Def
 .Ribbons=$suggestAll
 .MetDate=20250827
 
-Ivysaur
+.t Ivysaur
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -22,7 +22,7 @@ EVs: 252 Atk / 252 Spe / 4 Def
 .Ribbons=$suggestAll
 .MetDate=20250716
 
-Venusaur
+.t Venusaur
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -34,7 +34,7 @@ EVs: 252 Atk / 252 Spe / 4 Def
 .Ribbons=$suggestAll
 .MetDate=20250219
 
-Charmander
+.t Charmander
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -46,7 +46,7 @@ EVs: 252 Atk / 252 Spe / 4 Def
 .Ribbons=$suggestAll
 .MetDate=20251113
 
-Charmeleon
+.t Charmeleon
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -58,7 +58,7 @@ EVs: 252 Atk / 252 Spe / 4 Def
 .Ribbons=$suggestAll
 .MetDate=20250403
 
-Charizard
+.t Charizard
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -70,7 +70,7 @@ EVs: 252 Atk / 252 Spe / 4 Def
 .Ribbons=$suggestAll
 .MetDate=20241222
 
-Squirtle
+.t Squirtle
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -82,7 +82,7 @@ EVs: 252 Atk / 252 Spe / 4 Def
 .Ribbons=$suggestAll
 .MetDate=20250504
 
-Wartortle
+.t Wartortle
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -94,7 +94,7 @@ EVs: 252 Atk / 252 Spe / 4 Def
 .Ribbons=$suggestAll
 .MetDate=20251027
 
-Blastoise
+.t Blastoise
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -106,7 +106,7 @@ EVs: 252 Atk / 252 Spe / 4 Def
 .Ribbons=$suggestAll
 .MetDate=20240410
 
-Caterpie
+.t Caterpie
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -118,7 +118,7 @@ EVs: 252 Atk / 252 Spe / 4 Def
 .Ribbons=$suggestAll
 .MetDate=20241014
 
-Metapod
+.t Metapod
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -130,7 +130,7 @@ EVs: 252 Atk / 252 Spe / 4 Def
 .Ribbons=$suggestAll
 .MetDate=20251218
 
-Butterfree
+.t Butterfree
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -142,7 +142,7 @@ EVs: 252 Atk / 252 Spe / 4 Def
 .Ribbons=$suggestAll
 .MetDate=20240102
 
-Weedle
+.t Weedle
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -154,7 +154,7 @@ EVs: 252 Atk / 252 Spe / 4 Def
 .Ribbons=$suggestAll
 .MetDate=20241211
 
-Kakuna
+.t Kakuna
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -166,7 +166,7 @@ EVs: 252 Atk / 252 Spe / 4 Def
 .Ribbons=$suggestAll
 .MetDate=20250420
 
-Beedrill
+.t Beedrill
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -178,7 +178,7 @@ EVs: 252 Atk / 252 Spe / 4 Def
 .Ribbons=$suggestAll
 .MetDate=20240704
 
-Pidgey
+.t Pidgey
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -190,7 +190,7 @@ EVs: 252 Atk / 252 Spe / 4 Def
 .Ribbons=$suggestAll
 .MetDate=20250204
 
-Pidgeotto
+.t Pidgeotto
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -202,7 +202,7 @@ EVs: 252 Atk / 252 Spe / 4 Def
 .Ribbons=$suggestAll
 .MetDate=20250812
 
-Pidgeot
+.t Pidgeot
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -214,7 +214,7 @@ EVs: 252 Atk / 252 Spe / 4 Def
 .Ribbons=$suggestAll
 .MetDate=20251023
 
-Rattata
+.t Rattata
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -226,7 +226,7 @@ EVs: 252 Atk / 252 Spe / 4 Def
 .Ribbons=$suggestAll
 .MetDate=20250314
 
-Raticate
+.t Raticate
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -238,7 +238,7 @@ EVs: 252 Atk / 252 Spe / 4 Def
 .Ribbons=$suggestAll
 .MetDate=20240115
 
-Spearow
+.t Spearow
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -250,7 +250,7 @@ EVs: 252 Atk / 252 Spe / 4 Def
 .Ribbons=$suggestAll
 .MetDate=20250629
 
-Fearow
+.t Fearow
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -262,7 +262,7 @@ EVs: 252 Atk / 252 Spe / 4 Def
 .Ribbons=$suggestAll
 .MetDate=20240708
 
-Ekans
+.t Ekans
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -274,7 +274,7 @@ EVs: 252 Atk / 252 Spe / 4 Def
 .Ribbons=$suggestAll
 .MetDate=20250630
 
-Arbok
+.t Arbok
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -286,7 +286,7 @@ EVs: 252 Atk / 252 Spe / 4 Def
 .Ribbons=$suggestAll
 .MetDate=20240528
 
-Pikachu
+.t Pikachu
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -298,7 +298,7 @@ EVs: 252 Atk / 252 Spe / 4 Def
 .Ribbons=$suggestAll
 .MetDate=20240509
 
-Raichu
+.t Raichu
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -310,7 +310,7 @@ EVs: 252 Atk / 252 Spe / 4 Def
 .Ribbons=$suggestAll
 .MetDate=20250611
 
-Sandshrew
+.t Sandshrew
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -322,7 +322,7 @@ EVs: 252 Atk / 252 Spe / 4 Def
 .Ribbons=$suggestAll
 .MetDate=20250526
 
-Sandslash
+.t Sandslash
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -334,7 +334,7 @@ EVs: 252 Atk / 252 Spe / 4 Def
 .Ribbons=$suggestAll
 .MetDate=20250330
 
-Nidoran F
+.t Nidoran F
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -346,7 +346,7 @@ EVs: 252 Atk / 252 Spe / 4 Def
 .Ribbons=$suggestAll
 .MetDate=20250405
 
-Nidorina
+.t Nidorina
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -358,7 +358,7 @@ EVs: 252 Atk / 252 Spe / 4 Def
 .Ribbons=$suggestAll
 .MetDate=20250716
 
-Nidoqueen
+.t Nidoqueen
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -370,7 +370,7 @@ EVs: 252 Atk / 252 Spe / 4 Def
 .Ribbons=$suggestAll
 .MetDate=20241125
 
-Nidoran M
+.t Nidoran M
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -382,7 +382,7 @@ EVs: 252 Atk / 252 Spe / 4 Def
 .Ribbons=$suggestAll
 .MetDate=20241205
 
-Nidorino
+.t Nidorino
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -394,7 +394,7 @@ EVs: 252 Atk / 252 Spe / 4 Def
 .Ribbons=$suggestAll
 .MetDate=20240604
 
-Nidoking
+.t Nidoking
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -406,7 +406,7 @@ EVs: 252 Atk / 252 Spe / 4 Def
 .Ribbons=$suggestAll
 .MetDate=20251012
 
-Clefairy
+.t Clefairy
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -418,7 +418,7 @@ EVs: 252 Atk / 252 Spe / 4 Def
 .Ribbons=$suggestAll
 .MetDate=20240825
 
-Clefable
+.t Clefable
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -430,7 +430,7 @@ EVs: 252 Atk / 252 Spe / 4 Def
 .Ribbons=$suggestAll
 .MetDate=20250303
 
-Vulpix
+.t Vulpix
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -442,7 +442,7 @@ EVs: 252 Atk / 252 Spe / 4 Def
 .Ribbons=$suggestAll
 .MetDate=20250304
 
-Ninetales
+.t Ninetales
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -454,7 +454,7 @@ EVs: 252 Atk / 252 Spe / 4 Def
 .Ribbons=$suggestAll
 .MetDate=20241027
 
-Jigglypuff
+.t Jigglypuff
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -466,7 +466,7 @@ EVs: 252 Atk / 252 Spe / 4 Def
 .Ribbons=$suggestAll
 .MetDate=20250706
 
-Wigglytuff
+.t Wigglytuff
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -478,7 +478,7 @@ EVs: 252 Atk / 252 Spe / 4 Def
 .Ribbons=$suggestAll
 .MetDate=20241017
 
-Zubat
+.t Zubat
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -490,7 +490,7 @@ EVs: 252 Atk / 252 Spe / 4 Def
 .Ribbons=$suggestAll
 .MetDate=20240907
 
-Golbat
+.t Golbat
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -502,7 +502,7 @@ EVs: 252 Atk / 252 Spe / 4 Def
 .Ribbons=$suggestAll
 .MetDate=20251031
 
-Oddish
+.t Oddish
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -514,7 +514,7 @@ EVs: 252 Atk / 252 Spe / 4 Def
 .Ribbons=$suggestAll
 .MetDate=20240901
 
-Gloom
+.t Gloom
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -526,7 +526,7 @@ EVs: 252 Atk / 252 Spe / 4 Def
 .Ribbons=$suggestAll
 .MetDate=20240105
 
-Vileplume
+.t Vileplume
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -538,7 +538,7 @@ EVs: 252 Atk / 252 Spe / 4 Def
 .Ribbons=$suggestAll
 .MetDate=20250726
 
-Paras
+.t Paras
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -550,7 +550,7 @@ EVs: 252 Atk / 252 Spe / 4 Def
 .Ribbons=$suggestAll
 .MetDate=20240404
 
-Parasect
+.t Parasect
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -562,7 +562,7 @@ EVs: 252 Atk / 252 Spe / 4 Def
 .Ribbons=$suggestAll
 .MetDate=20251024
 
-Venonat
+.t Venonat
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -574,7 +574,7 @@ EVs: 252 Atk / 252 Spe / 4 Def
 .Ribbons=$suggestAll
 .MetDate=20250419
 
-Venomoth
+.t Venomoth
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -586,7 +586,7 @@ EVs: 252 Atk / 252 Spe / 4 Def
 .Ribbons=$suggestAll
 .MetDate=20251007
 
-Diglett
+.t Diglett
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -598,7 +598,7 @@ EVs: 252 Atk / 252 Spe / 4 Def
 .Ribbons=$suggestAll
 .MetDate=20250430
 
-Dugtrio
+.t Dugtrio
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -610,7 +610,7 @@ EVs: 252 Atk / 252 Spe / 4 Def
 .Ribbons=$suggestAll
 .MetDate=20240505
 
-Meowth
+.t Meowth
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -622,7 +622,7 @@ EVs: 252 Atk / 252 Spe / 4 Def
 .Ribbons=$suggestAll
 .MetDate=20250422
 
-Persian
+.t Persian
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -634,7 +634,7 @@ EVs: 252 Atk / 252 Spe / 4 Def
 .Ribbons=$suggestAll
 .MetDate=20240106
 
-Psyduck
+.t Psyduck
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -646,7 +646,7 @@ EVs: 252 Atk / 252 Spe / 4 Def
 .Ribbons=$suggestAll
 .MetDate=20240305
 
-Golduck
+.t Golduck
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -658,7 +658,7 @@ EVs: 252 Atk / 252 Spe / 4 Def
 .Ribbons=$suggestAll
 .MetDate=20250208
 
-Mankey
+.t Mankey
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -670,7 +670,7 @@ EVs: 252 Atk / 252 Spe / 4 Def
 .Ribbons=$suggestAll
 .MetDate=20250208
 
-Primeape
+.t Primeape
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -682,7 +682,7 @@ EVs: 252 Atk / 252 Spe / 4 Def
 .Ribbons=$suggestAll
 .MetDate=20240928
 
-Growlithe
+.t Growlithe
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -694,7 +694,7 @@ EVs: 252 Atk / 252 Spe / 4 Def
 .Ribbons=$suggestAll
 .MetDate=20250719
 
-Arcanine
+.t Arcanine
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -706,7 +706,7 @@ EVs: 252 Atk / 252 Spe / 4 Def
 .Ribbons=$suggestAll
 .MetDate=20240229
 
-Poliwag
+.t Poliwag
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -718,7 +718,7 @@ EVs: 252 Atk / 252 Spe / 4 Def
 .Ribbons=$suggestAll
 .MetDate=20241019
 
-Poliwhirl
+.t Poliwhirl
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -730,7 +730,7 @@ EVs: 252 Atk / 252 Spe / 4 Def
 .Ribbons=$suggestAll
 .MetDate=20240417
 
-Poliwrath
+.t Poliwrath
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -742,7 +742,7 @@ EVs: 252 Atk / 252 Spe / 4 Def
 .Ribbons=$suggestAll
 .MetDate=20241002
 
-Abra
+.t Abra
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -754,7 +754,7 @@ EVs: 252 Atk / 252 Spe / 4 Def
 .Ribbons=$suggestAll
 .MetDate=20251107
 
-Kadabra
+.t Kadabra
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -766,7 +766,7 @@ EVs: 252 Atk / 252 Spe / 4 Def
 .Ribbons=$suggestAll
 .MetDate=20250417
 
-Alakazam
+.t Alakazam
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -778,7 +778,7 @@ EVs: 252 Atk / 252 Spe / 4 Def
 .Ribbons=$suggestAll
 .MetDate=20250705
 
-Machop
+.t Machop
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -790,7 +790,7 @@ EVs: 252 Atk / 252 Spe / 4 Def
 .Ribbons=$suggestAll
 .MetDate=20250203
 
-Machoke
+.t Machoke
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -802,7 +802,7 @@ EVs: 252 Atk / 252 Spe / 4 Def
 .Ribbons=$suggestAll
 .MetDate=20241224
 
-Machamp
+.t Machamp
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -814,7 +814,7 @@ EVs: 252 Atk / 252 Spe / 4 Def
 .Ribbons=$suggestAll
 .MetDate=20251016
 
-Bellsprout
+.t Bellsprout
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -826,7 +826,7 @@ EVs: 252 Atk / 252 Spe / 4 Def
 .Ribbons=$suggestAll
 .MetDate=20250925
 
-Weepinbell
+.t Weepinbell
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -838,7 +838,7 @@ EVs: 252 Atk / 252 Spe / 4 Def
 .Ribbons=$suggestAll
 .MetDate=20240307
 
-Victreebel
+.t Victreebel
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -850,7 +850,7 @@ EVs: 252 Atk / 252 Spe / 4 Def
 .Ribbons=$suggestAll
 .MetDate=20240704
 
-Tentacool
+.t Tentacool
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -862,7 +862,7 @@ EVs: 252 Atk / 252 Spe / 4 Def
 .Ribbons=$suggestAll
 .MetDate=20250426
 
-Tentacruel
+.t Tentacruel
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -874,7 +874,7 @@ EVs: 252 Atk / 252 Spe / 4 Def
 .Ribbons=$suggestAll
 .MetDate=20250226
 
-Geodude
+.t Geodude
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -886,7 +886,7 @@ EVs: 252 Atk / 252 Spe / 4 Def
 .Ribbons=$suggestAll
 .MetDate=20250311
 
-Graveler
+.t Graveler
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -898,7 +898,7 @@ EVs: 252 Atk / 252 Spe / 4 Def
 .Ribbons=$suggestAll
 .MetDate=20240824
 
-Golem
+.t Golem
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -910,7 +910,7 @@ EVs: 252 Atk / 252 Spe / 4 Def
 .Ribbons=$suggestAll
 .MetDate=20250728
 
-Ponyta
+.t Ponyta
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -922,7 +922,7 @@ EVs: 252 Atk / 252 Spe / 4 Def
 .Ribbons=$suggestAll
 .MetDate=20250319
 
-Rapidash
+.t Rapidash
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -934,7 +934,7 @@ EVs: 252 Atk / 252 Spe / 4 Def
 .Ribbons=$suggestAll
 .MetDate=20241123
 
-Slowpoke
+.t Slowpoke
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -946,7 +946,7 @@ EVs: 252 Atk / 252 Spe / 4 Def
 .Ribbons=$suggestAll
 .MetDate=20240902
 
-Slowbro
+.t Slowbro
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -958,7 +958,7 @@ EVs: 252 Atk / 252 Spe / 4 Def
 .Ribbons=$suggestAll
 .MetDate=20241212
 
-Magnemite
+.t Magnemite
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -970,7 +970,7 @@ EVs: 252 Atk / 252 Spe / 4 Def
 .Ribbons=$suggestAll
 .MetDate=20250516
 
-Magneton
+.t Magneton
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -982,7 +982,7 @@ EVs: 252 Atk / 252 Spe / 4 Def
 .Ribbons=$suggestAll
 .MetDate=20240904
 
-Farfetchd
+.t Farfetchd
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -994,7 +994,7 @@ EVs: 252 Atk / 252 Spe / 4 Def
 .Ribbons=$suggestAll
 .MetDate=20241016
 
-Doduo
+.t Doduo
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -1006,7 +1006,7 @@ EVs: 252 Atk / 252 Spe / 4 Def
 .Ribbons=$suggestAll
 .MetDate=20241025
 
-Dodrio
+.t Dodrio
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -1018,7 +1018,7 @@ EVs: 252 Atk / 252 Spe / 4 Def
 .Ribbons=$suggestAll
 .MetDate=20240416
 
-Seel
+.t Seel
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -1030,7 +1030,7 @@ EVs: 252 Atk / 252 Spe / 4 Def
 .Ribbons=$suggestAll
 .MetDate=20240121
 
-Dewgong
+.t Dewgong
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -1042,7 +1042,7 @@ EVs: 252 Atk / 252 Spe / 4 Def
 .Ribbons=$suggestAll
 .MetDate=20240513
 
-Grimer
+.t Grimer
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -1054,7 +1054,7 @@ EVs: 252 Atk / 252 Spe / 4 Def
 .Ribbons=$suggestAll
 .MetDate=20250827
 
-Muk
+.t Muk
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -1066,7 +1066,7 @@ EVs: 252 Atk / 252 Spe / 4 Def
 .Ribbons=$suggestAll
 .MetDate=20241020
 
-Shellder
+.t Shellder
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -1078,7 +1078,7 @@ EVs: 252 Atk / 252 Spe / 4 Def
 .Ribbons=$suggestAll
 .MetDate=20250629
 
-Cloyster
+.t Cloyster
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -1090,7 +1090,7 @@ EVs: 252 Atk / 252 Spe / 4 Def
 .Ribbons=$suggestAll
 .MetDate=20240523
 
-Gastly
+.t Gastly
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -1102,7 +1102,7 @@ EVs: 252 Atk / 252 Spe / 4 Def
 .Ribbons=$suggestAll
 .MetDate=20240628
 
-Haunter
+.t Haunter
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -1114,7 +1114,7 @@ EVs: 252 Atk / 252 Spe / 4 Def
 .Ribbons=$suggestAll
 .MetDate=20240912
 
-Gengar
+.t Gengar
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -1126,7 +1126,7 @@ EVs: 252 Atk / 252 Spe / 4 Def
 .Ribbons=$suggestAll
 .MetDate=20240608
 
-Onix
+.t Onix
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -1138,7 +1138,7 @@ EVs: 252 Atk / 252 Spe / 4 Def
 .Ribbons=$suggestAll
 .MetDate=20250810
 
-Drowzee
+.t Drowzee
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -1150,7 +1150,7 @@ EVs: 252 Atk / 252 Spe / 4 Def
 .Ribbons=$suggestAll
 .MetDate=20250415
 
-Hypno
+.t Hypno
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -1162,7 +1162,7 @@ EVs: 252 Atk / 252 Spe / 4 Def
 .Ribbons=$suggestAll
 .MetDate=20251010
 
-Krabby
+.t Krabby
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -1174,7 +1174,7 @@ EVs: 252 Atk / 252 Spe / 4 Def
 .Ribbons=$suggestAll
 .MetDate=20251016
 
-Kingler
+.t Kingler
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -1186,7 +1186,7 @@ EVs: 252 Atk / 252 Spe / 4 Def
 .Ribbons=$suggestAll
 .MetDate=20240727
 
-Voltorb
+.t Voltorb
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -1198,7 +1198,7 @@ EVs: 252 Atk / 252 Spe / 4 Def
 .Ribbons=$suggestAll
 .MetDate=20240601
 
-Electrode
+.t Electrode
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -1210,7 +1210,7 @@ EVs: 252 Atk / 252 Spe / 4 Def
 .Ribbons=$suggestAll
 .MetDate=20250417
 
-Exeggcute
+.t Exeggcute
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -1222,7 +1222,7 @@ EVs: 252 Atk / 252 Spe / 4 Def
 .Ribbons=$suggestAll
 .MetDate=20240124
 
-Exeggutor
+.t Exeggutor
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -1234,7 +1234,7 @@ EVs: 252 Atk / 252 Spe / 4 Def
 .Ribbons=$suggestAll
 .MetDate=20250923
 
-Cubone
+.t Cubone
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -1246,7 +1246,7 @@ EVs: 252 Atk / 252 Spe / 4 Def
 .Ribbons=$suggestAll
 .MetDate=20241122
 
-Marowak
+.t Marowak
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -1258,7 +1258,7 @@ EVs: 252 Atk / 252 Spe / 4 Def
 .Ribbons=$suggestAll
 .MetDate=20251012
 
-Hitmonlee
+.t Hitmonlee
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -1270,7 +1270,7 @@ EVs: 252 Atk / 252 Spe / 4 Def
 .Ribbons=$suggestAll
 .MetDate=20250312
 
-Hitmonchan
+.t Hitmonchan
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -1282,7 +1282,7 @@ EVs: 252 Atk / 252 Spe / 4 Def
 .Ribbons=$suggestAll
 .MetDate=20250804
 
-Lickitung
+.t Lickitung
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -1294,7 +1294,7 @@ EVs: 252 Atk / 252 Spe / 4 Def
 .Ribbons=$suggestAll
 .MetDate=20250421
 
-Koffing
+.t Koffing
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -1306,7 +1306,7 @@ EVs: 252 Atk / 252 Spe / 4 Def
 .Ribbons=$suggestAll
 .MetDate=20251127
 
-Weezing
+.t Weezing
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -1318,7 +1318,7 @@ EVs: 252 Atk / 252 Spe / 4 Def
 .Ribbons=$suggestAll
 .MetDate=20250813
 
-Rhyhorn
+.t Rhyhorn
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -1330,7 +1330,7 @@ EVs: 252 Atk / 252 Spe / 4 Def
 .Ribbons=$suggestAll
 .MetDate=20240320
 
-Rhydon
+.t Rhydon
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -1342,7 +1342,7 @@ EVs: 252 Atk / 252 Spe / 4 Def
 .Ribbons=$suggestAll
 .MetDate=20240330
 
-Chansey
+.t Chansey
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -1354,7 +1354,7 @@ EVs: 252 Atk / 252 Spe / 4 Def
 .Ribbons=$suggestAll
 .MetDate=20250219
 
-Tangela
+.t Tangela
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -1366,7 +1366,7 @@ EVs: 252 Atk / 252 Spe / 4 Def
 .Ribbons=$suggestAll
 .MetDate=20240212
 
-Kangaskhan
+.t Kangaskhan
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -1378,7 +1378,7 @@ EVs: 252 Atk / 252 Spe / 4 Def
 .Ribbons=$suggestAll
 .MetDate=20250125
 
-Horsea
+.t Horsea
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -1390,7 +1390,7 @@ EVs: 252 Atk / 252 Spe / 4 Def
 .Ribbons=$suggestAll
 .MetDate=20250814
 
-Seadra
+.t Seadra
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -1402,7 +1402,7 @@ EVs: 252 Atk / 252 Spe / 4 Def
 .Ribbons=$suggestAll
 .MetDate=20240402
 
-Goldeen
+.t Goldeen
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -1414,7 +1414,7 @@ EVs: 252 Atk / 252 Spe / 4 Def
 .Ribbons=$suggestAll
 .MetDate=20250120
 
-Seaking
+.t Seaking
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -1426,7 +1426,7 @@ EVs: 252 Atk / 252 Spe / 4 Def
 .Ribbons=$suggestAll
 .MetDate=20240523
 
-Staryu
+.t Staryu
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -1438,7 +1438,7 @@ EVs: 252 Atk / 252 Spe / 4 Def
 .Ribbons=$suggestAll
 .MetDate=20241214
 
-Starmie
+.t Starmie
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -1450,7 +1450,7 @@ EVs: 252 Atk / 252 Spe / 4 Def
 .Ribbons=$suggestAll
 .MetDate=20240507
 
-Mr. Mime
+.t Mr. Mime
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -1462,7 +1462,7 @@ EVs: 252 Atk / 252 Spe / 4 Def
 .Ribbons=$suggestAll
 .MetDate=20240319
 
-Scyther
+.t Scyther
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -1474,7 +1474,7 @@ EVs: 252 Atk / 252 Spe / 4 Def
 .Ribbons=$suggestAll
 .MetDate=20251002
 
-Jynx
+.t Jynx
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -1486,7 +1486,7 @@ EVs: 252 Atk / 252 Spe / 4 Def
 .Ribbons=$suggestAll
 .MetDate=20250831
 
-Electabuzz
+.t Electabuzz
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -1498,7 +1498,7 @@ EVs: 252 Atk / 252 Spe / 4 Def
 .Ribbons=$suggestAll
 .MetDate=20240912
 
-Magmar
+.t Magmar
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -1510,7 +1510,7 @@ EVs: 252 Atk / 252 Spe / 4 Def
 .Ribbons=$suggestAll
 .MetDate=20240816
 
-Pinsir
+.t Pinsir
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -1522,7 +1522,7 @@ EVs: 252 Atk / 252 Spe / 4 Def
 .Ribbons=$suggestAll
 .MetDate=20240626
 
-Tauros
+.t Tauros
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -1534,7 +1534,7 @@ EVs: 252 Atk / 252 Spe / 4 Def
 .Ribbons=$suggestAll
 .MetDate=20240403
 
-Magikarp
+.t Magikarp
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -1546,7 +1546,7 @@ EVs: 252 Atk / 252 Spe / 4 Def
 .Ribbons=$suggestAll
 .MetDate=20250327
 
-Gyarados
+.t Gyarados
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -1558,7 +1558,7 @@ EVs: 252 Atk / 252 Spe / 4 Def
 .Ribbons=$suggestAll
 .MetDate=20240830
 
-Lapras
+.t Lapras
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -1570,7 +1570,7 @@ EVs: 252 Atk / 252 Spe / 4 Def
 .Ribbons=$suggestAll
 .MetDate=20250222
 
-Ditto
+.t Ditto
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -1582,7 +1582,7 @@ EVs: 252 Atk / 252 Spe / 4 Def
 .Ribbons=$suggestAll
 .MetDate=20250415
 
-Eevee
+.t Eevee
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -1594,7 +1594,7 @@ EVs: 252 Atk / 252 Spe / 4 Def
 .Ribbons=$suggestAll
 .MetDate=20250310
 
-Vaporeon
+.t Vaporeon
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -1606,7 +1606,7 @@ EVs: 252 Atk / 252 Spe / 4 Def
 .Ribbons=$suggestAll
 .MetDate=20251029
 
-Jolteon
+.t Jolteon
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -1618,7 +1618,7 @@ EVs: 252 Atk / 252 Spe / 4 Def
 .Ribbons=$suggestAll
 .MetDate=20240326
 
-Flareon
+.t Flareon
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -1630,7 +1630,7 @@ EVs: 252 Atk / 252 Spe / 4 Def
 .Ribbons=$suggestAll
 .MetDate=20250508
 
-Porygon
+.t Porygon
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -1642,7 +1642,7 @@ EVs: 252 Atk / 252 Spe / 4 Def
 .Ribbons=$suggestAll
 .MetDate=20251211
 
-Omanyte
+.t Omanyte
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -1654,7 +1654,7 @@ EVs: 252 Atk / 252 Spe / 4 Def
 .Ribbons=$suggestAll
 .MetDate=20251013
 
-Omastar
+.t Omastar
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -1666,7 +1666,7 @@ EVs: 252 Atk / 252 Spe / 4 Def
 .Ribbons=$suggestAll
 .MetDate=20240530
 
-Kabuto
+.t Kabuto
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -1678,7 +1678,7 @@ EVs: 252 Atk / 252 Spe / 4 Def
 .Ribbons=$suggestAll
 .MetDate=20251017
 
-Kabutops
+.t Kabutops
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -1690,7 +1690,7 @@ EVs: 252 Atk / 252 Spe / 4 Def
 .Ribbons=$suggestAll
 .MetDate=20240424
 
-Aerodactyl
+.t Aerodactyl
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -1702,7 +1702,7 @@ EVs: 252 Atk / 252 Spe / 4 Def
 .Ribbons=$suggestAll
 .MetDate=20240715
 
-Snorlax
+.t Snorlax
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -1714,43 +1714,46 @@ EVs: 252 Atk / 252 Spe / 4 Def
 .Ribbons=$suggestAll
 .MetDate=20241029
 
-Articuno
+.t Articuno 
 Shiny: Yes
 OT: trucky
 OTGender: Female
 TID: 727928
 SID: 2120
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-EVs: 252 Atk / 252 Spe / 4 Def
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
-.MetDate=20250710
+.MetDate=20220530
 
-Zapdos
+.t Zapdos
 Shiny: Yes
 OT: trucky
 OTGender: Female
 TID: 727928
 SID: 2120
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-EVs: 252 Atk / 252 Spe / 4 Def
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
-.MetDate=20250727
+.MetDate=20220530
 
-Moltres
+.t Moltres 
 Shiny: Yes
 OT: trucky
 OTGender: Female
 TID: 727928
 SID: 2120
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-EVs: 252 Atk / 252 Spe / 4 Def
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
 .Moves=$suggestAll
 .Ribbons=$suggestAll
-.MetDate=20250622
+.MetDate=20220530
 
-Dratini
+.t Dratini
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -1762,7 +1765,7 @@ EVs: 252 Atk / 252 Spe / 4 Def
 .Ribbons=$suggestAll
 .MetDate=20240131
 
-Dragonair
+.t Dragonair
 Shiny: Yes
 OT: trucky
 OTGender: Female
