@@ -1,0 +1,240 @@
+
+
+.t Rattata
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 727928
+SID: 2120
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+EVs: 252 Atk / 252 Spe / 4 Def
+.Moves=$suggestAll
+.Ribbons=$suggestAll
+.MetDate=20250314
+
+#
+
+.t Raticate
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 727928
+SID: 2120
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+EVs: 252 Atk / 252 Spe / 4 Def
+.Moves=$suggestAll
+.Ribbons=$suggestAll
+.MetDate=20240115
+
+
+.t Raichu
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 727928
+SID: 2120
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+EVs: 252 Atk / 252 Spe / 4 Def
+.Moves=$suggestAll
+.Ribbons=$suggestAll
+.MetDate=20250611
+
+
+
+
+.t Sandshrew
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 727928
+SID: 2120
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+EVs: 252 Atk / 252 Spe / 4 Def
+.Moves=$suggestAll
+.Ribbons=$suggestAll
+.MetDate=20250526
+
+.t Sandslash
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 727928
+SID: 2120
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+EVs: 252 Atk / 252 Spe / 4 Def
+.Moves=$suggestAll
+.Ribbons=$suggestAll
+.MetDate=20250330
+
+
+
+
+.t Vulpix
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 727928
+SID: 2120
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+EVs: 252 Atk / 252 Spe / 4 Def
+.Moves=$suggestAll
+.Ribbons=$suggestAll
+.MetDate=20250304
+
+.t Ninetales
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 727928
+SID: 2120
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+EVs: 252 Atk / 252 Spe / 4 Def
+.Moves=$suggestAll
+.Ribbons=$suggestAll
+.MetDate=20241027
+
+
+
+.t Diglett
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 727928
+SID: 2120
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+EVs: 252 Atk / 252 Spe / 4 Def
+.Moves=$suggestAll
+.Ribbons=$suggestAll
+.MetDate=20250430
+
+.t Dugtrio
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 727928
+SID: 2120
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+EVs: 252 Atk / 252 Spe / 4 Def
+.Moves=$suggestAll
+.Ribbons=$suggestAll
+.MetDate=20240505
+
+
+
+
+.t Meowth
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 727928
+SID: 2120
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+EVs: 252 Atk / 252 Spe / 4 Def
+.Moves=$suggestAll
+.Ribbons=$suggestAll
+.MetDate=20250422
+
+.t Persian
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 727928
+SID: 2120
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+EVs: 252 Atk / 252 Spe / 4 Def
+.Moves=$suggestAll
+.Ribbons=$suggestAll
+.MetDate=20240106
+
+
+
+.t Geodude
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 727928
+SID: 2120
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+EVs: 252 Atk / 252 Spe / 4 Def
+.Moves=$suggestAll
+.Ribbons=$suggestAll
+.MetDate=20250311
+
+.t Graveler
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 727928
+SID: 2120
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+EVs: 252 Atk / 252 Spe / 4 Def
+.Moves=$suggestAll
+.Ribbons=$suggestAll
+.MetDate=20240824
+
+.t Golem
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 727928
+SID: 2120
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+EVs: 252 Atk / 252 Spe / 4 Def
+.Moves=$suggestAll
+.Ribbons=$suggestAll
+.MetDate=20250728
+
+
+
+.t Grimer
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 727928
+SID: 2120
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+EVs: 252 Atk / 252 Spe / 4 Def
+.Moves=$suggestAll
+.Ribbons=$suggestAll
+.MetDate=20250827
+
+.t Muk
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 727928
+SID: 2120
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+EVs: 252 Atk / 252 Spe / 4 Def
+.Moves=$suggestAll
+.Ribbons=$suggestAll
+.MetDate=20241020
+
+
+
+
+.t Exeggutor
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 727928
+SID: 2120
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+EVs: 252 Atk / 252 Spe / 4 Def
+.Moves=$suggestAll
+.Ribbons=$suggestAll
+.MetDate=20250923
+
+
+
+.t Marowak
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 727928
+SID: 2120
+IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
+EVs: 252 Atk / 252 Spe / 4 Def
+.Moves=$suggestAll
+.Ribbons=$suggestAll
+.MetDate=20251012
