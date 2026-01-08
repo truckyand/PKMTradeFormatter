@@ -226,6 +226,8 @@ EVs: 252 Atk / 252 Spe / 4 Def
 .Ribbons=$suggestAll
 .MetDate=20250314
 
+#
+
 .t Raticate
 Shiny: Yes
 OT: trucky
@@ -334,7 +336,7 @@ EVs: 252 Atk / 252 Spe / 4 Def
 .Ribbons=$suggestAll
 .MetDate=20250330
 
-.t Nidoran F
+.t Nidoran-F
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -370,7 +372,7 @@ EVs: 252 Atk / 252 Spe / 4 Def
 .Ribbons=$suggestAll
 .MetDate=20241125
 
-.t Nidoran M
+.t Nidoran-M
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -430,7 +432,6 @@ EVs: 252 Atk / 252 Spe / 4 Def
 .Ribbons=$suggestAll
 .MetDate=20250303
 
-#
 
 .t Vulpix
 Shiny: Yes
