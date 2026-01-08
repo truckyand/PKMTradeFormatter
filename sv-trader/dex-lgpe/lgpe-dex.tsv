@@ -430,6 +430,8 @@ EVs: 252 Atk / 252 Spe / 4 Def
 .Ribbons=$suggestAll
 .MetDate=20250303
 
+#
+
 .t Vulpix
 Shiny: Yes
 OT: trucky
@@ -982,7 +984,7 @@ EVs: 252 Atk / 252 Spe / 4 Def
 .Ribbons=$suggestAll
 .MetDate=20240904
 
-.t Farfetchd
+.t Farfetch'd
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -1018,7 +1020,7 @@ EVs: 252 Atk / 252 Spe / 4 Def
 .Ribbons=$suggestAll
 .MetDate=20240416
 
-# to be continue
+
 
 .t Seel
 Shiny: Yes
