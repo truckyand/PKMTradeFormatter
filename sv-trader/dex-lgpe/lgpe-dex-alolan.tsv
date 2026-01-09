@@ -1,6 +1,6 @@
 
 
-.t Rattata
+.t Rattata-Alola 
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -14,7 +14,7 @@ EVs: 252 Atk / 252 Spe / 4 Def
 
 #
 
-.t Raticate
+.t Raticate-Alola 
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -27,7 +27,7 @@ EVs: 252 Atk / 252 Spe / 4 Def
 .MetDate=20240115
 
 
-.t Raichu
+.t Raichu-Alola 
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -40,9 +40,7 @@ EVs: 252 Atk / 252 Spe / 4 Def
 .MetDate=20250611
 
 
-
-
-.t Sandshrew
+.t Sandshrew-Alola 
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -54,7 +52,8 @@ EVs: 252 Atk / 252 Spe / 4 Def
 .Ribbons=$suggestAll
 .MetDate=20250526
 
-.t Sandslash
+
+.t Sandslash-Alola 
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -67,9 +66,7 @@ EVs: 252 Atk / 252 Spe / 4 Def
 .MetDate=20250330
 
 
-
-
-.t Vulpix
+.t Vulpix-Alola 
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -81,7 +78,8 @@ EVs: 252 Atk / 252 Spe / 4 Def
 .Ribbons=$suggestAll
 .MetDate=20250304
 
-.t Ninetales
+
+.t Ninetales-Alola 
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -95,7 +93,7 @@ EVs: 252 Atk / 252 Spe / 4 Def
 
 
 
-.t Diglett
+.t Diglett-Alola 
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -107,7 +105,8 @@ EVs: 252 Atk / 252 Spe / 4 Def
 .Ribbons=$suggestAll
 .MetDate=20250430
 
-.t Dugtrio
+
+.t Dugtrio-Alola 
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -120,9 +119,7 @@ EVs: 252 Atk / 252 Spe / 4 Def
 .MetDate=20240505
 
 
-
-
-.t Meowth
+.t Meowth-Alola 
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -134,7 +131,9 @@ EVs: 252 Atk / 252 Spe / 4 Def
 .Ribbons=$suggestAll
 .MetDate=20250422
 
-.t Persian
+
+
+.t Persian-Alola 
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -148,7 +147,7 @@ EVs: 252 Atk / 252 Spe / 4 Def
 
 
 
-.t Geodude
+.t Geodude-Alola 
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -160,7 +159,8 @@ EVs: 252 Atk / 252 Spe / 4 Def
 .Ribbons=$suggestAll
 .MetDate=20250311
 
-.t Graveler
+
+.t Graveler-Alola 
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -172,7 +172,7 @@ EVs: 252 Atk / 252 Spe / 4 Def
 .Ribbons=$suggestAll
 .MetDate=20240824
 
-.t Golem
+.t Golem-Alola 
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -186,7 +186,7 @@ EVs: 252 Atk / 252 Spe / 4 Def
 
 
 
-.t Grimer
+.t Grimer-Alola 
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -198,7 +198,8 @@ EVs: 252 Atk / 252 Spe / 4 Def
 .Ribbons=$suggestAll
 .MetDate=20250827
 
-.t Muk
+
+.t Muk-Alola 
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -213,7 +214,7 @@ EVs: 252 Atk / 252 Spe / 4 Def
 
 
 
-.t Exeggutor
+.t Exeggutor-Alola 
 Shiny: Yes
 OT: trucky
 OTGender: Female
@@ -227,7 +228,7 @@ EVs: 252 Atk / 252 Spe / 4 Def
 
 
 
-.t Marowak
+.t Marowak-Alola 
 Shiny: Yes
 OT: trucky
 OTGender: Female
