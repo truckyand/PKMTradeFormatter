@@ -418,7 +418,7 @@ IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 Atk / 252 Spe / 4 Def
 .Moves=$suggestAll
 
-# to be continue
+
 Palossand @ Hyper Haban Berry
 Shiny: Yes
 Alpha: Yes
@@ -527,7 +527,7 @@ IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 Atk / 252 Spe / 4 Def
 .Moves=$suggestAll
 
-Arctibax @ Hyper Haban Berry
+Arctibax @ Everstone
 Shiny: Yes
 Alpha: Yes
 Level: 100
@@ -559,9 +559,13 @@ OT: trucky
 OTGender: Female
 TID: 758975
 SID: 4118
+Ability: Rattled
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 Atk / 252 Spe / 4 Def
-.Moves=$suggestAll
+Modest Nature
+- Power Gem
+- Tackle
+
 
 Gholdengo @ Hyper Haban Berry
 Shiny: Yes
@@ -587,7 +591,7 @@ IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 Atk / 252 Spe / 4 Def
 .Moves=$suggestAll
 
-Hisuian Qwilfish @ Hyper Haban Berry
+Qwilfish-Hisuian @ Hyper Haban Berry
 Shiny: Yes
 Alpha: Yes
 Level: 100
@@ -610,6 +614,8 @@ SID: 4118
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 Atk / 252 Spe / 4 Def
 .Moves=$suggestAll
+
+
 
 Treecko @ Hyper Haban Berry
 Shiny: Yes
@@ -707,6 +713,9 @@ IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 Atk / 252 Spe / 4 Def
 .Moves=$suggestAll
 
+
+
+
 Swampert @ Hyper Haban Berry
 Shiny: Yes
 Alpha: Yes
@@ -755,7 +764,10 @@ IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 Atk / 252 Spe / 4 Def
 .Moves=$suggestAll
 
-Chimecho @ Hyper Haban Berry
+
+
+#
+Chimecho @ Everstone
 Shiny: Yes
 Alpha: Yes
 Level: 100
@@ -767,7 +779,8 @@ IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 Atk / 252 Spe / 4 Def
 .Moves=$suggestAll
 
-Indeedee-M @ Hyper Haban Berry
+
+Indeedee-M @ Everstone
 Shiny: Yes
 Alpha: Yes
 Level: 100
@@ -779,7 +792,7 @@ IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 Atk / 252 Spe / 4 Def
 .Moves=$suggestAll
 
-Indeedee-F @ Hyper Haban Berry
+Indeedee-F @ Everstone
 Shiny: Yes
 Alpha: Yes
 Level: 100
@@ -802,6 +815,10 @@ SID: 4118
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 Atk / 252 Spe / 4 Def
 .Moves=$suggestAll
+
+
+
+
 
 Liepard @ Hyper Haban Berry
 Shiny: Yes
@@ -875,7 +892,7 @@ IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 Atk / 252 Spe / 4 Def
 .Moves=$suggestAll
 
-Galarian Yamask @ Hyper Haban Berry
+Yamask-Galarian @ Hyper Haban Berry
 Shiny: Yes
 Alpha: Yes
 Level: 100
@@ -914,14 +931,18 @@ EVs: 252 Atk / 252 Spe / 4 Def
 Wimpod @ Hyper Haban Berry
 Shiny: Yes
 Alpha: Yes
-Level: 100
+Level: 32
 OT: trucky
 OTGender: Female
 TID: 758975
 SID: 4118
+Ability: Wimp Out
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 Atk / 252 Spe / 4 Def
-.Moves=$suggestAll
+Hardy Nature
+IVs: 5 Atk / 24 SpA / 17 Spe
+- Mud Shot
+- Harden
 
 Golisopod @ Hyper Haban Berry
 Shiny: Yes
@@ -971,6 +992,11 @@ IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 Atk / 252 Spe / 4 Def
 .Moves=$suggestAll
 
+#
+
+
+
+
 Grapploct @ Hyper Haban Berry
 Shiny: Yes
 Alpha: Yes
@@ -1007,7 +1033,7 @@ IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 Atk / 252 Spe / 4 Def
 .Moves=$suggestAll
 
-Morpeko (Full Belly Mode) @ Hyper Haban Berry
+Morpeko @ Hyper Haban Berry
 Shiny: Yes
 Alpha: Yes
 Level: 100
@@ -1019,7 +1045,7 @@ IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 Atk / 252 Spe / 4 Def
 .Moves=$suggestAll
 
-Morpeko (Hangry Mode) @ Hyper Haban Berry
+Morpeko-Hangry @ Hyper Haban Berry
 Shiny: Yes
 Alpha: Yes
 Level: 100
@@ -1066,6 +1092,9 @@ SID: 4118
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 Atk / 252 Spe / 4 Def
 .Moves=$suggestAll
+
+
+# to be continue
 
 Corvisquire @ Hyper Haban Berry
 Shiny: Yes
