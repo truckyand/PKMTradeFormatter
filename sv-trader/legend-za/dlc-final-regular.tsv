@@ -1094,8 +1094,6 @@ EVs: 252 Atk / 252 Spe / 4 Def
 .Moves=$suggestAll
 
 
-# to be continue
-
 Corvisquire @ Hyper Haban Berry
 Shiny: Yes
 Alpha: Yes
@@ -1435,16 +1433,19 @@ EVs: 252 Atk / 252 Spe / 4 Def
 Toxel @ Hyper Haban Berry
 Shiny: Yes
 Alpha: Yes
-Level: 100
+Level: 28
 OT: trucky
 OTGender: Female
 TID: 758975
 SID: 4118
+Ability: Rattled
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 Atk / 252 Spe / 4 Def
-.Moves=$suggestAll
+Serious Nature
+- Facade
+- Growl
 
-Toxtricity (Amped Form) @ Hyper Haban Berry
+Toxtricity @ Hyper Haban Berry
 Shiny: Yes
 Alpha: Yes
 Level: 100
@@ -1456,7 +1457,7 @@ IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 Atk / 252 Spe / 4 Def
 .Moves=$suggestAll
 
-Toxtricity (Low Key Form) @ Hyper Haban Berry
+Toxtricity-Low-Key @ Hyper Haban Berry
 Shiny: Yes
 Alpha: Yes
 Level: 100
@@ -1540,7 +1541,7 @@ IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 Atk / 252 Spe / 4 Def
 .Moves=$suggestAll
 
-Galarian Mr. Mime @ Hyper Haban Berry
+Mr. Mime-Galar @ Hyper Haban Berry
 Shiny: Yes
 Alpha: Yes
 Level: 100
@@ -1588,9 +1589,14 @@ IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 Atk / 252 Spe / 4 Def
 .Moves=$suggestAll
 
+
+
+# to be continue
+
+
 Heatran @ Hyper Haban Berry
-Shiny: Yes
-Alpha: Yes
+Shiny: No
+Alpha: No
 Level: 100
 OT: trucky
 OTGender: Female
@@ -1601,8 +1607,8 @@ EVs: 252 Atk / 252 Spe / 4 Def
 .Moves=$suggestAll
 
 Volcanion @ Hyper Haban Berry
-Shiny: Yes
-Alpha: Yes
+Shiny: No
+Alpha: No
 Level: 100
 OT: trucky
 OTGender: Female
@@ -1614,7 +1620,7 @@ EVs: 252 Atk / 252 Spe / 4 Def
 
 Cobalion @ Hyper Haban Berry
 Shiny: Yes
-Alpha: Yes
+Alpha: No
 Level: 100
 OT: trucky
 OTGender: Female
@@ -1626,7 +1632,7 @@ EVs: 252 Atk / 252 Spe / 4 Def
 
 Terrakion @ Hyper Haban Berry
 Shiny: Yes
-Alpha: Yes
+Alpha: No
 Level: 100
 OT: trucky
 OTGender: Female
@@ -1638,7 +1644,7 @@ EVs: 252 Atk / 252 Spe / 4 Def
 
 Virizion @ Hyper Haban Berry
 Shiny: Yes
-Alpha: Yes
+Alpha: No
 Level: 100
 OT: trucky
 OTGender: Female
@@ -1649,8 +1655,8 @@ EVs: 252 Atk / 252 Spe / 4 Def
 .Moves=$suggestAll
 
 Keldeo @ Hyper Haban Berry
-Shiny: Yes
-Alpha: Yes
+Shiny: No
+Alpha: No
 Level: 100
 OT: trucky
 OTGender: Female
@@ -1660,9 +1666,9 @@ IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 Atk / 252 Spe / 4 Def
 .Moves=$suggestAll
 
-Keldeo (Resolute Form) @ Hyper Haban Berry
-Shiny: Yes
-Alpha: Yes
+Keldeo-Resolute @ Hyper Haban Berry
+Shiny: No
+Alpha: No
 Level: 100
 OT: trucky
 OTGender: Female
@@ -1672,9 +1678,9 @@ IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 Atk / 252 Spe / 4 Def
 .Moves=$suggestAll
 
-Meloetta (Aria Forme) @ Hyper Haban Berry
-Shiny: Yes
-Alpha: Yes
+Meloetta @ Hyper Haban Berry
+Shiny: No
+Alpha: No
 Level: 100
 OT: trucky
 OTGender: Female
@@ -1684,9 +1690,9 @@ IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 Atk / 252 Spe / 4 Def
 .Moves=$suggestAll
 
-Meloetta (Pirouette Forme) @ Hyper Haban Berry
-Shiny: Yes
-Alpha: Yes
+Meloetta-Pirouette @ Hyper Haban Berry
+Shiny: No
+Alpha: No
 Level: 100
 OT: trucky
 OTGender: Female
@@ -1697,8 +1703,8 @@ EVs: 252 Atk / 252 Spe / 4 Def
 .Moves=$suggestAll
 
 Genesect @ Hyper Haban Berry
-Shiny: Yes
-Alpha: Yes
+Shiny: No
+Alpha: No
 Level: 100
 OT: trucky
 OTGender: Female
@@ -1708,9 +1714,9 @@ IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 Atk / 252 Spe / 4 Def
 .Moves=$suggestAll
 
-Hoopa Confined @ Hyper Haban Berry
-Shiny: Yes
-Alpha: Yes
+Hoopa @ Hyper Haban Berry
+Shiny: No
+Alpha: No
 Level: 100
 OT: trucky
 OTGender: Female
@@ -1720,9 +1726,9 @@ IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
 EVs: 252 Atk / 252 Spe / 4 Def
 .Moves=$suggestAll
 
-Hoopa Unbound @ Hyper Haban Berry
-Shiny: Yes
-Alpha: Yes
+Hoopa-Unbound @ Hyper Haban Berry
+Shiny: No
+Alpha: No
 Level: 100
 OT: trucky
 OTGender: Female
@@ -1733,8 +1739,8 @@ EVs: 252 Atk / 252 Spe / 4 Def
 .Moves=$suggestAll
 
 Marshadow @ Hyper Haban Berry
-Shiny: Yes
-Alpha: Yes
+Shiny: No
+Alpha: No
 Level: 100
 OT: trucky
 OTGender: Female
@@ -1745,8 +1751,8 @@ EVs: 252 Atk / 252 Spe / 4 Def
 .Moves=$suggestAll
 
 Meltan @ Hyper Haban Berry
-Shiny: Yes
-Alpha: Yes
+Shiny: No
+Alpha: No
 Level: 100
 OT: trucky
 OTGender: Female
@@ -1757,20 +1763,20 @@ EVs: 252 Atk / 252 Spe / 4 Def
 .Moves=$suggestAll
 
 Melmetal @ Hyper Haban Berry
-Shiny: Yes
-Alpha: Yes
+Shiny: No
+Alpha: No
 Level: 100
 OT: trucky
 OTGender: Female
 TID: 758975
 SID: 4118
 IVs: 31 HP / 31 Spe / 31 Def / 31 SpD / 31 Atk / 31 SpA
-EVs: 252 Atk / 252 Spe / 4 Def
+EVs: 252 Atk / 252 HP / 4 Def
 .Moves=$suggestAll
 
 Darkrai @ Hyper Haban Berry
-Shiny: Yes
-Alpha: Yes
+Shiny: No
+Alpha: No
 Level: 100
 OT: trucky
 OTGender: Female
@@ -1782,7 +1788,7 @@ EVs: 252 Atk / 252 Spe / 4 Def
 
 Latias @ Hyper Haban Berry
 Shiny: Yes
-Alpha: Yes
+Alpha: No
 Level: 100
 OT: trucky
 OTGender: Female
@@ -1794,7 +1800,7 @@ EVs: 252 Atk / 252 Spe / 4 Def
 
 Latios @ Hyper Haban Berry
 Shiny: Yes
-Alpha: Yes
+Alpha: No
 Level: 100
 OT: trucky
 OTGender: Female
@@ -1805,8 +1811,8 @@ EVs: 252 Atk / 252 Spe / 4 Def
 .Moves=$suggestAll
 
 Kyogre @ Hyper Haban Berry
-Shiny: Yes
-Alpha: Yes
+Shiny: No
+Alpha: No
 Level: 100
 OT: trucky
 OTGender: Female
@@ -1817,8 +1823,8 @@ EVs: 252 Atk / 252 Spe / 4 Def
 .Moves=$suggestAll
 
 Groudon @ Hyper Haban Berry
-Shiny: Yes
-Alpha: Yes
+Shiny: No
+Alpha: No
 Level: 100
 OT: trucky
 OTGender: Female
@@ -1829,8 +1835,8 @@ EVs: 252 Atk / 252 Spe / 4 Def
 .Moves=$suggestAll
 
 Rayquaza @ Hyper Haban Berry
-Shiny: Yes
-Alpha: Yes
+Shiny: No
+Alpha: No
 Level: 100
 OT: trucky
 OTGender: Female
@@ -1841,8 +1847,8 @@ EVs: 252 Atk / 252 Spe / 4 Def
 .Moves=$suggestAll
 
 Magearna @ Hyper Haban Berry
-Shiny: Yes
-Alpha: Yes
+Shiny: No
+Alpha: No
 Level: 100
 OT: trucky
 OTGender: Female
@@ -1853,8 +1859,8 @@ EVs: 252 Atk / 252 Spe / 4 Def
 .Moves=$suggestAll
 
 Zeraora @ Hyper Haban Berry
-Shiny: Yes
-Alpha: Yes
+Shiny: No
+Alpha: No
 Level: 100
 OT: trucky
 OTGender: Female
