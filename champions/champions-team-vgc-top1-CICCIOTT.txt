@@ -1,0 +1,124 @@
+# https://pokebase.app/pokemon-champions/team-builder?team=6a33de41f1aaddcd1e91fe4b
+# champions-team-vgc-top1-CICCIOTT.txt
+
+
+<@685603387475230720> bt 
+
+Charizard
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 391666
+SID: 2164
+Ball: Poke Ball
+Language: English
+.MetDate=20230909
+.Ribbons=$suggestAll
+EVs: 4 HP / 252 SpA / 252 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Ability: Blaze
+Modest Nature
+- Heat Wave
+- Solar Beam
+- Weather Ball
+- Protect
+
+
+Sylveon @ Fairy Feather
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 391666
+SID: 2164
+Ball: Luxury Ball
+Language: English
+.MetDate=20231112
+.Ribbons=$suggestAll
+EVs: 4 HP / 252 Def / 252 SpA / 2 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Ability: Pixilate
+Modest Nature
+- Detect
+- Hyper Voice
+- Yawn
+- Quick Attack
+
+
+Kingambit @ Chople Berry
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 391666
+SID: 2164
+Ball: Master Ball
+Language: English
+.MetDate=20251211
+.Ribbons=$suggestAll
+EVs: 252 HP / 252 Atk / 4 SpD
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Ability: Defiant
+Adamant Nature
+- Sucker Punch
+- Kowtow Cleave
+- Low Kick
+- Iron Head
+
+
+Basculegion @ Focus Sash
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 391666
+SID: 2164
+Ball: Poke Ball
+Language: English
+.MetDate=20240102
+.Ribbons=$suggestAll
+EVs: 252 HP / 252 Def / 4 SpD
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Ability: Adaptability
+Adamant Nature
+- Protect
+- Last Respects
+- Aqua Jet
+- Liquidation
+
+
+Garchomp @ Sitrus Berry
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 391666
+SID: 2164
+Ball: Poke Ball
+Language: English
+.MetDate=20230109
+.Ribbons=$suggestAll
+EVs: 4 HP / 252 Atk / 252 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Ability: Rough Skin
+Jolly Nature
+- Rock Tomb
+- Earthquake
+- Dragon Claw
+- Protect
+
+# SV
+Aerodactyl
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Poke Ball
+Language: English
+.MetDate=20240303
+.Ribbons=$suggestAll
+EVs: 252 Atk / 4 SpD / 252 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Ability: Unnerve
+Jolly Nature
+- Tailwind
+- Dual Wingbeat
+- Rock Slide
+- Wide Guard

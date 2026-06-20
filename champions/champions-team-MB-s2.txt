@@ -1,0 +1,71 @@
+# https://pokepast.es/fa86150d218014a3
+
+
+
+
+
+pelipper @ sitrus berry
+Level: 50
+Ability: drizzle
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+serious Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- wide guard
+- tailwind
+- weather ball
+- hurricane
+
+sneasler @ white herb
+Level: 50
+Ability: unburden
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+serious Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- close combat
+- dire claw
+- fake out
+- protect
+
+basculegion @ choice scarf
+Level: 50
+Ability: adaptability
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+serious Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- wave crash
+- last respects
+- flip turn
+- aqua jet
+
+dragonite-mega @ dragoninite
+Level: 50
+Ability: inner focus
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+serious Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- dragon pulse
+- heat wave
+- tailwind
+- protect
+
+archaludon @ leftovers
+Level: 50
+Ability: stamina
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+serious Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- electro shot
+- dragon pulse
+- flash cannon
+- protect
+
+swampert-mega @ swampertite
+Level: 50
+Ability: torrent
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+serious Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- wave crash
+- earthquake
+- high horsepower
+- protect

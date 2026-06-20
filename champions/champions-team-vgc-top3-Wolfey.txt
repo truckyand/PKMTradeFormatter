@@ -1,0 +1,125 @@
+# https://pokebase.app/pokemon-champions/team-builder?team=6a35085780a00ef7cfbe364e
+# champions-team-vgc-top3-Wolfey.txt
+
+<@685603387475230720> bt 
+
+Mamoswine @ Focus Sash
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 391666
+SID: 2164
+Ball: Poke Ball
+Language: English
+.MetDate=20230909
+.Ribbons=$suggestAll
+EVs: 252 Atk / 4 SpD / 252 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Ability: Oblivious
+Adamant Nature
+- Protect
+- Icicle Crash
+- Earthquake
+- Ice Shard
+
+
+Toxapex @ Leftovers
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 391666
+SID: 2164
+Ball: Poke Ball
+Language: English
+.MetDate=20230909
+.Ribbons=$suggestAll
+EVs: 252 HP / 252 Def / 4 SpD
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Ability: Regenerator
+Bold Nature
+- Baneful Bunker
+- Infestation
+- Toxic
+- Wide Guard
+
+
+Sneasler @ White Herb
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 391666
+SID: 2164
+Ball: Poke Ball
+Language: English
+.MetDate=20230909
+.Ribbons=$suggestAll
+EVs: 252 HP / 252 Atk / 4 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Ability: Unburden
+Jolly Nature
+- Protect
+- Close Combat
+- Fake Out
+- Dire Claw
+
+
+Hydreigon @ Choice Scarf
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 391666
+SID: 2164
+Ball: Poke Ball
+Language: English
+.MetDate=20230909
+.Ribbons=$suggestAll
+EVs: 4 HP / 252 SpA / 252 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Ability: Levitate
+Modest Nature
+- Dark Pulse
+- Earth Power
+- Snarl
+- Draco Meteor
+
+
+Charizard 
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 391666
+SID: 2164
+Ball: Poke Ball
+Language: English
+.MetDate=20230909
+.Ribbons=$suggestAll
+EVs: 4 HP / 252 SpA / 252 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Ability: Blaze
+Timid Nature
+- Protect
+- Heat Wave
+- Solar Beam
+- Weather Ball
+
+
+Incineroar @ Sitrus Berry
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 391666
+SID: 2164
+Ball: Poke Ball
+Language: English
+.MetDate=20230909
+.Ribbons=$suggestAll
+EVs: 252 Atk / 4 SpD / 252 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Ability: Intimidate
+Impish Nature
+- Fake Out
+- Parting Shot
+- Flare Blitz
+- Throat Chop
+
+

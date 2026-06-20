@@ -1,0 +1,128 @@
+# https://pokebase.app/pokemon-champions/team-builder?team=6a33deb62ce213d86df81b42
+# champions-team-vgc-top2-Riopaser.txt
+
+
+<@685603387475230720> bt 
+
+Charizard 
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 391666
+SID: 2164
+Ball: Poke Ball
+Language: English
+.MetDate=20230909
+.Ribbons=$suggestAll
+EVs: 4 HP / 252 SpA / 252 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Ability: Blaze
+Modest Nature
+- Protect
+- Heat Wave
+- Weather Ball
+- Solar Beam
+
+
+Garchomp @ Soft Sand
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 391666
+SID: 2164
+Ball: Poke Ball
+Language: English
+.MetDate=20230109
+.Ribbons=$suggestAll
+EVs: 4 HP / 252 Atk / 252 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Ability: Rough Skin
+Jolly Nature
+- Protect
+- Dragon Claw
+- Stomping Tantrum
+- Earthquake
+
+
+Sylveon @ Fairy Feather
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 391666
+SID: 2164
+Ball: Luxury Ball
+Language: English
+.MetDate=20231112
+.Ribbons=$suggestAll
+EVs: 4 HP / 252 Def / 252 SpA / 2 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Ability: Pixilate
+Modest Nature
+- Detect
+- Quick Attack
+- Hyper Voice
+- Hyper Beam
+
+
+Farigiraf @ Sitrus Berry
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 391666
+SID: 2164
+Ball: Master Ball
+Language: English
+.MetDate=20251211
+.Ribbons=$suggestAll
+EVs: 4 HP / 252 SpA / 252 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Ability: Armor Tail
+Bold Nature
+- Twin Beam
+- Thunderbolt
+- Roar
+- Trick Room
+
+
+Kingambit @ Focus Sash
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 391666
+SID: 2164
+Ball: Master Ball
+Language: English
+.MetDate=20251211
+.Ribbons=$suggestAll
+EVs: 252 HP / 252 Atk / 4 SpD
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Ability: Defiant
+Adamant Nature
+- Kowtow Cleave
+- Iron Head
+- Sucker Punch
+- Low Kick
+
+
+# SV
+Aerodactyl @ Aerodactylite
+Aerodactyl
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 331778
+SID: 2401
+Ball: Poke Ball
+Language: English
+.MetDate=20240303
+.Ribbons=$suggestAll
+EVs: 252 Atk / 4 SpD / 252 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Ability: Unnerve
+Jolly Nature
+- Rock Slide
+- Dual Wingbeat
+- Ice Fang
+- Tailwind
+ 
+

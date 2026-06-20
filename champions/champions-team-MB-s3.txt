@@ -1,0 +1,124 @@
+# https://pokepast.es/04dd48cbe19a6df9
+
+
+<@685603387475230720> bt 
+
+garchomp @ life orb
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 391666
+SID: 2164
+Ball: Poke Ball
+Language: English
+.MetDate=20230109
+.Ribbons=$suggestAll
+EVs: 4 HP / 252 Atk / 252 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Ability: rough skin
+Jolly Nature
+- dragon claw
+- rock slide
+- earthquake
+- protect
+
+kingambit @ chople berry
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 391666
+SID: 2164
+Ball: Master Ball
+Language: English
+.MetDate=20251211
+.Ribbons=$suggestAll
+EVs: 252 HP / 252 Atk / 4 SpD
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Ability: defiant
+adamant Nature
+- sucker punch
+- kowtow cleave
+- iron head
+- protect
+
+Basculegion (M) @ choice scarf
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 391666
+SID: 2164
+Ball: Poke Ball
+Language: English
+.MetDate=20240102
+.Ribbons=$suggestAll
+EVs: 252 HP / 252 Def / 4 SpD
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Ability: Adaptability
+Adamant Nature
+- last respects
+- aqua jet
+- wave crash
+- flip turn
+
+
+Charizard
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 391666
+SID: 2164
+Ball: Poke Ball
+Language: English
+.MetDate=20230909
+.Ribbons=$suggestAll
+EVs: 4 HP / 252 SpA / 252 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Ability: Blaze
+Modest Nature
+- protect
+- heat wave
+- solar beam
+- weather ball
+
+
+sylveon @ fairy feather
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 391666
+SID: 2164
+Ball: Luxury Ball
+Language: English
+.MetDate=20231112
+.Ribbons=$suggestAll
+EVs: 4 HP / 252 Def / 252 SpA / 2 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Ability: pixilate
+Modest Nature
+- hyper voice
+- quick attack
+- hyper beam
+- detect
+
+
+#Floette-Eternal
+Florges
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 391666
+SID: 2164
+Ball: Luxury Ball
+Language: English
+.MetDate=20231112
+.Ribbons=$suggestAll
+EVs: 6 HP / 252 SpA / 252 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Ability: flower veil
+Modest Nature
+- protect
+- dazzling gleam
+- moonblast
+- light of ruin
+
+

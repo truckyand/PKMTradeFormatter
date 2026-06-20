@@ -1,0 +1,14 @@
+# SV
+
+<@685603387475230720> bt garchomp @ life orb
+Shiny: Yes
+OT: trucky
+OTGender: Female
+TID: 391666
+SID: 2164
+Ball: Poke Ball
+Language: English
+.MetDate=20230109
+.Ribbons=$suggestAll
+
+
